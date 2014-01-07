@@ -254,9 +254,31 @@
 
 10. GitHub
 10.1 Setting Up a User Account
-10.2 Creating a New Repository
-10.3 Importing from Subversion
-10.4 Adding Collaborators
-10.5 Your Project
-10.6 Forking Projects
-10.7 GitHub Summary
+10.2 Projects
+    * Creating a repository
+    * Adding collaborators
+    * Your Project
+    * Forking
+10.3 GitHub Flow
+10.4 Discussions
+    * PR/issue/discussion
+    * Markdown
+    * Notifications
+    * Email
+    * Mentions (issue/person/team)
+10.5 Organizations
+    * Teams
+10.6 Enterprise
+10.7 Tips & Tricks
+    * Importing
+    * Subversion Interop
+    * hub or gh
+    * pull-request refs
+    * keyboard shortcuts
+    * ignore whitespace
+    * rev-parse specs
+    * commits by author
+    * .diff and .patch
+    * Line linking
+10.8 The API
+10.9 Summary
