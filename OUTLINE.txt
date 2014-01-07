@@ -111,14 +111,6 @@
     * Other Features
 4.9 Git Daemon
 4.10 Hosted Git
-    * GitHub
-      * Setting Up a User Account
-      * Creating a New Repository
-      * Importing from Subversion
-      * Adding Collaborators
-      * Your Project
-      * Forking Projects
-      * GitHub Summary
 4.11 Summary
 
 5. Distributed Git
@@ -259,3 +251,12 @@
     * Data Recovery
     * Removing Objects
 9.8 Summary
+
+10. GitHub
+10.1 Setting Up a User Account
+10.2 Creating a New Repository
+10.3 Importing from Subversion
+10.4 Adding Collaborators
+10.5 Your Project
+10.6 Forking Projects
+10.7 GitHub Summary
