@@ -143,6 +143,14 @@
 5.4 Summary
 
 6. Git Tools
+6.X Reset Demystified
+    * The Three Trees
+    * The Workflow
+    * The Role of Reset
+    * Reset With a Path
+    * A Fun Example
+    * Check It Out
+    * Summary
 6.1 Revision Selection
     * Single Revisions
     * Short SHA
