@@ -20,6 +20,7 @@
     * Your Editor
     * Your Diff Tool
     * Checking Your Settings
+    * Credential Caching
 1.6 Getting Help
 1.7 Summary
 
@@ -44,6 +45,7 @@
     * Changing Your Last Commit
     * Unstaging a Staged File
     * Unmodifying a Modified File
+    * Undoing All Changes
 2.5 Working with Remotes
     * Showing Your Remotes
     * Adding Remote Repositories
@@ -71,6 +73,8 @@
     * Basic Branching
     * Basic Merging
     * Basic Merge Conflicts
+    * Rerere
+    * Undoing Merges (or should this go in "Undoing Things"?)
 3.3 Branch Management
 3.4 Branching Workflows
     * Long-Running Branches
@@ -83,6 +87,7 @@
     * The Basic Rebase
     * More Interesting Rebases
     * The Perils of Rebasing
+    * Rebase vs. Merge
 3.7 Summary
 
 4. Git on the Server
@@ -188,6 +193,15 @@
     * Superprojects
     * Issues with Submodules
 6.7 Subtree Merging
+6.X Notes
+6.X Bundle
+6.X Searching
+    * git grep
+6.X Graphical Tools
+    * gitk/git gui
+    * GitHub for Windows/Mac
+    * Others?
+    * IDE Integration (VS, Eclipse)
 6.8 Summary
 
 7. Customizing Git
@@ -251,13 +265,19 @@
     * Deleting References
 9.6 Transfer Protocols
     * The Dumb Protocol
-    * The Smart Protocol
+    * The Smart Protocol (include HTTP/S)
       * Uploading Data
       * Downloading Data
+    * Credential Caching
 9.7 Maintenance and Data Recovery
     * Maintenance
     * Data Recovery
     * Removing Objects
+9.X History Hacks
+    * Grafts (maybe? this is deprecated)
+    * Replace
+    * Shallow
+9.X Environment Variables
 9.8 Summary
 
 10. GitHub
