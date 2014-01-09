@@ -42,10 +42,18 @@
     * Limiting Log Output
     * Using a GUI to Visualize History
 2.4 Undoing Things
+    * Reset Demystified
+      * The Three Trees
+      * The Workflow
+      * The Role of Reset
+      * Reset With a Path
+      * A Fun Example
+      * Check It Out
+      * Summary
     * Changing Your Last Commit
     * Unstaging a Staged File
     * Unmodifying a Modified File
-    * Undoing All Changes
+    * Undoing All Changes (clean)
 2.5 Working with Remotes
     * Showing Your Remotes
     * Adding Remote Repositories
@@ -73,8 +81,7 @@
     * Basic Branching
     * Basic Merging
     * Basic Merge Conflicts
-    * Rerere
-    * Undoing Merges (or should this go in "Undoing Things"?)
+    * Undoing Merges
 3.3 Branch Management
 3.4 Branching Workflows
     * Long-Running Branches
@@ -147,15 +154,38 @@
     * The Shortlog
 5.4 Summary
 
+X. GitHub
+X.X Setting Up a User Account
+X.X Projects
+    * Creating a repository
+    * Adding collaborators
+    * Your Project
+    * Forking
+X.X GitHub Flow
+X.X Discussions
+    * PR/issue/discussion
+    * Markdown
+    * Notifications
+    * Email
+    * Mentions (issue/person/team)
+X.X Organizations
+    * Teams
+X.X Tips & Tricks
+    * Importing
+    * Subversion Interop
+    * hub or gh
+    * pull-request refs
+    * keyboard shortcuts
+    * ignore whitespace
+    * rev-parse specs
+    * commits by author
+    * .diff and .patch
+    * Line linking
+    * Search/Command Bar
+X.X The API
+X.X Summary
+
 6. Git Tools
-6.X Reset Demystified
-    * The Three Trees
-    * The Workflow
-    * The Role of Reset
-    * Reset With a Path
-    * A Fun Example
-    * Check It Out
-    * Summary
 6.1 Revision Selection
     * Single Revisions
     * Short SHA
@@ -174,6 +204,7 @@
     * Stashing Your Work
     * Un-applying a Stash
     * Creating a Branch from a Stash
+6.X Searching (git grep)
 6.4 Rewriting History
     * Changing the Last Commit
     * Changing Multiple Commit Messages
@@ -195,13 +226,11 @@
 6.7 Subtree Merging
 6.X Notes
 6.X Bundle
-6.X Searching
-    * git grep
-6.X Graphical Tools
-    * gitk/git gui
-    * GitHub for Windows/Mac
-    * Others?
-    * IDE Integration (VS, Eclipse)
+6.X Rerere
+9.X History Hacks
+    * Grafts (maybe? this is deprecated)
+    * Replace
+    * Shallow
 6.8 Summary
 
 7. Customizing Git
@@ -247,7 +276,19 @@
     * Subversion
     * Perforce
     * A Custom Importer
+8.X A Custom Credential Cache
 8.3 Summary
+
+X. Git in Other Environments
+X.X Graphical Interfaces
+    * gitk & git gui
+    * GitHub for Windows/Mac
+    * (Others)
+X.X Git in Visual Studio
+X.X Git in Eclipse
+X.X Git in Bash
+X.X Git in Zsh
+X.X Git in Powershell
 
 9. Git Internals
 9.1 Plumbing and Porcelain
@@ -268,45 +309,9 @@
     * The Smart Protocol (include HTTP/S)
       * Uploading Data
       * Downloading Data
-    * Credential Caching
 9.7 Maintenance and Data Recovery
     * Maintenance
     * Data Recovery
     * Removing Objects
-9.X History Hacks
-    * Grafts (maybe? this is deprecated)
-    * Replace
-    * Shallow
 9.X Environment Variables
 9.8 Summary
-
-10. GitHub
-10.1 Setting Up a User Account
-10.2 Projects
-    * Creating a repository
-    * Adding collaborators
-    * Your Project
-    * Forking
-10.3 GitHub Flow
-10.4 Discussions
-    * PR/issue/discussion
-    * Markdown
-    * Notifications
-    * Email
-    * Mentions (issue/person/team)
-10.5 Organizations
-    * Teams
-10.6 Enterprise
-10.7 Tips & Tricks
-    * Importing
-    * Subversion Interop
-    * hub or gh
-    * pull-request refs
-    * keyboard shortcuts
-    * ignore whitespace
-    * rev-parse specs
-    * commits by author
-    * .diff and .patch
-    * Line linking
-10.8 The API
-10.9 Summary
