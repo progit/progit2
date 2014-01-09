@@ -111,7 +111,7 @@
 4.4 Setting Up the Server
 4.5 Public Access
 4.6 GitWeb
-4.7 Gitosis
+4.9 Git Daemon
 4.8 Gitolite
     * Installing
     * Customising the Install
@@ -121,8 +121,8 @@
     * Personal Branches
     * "Wildcard" repositories
     * Other Features
-4.9 Git Daemon
-4.10 Hosted Git
+4.X GitLab
+4.10 Other Hosting Options (bitbucket, stash, kiln, etc.)
 4.11 Summary
 
 5. Distributed Git
@@ -271,6 +271,7 @@ X.X Summary
       * SVN Server Information
       * Ignoring What Subversion Ignores
       * Git-Svn Summary
+8.X Git and Mercurial
 8.2 Migrating to Git
     * Importing
     * Subversion
@@ -289,6 +290,13 @@ X.X Git in Eclipse
 X.X Git in Bash
 X.X Git in Zsh
 X.X Git in Powershell
+X.X Git in Your Application
+    * libgit2
+    * libgit2sharp
+    * Objective-Git
+    * Rugged
+    * Pygit2
+    * (others)
 
 9. Git Internals
 9.1 Plumbing and Porcelain
