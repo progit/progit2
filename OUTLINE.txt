@@ -272,10 +272,14 @@ X.X Summary
       * Ignoring What Subversion Ignores
       * Git-Svn Summary
 8.X Git and Mercurial
+8.X Git and Perforce
+8.X Git and TFS
 8.2 Migrating to Git
     * Importing
     * Subversion
+    * Mercurial
     * Perforce
+    * TFS
     * A Custom Importer
 8.X A Custom Credential Cache
 8.3 Summary
