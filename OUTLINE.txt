@@ -136,7 +136,7 @@
     * Private Small Team
     * Private Managed Team
     * Public Small Project
-    * Public Large Project
+    * Public Large Project (request-pull)
     * Summary
 5.3 Maintaining a Project
     * Working in Topic Branches
