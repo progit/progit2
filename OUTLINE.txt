@@ -122,6 +122,7 @@
     * "Wildcard" repositories
     * Other Features
 4.X GitLab
+4.X Gerrit
 4.10 Other Hosting Options (bitbucket, stash, kiln, etc.)
 4.11 Summary
 
