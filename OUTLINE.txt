@@ -20,6 +20,7 @@
     * Your Editor
     * Your Diff Tool
     * Checking Your Settings
+    * Credential Caching
 1.6 Getting Help
 1.7 Summary
 
@@ -41,9 +42,18 @@
     * Limiting Log Output
     * Using a GUI to Visualize History
 2.4 Undoing Things
+    * Reset Demystified
+      * The Three Trees
+      * The Workflow
+      * The Role of Reset
+      * Reset With a Path
+      * A Fun Example
+      * Check It Out
+      * Summary
     * Changing Your Last Commit
     * Unstaging a Staged File
     * Unmodifying a Modified File
+    * Undoing All Changes (clean)
 2.5 Working with Remotes
     * Showing Your Remotes
     * Adding Remote Repositories
@@ -71,6 +81,7 @@
     * Basic Branching
     * Basic Merging
     * Basic Merge Conflicts
+    * Undoing Merges
 3.3 Branch Management
 3.4 Branching Workflows
     * Long-Running Branches
@@ -83,6 +94,7 @@
     * The Basic Rebase
     * More Interesting Rebases
     * The Perils of Rebasing
+    * Rebase vs. Merge
 3.7 Summary
 
 4. Git on the Server
@@ -99,7 +111,7 @@
 4.4 Setting Up the Server
 4.5 Public Access
 4.6 GitWeb
-4.7 Gitosis
+4.9 Git Daemon
 4.8 Gitolite
     * Installing
     * Customising the Install
@@ -109,16 +121,9 @@
     * Personal Branches
     * "Wildcard" repositories
     * Other Features
-4.9 Git Daemon
-4.10 Hosted Git
-    * GitHub
-      * Setting Up a User Account
-      * Creating a New Repository
-      * Importing from Subversion
-      * Adding Collaborators
-      * Your Project
-      * Forking Projects
-      * GitHub Summary
+4.X GitLab
+4.X Gerrit
+4.10 Other Hosting Options (bitbucket, stash, kiln, etc.)
 4.11 Summary
 
 5. Distributed Git
@@ -131,7 +136,7 @@
     * Private Small Team
     * Private Managed Team
     * Public Small Project
-    * Public Large Project
+    * Public Large Project (request-pull)
     * Summary
 5.3 Maintaining a Project
     * Working in Topic Branches
@@ -149,6 +154,37 @@
     * Preparing a Release
     * The Shortlog
 5.4 Summary
+
+X. GitHub
+X.X Setting Up a User Account
+X.X Projects
+    * Creating a repository
+    * Adding collaborators
+    * Your Project
+    * Forking
+X.X GitHub Flow
+X.X Discussions
+    * PR/issue/discussion
+    * Markdown
+    * Notifications
+    * Email
+    * Mentions (issue/person/team)
+X.X Organizations
+    * Teams
+X.X Tips & Tricks
+    * Importing
+    * Subversion Interop
+    * hub or gh
+    * pull-request refs
+    * keyboard shortcuts
+    * ignore whitespace
+    * rev-parse specs
+    * commits by author
+    * .diff and .patch
+    * Line linking
+    * Search/Command Bar
+X.X The API
+X.X Summary
 
 6. Git Tools
 6.1 Revision Selection
@@ -169,6 +205,7 @@
     * Stashing Your Work
     * Un-applying a Stash
     * Creating a Branch from a Stash
+6.X Searching (git grep)
 6.4 Rewriting History
     * Changing the Last Commit
     * Changing Multiple Commit Messages
@@ -188,6 +225,13 @@
     * Superprojects
     * Issues with Submodules
 6.7 Subtree Merging
+6.X Notes
+6.X Bundle
+6.X Rerere
+9.X History Hacks
+    * Grafts (maybe? this is deprecated)
+    * Replace
+    * Shallow
 6.8 Summary
 
 7. Customizing Git
@@ -228,12 +272,36 @@
       * SVN Server Information
       * Ignoring What Subversion Ignores
       * Git-Svn Summary
+8.X Git and Mercurial
+8.X Git and Perforce
+8.X Git and TFS
 8.2 Migrating to Git
     * Importing
     * Subversion
+    * Mercurial
     * Perforce
+    * TFS
     * A Custom Importer
+8.X A Custom Credential Cache
 8.3 Summary
+
+X. Git in Other Environments
+X.X Graphical Interfaces
+    * gitk & git gui
+    * GitHub for Windows/Mac
+    * (Others)
+X.X Git in Visual Studio
+X.X Git in Eclipse
+X.X Git in Bash
+X.X Git in Zsh
+X.X Git in Powershell
+X.X Git in Your Application
+    * libgit2
+    * libgit2sharp
+    * Objective-Git
+    * Rugged
+    * Pygit2
+    * (others)
 
 9. Git Internals
 9.1 Plumbing and Porcelain
@@ -251,11 +319,12 @@
     * Deleting References
 9.6 Transfer Protocols
     * The Dumb Protocol
-    * The Smart Protocol
+    * The Smart Protocol (include HTTP/S)
       * Uploading Data
       * Downloading Data
 9.7 Maintenance and Data Recovery
     * Maintenance
     * Data Recovery
     * Removing Objects
+9.X Environment Variables
 9.8 Summary
