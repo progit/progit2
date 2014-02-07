@@ -1,12 +1,12 @@
-Title: Pro Git (Second Edition)
+**Title:** Pro Git (Second Edition)
 
-Authors: Scott Chacon and Ben Straub
+**Authors:** Scott Chacon and Ben Straub
 
-Short description:
+**Short description:**
 
 Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. 
 
-Long description:
+**Long description:**
 
 Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. 
 
@@ -14,23 +14,22 @@ Effective and well-implemented version control is a necessity for successful web
 
 Written by Git pros Scott Chacon and Ben Straub, Pro Git (Second Edition) builds on the hugely successful first edition, and is now fully updated for Git version 2.0, as well as including an indispensable chapter on GitHub. It’s the best book for all your Git needs.
 
+## What You’ll Learn
 
-What You’ll Learn
+* Effectively use Git, either as a programmer or a project leader
+* Become a fluent Git user
+* Master branching, using Git on the server, and on other systems
+* Integrate Git in your development workflow
+* Migrate programming projects from other SCMs to Git
+* Extend Git for your personal project needs
+* Effectively use GitHub
 
-•	Effectively use Git, either as a programmer or a project leader
-•	Become a fluent Git user
-•	Master branching, using Git on the server, and on other systems
-•	Integrate Git in your development workflow
-•	Migrate programming projects from other SCMs to Git
-•	Extend Git for your personal project needs
-•	Effectively use GitHub
-
-Who This Book Is For
+## Who This Book Is For
 
 This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.
 
 
-Short Table of Contents
+## Short Table of Contents
 
 1.	Getting Started
 2.	Git Basics
@@ -44,8 +43,9 @@ Short Table of Contents
 10.	Git in Other Environments
 11.	Git Internals
 
-Expanded Table of Contents:
+## Expanded Table of Contents:
 
+```
 1.	Getting Started
     a.	About Version Control
     b.	A Short History of Git
@@ -143,5 +143,5 @@ Expanded Table of Contents:
     g.	Maintenance and Data Recovery
     h.	Environment Variables
     i.	Summary
-
+```
 
