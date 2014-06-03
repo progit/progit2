@@ -1,0 +1,41 @@
+{
+  "branch": "master",
+  "files": [
+    "book/cover.html",
+    "book/preface.asc",
+    "book/01-introduction/1-introduction.asc",
+    "book/02-git-basics/1-git-basics.asc",
+    "book/03-git-branching/1-git-branching.asc",
+    "book/04-git-server/1-git-server.asc",
+    "book/05-distributed-git/1-distributed-git.asc",
+    "book/06-github/1-github.asc",
+    "book/07-git-tools/1-git-tools.asc",
+    "book/08-customizing-git/1-customizing-git.asc",
+    "book/09-git-and-other-scms/1-git-and-other-scms.asc",
+    "book/10-git-in-other-environments/1-git-other-environments.asc",
+    "book/11-git-internals/1-git-internals.asc",
+    "book/index.asc"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "index": true,
+      "toc": true
+    },
+    "epub": {
+      "index": true,
+      "toc": true,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": true,
+      "toc": true
+    },
+    "html": {
+      "index": true,
+      "toc": true
+    }
+  },
+  "theme": "oreillymedia/pro-git-theme",
+  "title": "Pro Git"
+}
