@@ -181,10 +181,11 @@ X.X Summary
       * Double Dot
       * Multiple Points
       * Triple Dot
-6.3 Stashing
+6.3 Stashing and Cleaning
     * Stashing Your Work
     * Un-applying a Stash
     * Creating a Branch from a Stash
+    * Git Clean
 6.X Searching (git grep)
 6.2 Interactive Staging
     * Staging and Unstaging Files
