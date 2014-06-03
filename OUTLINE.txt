@@ -42,14 +42,6 @@
     * Limiting Log Output
     * Using a GUI to Visualize History
 2.4 Undoing Things
-    * Reset Demystified
-      * The Three Trees
-      * The Workflow
-      * The Role of Reset
-      * Reset With a Path
-      * A Fun Example
-      * Check It Out
-      * Summary
     * Changing Your Last Commit
     * Unstaging a Staged File
     * Unmodifying a Modified File
@@ -88,7 +80,7 @@
     * Topic Branches
 3.5 Remote Branches
     * Pushing
-    * Tracking Branches
+    * Tracking / Upstream Branches
     * Deleting Remote Branches
 3.6 Rebasing
     * The Basic Rebase
@@ -111,16 +103,7 @@
 4.4 Setting Up the Server
 4.5 Public Access
 4.6 GitWeb
-4.9 Git Daemon
-4.8 Gitolite
-    * Installing
-    * Customising the Install
-    * Config File and Access Control Rules
-    * Advanced Access Control with "deny" rules
-    * Restricting pushes by files changed
-    * Personal Branches
-    * "Wildcard" repositories
-    * Other Features
+4.7 Git Daemon
 4.X GitLab
 4.X Gerrit
 4.10 Other Hosting Options (bitbucket, stash, kiln, etc.)
@@ -198,14 +181,18 @@ X.X Summary
       * Double Dot
       * Multiple Points
       * Triple Dot
-6.2 Interactive Staging
-    * Staging and Unstaging Files
-    * Staging Patches
 6.3 Stashing
     * Stashing Your Work
     * Un-applying a Stash
     * Creating a Branch from a Stash
 6.X Searching (git grep)
+6.2 Interactive Staging
+    * Staging and Unstaging Files
+    * Staging Patches
+6.X Git Reset
+    * The Three Trees of Git
+    * Reset with a path
+    * Reset vs Checkout
 6.4 Rewriting History
     * Changing the Last Commit
     * Changing Multiple Commit Messages
