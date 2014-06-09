@@ -4,6 +4,7 @@
     "book/cover.html",
     "LICENSE.asc",
     "book/preface.asc",
+    "book/toc.asc",
     "book/01-introduction/1-introduction.asc",
     "book/02-git-basics/1-git-basics.asc",
     "book/03-git-branching/1-git-branching.asc",
