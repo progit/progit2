@@ -1,0 +1,96 @@
+<table width="1920px" height="1080px" style="border:1px solid #222;">
+  <tr>
+    <td>
+      <h1>Floor 1</h1>
+      <canvas id="floor1" width="640" height="640" style="background:url(/floor1.png); background-size:640px 640px;"></canvas>
+    </td>
+    <td>
+      <h1>Floor 2</h1>
+      <canvas id="floor2" width="640" height="640" style="background:url(/floor2.png); background-size:640px 640px;"></canvas>
+    </td>
+    <td>
+      <h1>Floor 3</h1>
+      <canvas id="floor3" width="640" height="640" style="background:url(/floor3.png); background-size:640px 640px;"></canvas>
+    </td>
+  </tr>
+</table>
+
+<script>
+  $(function() {
+    var grid;
+    window.setInterval(drawMap,5000);
+
+    function initGrid() {
+      grid = new Array(4);
+      for (var floor = 1; floor <= 4; floor++) {
+        grid[floor] = new Array(11);
+        for (var x = 0; x <= 10; x++) {
+          grid[floor][x] = new Array(11);
+        }
+      }
+    }
+
+    function drawMap() {
+      initGrid();
+      $.getJSON( "/clients.json", function( data ) {
+        var locations = {};
+        $('canvas').clearCanvas();
+        $.each( data, function( key, val ) {
+          floor = val.location[2];
+          if(floor) {
+            floor_id = '#floor' + floor;
+            x = parseInt(val.location[0] * 640);
+            y = parseInt(val.location[1] * 640);
+            space = findSpace(floor, x, y, val.name);
+            $(floor_id).drawImage({
+              source: 'https://avatars.github.com/' + val.name,
+              x: space[0],
+              y: space[1],
+              width: 64,
+              height: 64,
+              fromCenter: false
+            });
+          }
+        });
+      });
+    }
+
+    function findSpace(floor, x, y, name) {
+      x_band = parseInt(x / 64);
+      y_band = parseInt(y / 64);
+      //console.log("looking for " + x_band + "," + y_band + " on floor " + floor);
+      if (!grid[floor][x_band][y_band]) {
+        grid[floor][x_band][y_band] = name;
+        //console.log('   - placed at ' + x_band + ',' + y_band);
+        return [x_band * 64, y_band * 64];
+      }
+
+      var min_distance = 99;
+      var new_x = 0;
+      var new_y = 0;
+      for (var testx = 0; testx < 10; testx++) {
+        for (var testy = 0; testy < 10; testy++) {
+          distance = findDistance(testx, testy, x_band, y_band);
+          if ((distance < min_distance) && !(grid[floor][testx][testy])) {
+            //console.log("CHOOSEN");
+            new_x = testx;
+            new_y = testy;
+            min_distance = distance;
+          }
+        }
+      }
+      //console.log('   - placed at ' + new_x + ',' + new_y + ' (' + min_distance + ')');
+      grid[floor][new_x][new_y] = name;
+      return [new_x * 64, new_y * 64];
+    }
+    function findDistance(x1, y1, x2, y2) {
+      var xs = 0;
+      var ys = 0;
+      xs = x2 - x1;
+      xs = xs * xs;
+      ys = y2 - y1;
+      ys = ys * ys;
+      return Math.sqrt( xs + ys );
+    }
+  });
+</script>
