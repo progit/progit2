@@ -28,18 +28,32 @@
       "index": true,
       "toc": true,
       "epubcheck": false,
-      "embedded_fonts": ["fonts/DejaVuSerif.otf", "fonts/DejaVuSans-Bold.otf", "fonts/hold/UbuntuMono-Bold.otf", "fonts/hold/UbuntuMono-BoldItalic.otf", "fonts/hold/UbuntuMono-Regular.otf", "fonts/hold/UbuntuMono-Italic.otf"]
+      "embedded_fonts": [
+        "fonts/DejaVuSerif.otf",
+        "fonts/DejaVuSans-Bold.otf",
+        "fonts/hold/UbuntuMono-Bold.otf",
+        "fonts/hold/UbuntuMono-BoldItalic.otf",
+        "fonts/hold/UbuntuMono-Regular.otf",
+        "fonts/hold/UbuntuMono-Italic.otf"
+      ]
     },
     "mobi": {
       "index": true,
       "toc": true,
-      "embedded_fonts": ["fonts/DejaVuSerif.otf", "fonts/DejaVuSans-Bold.otf", "fonts/hold/UbuntuMono-Bold.otf", "fonts/hold/UbuntuMono-BoldItalic.otf", "fonts/hold/UbuntuMono-Regular.otf", "fonts/hold/UbuntuMono-Italic.otf"]
+      "embedded_fonts": [
+        "fonts/DejaVuSerif.otf",
+        "fonts/DejaVuSans-Bold.otf",
+        "fonts/hold/UbuntuMono-Bold.otf",
+        "fonts/hold/UbuntuMono-BoldItalic.otf",
+        "fonts/hold/UbuntuMono-Regular.otf",
+        "fonts/hold/UbuntuMono-Italic.otf"
+      ]
     },
     "html": {
       "index": true,
       "toc": true
     }
   },
-  "theme": "oreillymedia/pro-git-theme",
+  "theme": "schacon/pro-git-theme",
   "title": "Pro Git"
 }
