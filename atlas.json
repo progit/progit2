@@ -22,7 +22,9 @@
     "pdf": {
       "version": "web",
       "index": true,
-      "toc": true
+      "toc": true,
+      "syntaxhighlighting": false,
+      "show_comments": false
     },
     "epub": {
       "index": true,
@@ -35,7 +37,9 @@
         "fonts/hold/UbuntuMono-BoldItalic.otf",
         "fonts/hold/UbuntuMono-Regular.otf",
         "fonts/hold/UbuntuMono-Italic.otf"
-      ]
+      ],
+      "syntaxhighlighting": false,
+      "show_comments": false
     },
     "mobi": {
       "index": true,
@@ -47,13 +51,18 @@
         "fonts/hold/UbuntuMono-BoldItalic.otf",
         "fonts/hold/UbuntuMono-Regular.otf",
         "fonts/hold/UbuntuMono-Italic.otf"
-      ]
+      ],
+      "syntaxhighlighting": false,
+      "show_comments": false
     },
     "html": {
       "index": true,
-      "toc": true
+      "toc": true,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "consolidate": false
     }
   },
-  "theme": "schacon/pro-git-theme",
+  "theme": "oreillymedia/atlas_tech1c_theme",
   "title": "Pro Git"
 }
