@@ -14,8 +14,8 @@
     "book/07-git-tools/1-git-tools.asc",
     "book/08-customizing-git/1-customizing-git.asc",
     "book/09-git-and-other-scms/1-git-and-other-scms.asc",
-    "book/11-git-internals/1-git-internals.asc",
-    "book/10-git-in-other-environments/1-git-other-environments.asc",
+    "book/10-git-internals/1-git-internals.asc",
+    "book/A-git-in-other-environments/1-git-other-environments.asc",
     "book/index.asc"
   ],
   "formats": {
