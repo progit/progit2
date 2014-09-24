@@ -16,6 +16,7 @@
     "book/09-git-and-other-scms/1-git-and-other-scms.asc",
     "book/10-git-internals/1-git-internals.asc",
     "book/A-git-in-other-environments/1-git-other-environments.asc",
+    "book/B-embedding-git/1-embedding-git.asc",
     "book/index.asc"
   ],
   "formats": {
