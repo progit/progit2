@@ -5,16 +5,16 @@
 	<key>app</key>
 	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>7891</integer>
+	<integer>8053</integer>
 	<key>commit</key>
-	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
+	<string>104f8b8798002207eebbbee810c02306c5ce85c9</string>
 	<key>fonts</key>
 	<array>
 		<string>Menlo-Regular</string>
 		<string>Menlo-Bold</string>
 	</array>
 	<key>length</key>
-	<integer>8589340</integer>
+	<integer>9946406</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
