@@ -19,7 +19,7 @@ pre code.gi { background-color: #CCFFCC } /* Generic.Inserted */
 /* Overriding default manni style of #AAAAAA gray for Generic Output with #000000 black, which is better suited to ORM terminal output */
 pre code.go { color: #000000 } /* Generic.Output  */
 
-pre code.gp { color: #000099; font-weight: bold } /* Generic.Prompt */
+pre code.gp { color: red; font-weight: bold } /* Generic.Prompt */
 pre code.gs { font-weight: bold } /* Generic.Strong */
 pre code.gu { color: #003300; font-weight: bold } /* Generic.Subheading */
 pre code.gt { color: #99CC66 } /* Generic.Traceback */
