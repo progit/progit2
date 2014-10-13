@@ -40,7 +40,7 @@
         "fonts/hold/UbuntuMono-Regular.otf",
         "fonts/hold/UbuntuMono-Italic.otf"
       ],
-      "syntaxhighlighting": false,
+      "syntaxhighlighting": true,
       "show_comments": false
     },
     "mobi": {
@@ -54,13 +54,13 @@
         "fonts/hold/UbuntuMono-Regular.otf",
         "fonts/hold/UbuntuMono-Italic.otf"
       ],
-      "syntaxhighlighting": false,
+      "syntaxhighlighting": true,
       "show_comments": false
     },
     "html": {
       "index": true,
       "toc": true,
-      "syntaxhighlighting": false,
+      "syntaxhighlighting": true,
       "show_comments": false,
       "consolidate": false,
       "consolidated": false
