@@ -78,3 +78,17 @@ pre code.nx { color: #000088 } /* Name.Other */
 pre code.py { color: #9966FF } /* Name.Property */
 pre code.p { color: #000000 } /* Punctuation */
 pre code.x { color: #FF0066 } /* Other */
+
+/* Chacon's additions to make command line look more like a command line */
+pre[data-code-language="console"] {
+  background: #ddd;
+  padding: 10px;
+}
+pre[data-code-language="console"] code.go {
+  color: #555;
+  font-size: 1.0em;
+}
+pre[data-code-language="console"] code.gp {
+  color: #009900;
+  font-weight: bold;
+}
