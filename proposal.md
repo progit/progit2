@@ -4,11 +4,11 @@
 
 **Short description:**
 
-Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. 
+Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.
 
 **Long description:**
 
-Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. 
+Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.
 
 Effective and well-implemented version control is a necessity for successful web projects, whether large or small. With this book you'll learn how to master the world of distributed version workflow, use the distributed features of Git to the full, and extend Git to meet your every need.
 
@@ -125,15 +125,7 @@ This book is for all open source developers: you are bound to encounter Git some
     e.	Migrating to Git
     f.	A Custom Credential Cache
     g.	Summary
-10.	Git in Other Environments
-    a.	Graphical Interfaces
-    b.	Git in Visual Studio
-    c.	Git in Eclipse
-    d.	Git in Bash
-    e.	Git in Zsh
-    f.	Git in Powershell
-    g.	Git in Your Application
-11.	Git Internals
+10.	Git Internals
     a.	Plumbing and Porcelain
     b.	Git Objects
     c.	Git References
@@ -143,5 +135,12 @@ This book is for all open source developers: you are bound to encounter Git some
     g.	Maintenance and Data Recovery
     h.	Environment Variables
     i.	Summary
+A.	Git in Other Environments
+    a.	Graphical Interfaces
+    b.	Git in Visual Studio
+    c.	Git in Eclipse
+    d.	Git in Bash
+    e.	Git in Zsh
+    f.	Git in Powershell
+    g.	Git in Your Application
 ```
-
