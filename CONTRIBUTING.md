@@ -4,6 +4,8 @@
 ## Licensing
 
 By opening a pull request to this repository, you agree to provide your work under the [project license](LICENSE.asc).
+Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
+Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
 
 ## Small Corrections
 
