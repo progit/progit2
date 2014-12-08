@@ -33,7 +33,7 @@
     "epub": {
       "index": true,
       "toc": true,
-      "epubcheck": false,
+      "epubcheck": true,
       "embedded_fonts": [
         "fonts/DejaVuSerif.otf",
         "fonts/DejaVuSans-Bold.otf",
