@@ -23,7 +23,7 @@ GEM
       rubyzip (>= 1.1.1)
     hashery (2.1.1)
     json (1.8.1)
-    kindlegen (2.9.3)
+    kindlegen (2.9.4)
     mini_portile (0.6.0)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
