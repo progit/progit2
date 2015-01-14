@@ -1,7 +1,7 @@
 {
   "code": "uz",
   "language": "Uzbek",
-  "maintainers": ["schacon"],
+  "maintainers": [""],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
