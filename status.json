@@ -1,7 +1,7 @@
 {
   "code": "uz",
   "language": "Uzbek",
-  "maintainers": [""],
+  "maintainers": ["faxriddin"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 100,
