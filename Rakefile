@@ -26,3 +26,5 @@ namespace :book do
     puts " -- PDF  output at progit.pdf"
   end
 end
+
+task :default => "book:build"
