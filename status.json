@@ -25,7 +25,7 @@
     },
     "03-git-branching": {
       "1-git-branching.asc": 100,
-      "sections/basic-branching-and-merging.asc": 0,
+      "sections/basic-branching-and-merging.asc": 100,
       "sections/branch-management.asc": 0,
       "sections/nutshell.asc": 100,
       "sections/rebasing.asc": 0,
