@@ -18,7 +18,7 @@
       "sections/aliases.asc": 0,
       "sections/getting-a-repository.asc": 100,
       "sections/recording-changes.asc": 100,
-      "sections/remotes.asc": 0,
+      "sections/remotes.asc": 100,
       "sections/tagging.asc": 0,
       "sections/undoing.asc": 80,
       "sections/viewing-history.asc": 100
