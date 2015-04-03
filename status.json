@@ -15,7 +15,7 @@
     },
     "02-git-basics": {
       "1-git-basics.asc": 100,
-      "sections/aliases.asc": 0,
+      "sections/aliases.asc": 100,
       "sections/getting-a-repository.asc": 100,
       "sections/recording-changes.asc": 100,
       "sections/remotes.asc": 100,
