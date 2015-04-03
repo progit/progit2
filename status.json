@@ -20,7 +20,7 @@
       "sections/recording-changes.asc": 100,
       "sections/remotes.asc": 100,
       "sections/tagging.asc": 100,
-      "sections/undoing.asc": 80,
+      "sections/undoing.asc": 100,
       "sections/viewing-history.asc": 100
     },
     "03-git-branching": {
