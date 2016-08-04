@@ -7,6 +7,12 @@ By opening a pull request to this repository, you agree to provide your work und
 Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
 Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
 
+## Signaling an Issue
+
+Before signaling an issue, please check that there isn't already a similar one in the bug tracking system.
+
+Also, if this issue has been spotted on the git-scm.com site, please cross-check that it is still present in the pdf version. The issue may have already been corrected, but the changes have not been deployed yet.
+
 ## Small Corrections
 
 Errata and basic clarifications will be accepted if we agree that they improve the content. You can also open an issue so we can figure out how or if it needs to be addressed.
