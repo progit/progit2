@@ -15,12 +15,12 @@
     },
     "02-git-basics": {
       "1-git-basics.asc": 100,
-      "sections/aliases.asc": 0,
+      "sections/aliases.asc": 100,
       "sections/getting-a-repository.asc": 100,
       "sections/recording-changes.asc": 100,
-      "sections/remotes.asc": 0,
-      "sections/tagging.asc": 0,
-      "sections/undoing.asc": 0,
+      "sections/remotes.asc": 100,
+      "sections/tagging.asc": 100,
+      "sections/undoing.asc": 100,
       "sections/viewing-history.asc": 100
     },
     "03-git-branching": {
