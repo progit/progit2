@@ -1,43 +1,37 @@
-# Contributing to Pro Git (2nd Edition)
+# Contribuindo com o Pro Git (2ª Edição)
 
 
-## Licensing
+## Licença
 
-By opening a pull request to this repository, you agree to provide your work under the [project license](LICENSE.asc).
-Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
-Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
+Ao abrir um pull request nesse repositório, você concorda em fornecer seu trabalho sob a [licença do projeto](LICENSE.asc).
+Além disso, você concorda em conceder tal licença em seu trabalho, se for necessário para o objetivo de futuras edições impressas, para o @ben e o @schacon.
+Caso suas alterações apareçam numa versão impressa, você será incluído na [lista de contribuidores](book/contributors.asc).
 
-## Signaling an Issue
+## Pequenas Correções
 
-Before signaling an issue, please check that there isn't already a similar one in the bug tracking system.
+Erratas e esclarecimentos básicos serão aceitos se nós concordarmos que melhorarão o conteúdo. Você também pode abrir uma discussão (issue), dessa forma poderemos descobrir como, ou se, ela precisa de tratamento.
 
-Also, if this issue has been spotted on the git-scm.com site, please cross-check that it is still present in the pdf version. The issue may have already been corrected, but the changes have not been deployed yet.
+Se você nunca tiver feito isso, este [guia de fluxo (flow guide)](https://guides.github.com/introduction/flow/) pode ser útil.
 
-## Small Corrections
+## Grandes Reescritas
 
-Errata and basic clarifications will be accepted if we agree that they improve the content. You can also open an issue so we can figure out how or if it needs to be addressed.
+Abra uma issue para discussão antes de começar. Essas alterações tendem a ser bem subjetivas, frequentemente esclarecendo coisas apenas para uma pequena porcentagem de pessoas e, raramente, valem a pena depois de tudo. Editores profissionais já revisaram este conteúdo múltiplas vezes. Assim, mesmo que você tenha, de alguma forma, um gosto superior ou gramática melhor do que a nossa, é difícil que sua texto venha a ser *tão* melhor que até valha a pena mudar grandes partes do projeto.
 
-If you've never done this before, the [flow guide](https://guides.github.com/introduction/flow/) might be useful.
+## Figuras
 
-## Large Rewrites
+As imagens nesse livro foram geradas usando o [Sketch 3](http://bohemiancoding.com/sketch/), com esse [arquivo de  sketchbook](diagram-source/progit.sketch).
 
-Open an issue for discussion before you start. These changes tend to be very subjective, often only clarifying things for some small percentage of people and it's rarely worth the time to accept them. Professional copy editors have already reviewed this content multiple times so while you may have somewhat better taste and grammar than we do it's unlikely that your prose is going to be *so* much better that it's worth changing vast swaths of text.
+Para adicionar uma figura:
 
-## Figures
-
-The images in this book were generated using [Sketch 3](http://bohemiancoding.com/sketch/), with the [included sketchbook file](diagram-source/progit.sketch).
-
-To add a figure:
-
-1. Add a page to the sketchbook. Try to use the included symbols wherever possible.
-1. Add a "slice" to your page. Give it a name that matches the destination PNG filename, relative from the root of the source directory.
-1. Make sure your slice is set to export at "800w".
+1. Adicione uma página no sketchbook. Tente usar os símbolos incluídos sempre que possível.
+1. Adicione um "slice" em sua página. Dê para ele um nome que corresponda ao arquivo PNG destino, relativo à raiz do diretório fonte.
+1. Garanta que seu "slice" esteja configurado para exportação como "800w".
 
 
-## Translations
+## Traduções
 
-Translations to other languages are highly encouraged but handled a little differently than the first edition. We now keep each translation in a separate repository and automatically build the output files through Atlas. This was something that was really difficult in the last edition.
+As traduções para outros idiomas são fortemente encorajadas, mas tratadas de forma um pouco diferente da primeira edição. Agora, mantemos cada tradução num repositório separado e compilamos os arquivos de saída automaticamente usando a ferramenta Atlas. Isso era algo bem difícil na última edição.
 
-Since each translation is a different repository, we can also have different maintainers for each project. The Pro Git team simply pulls them in and builds them for the translation teams. To get automatic builds, translations repositories will have to be under the [`progit` organization on GitHub](https://github.com/progit).
+Como as traduções estão em um repositório diferente, também podemos ter mantenedores diferentes para cada projeto. A equipe Pro Git simplesmente os junta e compila tudo para as equipes de tradução. Para sofrer compilação automática, os repositórios das traduções precisam estar dentro da [organização `progit` no GitHub](https://github.com/progit).
 
-You can find out information on all the current translations and information on how to start your own at http://progit.org/translations.
+Você pode encontrar informações sobre todas as traduções atuais e sobre como começar a sua própria em http://progit.org/translations.
