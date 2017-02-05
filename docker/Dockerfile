@@ -13,7 +13,7 @@ RUN gem install bundler && \
 VOLUME /documents
 
 RUN mkdir /scripts
-COPY start-container.sh /scripts/start-container.sh
+COPY scripts/start-container.sh /scripts/start-container.sh
 RUN chmod +x /scripts/start-container.sh
 
 CMD ["/scripts/start-container.sh"]
