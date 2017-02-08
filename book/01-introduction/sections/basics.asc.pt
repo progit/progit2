@@ -1,0 +1,108 @@
+=== O Básico do Git
+
+Então, o que é o Git em poucas palavras?
+Esta é uma parte que é importante aprender, porque se você entender o que Git é e os fundamentos de como ele funciona, em seguida, provavelmente usar efetivamente o Git será muito mais fácil para você.
+Enquanto você estiver aprendendo sobre o Git, tente esquecer das coisas que você pode saber sobre outros VCSs, como Subversion e Perforce; isso vai ajudá-lo a evitar a confusão sutil ao usar a ferramenta.
+Git armazena e vê informações de forma muito diferente do que esses outros sistemas, mesmo que a interface do usuário seja bastante semelhante, e entender essas diferenças o ajudará a não ficar confuso. (((Subversion))) (((Perforce)) )
+
+==== Imagens, Não Diferenças
+
+A principal diferença entre Git e qualquer outro VCS (Subversion e similares) é a maneira Git trata seus dados.
+Conceitualmente, a maioria dos outros sistemas armazenam informação como uma lista de mudanças nos arquivos.
+Estes sistemas (CVS, Subversion, Perforce, Bazaar, e assim por diante) tratam a informação como um conjunto de arquivos e as mudanças feitas a cada arquivo ao longo do tempo.
+
+.Armazenando dados como alterações em uma versão básica de cada arquivo.
+image::images/deltas.png[Armazenamento de dados como alterações em uma versão básica de cada arquivo.]
+
+Git não trata nem armazena seus dados desta forma.
+Em vez disso, Git trata seus dados mais como um conjunto de imagens de um sistema de arquivos em miniatura.
+Toda vez que você comprometer, ou salvar o estado de seu projeto no Git, ele basicamente tira uma foto de todos os seus arquivos e armazena uma referência a essa imagem.
+Para ser eficiente, se os arquivos não foram alterados, Git não armazena o arquivo novamente, apenas um link para o arquivo idêntico anterior já armazenado.
+Git trata seus dados mais como um *fluxo de imagens*.
+
+.Armazenando dados como imagens do projeto ao longo do tempo.
+image::images/snapshots.png[[Git armazena dados como imagens do projeto ao longo do tempo.]
+
+Esta é uma diferença importante entre o Git e quase todos os outros VCSs.
+Isto faz Git reconsiderar quase todos os aspectos de controle de versão que a maioria dos outros sistemas copiaram da geração anterior.
+Isso faz com que o Git seja mais como um mini sistema de arquivos com algumas ferramentas incrivelmente poderosas, ao invés de simplesmente um VCS.
+Vamos explorar alguns dos benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ramificações no Git <<_git_branching>>.
+
+==== Quase Todas as Operações são Locais
+
+A maioria das operações no Git só precisa de arquivos e recursos locais para operar - geralmente nenhuma informação é necessária de outro computador da rede.
+Se você estiver acostumado com um CVCS onde a maioria das operações têm aquela demora causada pela latência da rede, este aspecto do Git vai fazer você pensar que os deuses da velocidade abençoaram Git com poderes extraterrestres.
+Como você tem toda a história do projeto ali mesmo em seu disco local, a maioria das operações parecem quase instantâneas.
+
+Por exemplo, para pesquisar o histórico do projeto, o Git não precisa sair para o servidor para obter a história e exibi-lo para você - ele simplesmente lê-lo diretamente do seu banco de dados local.
+Isto significa que você vê o histórico do projeto quase que instantaneamente.
+Se você quiser ver as alterações introduzidas entre a versão atual de um arquivo e o arquivo de um mês atrás, Git pode procurar o arquivo de um mês atrás e fazer um cálculo de diferença local, em vez de ter que quer pedir a um servidor remoto para fazê-lo ou puxar uma versão mais antiga do arquivo do servidor remoto para fazê-lo localmente.
+
+Isto também significa que há muito pouco que você não pode fazer se você estiver desconectado ou sem VPN.
+Se você estiver em um avião ou um trem e quiser trabalhar um pouco, você pode comprometer alegremente até conseguir conexão de rede e enviar os arquivos.
+Se você chegar em casa e não conseguir conectar ao VPN, você ainda poderá trabalhar.
+Em muitos outros sistemas, isso é impossível ou doloroso.
+Em Perforce, por exemplo, você não pode fazer quase nada se você não estiver conectado ao servidor; e no Subversion e CVS, você pode editar os arquivos, mas não poderá comprometer alterações ao seu banco de dados (porque você não está conectado ao seu banco de dados).
+Isso pode não parecer muito, mas você poderá se surpreender com a grande diferença que isso pode fazer.
+
+==== Git Tem Integridade
+
+Tudo no Git passa por uma soma de verificação (checksum) antes de ser armazenado e é referenciado por essa soma.
+Isto significa que é impossível mudar o conteúdo de qualquer arquivo ou pasta sem que Git saiba.
+Esta funcionalidade está incorporada no Git nos níveis mais baixos e é parte integrante de sua filosofia.
+Você não perderá informação durante a transferência e não receberá um arquivo corrompido sem que o Git seja capaz de detectár.
+
+O mecanismo que o Git utiliza para esta soma de verificação é chamado um hash SHA-1. (((SHA-1)))
+Esta é uma seqüência de 40 caracteres composta de caracteres hexadecimais (0-9 e-f) e é calculada com base no conteúdo de uma estrutura de arquivo ou diretório no Git.
+Um hash SHA-1 é algo como o seguinte:
+
+[source]
+----
+24b9da6552252987aa493b52f8696cd6d3b00373
+----
+
+Você vai ver esses valores de hash em todo o lugar no Git porque ele os usa com frequência.
+Na verdade, o Git armazena tudo em seu banco de dados não pelo nome do arquivo, mas pelo valor de hash do seu conteúdo.
+
+==== O Git Geralmente Somente Adiciona Dados
+
+Quando você faz algo no Git, quase sempre dados são adicionados no banco de dados do Git - e não removidos.
+É difícil fazer algo no sistema que não seja reversível ou para fazê-lo apagar dados de forma alguma.
+Como em qualquer VCS, você pode perder alterações que ainda não tenham sido comprometidas; mas depois de comprometer uma imagem no Git, é muito difícil de perdê-la, especialmente se você enviar regularmente o seu banco de dados para outro repositório.
+
+Isso faz com que o uso do Git seja somente alegria, porque sabemos que podemos experimentar sem o perigo de estragar algo.
+Para um olhar mais aprofundado de como o Git armazena seus dados e como você pode recuperar dados que parecem perdidos, consulte <<_undoing>>.
+
+==== Os Três Estados
+
+Agora, preste atenção.
+Esta é a principal coisa a lembrar sobre Git se você quiser que o resto do seu processo de aprendizagem ocorra sem problemas.
+O Git tem três estados principais que seus arquivos podem estar: comprometido (committed), modificados (modified) e preparado (staged).
+Comprometido significa que os dados estão armazenados de forma segura em seu banco de dados local.
+Modificado significa que você alterou o arquivo, mas ainda não o comprometeu ao seu banco de dados.
+Preparado significa que você marcou a versão atual de um arquivo modificado para fazer parte de seu próximo comprometimento.
+
+Isso nos leva a três seções principais de um projeto Git: o diretório Git, o diretório de trabalho e área de preparo.
+
+.Diretório de trabalho, área de preparo, e o diretório Git.
+image::images/areas.png["Diretório de trabalho, área de preparo, e o diretório Git."]
+
+O diretório Git é onde o Git armazena os metadados e o banco de dados de objetos de seu projeto.
+Esta é a parte mais importante do Git, e é o que é copiado quando você clona um repositório de outro computador.
+
+O diretório de trabalho é uma simples cópia de uma versão do projeto.
+Esses arquivos são pegos do banco de dados compactado no diretório Git e colocados no disco para você usar ou modificar.
+
+A área de preparo é um arquivo, geralmente contido em seu diretório Git, que armazena informações sobre o que vai entrar em seu próximo comprometimento.
+É por vezes referido como o ``índice'', mas também é comum referir-se a ele como área de preparo (staging area).
+
+O fluxo de trabalho básico Git é algo assim:
+
+1. Você modifica arquivos no seu diretório de trabalho.
+2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
+3. Você compromete, o que leva os arquivos como eles são na área de preparo e armazena essa imagens de forma permanente para o diretório do Git.
+
+Se uma versão específica de um arquivo está no diretório Git, é considerado comprometido.
+Se for modificado, mas foi adicionado à área de preparo, é considerado preparado.
+E se ele for alterado depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
+Em <<_git_basics_chapter>>, você vai aprender mais sobre esses estados e como você pode tirar proveito deles ou pular a parte de preparação inteiramente.
