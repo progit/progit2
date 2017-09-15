@@ -2,10 +2,10 @@ output
 .DS_Store
 
 # build artifacts
+Gemfile.lock
 progit.html
 progit.pdf
 progit.pdfmarks
 progit.epub
 progit-kf8.epub
 progit.mobi
-/images/
