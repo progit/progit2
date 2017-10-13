@@ -38,4 +38,4 @@ To add a figure:
 
 Translations to other languages are highly encouraged but handled a little differently than the first edition. We now keep each translation in a separate repository.
 
-Since each translation is a different repository, we can also have different maintainers for each project. The Pro Git team simply pulls them in and builds them for the translation teams. Translations repositories will have to be under the [`progit` organization on GitHub](https://github.com/progit).
+Since each translation is a different repository, we can also have different maintainers for each project. The Pro Git team simply pulls them in and builds them for the translation teams.
