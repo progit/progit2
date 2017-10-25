@@ -2,6 +2,8 @@ language: ruby
 before_install:
 - gem install bundler
 - bundle install
+after_success:
+- script/tag_on_master
 script: bundle exec rake book:build
 deploy:
   provider: releases
