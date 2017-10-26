@@ -24,3 +24,8 @@ branches:
   only:
   - master
   - /^2\.1(\.\d+)+$/
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
