@@ -9,8 +9,8 @@ script: bundle exec rake book:build
 env:
   secure: "O+YCTDgLfCYAJjjOv2sApDRV5NJe6pkhiYIkORFuf2flO8HE72fEtDRpSWh1vulnIH6AjRK2jH7C8qA3MVbUO8D0io+Ha+vnbMXIp1JPCptcJNEkJrW13VTR66SWOzsgLp3mCrIC+YdE2JoYWGcnDsRMQwdnrWnxBzSOd22ZKzU="
 
+before_deploy: ls -lah progit.*
 deploy:
-  before_deploy: ls -lah progit.*
   provider: releases
   file:
   - progit.epub
