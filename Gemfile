@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'asciidoctor', :git => 'https://github.com/asciidoctor/asciidoctor'
+gem 'asciidoctor', '1.5.6.1'
 
 gem 'json'
 gem 'awesome_print'
