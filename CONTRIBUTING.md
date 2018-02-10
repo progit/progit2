@@ -63,6 +63,7 @@ Existing projects include:
 English    | [progit/progit2](https://github.com/progit/progit2)
 Español    | [progit/progit2-es](https://github.com/progit/progit2-es)
 Français   | [progit/progit2-fr](https://github.com/progit/progit2-fr)
+Deutsch    | [progit-de/progit2](https://github.com/progit-de/progit2)
 Ελληνικά   | [progit2-gr/progit2](https://github.com/progit2-gr/progit2)
 Indonesian | [progit/progit2-id](https://github.com/progit/progit2-id)
 Italiano   | [progit/progit2-it](https://github.com/progit/progit2-it)
