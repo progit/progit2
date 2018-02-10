@@ -1,7 +1,7 @@
 {
   "code": "en",
   "language": "English",
-  "maintainers": ["shacon"],
+  "maintainers": ["schacon"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
