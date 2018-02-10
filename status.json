@@ -1,7 +1,7 @@
 {
-  "code": "ms",
-  "language": "Malay",
-  "maintainers": ["plokmi"],
+  "code": "en",
+  "language": "English",
+  "maintainers": ["shacon"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
