@@ -3,7 +3,7 @@ namespace :book do
   task :build do
 
     puts "Generating contributors list"
-    `git shortlog -s --all| grep -v -E "(Straub|Chacon)" | cut -f 2- > book/contributors.txt`
+    `git shortlog -s --all| grep -v -E "(Straub|Chacon)" | cut -f 2- | column -c 120 > book/contributors.txt`
 
     puts "Converting to HTML..."
     `bundle exec asciidoctor progit.asc`
