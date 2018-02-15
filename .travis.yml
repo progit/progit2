@@ -1,4 +1,6 @@
 language: ruby
+git:
+  depth: false
 cache: bundler
 before_install:
 - bundle install

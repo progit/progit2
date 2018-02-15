@@ -1,6 +1,10 @@
 namespace :book do
   desc 'build basic book formats'
   task :build do
+
+    puts "Generating contributors list"
+    `git shortlog -s --all| grep -v -E "(Straub|Chacon)" | cut -f 2- | column -c 120 > book/contributors.txt`
+
     puts "Converting to HTML..."
     `bundle exec asciidoctor progit.asc`
     puts " -- HTML output at progit.html"
