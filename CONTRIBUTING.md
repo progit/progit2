@@ -41,4 +41,4 @@ Give it a name that matches the destination PNG filename, relative from the root
 
 ## Translations
 
-If you want to help translate Pro Git into your language, please read carefull the [dedicated page](TRANSLATING.md).
+If you would like to contribute to translating Pro Git into your language, take a look at [TRANSLATING.md](TRANSLATING.md).
