@@ -10,7 +10,7 @@ namespace :book do
       File.open("progit.asc", "w") {|file| file.puts new_contents }
 
       puts "Generating contributors list"
-      `git shortlog -s master| grep -v -E "(Straub|Chacon)" | cut -f 2- | column -c 120 > book/contributors.txt`
+      `git shortlog -s | grep -v -E "(Straub|Chacon)" | cut -f 2- | column -c 120 > book/contributors.txt`
 
       puts "Converting to HTML..."
       `bundle exec asciidoctor progit.asc`
