@@ -4,7 +4,7 @@ namespace :book do
 
     `cp progit.asc progit.asc.bak`
     begin
-      version_string = ENV['TRAVIS_TAG'] || '0'
+      version_string = `git describe --tags`.chomp
       text = File.read('progit.asc')
       new_contents = text.gsub("$$VERSION$$", version_string).gsub("$$DATE$$", Time.now.strftime("%Y-%m-%d"))
       File.open("progit.asc", "w") {|file| file.puts new_contents }
