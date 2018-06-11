@@ -89,31 +89,31 @@
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
       "sections/client-tfs.asc": 0,
-      "sections/import-custom.asc": 0,
-      "sections/import-hg.asc": 0,
-      "sections/import-p4.asc": 0,
-      "sections/import-svn.asc": 0,
-      "sections/import-tfs.asc": 0
+      "sections/import-custom.asc": 95,
+      "sections/import-hg.asc": 95,
+      "sections/import-p4.asc": 95,
+      "sections/import-svn.asc": 95,
+      "sections/import-tfs.asc": 95
     },
     "10-git-internals": {
-      "1-git-internals.asc": 0,
-      "sections/environment.asc": 0,
+      "1-git-internals.asc": 95,
+      "sections/environment.asc": 95,
       "sections/maintenance.asc": 0,
       "sections/objects.asc": 0,
-      "sections/packfiles.asc": 0,
-      "sections/plumbing-porcelain.asc": 0,
-      "sections/refs.asc": 0,
-      "sections/refspec.asc": 0,
-      "sections/transfer-protocols.asc": 0
+      "sections/packfiles.asc": 95,
+      "sections/plumbing-porcelain.asc": 95,
+      "sections/refs.asc": 95,
+      "sections/refspec.asc": 95,
+      "sections/transfer-protocols.asc": 95
     },
     "A-git-in-other-environments": {
-      "1-git-other-environments.asc": 0,
-      "sections/bash.asc": 0,
-      "sections/eclipse.asc": 0,
-      "sections/guis.asc": 0,
-      "sections/powershell.asc": 0,
-      "sections/visualstudio.asc": 0,
-      "sections/zsh.asc": 0
+      "1-git-other-environments.asc": 95,
+      "sections/bash.asc": 95,
+      "sections/eclipse.asc": 95,
+      "sections/guis.asc": 95,
+      "sections/powershell.asc": 95,
+      "sections/visualstudio.asc": 95,
+      "sections/zsh.asc": 95
     },
     "B-embedding-git": {
       "1-embedding-git.asc": 95,
@@ -122,7 +122,7 @@
       "sections/libgit2.asc": 95
     },
     "C-git-commands": {
-      "1-git-commands.asc": 0
+      "1-git-commands.asc": 95
     }
   }
 }
