@@ -59,7 +59,7 @@
       "sections/5-scripting.asc": 95
     },
     "07-git-tools": {
-      "1-git-tools.asc": 15,
+      "1-git-tools.asc": 95,
       "sections/advanced-merging.asc": 95,
       "sections/bundling.asc": 95,
       "sections/credentials.asc": 95,
