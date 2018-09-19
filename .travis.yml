@@ -1,0 +1,33 @@
+language: ruby
+git:
+  depth: false
+cache: bundler
+before_install:
+- bundle install
+after_success:
+- script/tag_on_master
+script: bundle exec rake book:build
+env:
+  secure: "O+YCTDgLfCYAJjjOv2sApDRV5NJe6pkhiYIkORFuf2flO8HE72fEtDRpSWh1vulnIH6AjRK2jH7C8qA3MVbUO8D0io+Ha+vnbMXIp1JPCptcJNEkJrW13VTR66SWOzsgLp3mCrIC+YdE2JoYWGcnDsRMQwdnrWnxBzSOd22ZKzU="
+
+before_deploy: bundle install && bundle exec rake book:build
+deploy:
+  provider: releases
+  file:
+  - progit.epub
+  - progit.mobi
+  - progit.pdf
+  skip_cleanup: true
+  on:
+    tags: true
+  api-key:
+    secure: "l3XdupX6dT48IoTieJXrd7Yx8+KhiR2QYrNrDzT6RKxA7UyXGSP/axsVerg7OjKfIHWZgDJRVzcc2RswE+Xjw9sOY8r2h2q9uCwj8G0EqtFbtgGK0La5LB0euh0tNJN8GLFj1OdSZGY7dWWK88GXeHCua2WSify0V79R4ClIM+s="
+branches:
+  only:
+  - master
+  - /^2\.1(\.\d+)+$/
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
