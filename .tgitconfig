@@ -1,6 +1,6 @@
 [bugtraq]
 	url = https://github.com/progit/progit2/issues/%BUGID%
-	logregex = "(?:[Cc]lose[sd]?|[Ff]ix(?:e[sd])?|[Rr]esolve[sd]?):?\\s+((?:[Ii]ssues?\\s+#?|#)\\d+((?:,|\\s+and)\\s+(?:[Ii]ssues?\\s+#?|#)\\d+)*)\n(\\d+)"
+	logregex = "[Ii]ssues?:?(\\s*(,|and)?\\s*#?\\d+)+\n(\\d+)"
 
 [tgit]
 	icon = Pro.ico
