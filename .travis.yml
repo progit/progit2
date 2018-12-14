@@ -1,0 +1,34 @@
+language: ruby
+sudo: false
+git:
+  depth: false
+cache: bundler
+before_install:
+ - wget https://raw.githubusercontent.com/progit/progit2-pub/master/bootstrap.sh
+ - sh bootstrap.sh
+script: bundle exec rake book:build
+after_success: bundle exec rake book:tag
+deploy:
+  provider: releases
+  file_glob: true
+  file:
+  - progit*.epub
+  - progit*.mobi
+  - progit*.pdf
+  skip_cleanup: true
+  on:
+    tags: true
+  api-key: $GITHUB_API_TOKEN
+branches:
+  only:
+  - master
+  - /^2\.1(\.\d+)+$/
+
+addons:
+  apt:
+    packages:
+      - epubcheck
+notifications:
+  email:
+    on_success: never
+    on_failure: always
