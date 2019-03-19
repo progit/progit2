@@ -28,7 +28,7 @@ Professional copy editors have already reviewed this content multiple times so w
 
 ## Figures
 
-The images in this book were generated using [Sketch 3](http://bohemiancoding.com/sketch/), with the [included sketchbook file](diagram-source/progit.sketch).
+The images in this book were generated using [Sketch 3](https://www.sketchapp.com/), with the [included sketchbook file](diagram-source/progit.sketch).
 
 To add a figure:
 
