@@ -15,7 +15,7 @@ Moreover, the book was written in a formatting language called [Asciidoc](https:
 
 Be sure to have read and understood the basics of [how Asciidoc formatting works](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/) before starting to change any file.
 
-Translating Pro Git is such an endeavor that if you don't want to loose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
+Translating Pro Git is such an endeavor that if you don't want to lose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
 
 ## Translating the Book to Another Language
 
