@@ -4,16 +4,13 @@ The translations are managed in a decentralized way. Each translation team maint
 
 ## General guidance for translating Pro Git
 
-Pro Git is a book about a technical tool. As such it combines a double difficulty for translators:
+Pro Git is a book about a technical tool, therefore translating it is difficult compared to a non-technical translation.
 
- * The translation of a book, even in parts requires that the translators be aware of the whole content of book. This usually requires for each translator to have read the book and to agree with some common style of output. These rules ensure that the reader won't feel transitions in the text when switching from a part produced by one translator to a part from another one.
- * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savvy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Pro Git understandable.
-
-Moreover, the book was written in a formatting language called [Asciidoc](https://asciidoctor.org). Some parts of the files making up the book are in fact Asciidoc commands. Upsetting these commands will make it impossible to assemble and to compile the files into the PDF, epub and html output.
-
-Be sure to have read and understood the basics of [how Asciidoc formatting works](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/) before starting to change any file.
-
-Translating Pro Git is such an endeavor that if you don't want to lose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
+The following are guidelines to help you on your way:
+* Before you begin, read the whole Git Pro book in English, so that you're aware of the content, and are familiar with the style used.
+* Ensure you have a good working knowledge of git, so that explaining the technical terms is doable.
+* Stick to a common style and format for the translation.
+* Be sure to read and understand the basics of [Asciidoc formatting](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
 
 ## Translating the Book to Another Language
 
