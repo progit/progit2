@@ -67,7 +67,7 @@ On https://git-scm.com, the translations are divided into three categories. Once
 | Partial translations available in | up to chapter 6 has been translated. |
 | Full translation available in |the book is (almost) fully translated. |
 
-## Using Travis-CI for Continuous Integration
+## Continuous integration with Travis CI
 
 Travis-CI is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that fits nicely with GitHub. It can be used to automatically check that the pull-requests from the collaborators don't break the Asciidoc markup but can also provide compiled versions of the books.
 
