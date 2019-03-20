@@ -79,7 +79,7 @@ Setting up *Travis CI* requires administrative control over the repository.
 1. Register your project in Travis.
 Please refer to the [Travis documentation](https://docs.travis-ci.com/) for more information.
 
-#### Setting up Your Repo for CI
+### Setting up your repository for continuous integration
 
 Travis-CI works by scanning your project's root directory for a file named `.travis.yml` and following the recipe that it contains. The good news is that you don't really need to understand how all of this works. There's a project already set up to simplify the setup. Download the file [here](https://raw.githubusercontent.com/progit/progit2-pub/master/travis.yml) and save it as `.travis.yml` in your working copy. Commit it and push it; that should fire up a compilation and a check of the book's contents.
 
