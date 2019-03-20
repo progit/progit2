@@ -2,26 +2,26 @@
 
 The translation are managed in a decentralized way, with each translation teams maintaining their own project. Since each translation is a different repository, maintainers teams are self organized for each project.
 
-The Pro Git team simply pulls them in and builds them for the translation teams on the git-scm.com website.
+The Pro Git team simply pulls them in and builds them for the translation teams on the https://git-scm.com website.
 
 ## A Word About the Activity of Translating
 
 Pro Git is a book about a technical tool. As such it combines a double difficulty for translators:
 
  * The translation of a book, even in parts requires that the translators be aware of the whole content of book. This usually requires for each translator to have read the book and to agree with some common style of output. These rules ensure that the reader won't feel transitions in the text when switching from a part produced by one translator to a part from another one.
- * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Progit understandable.
+ * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savvy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Pro Git understandable.
 
-Moreover, the book was written in a formatting language called [Asciidoc](http://asciidoctor.org/). Some parts of the files making up the book are in fact Asciidoc commands. Upsetting these commands will make it impossible to assemble and to compile of the files into the PDF, epub and html output.
+Moreover, the book was written in a formatting language called [Asciidoc](https://asciidoctor.org). Some parts of the files making up the book are in fact Asciidoc commands. Upsetting these commands will make it impossible to assemble and to compile the files into the PDF, epub and html output.
 
 Be sure to have read and understood the basics of [how Asciidoc formatting works](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/) before starting to change any file.
 
-Translating Pro Git is such an endeavor that if you don't want to loose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
+Translating Pro Git is such an endeavor that if you don't want to lose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
 
 ## Translating the Book to Another Language
 
 ### Existing Projects
 
-If you wish to help at translating Progit 2nd edition to your language, first check for an already existing project in the following list and get in touch with the people in charge of it if there's already one. Go to the project page, open an issue, present yourself and ask what can be done.
+If you wish to help with translating Pro Git 2nd edition to your language, first check for an already existing project in the following list and get in touch with the people in charge of it if there's already one. Go to the project page, open an issue, present yourself and ask what can be done.
 
 Existing projects include:
 
@@ -69,7 +69,7 @@ You can start to make your own version with the second edition in English, avail
 
 ### Updating the Status of Your Translation
 
-On git-scm.com, the translations are listed in three categories:
+On https://git-scm.com, the translations are listed in three categories:
 
  1. Translation just started. The introduction is translated at least, but there's not much to read. It's time to translate the meat of the book.
  2. Partially translated. The chapters up to chapter 6 have been translated. The book is becoming useful to help the reader become a fluent Git user.
@@ -104,7 +104,7 @@ Travis-CI works by scanning your project's root directory for a file named `.tra
 
 This is a quite technical task. Please ping @jnavila for this.
 
-## Beyond Progit
+## Beyond Pro Git
 
 Translating the book is the first step. Once this is finished, you could consider translating the user interface of Git itself.
 
