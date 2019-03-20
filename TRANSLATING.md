@@ -20,6 +20,7 @@ The following are guidelines to help you on your way:
 * Go to the project's page on GitHub.
 * Open an issue, introduce yourself and ask where you can help.
 
+
   Language   |   Project
 ------------ | -------------
 Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be)
