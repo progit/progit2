@@ -2,7 +2,7 @@
 
 The translations are managed in a decentralized way. Each translation team maintains their own project. Each translation is in its own repository, the Pro Git team simply pulls the changes and builds them into the https://git-scm.com website when ready.
 
-## A Word About the Activity of Translating
+## General guidance for translating Pro Git
 
 Pro Git is a book about a technical tool. As such it combines a double difficulty for translators:
 
