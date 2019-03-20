@@ -52,7 +52,7 @@ The following are guidelines to help you on your way:
 
 If there is no project for your language, you can start your own translation.
 
-Base your work on the second edition in English, available [here](https://github.com/progit/progit2). To do so:
+Base your work on the second edition of the book, available [here](https://github.com/progit/progit2). To do so:
  1. Pick the correct [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language.
  1. Create a [GitHub organization](https://help.github.com/articles/creating-a-new-organization-from-scratch/), for example: `progit2-[your code]` on GitHub.
  1. Create a project ``progit2``.
