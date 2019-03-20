@@ -59,13 +59,13 @@ Base your work on the second edition in English, available [here](https://github
 
 ### Updating the status of your translation
 
-On https://git-scm.com, the translations are listed in three categories:
+On https://git-scm.com, the translations are divided into three categories. Once you have reached one of these levels, contact the maintainers of https://git-scm.com/ so that they can pull the changes.
 
- 1. Translation just started. The introduction is translated at least, but there's not much to read. It's time to translate the meat of the book.
- 2. Partially translated. The chapters up to chapter 6 have been translated. The book is becoming useful to help the reader become a fluent Git user.
- 3. Fully Translated. The book is almost fully translated.
-
- Once you have reached one of these levels, just contact the maintainers of the git-scm site to make your translation appear in the right category.
+| Category | Completion     |
+| :------------- | :------------- |
+| Translation started for | Introduction translated, not much else. |
+| Partial translations available in | up to chapter 6 has been translated. |
+| Full translation available in |the book is (almost) fully translated. |
 
 ## Using Travis-CI for Continuous Integration
 
