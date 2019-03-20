@@ -20,34 +20,33 @@ The following are guidelines to help you on your way:
 * Go to the project's page on GitHub.
 * Open an issue, introduce yourself and ask where you can help.
 
-
-  Language   |   Project
------------- | -------------
-Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be)
-Čeština    | [progit-cs/progit2-cs](https://github.com/progit-cs/progit2-cs)
-English    | [progit/progit2](https://github.com/progit/progit2)
-Español    | [progit/progit2-es](https://github.com/progit/progit2-es)
-Français   | [progit/progit2-fr](https://github.com/progit/progit2-fr)
-Deutsch    | [progit-de/progit2](https://github.com/progit-de/progit2)
-Ελληνικά   | [progit2-gr/progit2](https://github.com/progit2-gr/progit2)
-Indonesian | [progit/progit2-id](https://github.com/progit/progit2-id)
-Italiano   | [progit/progit2-it](https://github.com/progit/progit2-it)
-日本語   | [progit/progit2-ja](https://github.com/progit/progit2-ja)
-한국어   | [progit/progit2-ko](https://github.com/progit/progit2-ko)
-Македонски | [progit2-mk/progit2](https://github.com/progit2-mk/progit2)
-Bahasa Melayu| [progit2-ms/progit2](https://github.com/progit2-ms/progit2)
-Nederlands | [progit/progit2-nl](https://github.com/progit/progit2-nl)
-Polski | [progit2-pl/progit2-pl](https://github.com/progit2-pl/progit2-pl)
-Português (Brasil) | [progit2-pt-br/progit2](https://github.com/progit2-pt-br/progit2)
-Русский   | [progit/progit2-ru](https://github.com/progit/progit2-ru)
-Slovenščina  | [progit/progit2-sl](https://github.com/progit/progit2-sl)
-Српски   | [progit/progit2-sr](https://github.com/progit/progit2-sr)
-Tagalog   | [progit2-tl/progit2](https://github.com/progit2-tl/progit2)
-Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr)
-Українська| [progit/progit2-uk](https://github.com/progit/progit2-uk)
-Ўзбекча  | [progit/progit2-uz](https://github.com/progit/progit2-uz)
-简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh)
-正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw)
+| Language     | GitHub page     |
+| :------------- | :------------- |
+| Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be) |
+| Čeština    | [progit-cs/progit2-cs](https://github.com/progit-cs/progit2-cs) |
+| English    | [progit/progit2](https://github.com/progit/progit2) |
+| Español    | [progit/progit2-es](https://github.com/progit/progit2-es) |
+| Français   | [progit/progit2-fr](https://github.com/progit/progit2-fr) |
+| Deutsch    | [progit-de/progit2](https://github.com/progit-de/progit2) |
+| Ελληνικά   | [progit2-gr/progit2](https://github.com/progit2-gr/progit2) |
+| Indonesian | [progit/progit2-id](https://github.com/progit/progit2-id) |
+| Italiano   | [progit/progit2-it](https://github.com/progit/progit2-it) |
+| 日本語   | [progit/progit2-ja](https://github.com/progit/progit2-ja) |
+| 한국어   | [progit/progit2-ko](https://github.com/progit/progit2-ko) |
+| Македонски | [progit2-mk/progit2](https://github.com/progit2-mk/progit2) |
+| Bahasa Melayu| [progit2-ms/progit2](https://github.com/progit2-ms/progit2) |
+| Nederlands | [progit/progit2-nl](https://github.com/progit/progit2-nl) |
+| Polski | [progit2-pl/progit2-pl](https://github.com/progit2-pl/progit2-pl) |
+| Português (Brasil) | [progit2-pt-br/progit2](https://github.com/progit2-pt-br/progit2) |
+| Русский   | [progit/progit2-ru](https://github.com/progit/progit2-ru) |
+| Slovenščina  | [progit/progit2-sl](https://github.com/progit/progit2-sl) |
+| Српски   | [progit/progit2-sr](https://github.com/progit/progit2-sr) |
+| Tagalog   | [progit2-tl/progit2](https://github.com/progit2-tl/progit2) |
+| Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr) |
+| Українська| [progit/progit2-uk](https://github.com/progit/progit2-uk) |
+| Ўзбекча  | [progit/progit2-uz](https://github.com/progit/progit2-uz) |
+| 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh) |
+| 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) |
 
 ### Starting a new translation
 
