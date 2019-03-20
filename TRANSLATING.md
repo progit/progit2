@@ -2,7 +2,7 @@
 
 The translation are managed in a decentralized way, with each translation teams maintaining their own project. Since each translation is a different repository, maintainers teams are self organized for each project.
 
-The Pro Git team simply pulls them in and builds them for the translation teams on the git-scm.com website.
+The Pro Git team simply pulls them in and builds them for the translation teams on the https://git-scm.com website.
 
 ## A Word About the Activity of Translating
 
