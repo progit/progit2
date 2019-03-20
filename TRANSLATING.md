@@ -75,11 +75,9 @@ Setting up *Travis CI* requires administrative control over the repository.
 
 ### Registering for Travis continuous integration
 
-If you don't already have an account at travis-ci.org, then go to [their page](https://travis-ci.org/) and log in. Otherwise you can register with your GitHub account.
-
-Register your project in Travis. If a build is not fired automatically, it can be forced. The logs of build provide useful data when the build fails.
-
-Please refer to the documentation on Travis-ci.org for further information on using their system.
+1. Register a Travis account [here](https://travis-ci.org/).
+1. Register your project in Travis.
+Please refer to the [Travis documentation](https://docs.travis-ci.com/) for more information.
 
 #### Setting up Your Repo for CI
 
