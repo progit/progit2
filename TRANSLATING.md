@@ -15,6 +15,7 @@ The following are guidelines to help you on your way:
 ## Translating the book to another language
 
 ### Helping with a existing project
+
 * Check for an already existing project in the following table.
 * Go to the project's page on GitHub.
 * Open an issue, introduce yourself and ask where you can help.
