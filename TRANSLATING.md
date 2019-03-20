@@ -104,7 +104,7 @@ Travis-CI works by scanning your project's root directory for a file named `.tra
 
 This is a quite technical task. Please ping @jnavila for this.
 
-## Beyond Progit
+## Beyond Pro Git
 
 Translating the book is the first step. Once this is finished, you could consider translating the user interface of Git itself.
 
