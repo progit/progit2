@@ -21,7 +21,7 @@ Translating Pro Git is such an endeavor that if you don't want to lose your ener
 
 ### Existing Projects
 
-If you wish to help at translating Progit 2nd edition to your language, first check for an already existing project in the following list and get in touch with the people in charge of it if there's already one. Go to the project page, open an issue, present yourself and ask what can be done.
+If you wish to help with translating Pro Git 2nd edition to your language, first check for an already existing project in the following list and get in touch with the people in charge of it if there's already one. Go to the project page, open an issue, present yourself and ask what can be done.
 
 Existing projects include:
 
