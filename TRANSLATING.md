@@ -47,7 +47,7 @@ Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr)
 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh)
 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw)
 
-### Your Language is not Listed
+### Starting a new translation
 
 Then you're lucky! You're gonna be the initiator of a new translation project!
 
