@@ -69,7 +69,7 @@ On https://git-scm.com, the translations are divided into three categories. Once
 
 ## Continuous integration with Travis CI
 
-Travis-CI is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that fits nicely with GitHub. It can be used to automatically check that the pull-requests from the collaborators don't break the Asciidoc markup but can also provide compiled versions of the books.
+*Travis CI* is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. *Travis CI* is used to ensure that a pull-request doesn't break the build or compilation. *Travis CI* can also provide compiled versions of the book.
 
 Setting up Travis-CI requires to have administrative privileges over the repository. If you're not an administrator of the repository, let them know that they can enhance the visibility of the project by doing the following steps.
 
