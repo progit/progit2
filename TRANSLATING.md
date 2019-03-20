@@ -12,7 +12,7 @@ The following are guidelines to help you on your way:
 * Stick to a common style and format for the translation.
 * Be sure to read and understand the basics of [Asciidoc formatting](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
 
-## Translating the Book to Another Language
+## Translating the book to another language
 
 ### Existing Projects
 
