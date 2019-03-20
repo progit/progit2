@@ -9,7 +9,7 @@ The Pro Git team simply pulls them in and builds them for the translation teams 
 Pro Git is a book about a technical tool. As such it combines a double difficulty for translators:
 
  * The translation of a book, even in parts requires that the translators be aware of the whole content of book. This usually requires for each translator to have read the book and to agree with some common style of output. These rules ensure that the reader won't feel transitions in the text when switching from a part produced by one translator to a part from another one.
- * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Progit understandable.
+ * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savvy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Pro Git understandable.
 
 Moreover, the book was written in a formatting language called [Asciidoc](http://asciidoctor.org/). Some parts of the files making up the book are in fact Asciidoc commands. Upsetting these commands will make it impossible to assemble and to compile of the files into the PDF, epub and html output.
 
