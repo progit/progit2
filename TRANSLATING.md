@@ -57,7 +57,7 @@ Base your work on the second edition in English, available [here](https://github
  1. Create a project ``progit2``.
  1. Copy the structure of progit/progit2 (this project) in your project and start translating.
 
-### Updating the Status of Your Translation
+### Updating the status of your translation
 
 On https://git-scm.com, the translations are listed in three categories:
 
