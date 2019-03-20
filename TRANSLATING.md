@@ -69,7 +69,7 @@ You can start to make your own version with the second edition in English, avail
 
 ### Updating the Status of Your Translation
 
-On git-scm.com, the translations are listed in three categories:
+On https://git-scm.com, the translations are listed in three categories:
 
  1. Translation just started. The introduction is translated at least, but there's not much to read. It's time to translate the meat of the book.
  2. Partially translated. The chapters up to chapter 6 have been translated. The book is becoming useful to help the reader become a fluent Git user.
