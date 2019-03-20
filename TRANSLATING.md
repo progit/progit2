@@ -86,7 +86,7 @@ Copy that file, and put it in your working directory. Commit the .yml file and p
 
 ## Setting up a publication chain for e-books
 
-This is a quite technical task. Please ping @jnavila for this.
+This is a technical task, please ping @jnavila to get started with epub publication.
 
 ## Beyond Pro Git
 
