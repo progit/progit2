@@ -73,7 +73,7 @@ On https://git-scm.com, the translations are divided into three categories. Once
 
 Setting up *Travis CI* requires administrative control over the repository.
 
-#### Registering for CI
+### Registering for Travis continuous integration
 
 If you don't already have an account at travis-ci.org, then go to [their page](https://travis-ci.org/) and log in. Otherwise you can register with your GitHub account.
 
