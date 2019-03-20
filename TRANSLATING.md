@@ -49,17 +49,13 @@ Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr)
 
 ### Starting a new translation
 
-Then you're lucky! You're gonna be the initiator of a new translation project!
+If there is no project for your language, you can start your own translation.
 
-You can start to make your own version with the second edition in English, available here. To do so,
-
- 1. Pick your the [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and [create a GitHub organization](https://help.github.com/articles/creating-a-new-organization-from-scratch/), say `progit2-[your code]` on github
- 2. Create a project progit2
- 3. Copy the structure of progit/progit2 (this project) in your project and start translating. You can reuse some material from the first edition, but beware that:
-    1. the text has been reworked in numerous parts
-    2. the markup has changed from markdown to [asciidoc](http://asciidoc.org)
- 4. Push to the new repo a few translated chapters
- 5. Ping an organizer so that the second edition of Progit in your language is pushed on git-scm.com.
+Base your work on the second edition in English, available [here](https://github.com/progit/progit2). To do so:
+ 1. Pick the correct [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language.
+ 1. Create a [GitHub organization](https://help.github.com/articles/creating-a-new-organization-from-scratch/), for example: `progit2-[your code]` on GitHub.
+ 1. Create a project ``progit2``.
+ 1. Copy the structure of progit/progit2 (this project) in your project and start translating.
 
 ### Updating the Status of Your Translation
 
