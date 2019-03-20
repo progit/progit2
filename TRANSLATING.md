@@ -73,10 +73,6 @@ On https://git-scm.com, the translations are divided into three categories. Once
 
 Setting up *Travis CI* requires administrative control over the repository.
 
-### Checking the Validity of the Text
-
-This is the most useful set up for contributors. It allows to check at any moment that the book compiles properly and provides the same checks for pull-requests.
-
 #### Registering for CI
 
 If you don't already have an account at travis-ci.org, then go to [their page](https://travis-ci.org/) and log in. Otherwise you can register with your GitHub account.
