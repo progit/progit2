@@ -15,10 +15,9 @@ The following are guidelines to help you on your way:
 ## Translating the book to another language
 
 ### Helping with a existing project
-
-If you wish to help with translating Pro Git 2nd edition to your language, first check for an already existing project in the following list and get in touch with the people in charge of it if there's already one. Go to the project page, open an issue, present yourself and ask what can be done.
-
-Existing projects include:
+* Check for an already existing project in the following table.
+* Go to the project's page on GitHub.
+* Open an issue, introduce yourself and ask where you can help.
 
   Language   |   Project
 ------------ | -------------
