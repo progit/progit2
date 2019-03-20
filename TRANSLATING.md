@@ -84,7 +84,7 @@ Please refer to the [Travis documentation](https://docs.travis-ci.com/) for more
 *Travis CI* works by scanning your project's root directory for a file named `.travis.yml` and following the 'recipe' that it contains. The good news is: there's already a working `.travis.yml` file in the Pro Git 2 source [here](https://raw.githubusercontent.com/progit/progit2-pub/master/travis.yml).
 Copy that file, and put it in your working directory. Commit the .yml file and push it to your translation repository; that should fire up a compilation and a check of the book's contents.
 
-### Setting Up a Publication Chain for Ebooks
+## Setting up a publication chain for e-books
 
 This is a quite technical task. Please ping @jnavila for this.
 
