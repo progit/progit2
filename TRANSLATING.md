@@ -22,6 +22,7 @@ The following are guidelines to help you on your way:
 
 | Language     | GitHub page     |
 | :------------- | :------------- |
+| العربية | [progit2-ar/progit2](https://github.com/progit2-ar/progit2) |
 | Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be) |
 | Čeština    | [progit-cs/progit2-cs](https://github.com/progit-cs/progit2-cs) |
 | English    | [progit/progit2](https://github.com/progit/progit2) |
