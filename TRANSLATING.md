@@ -24,6 +24,7 @@ The following are guidelines to help you on your way:
 | :------------- | :------------- |
 | العربية | [progit2-ar/progit2](https://github.com/progit2-ar/progit2) |
 | Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be) |
+| български език | [progit/progit2-bg](https://github.com/progit/progit2-bg) |
 | Čeština    | [progit-cs/progit2-cs](https://github.com/progit-cs/progit2-cs) |
 | English    | [progit/progit2](https://github.com/progit/progit2) |
 | Español    | [progit/progit2-es](https://github.com/progit/progit2-es) |
