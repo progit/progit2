@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+**I confirm:**
+- [ ] that I haven't found an existing/similar bug report for my bug.
+- [ ] If this issue has been spotted on the git-scm.com site, I've cross-checked that my issue is still present in the current pdf version.
+- [ ] this bug is about the second version of the Git Pro book in English.
+- [ ] this bug is not about the git-scm.com site, if so please file a bug here: https://github.com/git/git-scm.com/issues/new
+- [ ] this bug is not about git the program itself, if so please file a bug here: [community](https://git-scm.com/community)
+- [ ] This bug is not about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
