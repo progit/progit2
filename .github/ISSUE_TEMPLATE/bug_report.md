@@ -13,7 +13,7 @@ assignees: ''
 - [ ] this bug is about the second version of the Git Pro book in English. A bug for a translation should be filed with the translation project. You can find a table with those projects here: https://github.com/progit/progit2/blob/master/TRANSLATING.md
 - [ ] this bug is not about the git-scm.com site, if so please file a bug here: https://github.com/git/git-scm.com/issues/new
 - [ ] this bug is not about git the program itself, if so please file a bug here: [community](https://git-scm.com/community)
-- [ ] This bug is not about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
+- [ ] this bug is not about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
