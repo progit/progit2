@@ -21,10 +21,10 @@ To mark a task as complete, use ```[x]```
 
 **Steps to reproduce:**
 <!-- Please write the steps needed to reproduce the bug here. -->
-<!-- 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error -->
+<!-- 1. Go to '...' -->
+<!-- 2. Click on '....' -->
+<!-- 3. Scroll down to '....' -->
+<!-- 4. See error -->
 
 **Expected behavior**
 <!-- A clear and concise description of what you expected to happen. -->
