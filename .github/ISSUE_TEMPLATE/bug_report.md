@@ -9,7 +9,7 @@ assignees: ''
 
 **I confirm:**
 - [ ] that I haven't found an existing/similar bug report for my bug.
-- [ ] If this issue has been spotted on the git-scm.com site, I've cross-checked that my issue is still present in the current pdf version.
+- [ ] if this issue has been spotted on the git-scm.com site, I've cross-checked that my issue is still present in the current pdf version.
 - [ ] this bug is about the second version of the Git Pro book in English. A bug for a translation should be filed with the translation project. You can find a table with those projects here: https://github.com/progit/progit2/blob/master/TRANSLATING.md
 - [ ] this bug is not about the git-scm.com site, if so please file a bug here: https://github.com/git/git-scm.com/issues/new
 - [ ] this bug is not about git the program itself, if so please file a bug here: [community](https://git-scm.com/community)
