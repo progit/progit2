@@ -43,6 +43,6 @@ To mark a task as complete, use ```[x]```
  - Browser: <!-- [e.g. stock browser, safari] -->
  - Version: <!-- [e.g. 22] -->
 
-**Additional context**
+**Additional context:**
 <!-- Add any other context about the problem here. -->
 <!-- You can also put references to similar bugs here. -->
