@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **I confirm:**
-<!-- To mark a task as complete, use ```[x]``` -->
+<!-- To mark a task as complete, use [x] -->
 - [ ] that I haven't found an existing/similar bug report for my bug.
 - [ ] if this issue has been spotted on the git-scm.com site, I've cross-checked that my issue is still present in the current pdf version.
 - [ ] this bug is about the second version of the Git Pro book in English. A bug for a translation should be filed with the translation project. You can find a table with those projects here: https://github.com/progit/progit2/blob/master/TRANSLATING.md
