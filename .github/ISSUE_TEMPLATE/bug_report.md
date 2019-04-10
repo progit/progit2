@@ -43,7 +43,7 @@ assignees: ''
 **Smartphone (please complete the following information):**
  - Device: <!-- [e.g. iPhone6] -->
  - OS: <!-- [e.g. iOS8.1] -->
- - Browser: <!-- [e.g. stock browser, safari] -->
+ - Browser/application: <!-- [e.g. stock browser, safari, Adobe Acrobat Reader] -->
  - Version: <!-- [e.g. 22] -->
 
  **E-book reader:**
