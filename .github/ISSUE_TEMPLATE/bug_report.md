@@ -41,19 +41,19 @@ assignees: ''
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Desktop:**
- - OS: <!--[e.g. iOS] -->
- - Browser/application: <!-- [e.g. chrome, safari, Evince, Adobe Acrobat Reader] -->
- - Version: <!-- [e.g. 22] -->
+- OS: <!--[e.g. iOS] -->
+- Browser/application: <!-- [e.g. chrome, safari, Evince, Adobe Acrobat Reader] -->
+- Version: <!-- [e.g. 22] -->
 
 **Smartphone:**
- - Device: <!-- [e.g. iPhone6] -->
- - OS: <!-- [e.g. iOS8.1] -->
- - Browser/application: <!-- [e.g. stock browser, safari, Adobe Acrobat Reader] -->
- - Version: <!-- [e.g. 22] -->
+- Device: <!-- [e.g. iPhone6] -->
+- OS: <!-- [e.g. iOS8.1] -->
+- Browser/application: <!-- [e.g. stock browser, safari, Adobe Acrobat Reader] -->
+- Version: <!-- [e.g. 22] -->
 
 **E-book reader:**
- - Device: <!-- [e.g. Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
- - Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle] -->
+- Device: <!-- [e.g. Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
+- Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle] -->
 
 **Additional context:**
 <!-- Add any other context about the problem here. -->
