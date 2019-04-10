@@ -40,12 +40,12 @@ assignees: ''
 **Screenshots**
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-**Desktop (please complete the following information):**
+**Desktop:**
  - OS: <!--[e.g. iOS] -->
  - Browser/application: <!-- [e.g. chrome, safari, Evince, Adobe Acrobat Reader] -->
  - Version: <!-- [e.g. 22] -->
 
-**Smartphone (please complete the following information):**
+**Smartphone:**
  - Device: <!-- [e.g. iPhone6] -->
  - OS: <!-- [e.g. iOS8.1] -->
  - Browser/application: <!-- [e.g. stock browser, safari, Adobe Acrobat Reader] -->
