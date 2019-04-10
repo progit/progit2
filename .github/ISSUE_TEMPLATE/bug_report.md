@@ -37,7 +37,7 @@ assignees: ''
 
 **Desktop (please complete the following information):**
  - OS: <!--[e.g. iOS] -->
- - Browser: <!-- [e.g. chrome, safari] -->
+ - Browser/application: <!-- [e.g. chrome, safari, Evince, Adobe Acrobat Reader] -->
  - Version: <!-- [e.g. 22] -->
 
 **Smartphone (please complete the following information):**
