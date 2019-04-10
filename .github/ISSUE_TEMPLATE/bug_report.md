@@ -48,7 +48,7 @@ assignees: ''
 
  **E-book reader:**
  - Device: <!-- [e.g. Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
- - Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle]
+ - Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle] -->
 
 **Additional context:**
 <!-- Add any other context about the problem here. -->
