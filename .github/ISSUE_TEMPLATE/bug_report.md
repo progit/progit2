@@ -19,9 +19,7 @@ assignees: ''
 - this bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
 **This bug report is about:**
-<!--  Use [x] to mark the check-box. -->
-- [ ] the pdf.
-- [ ] the Pro Git 2 book on the [website](https://www.git-scm.com/book/en/v2).
+<!--  Is this bug about the pdf, or the [website](https://www.git-scm.com/book/en/v2)?-->
 
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
