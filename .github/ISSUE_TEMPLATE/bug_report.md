@@ -7,17 +7,16 @@ assignees: ''
 
 ---
 
-**I confirm:**
-<!--  Use [x] to mark the check-box. -->
-- [ ] I haven't found an existing/similar bug report for my bug.
-- [ ] this bug report is about a single actionable bug.
-- [ ] if this issue has been spotted in the pdf, I've checked that the problem is also present on the [website](https://www.git-scm.com/book/en/v2)
-- [ ] this bug is about the second version of the Git Pro book in English, as found on https://www.git-scm.com/book/en/v2 or the pdf.
-- [ ] this bug is **not** about a translation, if so please file a bug with the translation project. You can find a table of translation projects here: [progit2/TRANSLATING.md](https://github.com/progit/progit2/blob/master/TRANSLATING.md)
-- [ ] this bug is **not** about .epub or .mobi files.
-- [ ] this bug is **not** about the git-scm.com site, if so please file a bug here: [git-scm.com/issues/new](https://github.com/git/git-scm.com/issues/new)
-- [ ] this bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
-- [ ] this bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
+**Before filing a bug check the following:**
+- I haven't found an existing/similar bug report for my bug.
+- this bug report is about a single actionable bug.
+- if this issue has been spotted in the pdf, I've checked that the problem is also present on the [website](https://www.git-scm.com/book/en/v2)
+- this bug is about the second version of the Git Pro book in English, as found on https://www.git-scm.com/book/en/v2 or the pdf.
+- this bug is **not** about a translation, if so please file a bug with the translation project. You can find a table of translation projects here: [progit2/TRANSLATING.md](https://github.com/progit/progit2/blob/master/TRANSLATING.md)
+- this bug is **not** about .epub or .mobi files.
+- this bug is **not** about the git-scm.com site, if so please file a bug here: [git-scm.com/issues/new](https://github.com/git/git-scm.com/issues/new)
+- this bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
+- this bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
 **This bug report is about:**
 <!--  Use [x] to mark the check-box. -->
