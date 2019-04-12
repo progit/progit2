@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **I confirm:**
-<!-- To mark a task as complete, use [x] -->
+<!--  Use [x] to mark the check-box. -->
 - [ ] I haven't found an existing/similar bug report for my bug.
 - [ ] this bug report is about a single actionable bug.
 - [ ] if this issue has been spotted on the git-scm.com site, I've cross-checked that my issue is still present in the current pdf version.
@@ -20,7 +20,7 @@ assignees: ''
 - [ ] this bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
 **This bug report is about:**
-<!--  Use [x] to mark a box. -->
+<!--  Use [x] to mark the check-box. -->
 - [ ] the pdf.
 - [ ] the Pro Git 2 book on the [website](https://www.git-scm.com/book/en/v2).
 
