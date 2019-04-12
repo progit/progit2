@@ -19,8 +19,8 @@ assignees: ''
 - This bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
 - This bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
-**This bug affects:**
-<!--  Is this bug about the pdf, or the [website](https://www.git-scm.com/book/en/v2)?-->
+**What version of the book is affected?**
+<!--  Is this bug about the pdf or the [online book](https://www.git-scm.com/book/en/v2), or both?-->
 
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
