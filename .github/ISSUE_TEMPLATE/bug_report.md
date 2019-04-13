@@ -22,7 +22,7 @@ assignees: ''
 <!-- It's important for us to know if the problem is in the source or in the tooling for the pdf/epub/mobi files. -->
 <!-- Therefore, please write whether the problem is with the files, the online book, or both. -->
 
-**Describe the bug**
+**Describe the bug:**
 <!-- A clear and concise description of what the bug is. -->
 
 **Steps to reproduce:**
@@ -32,10 +32,10 @@ assignees: ''
 <!-- 3. Scroll down to '....' -->
 <!-- 4. See error -->
 
-**Expected behavior**
+**Expected behavior:**
 <!-- A clear and concise description of what you expected to happen. -->
 
-**Screenshots**
+**Screenshots:**
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Additional context:**
