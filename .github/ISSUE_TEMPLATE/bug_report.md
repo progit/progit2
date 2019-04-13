@@ -39,17 +39,20 @@ assignees: ''
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Desktop:**
+<!-- If you've used a desktop/laptop to access the content, please fill in this form. -->
 - OS: <!--[e.g. iOS] -->
 - Browser/application: <!-- [e.g. chrome, safari, Evince, Adobe Acrobat Reader] -->
 - Version: <!-- [e.g. 22] -->
 
 **Smartphone:**
+<!-- If you've used a smartphone to access the content, please fill in this form. -->
 - Device: <!-- [e.g. iPhone6] -->
 - OS: <!-- [e.g. iOS8.1] -->
 - Browser/application: <!-- [e.g. stock browser, safari, Adobe Acrobat Reader] -->
 - Version: <!-- [e.g. 22] -->
 
 **E-book reader:**
+<!-- If you've used a e-book reader to access the content, please fill in this form. -->
 - Device: <!-- [e.g. Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
 - Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle] -->
 
