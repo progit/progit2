@@ -7,18 +7,16 @@ assignees: ''
 
 ---
 
-**Before filing a bug please check the following:**
-- There's no existing/similar bug report.
-- This bug report is about a single actionable bug.
-- This bug is about the Pro Git book, version 2, English language.
-- This bug is about the book as found on the [website](https://www.git-scm.com/book/en/v2) or the pdf.
-- If you found a issue in the pdf/epub/mobi files, you've checked if the problem is also present in the Pro Git book on the [website](https://www.git-scm.com/book/en/v2).
-- This bug is **not** about a translation, if so please file a bug with the translation project. You can find a table of translation projects here: [progit2/TRANSLATING.md](https://github.com/progit/progit2/blob/master/TRANSLATING.md)
-- This bug is **not** about the git-scm.com site, if so please file a bug here: [git-scm.com/issues/new](https://github.com/git/git-scm.com/issues/new)
-- This bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
-- This bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
-
----
+<!-- Before filing a bug please check the following: -->
+<!-- * There's no existing/similar bug report. -->
+<!-- * This bug report is about a single actionable bug. -->
+<!-- * This bug is about the Pro Git book, version 2, English language. -->
+<!-- * This bug is about the book as found on the [website](https://www.git-scm.com/book/en/v2) or the pdf. -->
+<!-- * If you found a issue in the pdf/epub/mobi files, you've checked if the problem is also present in the Pro Git book on the [website](https://www.git-scm.com/book/en/v2). -->
+<!-- * This bug is **not** about a translation, if so please file a bug with the translation project. You can find a table of translation projects here: [progit2/TRANSLATING.md](https://github.com/progit/progit2/blob/master/TRANSLATING.md) -->
+<!-- * This bug is **not** about the git-scm.com site, if so please file a bug here: [git-scm.com/issues/new](https://github.com/git/git-scm.com/issues/new) -->
+<!-- * This bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community) -->
+<!-- * This bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git). -->
 
 **Which version of the book is affected?**
 <!-- It's important for us to know if the problem is in the source or in the tooling for the pdf/epub/mobi files. -->
