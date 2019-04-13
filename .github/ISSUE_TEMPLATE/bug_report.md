@@ -18,8 +18,9 @@ assignees: ''
 - This bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
 - This bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
-**What version of the book is affected?**
-<!--  Is this bug about the pdf or the [online book](https://www.git-scm.com/book/en/v2), or both?-->
+**Which version of the book is affected?**
+<!-- It's important for us to know if the problem is in the source or in the tooling for the pdf/epub/mobi files. -->
+<!-- Therefore, please write whether the problem is with the files, the online book, or both. -->
 
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
