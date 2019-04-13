@@ -18,6 +18,8 @@ assignees: ''
 - This bug is **not** about git the program itself, if so please file a bug here: [git-scm.com/community](https://git-scm.com/community)
 - This bug is **not** about Git for Windows, if so please file a bug here: [git-for-windows/git](https://github.com/git-for-windows/git).
 
+---
+
 **Which version of the book is affected?**
 <!-- It's important for us to know if the problem is in the source or in the tooling for the pdf/epub/mobi files. -->
 <!-- Therefore, please write whether the problem is with the files, the online book, or both. -->
@@ -38,6 +40,12 @@ assignees: ''
 **Screenshots**
 <!-- If applicable, add screenshots to help explain your problem. -->
 
+**Additional context:**
+<!-- Add any other context about the problem here. -->
+<!-- You can also put references to similar bugs here. -->
+
+---
+
 **Desktop:**
 <!-- If you've used a desktop/laptop to access the content, please fill in this form. -->
 - OS: <!--[e.g. iOS] -->
@@ -55,7 +63,3 @@ assignees: ''
 <!-- If you've used a e-book reader to access the content, please fill in this form. -->
 - Device: <!-- [e.g. Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
 - Software Update: <!-- [e.g. version 5.11.1 for Amazon Kindle] -->
-
-**Additional context:**
-<!-- Add any other context about the problem here. -->
-<!-- You can also put references to similar bugs here. -->
