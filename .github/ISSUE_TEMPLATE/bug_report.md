@@ -42,8 +42,6 @@ assignees: ''
 <!-- Add any other context about the problem here. -->
 <!-- You can also put references to similar bugs here. -->
 
----
-
 **Desktop:**
 <!-- If you've used a desktop/laptop to access the content, please fill in this form. -->
 - OS: <!--[e.g. iOS] -->
