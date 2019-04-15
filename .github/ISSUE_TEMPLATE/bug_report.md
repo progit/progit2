@@ -44,18 +44,21 @@ assignees: ''
 
 **Desktop:**
 <!-- If you've used a desktop/laptop to access the content, please fill in this form. -->
-- OS: <!--[iOS] -->
-- Browser/application: <!-- [chrome, safari, Evince, Adobe Acrobat Reader] -->
-- Version: <!-- [22] -->
+<!-- Example: Windows 10 Home Edition, Firefox, version 66.0.2 -->
+- Operating system:
+- Browser/application:
+- Browser/application version:
 
 **Smartphone:**
 <!-- If you've used a smartphone to access the content, please fill in this form. -->
-- Device: <!-- [iPhone6] -->
-- OS: <!-- [iOS8.1] -->
-- Browser/application: <!-- [stock browser, safari, Adobe Acrobat Reader] -->
-- Version: <!-- [22] -->
+<!-- Example: iPhone 6, iOS 12.2, Safari, version 22 -->
+- Device:
+- OS:
+- Browser/application:
+- Browser/application version:
 
 **E-book reader:**
 <!-- If you've used a e-book reader to access the content, please fill in this form. -->
-- Device: <!-- [Amazon Kindle Paperwhite 10th generation, Kobo Clara HD] -->
-- Software Update: <!-- [version 5.11.1 for Amazon Kindle] -->
+<!-- Example: Amazon Kindle Paperwhite 10th generation, software update 5.11.1 -->
+- Device:
+- Software Update:
