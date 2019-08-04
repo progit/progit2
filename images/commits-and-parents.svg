@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="797px" height="264px" viewBox="0 0 797 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/commits-and-parents</title>
+    <desc>Created with Sketch.</desc>
+    <g id="03---Commits-and-Parents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="commit-(v)" transform="translate(10.000000, 23.000000)">
+            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"></rect>
+            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+                <tspan x="108" y="23">size</tspan>
+                <tspan x="108" y="37">92ec2</tspan>
+                <tspan x="108" y="51"></tspan>
+                <tspan x="108" y="65">Scott</tspan>
+                <tspan x="108" y="79">Scott</tspan>
+            </text>
+            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
+                <tspan x="54.7929688" y="23" text-decoration="underline">commit</tspan>
+                <tspan x="98" y="23"></tspan>
+                <tspan x="69.1953125" y="37">tree</tspan>
+                <tspan x="54.7929688" y="51">parent</tspan>
+                <tspan x="54.7929688" y="65">author</tspan>
+                <tspan x="33.1894531" y="79">committer</tspan>
+            </text>
+            <text id="The-initial-commit-o" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="16.0837402" y="96">The initial commit of my project</tspan>
+            </text>
+        </g>
+        <g id="symref" transform="translate(40.000000, 203.000000)">
+            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
+            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="38.5659877" y="29">Snapshot A</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M112,194 L112,147 L113,147 L113,194 L117,194 L112.5,203 L108,194 L112,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="commit-(v)-2" transform="translate(294.000000, 23.000000)">
+            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"></rect>
+            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+                <tspan x="108" y="23">size</tspan>
+                <tspan x="108" y="37">184ca</tspan>
+                <tspan x="108" y="51">98ca9</tspan>
+                <tspan x="108" y="65">Scott</tspan>
+                <tspan x="108" y="79">Scott</tspan>
+            </text>
+            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
+                <tspan x="54.7929688" y="23" text-decoration="underline">commit</tspan>
+                <tspan x="98" y="23"></tspan>
+                <tspan x="69.1953125" y="37">tree</tspan>
+                <tspan x="54.7929688" y="51">parent</tspan>
+                <tspan x="54.7929688" y="65">author</tspan>
+                <tspan x="33.1894531" y="79">committer</tspan>
+            </text>
+            <text id="Fixed-bug-#1328---st" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="16.081543" y="96">Fixed bug #1328 - stack overflow </tspan>
+                <tspan x="37.6894531" y="106">under certain conditions</tspan>
+            </text>
+        </g>
+        <g id="symref-2" transform="translate(324.000000, 203.000000)">
+            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
+            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="38.5659877" y="29">Snapshot B</tspan>
+            </text>
+        </g>
+        <path id="Line-2" d="M396,194 L396,147 L397,147 L397,194 L401,194 L396.5,203 L392,194 L396,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="98ca9" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+            <tspan x="94.4970703" y="20">98ca9</tspan>
+        </text>
+        <text id="34ac2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+            <tspan x="378.49707" y="20">34ac2</tspan>
+        </text>
+        <path id="Line" d="M224,85 L294,85 L294,86 L224,86 L224,90 L215,85.5 L224,81 L224,85 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="commit-(v)-3" transform="translate(453.000000, -191.000000)">
+            <rect id="Rectangle-12" fill="#EFEFE7" x="126" y="214" width="205" height="124"></rect>
+            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+                <tspan x="234" y="237">size</tspan>
+                <tspan x="234" y="251">0de24</tspan>
+                <tspan x="234" y="265">34ac2</tspan>
+                <tspan x="234" y="279">Scott</tspan>
+                <tspan x="234" y="293">Scott</tspan>
+            </text>
+            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
+                <tspan x="180.792969" y="237" text-decoration="underline">commit</tspan>
+                <tspan x="224" y="237"></tspan>
+                <tspan x="195.195312" y="251">tree</tspan>
+                <tspan x="180.792969" y="265">parent</tspan>
+                <tspan x="180.792969" y="279">author</tspan>
+                <tspan x="159.189453" y="293">committer</tspan>
+            </text>
+            <text id="add-feature-#32---ab" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="131.279785" y="310">add feature #32 - ability to add new </tspan>
+                <tspan x="142.081543" y="320">formats to the central interface</tspan>
+            </text>
+        </g>
+        <g id="symref-3" transform="translate(609.000000, 203.000000)">
+            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
+            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="38.5659877" y="29">Snapshot C</tspan>
+            </text>
+        </g>
+        <path id="Line-4" d="M681,194 L681,147 L682,147 L682,194 L686,194 L681.5,203 L677,194 L681,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="f30ab" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
+            <tspan x="663.494141" y="20">f30ab</tspan>
+        </text>
+        <path id="Line-3" d="M509,85 L579,85 L579,86 L509,86 L509,90 L500,85.5 L509,81 L509,85 Z" fill="#8F8981" fill-rule="nonzero"></path>
+    </g>
+</svg>

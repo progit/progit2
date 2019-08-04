@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="221px" viewBox="0 0 401 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/reset-workflow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="07---Workflow-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M59.5,26.4108529 L59.5,210.489473" id="Line-6" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M339.5,26.4108529 L339.5,210.489473" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M199.5,26.4108529 L199.5,210.489473" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref-(2-line)" transform="translate(3.471627, 4.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31.8862453" y="15.53125">Working</tspan>
+                <tspan x="25.1994429" y="28.53125">Directory</tspan>
+            </text>
+        </g>
+        <g id="symref-(2-line)" transform="translate(144.209946, 4.000000)">
+            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="38.5730478" y="21">Index</tspan>
+            </text>
+        </g>
+        <g id="other-(2-line)" transform="translate(284.948265, 4.000000)">
+            <rect id="Rectangle-2" fill="#EFEFE7" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master-4" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="40.8877102" y="22.03125">HEAD</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M123.987092,76.3857249 L339.989286,76.0000096 L340.010714,87.9999904 L124.00852,88.3857058 L124.054948,114.385664 L59.997908,82.5 L123.940664,50.3857663 L123.987092,76.3857249 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M136,140 L59.997908,140 L59.997908,128 L136,128 L136,102 L200,134 L136,166 L136,140 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M275.471924,186.362509 L199.971186,185.999931 L200.028814,174.000069 L275.529551,174.362647 L275.65441,148.362947 L339.5,180.669922 L275.347066,212.362209 L275.471924,186.362509 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="Checkout-the-project" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+            <tspan x="139.631975" y="86">Checkout the project</tspan>
+        </text>
+        <text id="Stage-Files" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+            <tspan x="70.7225865" y="138">Stage Files</tspan>
+        </text>
+        <text id="Commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+            <tspan x="221.939593" y="184.169922">Commit</tspan>
+        </text>
+    </g>
+</svg>

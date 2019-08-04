@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="398px" height="205px" viewBox="0 0 398 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/benevolent-dictator</title>
+    <desc>Created with Sketch.</desc>
+    <g id="05---Workflows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="goldref-(2-line)" transform="translate(281.000000, 4.000000)">
+                <rect id="Rectangle-4" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+                <text id="master-3" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="31.8862453" y="15.53125">blessed</tspan>
+                    <tspan x="21.8560417" y="28.53125">repository</tspan>
+                </text>
+            </g>
+            <g id="symref" transform="translate(19.000000, 86.000000)">
+                <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="9.56598772" y="20">lieutenant</tspan>
+                </text>
+            </g>
+            <g id="symref" transform="translate(117.000000, 86.000000)">
+                <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="9.56598772" y="20">lieutenant</tspan>
+                </text>
+            </g>
+            <g id="other-(2-line)" transform="translate(6.000000, 161.000000)" stroke="#979797">
+                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
+                <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="22.8847805" y="16.03125">developer</tspan>
+                    <tspan x="33.6865383" y="30.03125">public</tspan>
+                </text>
+            </g>
+            <g id="other-(2-line)" transform="translate(144.000000, 161.000000)" stroke="#979797">
+                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
+                <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="22.8847805" y="16.03125">developer</tspan>
+                    <tspan x="33.6865383" y="30.03125">public</tspan>
+                </text>
+            </g>
+            <g id="other-(2-line)" transform="translate(281.000000, 161.000000)" stroke="#979797">
+                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
+                <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="22.8847805" y="16.03125">developer</tspan>
+                    <tspan x="33.6865383" y="30.03125">public</tspan>
+                </text>
+            </g>
+            <path id="Line-12" d="M63.5,52 L63.5,86 L62.5,86 L62.5,52 L58.5,52 L63,43 L67.5,52 L63.5,52 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-17" d="M273,24 L106,24 L106,23 L273,23 L273,19 L282,23.5 L273,28 L273,24 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-14" d="M64,128 L64,162 L63,162 L63,128 L59,128 L63.5,119 L68,128 L64,128 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-13" d="M106.863961,49.1568542 L143.207107,85.5 L142.5,86.2071068 L106.156854,49.863961 L103.328427,52.6923882 L100.146447,43.1464466 L109.692388,46.3284271 L106.863961,49.1568542 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-15" d="M110.863961,125.156854 L147.207107,161.5 L146.5,162.207107 L110.156854,125.863961 L107.328427,128.692388 L104.146447,119.146447 L113.692388,122.328427 L110.863961,125.156854 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-16" d="M211.254678,115.016386 L299.175332,161.290414 L298.709586,162.175332 L210.788932,115.901304 L208.925946,119.440977 L203.057541,111.267127 L213.117664,111.476713 L211.254678,115.016386 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-18" d="M112.746711,82.0298026 C143.887092,65.4484934 174.121255,50.9456057 193.350863,44.9363533 C202.283607,42.1448706 214.900326,39.5508307 230.260865,37.1652218 C241.461041,35.4257489 253.459489,33.8974911 265.457695,32.5927215 C269.656881,32.1360723 273.556187,31.7399655 277.055725,31.4059555 C278.280716,31.2890374 279.368292,31.1882281 280.305965,31.1037224 C280.634248,31.0741365 280.920371,31.0486997 281.162774,31.0274363 C281.406913,31.0061332 281.406913,31.0061332 281.457422,31.0018162 L281.955606,30.959238 L282.040762,31.9556056 L281.542578,31.9981838 C281.49316,32.0024072 281.49316,32.0024072 281.250158,32.023611 C281.008541,32.0448055 280.723209,32.070172 280.395724,32.0996859 C279.459774,32.1840364 278.373947,32.2846835 277.150737,32.4014316 C273.655415,32.7350392 269.76045,33.1307051 265.565804,33.5868604 C253.581634,34.8901038 241.597707,36.4165121 230.414333,38.1533754 C215.098809,40.5319931 202.524211,43.1173729 193.649137,45.8908333 C174.501873,51.8743536 144.302005,66.3606723 113.2211,82.9101325 L115.117431,86.4291823 L105.059841,86.7371913 L110.847988,78.5063134 L112.746711,82.0298026 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
+            <path id="Line-19" d="M210.38614,81.4918985 L281.651107,35.8092274 L282.190773,36.6511065 L210.925806,82.3337776 L213.08447,85.7012942 L203.07906,86.7698331 L208.227475,78.1243819 L210.38614,81.4918985 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
+            <path id="Line-20" d="M336,153 L336,42 L337,42 L337,153 L341,153 L336.5,162 L332,153 L336,153 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
+            <path id="Line-21" d="M237.311652,155.475186 L325.411078,41.7985066 L326.201493,42.4110783 L238.102067,156.087758 L241.263727,158.538045 L232.193714,162.895208 L234.149991,153.0249 L237.311652,155.475186 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
+            <path id="Line-22" d="M124.786708,159.540772 C140.355425,156.5886 157.746279,152.339483 175.229512,146.64059 C200.10536,138.531975 221.497668,128.622838 237.610332,116.763202 C245.170892,111.198294 252.199425,105.159034 258.713507,98.717076 C271.19521,86.3735724 281.24508,73.1482 289.078475,59.9241086 C291.819306,55.2971252 294.087006,51.0015966 295.908548,47.1480311 C296.545479,45.8005699 297.081007,44.6050116 297.518506,43.5751723 C297.671318,43.2154648 297.80089,42.9023645 297.907645,42.6375982 C297.971283,42.4797681 298.012949,42.3737238 298.033065,42.3211926 L298.211873,41.854258 L299.145742,42.2118728 L298.966935,42.6788074 C298.944739,42.7367695 298.900933,42.848259 298.835093,43.0115501 C298.726052,43.281986 298.594128,43.6007695 298.438895,43.9661746 C297.996268,45.0080855 297.455314,46.2157575 296.812633,47.5753831 C294.978139,51.4563517 292.69596,55.779304 289.938855,60.4337615 C282.063865,73.7280726 271.962582,87.0211028 259.416667,99.4281082 C252.868737,105.903539 245.803447,111.974382 238.203115,117.568564 C221.991098,129.501329 200.508044,139.4525 175.539426,147.591354 C158.00596,153.306622 140.569667,157.566396 124.958342,160.526045 L125.646162,164.474511 L116.007418,161.585808 L124.101627,155.608034 L124.786708,159.540772 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
+            <g id="ref" transform="translate(20.000000, 9.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="26.4417437" y="20">dictator</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

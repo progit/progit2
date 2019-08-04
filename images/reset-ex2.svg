@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="434px" height="371px" viewBox="0 0 434 371" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/reset-ex2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="07---Reset-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-6-+-ref-(2-line)" transform="translate(302.000000, 226.000000)">
+            <rect id="Rectangle-6" stroke="#8F8981" stroke-linecap="square" x="6.94826518" y="1" width="98.5283731" height="102"></rect>
+            <g id="ref-(2-line)" transform="translate(0.948265, 0.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="110.580108" height="38"></rect>
+                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="31.8862453" y="15.53125">Working</tspan>
+                    <tspan x="25.1994429" y="28.53125">Directory</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Rectangle-5-+-symref-(2-line)" transform="translate(162.000000, 226.000000)">
+            <rect id="Rectangle-5" stroke="#8F8981" stroke-linecap="square" x="6.681573" y="1" width="98.5283731" height="102"></rect>
+            <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
+                <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="110.580108" height="38"></rect>
+                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="38.5730478" y="21">Index</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Rectangle-4-+-other-(2-line)" transform="translate(21.000000, 226.000000)">
+            <rect id="Rectangle-4" stroke="#8F8981" stroke-linecap="square" x="5.94325388" y="1" width="98.5283731" height="102"></rect>
+            <g id="other-(2-line)">
+                <g transform="translate(0.471627, 0.000000)">
+                    <rect id="Rectangle-2" fill="#EFEFE7" x="0" y="0" width="110.580108" height="38"></rect>
+                    <text id="master-4" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="40.8877102" y="22.03125">HEAD</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Line-+-symref-+-goldref" transform="translate(33.000000, 21.000000)">
+            <path id="Line" d="M43,97 L43,20 L44,20 L44,97 L48,97 L43.5,106 L39,97 L43,97 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="other">
+                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="28.5976562" y="21">HEAD</tspan>
+                </text>
+            </g>
+            <g id="goldref" transform="translate(0.000000, 45.000000)">
+                <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="108" height="33"></rect>
+                <text id="master-2" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="33.6256391" y="20">master</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="?" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="24" font-weight="normal" fill="#413932">
+            <tspan x="69.2988281" y="154">?</tspan>
+        </text>
+        <rect id="Rectangle-7" stroke="#8F8981" stroke-linecap="square" x="11" y="11" width="413" height="195"></rect>
+        <text id="Git-Repository" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="16.5917969" y="202">Git Repository</tspan>
+        </text>
+        <g id="brown" transform="translate(322.000000, 274.000000)">
+            <rect id="Rectangle-1" fill-opacity="0.35" fill="#00909A" x="0" y="0" width="75" height="45" rx="22.5"></rect>
+            <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="8.46766371" y="23">file.txt</tspan>
+                <tspan x="30.074109" y="37">v1</tspan>
+            </text>
+        </g>
+        <g id="brown-2" transform="translate(180.000000, 274.000000)">
+            <rect id="Rectangle-1" fill-opacity="0.35" fill="#00909A" x="0" y="0" width="75" height="45" rx="22.5"></rect>
+            <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="8.46766371" y="23">file.txt</tspan>
+                <tspan x="30.074109" y="37">v1</tspan>
+            </text>
+        </g>
+        <text id="git-add" font-family="RobotoMono-Regular, Roboto Mono" font-size="24" font-weight="normal" fill="#F44D27">
+            <tspan x="167.591797" y="355">git add</tspan>
+        </text>
+    </g>
+</svg>

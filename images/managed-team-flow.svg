@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="584px" height="651px" viewBox="0 0 584 651" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/managed-team-flow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="05---Managed-Team-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ref" transform="translate(157.000000, 10.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="36.4719473" y="20">Josie</tspan>
+            </text>
+        </g>
+        <path d="M199.5,43.5830129 L199.5,614.935702" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref" transform="translate(157.000000, 605.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="36.4719473" y="20">Josie</tspan>
+            </text>
+        </g>
+        <g id="ref" transform="translate(252.000000, 10.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="39.8153486" y="20">John</tspan>
+            </text>
+        </g>
+        <path d="M293.5,43.5830129 L293.5,614.935702" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref" transform="translate(252.000000, 605.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="39.8153486" y="20">John</tspan>
+            </text>
+        </g>
+        <g id="ref" transform="translate(62.000000, 10.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="29.7851449" y="20">Jessica</tspan>
+            </text>
+        </g>
+        <path d="M103.5,43.5830129 L103.5,614.935702" id="Line-15" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref" transform="translate(62.000000, 605.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="29.7851449" y="20">Jessica</tspan>
+            </text>
+        </g>
+        <path d="M400.5,43.5830129 L400.5,614.935702" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref-(2-line)" transform="translate(346.000000, 5.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31.8862453" y="15.53125">server:</tspan>
+                <tspan x="28.5401237" y="28.53125">featureA</tspan>
+            </text>
+        </g>
+        <g id="ref-(2-line)" transform="translate(346.000000, 605.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31.8862453" y="15.53125">server:</tspan>
+                <tspan x="28.5401237" y="28.53125">featureA</tspan>
+            </text>
+        </g>
+        <path d="M521.5,43.5830129 L521.5,614.935702" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="ref-(2-line)" transform="translate(467.000000, 5.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31.8862453" y="15.53125">server:</tspan>
+                <tspan x="21.8533212" y="28.53125">featureBee</tspan>
+            </text>
+        </g>
+        <g id="ref-(2-line)" transform="translate(467.000000, 605.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31.8862453" y="15.53125">server:</tspan>
+                <tspan x="21.8533212" y="28.53125">featureBee</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M209.378261,179 L401.621739,179 L401.621739,180 L209.378261,180 L209.378261,184 L200.378261,179.5 L209.378261,175 L209.378261,179 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="8.98925781" y="73.1953125">git commit</tspan>
+            <tspan x="55.1967773" y="86.1953125">(A)</tspan>
+        </text>
+        <text id="git-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="8.98925781" y="351.195312">git commit</tspan>
+            <tspan x="55.1967773" y="364.195312">(B)</tspan>
+        </text>
+        <text id="git-fetch-origin" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="242.688721" y="176">git fetch origin</tspan>
+        </text>
+        <path id="Line-5" d="M111.984881,474 L401.621739,474 L401.621739,475 L111.984881,475 L111.984881,479 L102.984881,474.5 L111.984881,470 L111.984881,474 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-fetch-origin-3" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="215.688721" y="470.195312">git fetch origin</tspan>
+        </text>
+        <path id="Line-4" d="M113,387 L522.621739,387 L522.621739,388 L113,388 L113,392 L104,387.5 L113,383 L113,387 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-fetch-origin-2" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="242.688721" y="384">git fetch origin</tspan>
+        </text>
+        <text id="git-push-origin-feat" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="167.284424" y="105.405762">git push origin featureA</tspan>
+        </text>
+        <path id="Line-7" d="M391.224138,110 L105.775862,110 L105.775862,109 L391.224138,109 L391.224138,105 L400.224138,109.5 L391.224138,114 L391.224138,110 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-push-origin-feat-3" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="167.284424" y="583.405762">git push origin featureA</tspan>
+        </text>
+        <path id="Line-11" d="M391.224138,588 L105.775862,588 L105.775862,587 L391.224138,587 L391.224138,583 L400.224138,587.5 L391.224138,592 L391.224138,588 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-push-origin-feat-2" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="215.284424" y="247.695312">git push origin featureA</tspan>
+        </text>
+        <path id="Line-8" d="M391.224138,252 L200,252 L200,251 L391.224138,251 L391.224138,247 L400.224138,251.5 L391.224138,256 L391.224138,252 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-push-origin-feat" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="316.68335" y="323.695312">git push origin featureBee</tspan>
+        </text>
+        <path id="Line-9" d="M512.995595,328 L293.004405,328 L293.004405,327 L512.995595,327 L512.995595,323 L521.995595,327.5 L512.995595,332 L512.995595,328 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-push-origin-feat" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="177.97583" y="446.195312">git push origin featureB:featureBee</tspan>
+        </text>
+        <path id="Line-10" d="M512.577093,451 L103.422907,451 L103.422907,450 L512.577093,450 L512.577093,446 L521.577093,450.5 L512.577093,455 L512.577093,451 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-6" d="M86.8393809,96.0803039 C97.5283058,93.3824054 104.420695,87.1274503 104.420695,76.0000006 C104.420695,66.7575519 99.6030739,60.8663062 91.5186934,57.5991856 C88.7019515,56.4608627 85.6785403,55.7290742 82.6490458,55.3245578 C80.8075723,55.0786731 79.3565506,54.9977198 78.4958442,54.9999872 C78.4938764,54.9999935 78.4938764,54.9999935 78.4939971,54.9999931 L77.9940039,55.0026109 L77.9887684,54.0026246 L78.4887615,54.0000069 L78.4932098,53.9999907 C79.3964408,53.9976112 80.8917188,54.0810337 82.7813971,54.3333549 C85.8884511,54.7482275 88.9914203,55.4992723 91.8933808,56.6720344 C100.327322,60.0804222 105.420695,66.3088719 105.420695,76.0000006 C105.420695,87.7126861 98.121147,94.2951523 86.9741569,97.0774872 L87.5175352,101.097669 L77.9958849,97.843721 L86.3120333,92.1787695 L86.8393751,96.0803053 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-commit-3" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="203" y="142.695312">git commit</tspan>
+            <tspan x="203" y="155.695312">(A)</tspan>
+        </text>
+        <path id="Line-16" d="M182.839381,165.080304 C193.528306,162.382405 200.420695,156.12745 200.420695,145.000001 C200.420695,135.757552 195.603074,129.866306 187.518693,126.599186 C184.701952,125.460863 181.67854,124.729074 178.649046,124.324558 C176.807572,124.078673 175.356551,123.99772 174.495844,123.999987 C174.493876,123.999994 174.493876,123.999994 174.493997,123.999993 L173.994004,124.002611 L173.988768,123.002625 L174.488762,123.000007 L174.49321,122.999991 C175.396441,122.997611 176.891719,123.081034 178.781397,123.333355 C181.888451,123.748227 184.99142,124.499272 187.893381,125.672034 C196.327322,129.080422 201.420695,135.308872 201.420695,145.000001 C201.420695,156.712686 194.121147,163.295152 182.974157,166.077487 L183.517535,170.097669 L173.995885,166.843721 L182.312033,161.178769 L182.839375,165.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="297" y="283.695312">git commit</tspan>
+            <tspan x="297" y="296.695312">(B)</tspan>
+        </text>
+        <path id="Line-18" d="M276.839381,306.080304 C287.528306,303.382405 294.420695,297.12745 294.420695,286.000001 C294.420695,276.757552 289.603074,270.866306 281.518693,267.599186 C278.701952,266.460863 275.67854,265.729074 272.649046,265.324558 C270.807572,265.078673 269.356551,264.99772 268.495844,264.999987 C268.493876,264.999994 268.493876,264.999994 268.493997,264.999993 L267.994004,265.002611 L267.988768,264.002625 L268.488762,264.000007 L268.49321,263.999991 C269.396441,263.997611 270.891719,264.081034 272.781397,264.333355 C275.888451,264.748227 278.99142,265.499272 281.893381,266.672034 C290.327322,270.080422 295.420695,276.308872 295.420695,286.000001 C295.420695,297.712686 288.121147,304.295152 276.974157,307.077487 L277.517535,311.097669 L267.995885,307.843721 L276.312033,302.178769 L276.839375,306.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-19" d="M85.8393809,374.080304 C96.5283058,371.382405 103.420695,365.12745 103.420695,354.000001 C103.420695,344.757552 98.6030739,338.866306 90.5186934,335.599186 C87.7019515,334.460863 84.6785403,333.729074 81.6490458,333.324558 C79.8075723,333.078673 78.3565506,332.99772 77.4958442,332.999987 C77.4938764,332.999994 77.4938764,332.999994 77.4939971,332.999993 L76.9940039,333.002611 L76.9887684,332.002625 L77.4887615,332.000007 L77.4932098,331.999991 C78.3964408,331.997611 79.8917188,332.081034 81.7813971,332.333355 C84.8884511,332.748227 87.9914203,333.499272 90.8933808,334.672034 C99.3273222,338.080422 104.420695,344.308872 104.420695,354.000001 C104.420695,365.712686 97.121147,372.295152 85.9741569,375.077487 L86.5175352,379.097669 L76.9958849,375.843721 L85.3120333,370.178769 L85.8393751,374.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-merge" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="15.590332" y="414.195312">git merge</tspan>
+            <tspan x="55.1967773" y="427.195312">(B)</tspan>
+        </text>
+        <path id="Line-20" d="M85.8393809,437.080304 C96.5283058,434.382405 103.420695,428.12745 103.420695,417.000001 C103.420695,407.757552 98.6030739,401.866306 90.5186934,398.599186 C87.7019515,397.460863 84.6785403,396.729074 81.6490458,396.324558 C79.8075723,396.078673 78.3565506,395.99772 77.4958442,395.999987 C77.4938764,395.999994 77.4938764,395.999994 77.4939971,395.999993 L76.9940039,396.002611 L76.9887684,395.002625 L77.4887615,395.000007 L77.4932098,394.999991 C78.3964408,394.997611 79.8917188,395.081034 81.7813971,395.333355 C84.8884511,395.748227 87.9914203,396.499272 90.8933808,397.672034 C99.3273222,401.080422 104.420695,407.308872 104.420695,417.000001 C104.420695,428.712686 97.121147,435.295152 85.9741569,438.077487 L86.5175352,442.097669 L76.9958849,438.843721 L85.3120333,433.178769 L85.8393751,437.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-merge" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="15.590332" y="502.195312">git merge</tspan>
+            <tspan x="55.1967773" y="515.195312">(A)</tspan>
+        </text>
+        <path id="Line-21" d="M85.8393809,525.080304 C96.5283058,522.382405 103.420695,516.12745 103.420695,505.000001 C103.420695,495.757552 98.6030739,489.866306 90.5186934,486.599186 C87.7019515,485.460863 84.6785403,484.729074 81.6490458,484.324558 C79.8075723,484.078673 78.3565506,483.99772 77.4958442,483.999987 C77.4938764,483.999994 77.4938764,483.999994 77.4939971,483.999993 L76.9940039,484.002611 L76.9887684,483.002625 L77.4887615,483.000007 L77.4932098,482.999991 C78.3964408,482.997611 79.8917188,483.081034 81.7813971,483.333355 C84.8884511,483.748227 87.9914203,484.499272 90.8933808,485.672034 C99.3273222,489.080422 104.420695,495.308872 104.420695,505.000001 C104.420695,516.712686 97.121147,523.295152 85.9741569,526.077487 L86.5175352,530.097669 L76.9958849,526.843721 L85.3120333,521.178769 L85.8393751,525.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="8.98925781" y="552.195312">git commit</tspan>
+            <tspan x="55.1967773" y="565.195312">(A)</tspan>
+        </text>
+        <path id="Line-22" d="M85.8393809,575.080304 C96.5283058,572.382405 103.420695,566.12745 103.420695,555.000001 C103.420695,545.757552 98.6030739,539.866306 90.5186934,536.599186 C87.7019515,535.460863 84.6785403,534.729074 81.6490458,534.324558 C79.8075723,534.078673 78.3565506,533.99772 77.4958442,533.999987 C77.4938764,533.999994 77.4938764,533.999994 77.4939971,533.999993 L76.9940039,534.002611 L76.9887684,533.002625 L77.4887615,533.000007 L77.4932098,532.999991 C78.3964408,532.997611 79.8917188,533.081034 81.7813971,533.333355 C84.8884511,533.748227 87.9914203,534.499272 90.8933808,535.672034 C99.3273222,539.080422 104.420695,545.308872 104.420695,555.000001 C104.420695,566.712686 97.121147,573.295152 85.9741569,576.077487 L86.5175352,580.097669 L76.9958849,576.843721 L85.3120333,571.178769 L85.8393751,575.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="git-merge" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#413932">
+            <tspan x="203.5" y="207.695312">git merge</tspan>
+            <tspan x="203.5" y="220.695312">(A)</tspan>
+        </text>
+        <path id="Line-17" d="M182.839381,230.080304 C193.528306,227.382405 200.420695,221.12745 200.420695,210.000001 C200.420695,200.757552 195.603074,194.866306 187.518693,191.599186 C184.701952,190.460863 181.67854,189.729074 178.649046,189.324558 C176.807572,189.078673 175.356551,188.99772 174.495844,188.999987 C174.493876,188.999994 174.493876,188.999994 174.493997,188.999993 L173.994004,189.002611 L173.988768,188.002625 L174.488762,188.000007 L174.49321,187.999991 C175.396441,187.997611 176.891719,188.081034 178.781397,188.333355 C181.888451,188.748227 184.99142,189.499272 187.893381,190.672034 C196.327322,194.080422 201.420695,200.308872 201.420695,210.000001 C201.420695,221.712686 194.121147,228.295152 182.974157,231.077487 L183.517535,235.097669 L173.995885,231.843721 L182.312033,226.178769 L182.839375,230.080305 Z" fill="#8F8981" fill-rule="nonzero"></path>
+    </g>
+</svg>
