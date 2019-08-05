@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="594px" height="220px" viewBox="0 0 594 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/merging-workflows-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="05---Merging-Workflows-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line-+-brown-2" transform="translate(6.000000, 66.000000)">
+            <g id="brown">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C1</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-+-brown-3" transform="translate(95.000000, 66.000000)">
+            <path id="Line" d="M9,16 L54,16 L54,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown" transform="translate(30.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C2</tspan>
+                </text>
+            </g>
+        </g>
+        <path id="Line" d="M223,82 L268,82 L268,83 L223,83 L223,87 L214,82.5 L223,78 L223,82 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="brown" transform="translate(244.000000, 66.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2988281" y="21">C7</tspan>
+            </text>
+        </g>
+        <g id="Line-+-brown-5" transform="translate(209.000000, 94.000000)">
+            <path id="Line" d="M7.83266063,4.82805823 L59.1939201,39.3640775 L58.6359225,40.1939201 L7.27466304,5.6579008 L5.04267269,8.97727107 L0.0850787153,0.221001205 L10.064651,1.50868795 L7.83266063,4.82805823 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown" transform="translate(35.000000, 23.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C3</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-+-brown-6" transform="translate(333.000000, 117.000000)">
+            <path id="Line" d="M9,16 L54,16 L54,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown" transform="translate(30.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C4</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-+-brown-8" transform="translate(194.000000, 99.000000)">
+            <path id="Line" d="M2.84615918,8.33005755 C10.6171168,29.1929194 19.0462258,47.3740677 26.6689035,56.4388736 C28.6262346,58.7665105 31.3337528,61.2988892 34.7083199,64.0018003 C38.5129603,67.0491852 43.0993832,70.261845 48.2992072,73.5772568 C53.8602248,77.122966 59.8202853,80.597688 65.7805632,83.8555841 C67.8667939,84.9959206 69.8038994,86.0276258 71.5420924,86.9325318 C72.1502375,87.2491331 72.6900017,87.5272316 73.1551632,87.7645577 C73.4338878,87.9067635 73.625574,88.0036618 73.7240007,88.0529836 L74.1710171,88.2769842 L73.7230158,89.1710171 L73.2759993,88.9470164 C73.1754448,88.8966284 72.9816047,88.7986413 72.7006946,88.6553205 C72.2331314,88.416769 71.6909349,88.1374173 71.0803198,87.8195301 C69.3363407,86.9116119 67.3933116,85.8767518 65.3009357,84.7330563 C59.3223379,81.4651465 53.3435226,77.9794904 47.7615895,74.4204455 C42.5337132,71.0871475 37.9189949,67.8546677 34.0831655,64.7823014 C30.6615423,62.0417 27.9084742,59.4667179 25.9035414,57.0824735 C18.1782741,47.8956692 9.7186976,29.6478502 1.90478736,8.66765425 L-1.86649704,10.0201201 L-0.668785489,0.0293499614 L6.60520365,6.98198126 L2.84615918,8.33005755 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown" transform="translate(50.000000, 71.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C5</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-+-brown-7" transform="translate(333.000000, 170.000000)">
+            <path id="Line" d="M9,16 L54,16 L54,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown" transform="translate(30.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2988281" y="21">C6</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-2-+-ref" transform="translate(246.000000, 9.000000)">
+            <path id="Line-2" d="M42,48 L42,5 L43,5 L43,48 L47,48 L42.5,57 L38,48 L42,48 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="ref">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="33.1285461" y="20">master</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-2-+-ref-2" transform="translate(452.000000, 117.000000)">
+            <path id="Line-2" d="M9,16 L69,16 L69,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="ref" transform="translate(26.000000, 0.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="16.41154" y="20">ruby_client</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-2-+-ref-3" transform="translate(452.000000, 170.000000)">
+            <path id="Line-2" d="M9,16 L69,16 L69,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="ref" transform="translate(26.000000, 0.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="19.7549412" y="20">php_client</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="302px" height="123px" viewBox="0 0 302 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/centralized</title>
+    <desc>Created with Sketch.</desc>
+    <g id="05---Workflows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="goldref-(2-line)" transform="translate(87.000000, 3.000000)">
+                <rect id="Rectangle-4" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
+                <text id="master-3" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35.2296466" y="15.53125">shared</tspan>
+                    <tspan x="21.8560417" y="28.53125">repository</tspan>
+                </text>
+            </g>
+            <g id="ref" transform="translate(113.000000, 87.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="10.1739238" y="20">developer</tspan>
+                </text>
+            </g>
+            <g id="ref" transform="translate(14.000000, 87.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="10.1739238" y="20">developer</tspan>
+                </text>
+            </g>
+            <g id="ref" transform="translate(211.000000, 87.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
+                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="10.1739238" y="20">developer</tspan>
+                </text>
+            </g>
+            <path id="Line" d="M78.1908863,78.8268417 L94.9349564,48.6875154 L91.4383273,46.7449437 L99.7428215,41.0629214 L99.3057428,51.11573 L95.8091137,49.1731583 L79.0650436,79.3124846 L82.5616727,81.2550563 L74.2571785,86.9370786 L74.6942572,76.88427 L78.1908863,78.8268417 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-3" d="M142,78 L142,50 L138,50 L142.5,41 L147,50 L143,50 L143,78 L147,78 L142.5,87 L138,78 L142,78 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M206.814708,79.3902857 L189.319427,49.1099919 L185.855967,51.1111023 L185.249861,41.0670675 L193.648752,46.6086039 L190.185292,48.6097143 L207.680573,78.8900081 L211.144033,76.8888977 L211.750139,86.9329325 L203.351248,81.3913961 L206.814708,79.3902857 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="516px" height="227px" viewBox="0 0 516 227" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/lifecycle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M323.997908,112.5 L183.997908,112" id="path-1"></path>
+    </defs>
+    <g id="02---lifecycle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M43.5,17.4692706 L43.5,213.353806" id="Line-6" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M323.5,17.4692706 L323.5,213.353806" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M183.5,17.4692706 L183.5,213.353806" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M463.5,16.937203 L463.5,212.821739" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="goldref" transform="translate(281.000000, 0.000000)">
+            <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="108" height="33"></rect>
+            <text id="master-2" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="26.9361163" y="20">Modified</tspan>
+            </text>
+        </g>
+        <path id="Line-4" d="M255.475131,118.755317 L183.974694,118.499959 L184.021122,105.500041 L255.521559,105.7554 L255.621558,77.7555787 L324.497905,112.501786 L255.375131,146.755139 L255.475131,118.755317 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-9" d="M393.989683,73.0602616 L43.987503,72.4999917 L44.0083129,59.5000083 L394.010493,60.0602782 L394.055314,32.0603141 L462.999999,66.6707223 L393.944862,101.060226 L393.989683,73.0602616 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-10" d="M112.497908,147.5 L183.044991,147.5 L183.044991,160.5 L112.497908,160.5 L112.497908,188.5 L43.497908,154 L112.497908,119.5 L112.497908,147.5 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M394,147.5 L323.997908,147.5 L323.997908,134.5 L394,134.5 L394,106.5 L463,141 L394,175.5 L394,147.5 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M252.486149,179.877252 L462.988351,179.50001 L463.011649,192.49999 L252.509447,192.877231 L252.559625,220.877186 L183.497909,186.500896 L252.435971,151.877297 L252.486149,179.877252 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <text id="Edit-the-file" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#FFFFFF">
+            <tspan x="195.590332" y="116">Edit the file</tspan>
+        </text>
+        <text id="Add-the-file" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#FFFFFF">
+            <tspan x="57.3908691" y="70.1699219">Add the file</tspan>
+        </text>
+        <text id="Remove-the-file" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#FFFFFF">
+            <tspan x="76.9892578" y="157.03125">Remove the file</tspan>
+        </text>
+        <text id="Stage-the-file" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#FFFFFF">
+            <tspan x="331.789795" y="145.169922">Stage the file</tspan>
+        </text>
+        <g id="other">
+            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="10.5947266" y="21">Untracked</tspan>
+            </text>
+        </g>
+        <g id="symref" transform="translate(140.000000, 0.000000)">
+            <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="9.5632673" y="20">Unmodified</tspan>
+            </text>
+        </g>
+        <text id="Commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11" font-weight="normal" fill="#FFFFFF">
+            <tspan x="318.696777" y="190">Commit</tspan>
+        </text>
+        <g id="ref" transform="translate(409.000000, 0.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="33.1285461" y="20">Staged</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

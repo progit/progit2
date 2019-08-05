@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="673px" height="356px" viewBox="0 0 673 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/data-model-4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-89" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Line-2" d="M346,60 L274,60 L274,59 L346,59 L346,55 L355,59.5 L346,64 L346,60 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-6" d="M525,293 L444,293 L444,292 L525,292 L525,288 L534,292.5 L525,297 L525,293 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-10" d="M640,209 L649.12468,209 L649.12468,60 L444,60 L444,59 L650.12468,59 L650.12468,210 L640,210 L640,214 L631,209.5 L640,205 L640,209 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-11" d="M433.101292,320.295033 L454.728487,345.451813 L662.162775,345.451813 L662.162775,18 L459.134997,18 L427.2289,54.5613358 L426.475455,53.9038247 L458.680433,17 L663.162775,17 L663.162775,346.451813 L454.269442,346.451813 L432.342993,320.94694 L429.309797,323.554568 L426.85498,313.796296 L436.134487,317.687405 L433.101292,320.295033 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-7" d="M526.214803,207.536456 L443.877413,182.835239 L444.164761,181.877413 L526.502151,206.57863 L527.651542,202.747325 L534.978913,209.643674 L525.065411,211.367761 L526.214803,207.536456 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-9" d="M525.688881,115.110837 L443.828184,73.7205964 L444.279404,72.8281836 L526.140101,114.218424 L527.944981,110.648773 L533.946206,118.72561 L523.884002,118.680488 L525.688881,115.110837 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M525.451935,144.280044 L444.153847,167.116586 L443.883414,166.153847 L525.181502,143.317305 L524.099773,139.466349 L533.981369,141.364784 L526.533664,148.131 L525.451935,144.280044 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M255,143 L255,59 L256,59 L256,143 L260,143 L255.5,152 L251,143 L255,143 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M255,259 L255,175 L256,175 L256,259 L260,259 L255.5,268 L251,259 L255,259 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="brown" transform="translate(535.000000, 109.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="&quot;version-2&quot;" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="8.89355469" y="29">"version 2"</tspan>
+            </text>
+            <text id="1f7a7a" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="10.295166" y="12">1f7a7a</tspan>
+            </text>
+        </g>
+        <g id="brown-4" transform="translate(535.000000, 187.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="&quot;new-file&quot;" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="12.4912109" y="29">"new file"</tspan>
+            </text>
+            <text id="fa49b0" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="10.295166" y="12">fa49b0</tspan>
+            </text>
+        </g>
+        <g id="brown-5" transform="translate(535.000000, 271.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="&quot;version-1&quot;" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="8.89355469" y="29">"version 1"</tspan>
+            </text>
+            <text id="83baae" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
+                <tspan x="10.2973633" y="12">83baae</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-2" transform="translate(452.000000, 285.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"></rect>
+            <text id="test.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="3.1953125" y="11">test.txt</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-5" transform="translate(452.000000, 147.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"></rect>
+            <text id="test.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="3.1953125" y="11">test.txt</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-6" transform="translate(452.000000, 85.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"></rect>
+            <text id="test.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="3.1953125" y="11">test.txt</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-4" transform="translate(458.000000, 52.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"></rect>
+            <text id="new.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0.795898438" y="11">new.txt</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-7" transform="translate(458.000000, 187.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"></rect>
+            <text id="new.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0.795898438" y="11">new.txt</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-3" transform="translate(468.000000, 10.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="34" height="15"></rect>
+            <text id="bak" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="6.19824219" y="11">bak</tspan>
+            </text>
+        </g>
+        <g id="brown-2" transform="translate(355.000000, 36.000000)">
+            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"></rect>
+            <text id="tree" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30.0976563" y="29">tree</tspan>
+            </text>
+            <text id="3c4e9c" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="6.29736328" y="12">3c4e9c</tspan>
+            </text>
+        </g>
+        <g id="brown-6" transform="translate(194.000000, 36.000000)">
+            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"></rect>
+            <text id="third-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16.1338778" y="28">third commit</tspan>
+            </text>
+            <text id="1a410e" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8.29736328" y="13">1a410e</tspan>
+            </text>
+        </g>
+        <path id="Line-3" d="M346,176 L274,176 L274,175 L346,175 L346,171 L355,175.5 L346,180 L346,176 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="brown-8" transform="translate(194.000000, 152.000000)">
+            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"></rect>
+            <text id="second-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="12.5332919" y="28">second commit</tspan>
+            </text>
+            <text id="cac0ca" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8.29736328" y="13">cac0ca</tspan>
+            </text>
+        </g>
+        <path id="Line-3" d="M346,292 L274,292 L274,291 L346,291 L346,287 L355,291.5 L346,296 L346,292 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="brown-8" transform="translate(194.000000, 268.000000)">
+            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"></rect>
+            <text id="first-commit" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16.1309482" y="28">first commit</tspan>
+            </text>
+            <text id="fdf4fc" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="8.29077148" y="13">fdf4fc</tspan>
+            </text>
+        </g>
+        <g id="Line-12-+-brown-9" transform="translate(10.000000, 152.000000)">
+            <path id="Line-12" d="M175,24 L103,24 L103,23 L175,23 L175,19 L184,23.5 L175,28 L175,24 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown-9">
+                <rect id="Rectangle-1" fill="#F44D27" x="0" y="0" width="139" height="46" rx="10"></rect>
+                <text id="refs/heads/test" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="15.3291903" y="27">refs/heads/test</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-12-+-brown-10" transform="translate(10.000000, 36.000000)">
+            <path id="Line-12" d="M175,24 L103,24 L103,23 L175,23 L175,19 L184,23.5 L175,28 L175,24 Z" fill="#8F8981" fill-rule="nonzero"></path>
+            <g id="brown-9">
+                <rect id="Rectangle-1" fill="#F44D27" x="0" y="0" width="139" height="46" rx="10"></rect>
+                <text id="refs/heads/master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="8.12801847" y="27">refs/heads/master</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="brown-3" transform="translate(355.000000, 152.000000)">
+            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"></rect>
+            <text id="tree" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30.0976563" y="28">tree</tspan>
+            </text>
+            <text id="0155eb" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="6.29736328" y="12">0155eb</tspan>
+            </text>
+        </g>
+        <g id="brown-7" transform="translate(355.000000, 268.000000)">
+            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"></rect>
+            <text id="tree" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30.0976563" y="28">tree</tspan>
+            </text>
+            <text id="d8329f" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="6.29516602" y="12">d8329f</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

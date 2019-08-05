@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="255px" viewBox="0 0 344 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/data-model-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="11---Data-Model-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brown" transform="translate(125.000000, 109.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="blob" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="34.0976563" y="29">blob</tspan>
+            </text>
+        </g>
+        <g id="brown-4" transform="translate(10.000000, 109.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="blob" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="34.0976563" y="29">blob</tspan>
+            </text>
+        </g>
+        <g id="brown-5" transform="translate(237.000000, 199.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"></rect>
+            <text id="blob" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="34.0976563" y="29">blob</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M76.4571423,102.416214 L146.534096,38.7937158 L147.206284,39.5340965 L77.12933,103.156594 L79.8180811,106.118117 L70.1298096,108.836094 L73.7683912,99.4546908 L76.4571423,102.416214 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M205.457142,99.4162137 L275.534096,35.7937158 L276.206284,36.5340965 L206.12933,100.156594 L208.818081,103.118117 L199.12981,105.836094 L202.768391,96.4546908 L205.457142,99.4162137 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-2" d="M173,100 L173,40 L174,40 L174,100 L178,100 L173.5,109 L169,100 L173,100 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M285,190 L285,130 L286,130 L286,190 L290,190 L285.5,199 L281,190 L285,190 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="Rectangle-6-+-simplegit.rb" transform="translate(239.000000, 162.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="94" height="15"></rect>
+            <text id="simplegit.rb" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="2.79296875" y="11">simplegit.rb</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-2" transform="translate(126.000000, 68.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="94" height="15"></rect>
+            <text id="Rakefile" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="18.1923828" y="11">Rakefile</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-4" transform="translate(81.000000, 68.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"></rect>
+            <text id="README" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="4.39648438" y="11">README</tspan>
+            </text>
+        </g>
+        <g id="Rectangle-6-+-simplegit.rb-3" transform="translate(224.000000, 68.000000)">
+            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="34" height="15"></rect>
+            <text id="lib" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="6.19824219" y="11">lib</tspan>
+            </text>
+        </g>
+        <g id="brown-2" transform="translate(129.000000, 10.000000)">
+            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"></rect>
+            <text id="tree" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30.0976563" y="29">tree</tspan>
+            </text>
+        </g>
+        <g id="brown-3" transform="translate(241.000000, 106.000000)">
+            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"></rect>
+            <text id="tree" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30.0976563" y="28">tree</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

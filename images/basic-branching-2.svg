@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="171px" viewBox="0 0 370 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/basic-branching-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="03---Basic-Branching-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brown" transform="translate(8.000000, 69.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2988281" y="21">C0</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M106,84 L141,84 L141,85 L106,85 L106,89 L97,84.5 L106,80 L106,84 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-2" d="M233,86 L268,86 L268,87 L233,87 L233,91 L224,86.5 L233,82 L233,86 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M306,60 L306,28 L307,28 L307,60 L311,60 L306.5,69 L302,60 L306,60 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M307,111 L307,146 L306,146 L306,111 L302,111 L306.5,102 L311,111 L307,111 Z" fill="#8F8981" fill-rule="nonzero"></path>
+        <g id="brown" transform="translate(135.000000, 69.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2988281" y="21">C1</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(262.000000, 69.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2988281" y="21">C2</tspan>
+            </text>
+        </g>
+        <g id="ref" transform="translate(263.000000, 7.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="33.1285461" y="20">master</tspan>
+            </text>
+        </g>
+        <g id="ref" transform="translate(263.000000, 131.000000)">
+            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
+            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                <tspan x="36.4719473" y="20">iss53</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

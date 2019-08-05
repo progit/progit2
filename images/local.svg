@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="287px" viewBox="0 0 336 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>images/local</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01---Local" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Local">
+            <rect id="Rectangle-6" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="334" height="285"></rect>
+            <text id="Local-Computer" font-family="RobotoMono-Regular, Roboto Mono" font-size="14" font-weight="normal" fill="#413932">
+                <tspan x="108" y="27">Local Computer</tspan>
+            </text>
+            <rect id="Rectangle-5" stroke="#979797" fill="#FFFFFF" x="147.5" y="59.5" width="166" height="210"></rect>
+            <text id="Version-Database" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="170.390625" y="78">Version Database</tspan>
+            </text>
+            <text id="Checkout" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="35.1953125" y="78">Checkout</tspan>
+            </text>
+            <g id="blue" transform="translate(20.000000, 103.000000)">
+                <rect id="Rectangle-1" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="tree" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="31.1263951" y="20">File</tspan>
+                </text>
+            </g>
+            <g id="brown" transform="translate(185.000000, 103.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="13.0947266" y="21">Version 3</tspan>
+                </text>
+            </g>
+            <g id="brown" transform="translate(185.000000, 158.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="13.0947266" y="21">Version 2</tspan>
+                </text>
+            </g>
+            <g id="brown" transform="translate(185.000000, 213.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="13.0947266" y="21">Version 1</tspan>
+                </text>
+            </g>
+            <path d="M228.5,136.5 L228.5,157.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path d="M228.5,191.5 L228.5,212.5" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path d="M184.5,119.5 L109.5,119.5" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
