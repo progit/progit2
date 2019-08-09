@@ -6,37 +6,37 @@
     <g id="01---Local" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Local">
             <rect id="Rectangle-6" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="334" height="285"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Local-Computer">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Local-Computer">
                 <tspan x="167" y="27">Local Computer</tspan>
             </text>
             <rect id="Rectangle-5" stroke="#979797" fill="#FFFFFF" x="147.5" y="59.5" width="166" height="210"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database">
                 <tspan x="167" y="78">Version Database</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Checkout">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Checkout">
                 <tspan x="167" y="78">Checkout</tspan>
             </text>
             <g id="blue" transform="translate(20.000000, 103.000000)">
                 <rect id="Rectangle-1" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                     <tspan x="44.5" y="20">File</tspan>
                 </text>
             </g>
             <g id="brown" transform="translate(185.000000, 103.000000)">
                 <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                     <tspan x="44.5" y="21">Version 3</tspan>
                 </text>
             </g>
             <g id="brown" transform="translate(185.000000, 158.000000)">
                 <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                     <tspan x="44.5" y="21">Version 2</tspan>
                 </text>
             </g>
             <g id="brown" transform="translate(185.000000, 213.000000)">
                 <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                     <tspan x="44.5" y="21">Version 1</tspan>
                 </text>
             </g>

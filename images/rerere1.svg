@@ -16,32 +16,32 @@
         <path id="Line-2" d="M91,101 L141,101 L141,102 L91,102 L91,106 L82,101.5 L91,97 L91,101 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="ref" transform="translate(294.000000, 18.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan x="53" y="20">master</tspan>
             </text>
         </g>
         <g id="content" transform="translate(133.000000, 78.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan x="51" y="28">hello world</tspan>
             </text>
         </g>
         <g id="content" transform="translate(287.000000, 78.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan x="51" y="28">hola world</tspan>
             </text>
         </g>
         <g id="content" transform="translate(286.000000, 140.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan x="51" y="28">hello mundo</tspan>
             </text>
         </g>
         <path id="Line-8" d="M241.978058,118.025827 L286.20696,160.485572 L285.514428,161.20696 L241.285526,118.747214 L238.515399,121.632763 L235.139306,112.153734 L244.748185,115.140278 L241.978058,118.025827 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="ref" transform="translate(294.000000, 215.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan x="53" y="20">i18-world</tspan>
             </text>
         </g>

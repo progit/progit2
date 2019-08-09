@@ -15,102 +15,102 @@
         <path id="Line-5" d="M255,259 L255,175 L256,175 L256,259 L260,259 L255.5,268 L251,259 L255,259 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="brown" transform="translate(535.000000, 109.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-2&quot;">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-2&quot;">
                 <tspan x="48.5" y="29">"version 2"</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1f7a7a">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1f7a7a">
                 <tspan x="48.5" y="12">1f7a7a</tspan>
             </text>
         </g>
         <g id="brown-4" transform="translate(535.000000, 187.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;new-file&quot;">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;new-file&quot;">
                 <tspan x="48.5" y="29">"new file"</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fa49b0">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fa49b0">
                 <tspan x="48.5" y="12">fa49b0</tspan>
             </text>
         </g>
         <g id="brown-5" transform="translate(535.000000, 271.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-1&quot;">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-1&quot;">
                 <tspan x="48.5" y="29">"version 1"</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="83baae">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="83baae">
                 <tspan x="48.5" y="12">83baae</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-2" transform="translate(452.000000, 285.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
                 <tspan x="32.5" y="11">test.txt</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-5" transform="translate(452.000000, 147.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
                 <tspan x="32.5" y="11">test.txt</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-6" transform="translate(452.000000, 85.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
                 <tspan x="32.5" y="11">test.txt</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-4" transform="translate(458.000000, 52.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
                 <tspan x="26.5" y="11">new.txt</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-7" transform="translate(458.000000, 187.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
                 <tspan x="26.5" y="11">new.txt</tspan>
             </text>
         </g>
         <g id="Rectangle-6-+-simplegit.rb-3" transform="translate(468.000000, 10.000000)">
             <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="34" height="15"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="bak">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="bak">
                 <tspan x="17" y="11">bak</tspan>
             </text>
         </g>
         <g id="brown-2" transform="translate(355.000000, 36.000000)">
             <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                 <tspan x="44.5" y="29">tree</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="3c4e9c">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="3c4e9c">
                 <tspan x="44.5" y="12">3c4e9c</tspan>
             </text>
         </g>
         <g id="brown-6" transform="translate(194.000000, 36.000000)">
             <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="third-commit">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="third-commit">
                 <tspan x="60" y="28">third commit</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1a410e">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1a410e">
                 <tspan x="60" y="13">1a410e</tspan>
             </text>
         </g>
         <path id="Line-3" d="M346,176 L274,176 L274,175 L346,175 L346,171 L355,175.5 L346,180 L346,176 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="brown-8" transform="translate(194.000000, 152.000000)">
             <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="second-commit">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="second-commit">
                 <tspan x="60" y="28">second commit</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="cac0ca">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="cac0ca">
                 <tspan x="60" y="13">cac0ca</tspan>
             </text>
         </g>
         <path id="Line-3" d="M346,292 L274,292 L274,291 L346,291 L346,287 L355,291.5 L346,296 L346,292 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="brown-8" transform="translate(194.000000, 268.000000)">
             <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="first-commit">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="first-commit">
                 <tspan x="60" y="28">first commit</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fdf4fc">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fdf4fc">
                 <tspan x="60" y="13">fdf4fc</tspan>
             </text>
         </g>
@@ -118,7 +118,7 @@
             <path id="Line-12" d="M175,24 L103,24 L103,23 L175,23 L175,19 L184,23.5 L175,28 L175,24 Z" fill="#8F8981" fill-rule="nonzero"/>
             <g id="brown-9">
                 <rect id="Rectangle-1" fill="#F44D27" x="0" y="0" width="139" height="46" rx="10"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="refs/heads/test">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="refs/heads/test">
                     <tspan x="69.5" y="27">refs/heads/test</tspan>
                 </text>
             </g>
@@ -127,26 +127,26 @@
             <path id="Line-12" d="M175,24 L103,24 L103,23 L175,23 L175,19 L184,23.5 L175,28 L175,24 Z" fill="#8F8981" fill-rule="nonzero"/>
             <g id="brown-9">
                 <rect id="Rectangle-1" fill="#F44D27" x="0" y="0" width="139" height="46" rx="10"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="refs/heads/master">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="refs/heads/master">
                     <tspan x="69.5" y="27">refs/heads/master</tspan>
                 </text>
             </g>
         </g>
         <g id="brown-3" transform="translate(355.000000, 152.000000)">
             <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                 <tspan x="44.5" y="28">tree</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="0155eb">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="0155eb">
                 <tspan x="44.5" y="12">0155eb</tspan>
             </text>
         </g>
         <g id="brown-7" transform="translate(355.000000, 268.000000)">
             <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                 <tspan x="44.5" y="28">tree</tspan>
             </text>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="d8329f">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="d8329f">
                 <tspan x="44.5" y="12">d8329f</tspan>
             </text>
         </g>

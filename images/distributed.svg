@@ -6,66 +6,66 @@
     <g id="01---Distributed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle-16" stroke="#979797" fill="#D8D8D8" x="155.5" y="8.5" width="160" height="203"/>
         <rect id="Rectangle-9" stroke="#979797" fill="#FFFFFF" x="163.5" y="45.5" width="143" height="159"/>
-        <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
             <tspan x="80" y="67">Version Database</tspan>
         </text>
         <g id="brown" transform="translate(191.000000, 77.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                 <tspan x="44.5" y="21">Version 3</tspan>
             </text>
         </g>
         <g id="brown" transform="translate(191.000000, 119.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                 <tspan x="44.5" y="21">Version 2</tspan>
             </text>
         </g>
         <g id="brown" transform="translate(191.000000, 161.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                 <tspan x="44.5" y="21">Version 1</tspan>
             </text>
         </g>
         <path d="M235.5,110.5 L235.5,118.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
         <path d="M235.5,152.5 L235.5,160.5" id="Line-8" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Server-Computer">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Server-Computer">
             <tspan x="80" y="32">Server Computer</tspan>
         </text>
         <g id="Group" transform="translate(9.000000, 301.000000)">
             <rect id="Rectangle-17" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="160" height="253"/>
             <g id="Group-2" transform="translate(8.000000, 87.000000)">
                 <rect id="Rectangle-9" stroke="#979797" fill="#FFFFFF" x="0.5" y="0.5" width="143" height="159"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
                     <tspan x="71.5" y="22">Version Database</tspan>
                 </text>
                 <g id="brown" transform="translate(28.000000, 32.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 3</tspan>
                     </text>
                 </g>
                 <g id="brown" transform="translate(28.000000, 74.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 2</tspan>
                     </text>
                 </g>
                 <g id="brown" transform="translate(28.000000, 116.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 1</tspan>
                     </text>
                 </g>
                 <path d="M72.5,65.5 L72.5,73.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
                 <path d="M72.5,107.5 L72.5,115.5" id="Line-8" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
             </g>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Computer-A">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Computer-A">
                 <tspan x="80" y="22">Computer A</tspan>
             </text>
             <g id="blue" transform="translate(36.000000, 31.000000)">
                 <rect id="Rectangle-1" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                     <tspan x="44.5" y="20">File</tspan>
                 </text>
             </g>
@@ -75,36 +75,36 @@
             <rect id="Rectangle-18" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="160" height="253"/>
             <g id="Group-3" transform="translate(9.000000, 87.000000)">
                 <rect id="Rectangle-9" stroke="#979797" fill="#FFFFFF" x="0.5" y="0.5" width="143" height="159"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Version-Database-3">
                     <tspan x="71.5" y="22">Version Database</tspan>
                 </text>
                 <g id="brown" transform="translate(28.000000, 32.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 3</tspan>
                     </text>
                 </g>
                 <g id="brown" transform="translate(28.000000, 74.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 2</tspan>
                     </text>
                 </g>
                 <g id="brown" transform="translate(28.000000, 116.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
                         <tspan x="44.5" y="21">Version 1</tspan>
                     </text>
                 </g>
                 <path d="M72.5,65.5 L72.5,73.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
                 <path d="M72.5,107.5 L72.5,115.5" id="Line-8" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
             </g>
-            <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Computer-B">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Computer-B">
                 <tspan x="80" y="22">Computer B</tspan>
             </text>
             <g id="blue" transform="translate(36.000000, 31.000000)">
                 <rect id="Rectangle-1" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                <text stroke="#979797" stroke-width="0" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
                     <tspan x="44.5" y="20">File</tspan>
                 </text>
             </g>
