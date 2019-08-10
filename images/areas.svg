@@ -1,44 +1,43 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401px" height="221px" viewBox="0 0 401 221" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/areas</title>
-    <desc>Created with Sketch.</desc>
-    <g id="01---Areas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M59.5,26.4108529 L59.5,210.489473" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <path d="M339.5,26.4108529 L339.5,210.489473" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <path d="M199.5,26.4108529 L199.5,210.489473" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <g id="ref-(2-line)" transform="translate(3.471627, 4.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="55.290054" y="15.53125">Working</tspan>
-                <tspan x="55.290054" y="28.53125">Directory</tspan>
-            </text>
-        </g>
-        <g id="symref-(2-line)" transform="translate(144.209946, 4.000000)">
-            <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="55.290054" y="15">Staging</tspan>
-                <tspan x="55.290054" y="28">Area</tspan>
-            </text>
-        </g>
-        <g id="other-(2-line)" transform="translate(284.948265, 4.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="16.03125">.git directory</tspan>
-                <tspan x="54.790054" y="30.03125">(Repository)</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M128.497908,75.5 L340,75.5 L340,88.5 L128.497908,88.5 L128.497908,116.5 L59.497908,82 L128.497908,47.5 L128.497908,75.5 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-4" d="M131.5,140.5 L59.997908,140.5 L59.997908,127.5 L131.5,127.5 L131.5,99.5 L200.5,134 L131.5,168.5 L131.5,140.5 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-5" d="M271,186.5 L200,186.5 L200,173.5 L271,173.5 L271,145.5 L340,180 L271,214.5 L271,186.5 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Checkout-the-project">
-            <tspan x="139.631975" y="86">Checkout the project</tspan>
-        </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Stage-Fixes">
-            <tspan x="70.7225865" y="138">Stage Fixes</tspan>
-        </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Commit">
-            <tspan x="221.939593" y="184.169922">Commit</tspan>
-        </text>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="221px" version="1.1" viewBox="0 0 401 221" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/areas</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title>images/areas</title>
+ <desc>Created with Sketch.</desc>
+ <g>
+  <g fill="#8f8981" fill-rule="evenodd" stroke="#8f8981" stroke-linecap="square">
+   <path id="Line" d="m59.5 26.411v184.08"/>
+   <path d="m339.5 26.411v184.08"/>
+   <path d="m199.5 26.411v184.08"/>
+  </g>
+  <g fill-rule="evenodd">
+   <g id="ref-(2-line)" transform="translate(3.4716 4)">
+    <rect width="110.58" height="38" fill="#f44d27" fill-rule="evenodd"/>
+    <text id="master" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="55.290054" y="15.53125">Working</tspan> <tspan x="55.290054" y="28.53125">Directory</tspan></text>
+   </g>
+   <rect transform="translate(144.21 4)" width="110.58" height="38" fill="#00909a"/>
+   <g>
+    <text transform="translate(144.21 4)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="55.290054" y="15">Staging</tspan> <tspan x="55.290054" y="28">Area</tspan></text>
+    <rect transform="translate(284.95 4)" x=".5" y=".5" width="109.58" height="37" fill="#efefe7" stroke="#979797"/>
+    <text transform="translate(284.95 4)" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="54.790054" y="16.03125">.git directory</tspan> <tspan x="54.790054" y="30.03125">(Repository)</tspan></text>
+   </g>
+  </g>
+  <g fill="#8f8981">
+   <path d="m122.38 70.5h216.95v21.875h-216.95v6.447l-63.25-17.319 63.25-17.525z"/>
+   <path d="m137 144.38h-77.875v-21.75h77.875v-6.5l62.209 17.293-62.209 17.457z"/>
+   <path d="m277.32 190.61h-78.112v-21.858h78.112v-6.5386l62.68 17.785-62.68 17.087z"/>
+  </g>
+  <g fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="900">
+   <text id="Checkout-the-project" transform="translate(0 -1.1079)"><tspan x="139.63197" y="86" fill="white" fill-opacity=".8">Checkout the project</tspan></text>
+   <text id="Stage-Fixes" transform="translate(0,-1.116)"><tspan x="70.722588" y="138" fill="white" fill-opacity=".8">Stage Fixes</tspan></text>
+   <text id="Commit" transform="translate(0 -1.1346)"><tspan x="221.93959" y="184.16992" fill="white" fill-opacity=".8">Commit</tspan></text>
+  </g>
+ </g>
 </svg>
