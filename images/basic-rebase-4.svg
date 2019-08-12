@@ -9,19 +9,19 @@
         <g id="brown" transform="translate(14.000000, 73.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan x="44.5" y="21">C0</tspan>
+                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C0</tspan>
             </text>
         </g>
         <g id="brown" transform="translate(141.000000, 73.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan x="44.5" y="21">C1</tspan>
+                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C1</tspan>
             </text>
         </g>
         <g id="brown" transform="translate(268.000000, 73.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan x="44.5" y="21">C2</tspan>
+                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C2</tspan>
             </text>
         </g>
         <g id="Line-7-+-ref-3" transform="translate(526.000000, 11.000000)">
@@ -29,7 +29,7 @@
             <g id="ref">
                 <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="36"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="53" y="20.9090909">experiment</tspan>
+                    <tspan fill="#f0f0f0" x="53" y="20.9090909" fill-opacity="1">experiment</tspan>
                 </text>
             </g>
         </g>
@@ -38,7 +38,7 @@
             <g id="brown" transform="translate(39.000000, 0.000000)">
                 <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                    <tspan x="44.5" y="21">C3</tspan>
+                    <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C3</tspan>
                 </text>
             </g>
         </g>
@@ -46,7 +46,7 @@
         <g id="brown" transform="translate(524.000000, 73.000000)">
             <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan x="44.5" y="21">C4'</tspan>
+                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C4'</tspan>
             </text>
         </g>
         <g id="Line-4-+-ref-2" transform="translate(526.000000, 106.000000)">
@@ -54,7 +54,7 @@
             <g id="ref" transform="translate(0.000000, 29.000000)">
                 <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="53" y="20">master</tspan>
+                    <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">master</tspan>
                 </text>
             </g>
         </g>

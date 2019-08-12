@@ -7,19 +7,19 @@
         <g id="ref" transform="translate(177.000000, 10.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">Server</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">Server</tspan>
             </text>
         </g>
         <g id="ref" transform="translate(292.000000, 10.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">John</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">John</tspan>
             </text>
         </g>
         <g id="ref" transform="translate(62.000000, 10.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">Jessica</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">Jessica</tspan>
             </text>
         </g>
         <path d="M104.5,43.5 L104.5,533.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
@@ -76,19 +76,19 @@
         <g id="ref" transform="translate(177.000000, 515.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">Server</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">Server</tspan>
             </text>
         </g>
         <g id="ref" transform="translate(292.000000, 515.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">John</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">John</tspan>
             </text>
         </g>
         <g id="ref" transform="translate(62.000000, 515.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">Jessica</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">Jessica</tspan>
             </text>
         </g>
     </g>

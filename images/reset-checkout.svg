@@ -9,14 +9,14 @@
                 <g id="brown" transform="translate(0.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit A</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
                     </text>
                 </g>
                 <path id="Line" d="M98,124 L145,124 L145,125 L98,125 L98,129 L89,124.5 L98,120 L98,124 Z" fill="#8F8981" fill-rule="nonzero"/>
                 <g id="brown" transform="translate(117.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit B</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
                     </text>
                 </g>
                 <g id="Line-3-+-ref" transform="translate(3.000000, 54.000000)">
@@ -24,7 +24,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">master</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
                         </text>
                     </g>
                 </g>
@@ -33,7 +33,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">develop</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
                         </text>
                     </g>
                 </g>
@@ -42,7 +42,7 @@
                     <g id="symref">
                         <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="43" y="20">HEAD</tspan>
+                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
                         </text>
                     </g>
                 </g>
@@ -56,14 +56,14 @@
                 <g id="brown" transform="translate(43.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit A</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
                     </text>
                 </g>
                 <path id="Line-5" d="M141,124 L188,124 L188,125 L141,125 L141,129 L132,124.5 L141,120 L141,124 Z" fill="#8F8981" fill-rule="nonzero"/>
                 <g id="brown" transform="translate(160.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit B</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
                     </text>
                 </g>
                 <g id="Line-3-+-ref-2" transform="translate(0.000000, 54.000000)">
@@ -71,7 +71,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">master</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
                         </text>
                     </g>
                 </g>
@@ -80,7 +80,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">develop</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
                         </text>
                     </g>
                 </g>
@@ -89,7 +89,7 @@
                     <g id="symref">
                         <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="43" y="20">HEAD</tspan>
+                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
                         </text>
                     </g>
                 </g>
@@ -108,14 +108,14 @@
                 <g id="brown" transform="translate(0.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit A</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
                     </text>
                 </g>
                 <path id="Line-6" d="M98,124 L145,124 L145,125 L98,125 L98,129 L89,124.5 L98,120 L98,124 Z" fill="#8F8981" fill-rule="nonzero"/>
                 <g id="brown" transform="translate(117.000000, 108.000000)">
                     <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
                     <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan x="44.5" y="21">commit B</tspan>
+                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
                     </text>
                 </g>
                 <g id="Line-3-+-ref-3" transform="translate(3.000000, 54.000000)">
@@ -123,7 +123,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">master</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
                         </text>
                     </g>
                 </g>
@@ -132,7 +132,7 @@
                     <g id="ref">
                         <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="53" y="20">develop</tspan>
+                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
                         </text>
                     </g>
                 </g>
@@ -141,7 +141,7 @@
                     <g id="symref">
                         <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan x="43" y="20">HEAD</tspan>
+                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
                         </text>
                     </g>
                 </g>

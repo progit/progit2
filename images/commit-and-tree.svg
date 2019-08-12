@@ -7,85 +7,85 @@
         <g id="commit-(v)" transform="translate(0.000000, 166.000000)">
             <rect id="Rectangle-12" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="205" height="98"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan x="102.5" y="23">size</tspan>
-                <tspan x="102.5" y="37">92ec2</tspan>
-                <tspan x="102.5" y="51">Scott</tspan>
-                <tspan x="102.5" y="65">Scott</tspan>
+                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">size</tspan>
+                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">92ec2</tspan>
+                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1">Scott</tspan>
+                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">Scott</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="commit-tree-author-c">
-                <tspan x="102.5" y="23">commit</tspan>
-                <tspan x="102.5" y="23"/>
-                <tspan x="102.5" y="37">tree</tspan>
-                <tspan x="102.5" y="51">author</tspan>
-                <tspan x="102.5" y="65">committer</tspan>
+                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">commit</tspan>
+                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1"/>
+                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">tree</tspan>
+                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1">author</tspan>
+                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">committer</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="The-initial-commit-o">
-                <tspan x="102.5" y="84">The initial commit of my project</tspan>
+                <tspan fill="#808080" x="102.5" y="84" fill-opacity="1">The initial commit of my project</tspan>
             </text>
         </g>
         <g id="tree-(v)" transform="translate(268.000000, 166.000000)">
             <rect id="Rectangle-13" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="205" height="98"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan x="102.5" y="29">size</tspan>
-                <tspan x="102.5" y="43">5b1d3 README</tspan>
-                <tspan x="102.5" y="57">911e7 LICENSE</tspan>
-                <tspan x="102.5" y="71">cba0a test.rb</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="29" fill-opacity="1">size</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="43" fill-opacity="1">5b1d3 README</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="57" fill-opacity="1">911e7 LICENSE</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="71" fill-opacity="1">cba0a test.rb</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree-blob-blob-blob">
-                <tspan x="102.5" y="29">tree</tspan>
-                <tspan x="102.5" y="29"/>
-                <tspan x="102.5" y="43">blob</tspan>
-                <tspan x="102.5" y="57">blob</tspan>
-                <tspan x="102.5" y="71">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="29" fill-opacity="1">tree</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="29" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="43" fill-opacity="1">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="57" fill-opacity="1">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="71" fill-opacity="1">blob</tspan>
             </text>
         </g>
         <g id="blob-(v)" transform="translate(536.000000, 20.000000)">
             <rect id="Rectangle-14" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="205" height="98"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan x="102.5" y="23">size</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">size</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="blob">
-                <tspan x="102.5" y="23">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">blob</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="==-Testing-library">
-                <tspan x="102.5" y="47">== Testing library</tspan>
-                <tspan x="102.5" y="57"/>
-                <tspan x="102.5" y="67">This library is used to test </tspan>
-                <tspan x="102.5" y="77">Ruby projects.</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="47" fill-opacity="1">== Testing library</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="57" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="67" fill-opacity="1">This library is used to test </tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="77" fill-opacity="1">Ruby projects.</tspan>
             </text>
         </g>
         <g id="blob-(v)-2" transform="translate(536.000000, 166.000000)">
             <rect id="Rectangle-14" fill="#CD9F00" x="0" y="0" width="205" height="98"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan x="102.5" y="23">size</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">size</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="blob">
-                <tspan x="102.5" y="23">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">blob</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="The-MIT-License">
-                <tspan x="102.5" y="47">The MIT License</tspan>
-                <tspan x="102.5" y="57"/>
-                <tspan x="102.5" y="67">Copyright (c) 2008 Scott Chacon</tspan>
-                <tspan x="102.5" y="77"/>
-                <tspan x="102.5" y="87">Permission is hereby granted, </tspan>
-                <tspan x="102.5" y="97">free of charge, to any person</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="47" fill-opacity="1">The MIT License</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="57" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="67" fill-opacity="1">Copyright (c) 2008 Scott Chacon</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="77" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="87" fill-opacity="1">Permission is hereby granted, </tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="97" fill-opacity="1">free of charge, to any person</tspan>
             </text>
         </g>
         <g id="blob-(v)-3" transform="translate(536.000000, 312.000000)">
             <rect id="Rectangle-14" fill="#CD9F00" x="0" y="0" width="205" height="98"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan x="102.5" y="23">size</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">size</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="blob">
-                <tspan x="102.5" y="23">blob</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="23" fill-opacity="1">blob</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="require-'logger'">
-                <tspan x="102.5" y="47">require 'logger'</tspan>
-                <tspan x="102.5" y="57">require 'test/unit'</tspan>
-                <tspan x="102.5" y="67"/>
-                <tspan x="102.5" y="77"/>
-                <tspan x="102.5" y="87">class Test::Unit::TestCase</tspan>
-                <tspan x="102.5" y="97">  </tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="47" fill-opacity="1">require 'logger'</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="57" fill-opacity="1">require 'test/unit'</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="67" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="77" fill-opacity="1"/>
+                <tspan fill="#f0f0f0" x="102.5" y="87" fill-opacity="1">class Test::Unit::TestCase</tspan>
+                <tspan fill="#f0f0f0" x="102.5" y="97" fill-opacity="1">  </tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#413932" fill-opacity="1" id="98ca9">

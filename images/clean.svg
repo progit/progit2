@@ -8,59 +8,59 @@
             <g id="other" transform="translate(0.000000, 45.000000)">
                 <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43" y="21">fileA.txt</tspan>
+                    <tspan fill="#808080" x="43" y="21" fill-opacity="1">fileA.txt</tspan>
                 </text>
             </g>
             <rect id="Rectangle-10" stroke="#979797" fill="#D8D8D8" x="138.5" y="0.5" width="109" height="142"/>
             <g id="goldref" transform="translate(300.000000, 45.000000)">
                 <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-2">
-                    <tspan x="43" y="20">fileA.txt'</tspan>
+                    <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">fileA.txt'</tspan>
                 </text>
             </g>
             <g id="goldref" transform="translate(300.000000, 98.000000)">
                 <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-2">
-                    <tspan x="43" y="20">fileB.txt'</tspan>
+                    <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">fileB.txt'</tspan>
                 </text>
             </g>
             <g id="other" transform="translate(0.000000, 98.000000)">
                 <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43" y="21">fileB.txt</tspan>
+                    <tspan fill="#808080" x="43" y="21" fill-opacity="1">fileB.txt</tspan>
                 </text>
             </g>
             <g id="other" transform="translate(0.000000, 151.000000)">
                 <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43" y="21">fileC.rb</tspan>
+                    <tspan fill="#808080" x="43" y="21" fill-opacity="1">fileC.rb</tspan>
                 </text>
             </g>
             <g id="other" transform="translate(300.000000, 151.000000)">
                 <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43" y="21">fileC.rb</tspan>
+                    <tspan fill="#808080" x="43" y="21" fill-opacity="1">fileC.rb</tspan>
                 </text>
             </g>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Staging-Area-2">
-                <tspan x="54.5" y="22">Staging Area</tspan>
+                <tspan fill="#808080" x="54.5" y="22" fill-opacity="1">Staging Area</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Working-Directory-2">
-                <tspan x="54.5" y="22">Working Directory</tspan>
+                <tspan fill="#808080" x="54.5" y="22" fill-opacity="1">Working Directory</tspan>
             </text>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="*.txt-Filter-2">
-                <tspan x="54.5" y="22">*.txt Filter</tspan>
+                <tspan fill="#808080" x="54.5" y="22" fill-opacity="1">*.txt Filter</tspan>
             </text>
             <g id="ref" transform="translate(150.000000, 45.000000)">
                 <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="86.1869159" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43.09345795" y="20">smudge</tspan>
+                    <tspan fill="#f0f0f0" x="43.09345795" y="20" fill-opacity="1">smudge</tspan>
                 </text>
             </g>
             <g id="ref" transform="translate(150.000000, 98.000000)">
                 <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="86.1869159" height="33"/>
                 <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                    <tspan x="43.09345795" y="20">clean</tspan>
+                    <tspan fill="#f0f0f0" x="43.09345795" y="20" fill-opacity="1">clean</tspan>
                 </text>
             </g>
             <path id="Line-6" d="M291,169 L87,169 L87,168 L291,168 L291,164 L300,168.5 L291,173 L291,169 Z" fill="#8F8981" fill-rule="nonzero"/>

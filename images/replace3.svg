@@ -8,7 +8,7 @@
         <g id="brown-2" opacity="0.221490205" transform="translate(315.000000, 36.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">ef989</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >ef989</tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#9B9B9B" fill-opacity="1" id="fifth">
@@ -17,7 +17,7 @@
         <g id="other-(2-line)" transform="translate(316.000000, 128.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">c6e1e</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >c6e1e</tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#9B9B9B" fill-opacity="1" id="fourth">
@@ -27,7 +27,7 @@
         <g id="other-(2-line)" transform="translate(316.000000, 220.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">9c68f</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >9c68f</tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#9B9B9B" fill-opacity="1" id="third">
@@ -37,7 +37,7 @@
         <g id="other-(2-line)" transform="translate(316.000000, 312.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">94570</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >94570</tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#9B9B9B" fill-opacity="1" id="second">
@@ -47,13 +47,13 @@
         <g id="other-(2-line)" transform="translate(316.000000, 404.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">c1822</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >c1822</tspan>
             </text>
         </g>
         <g id="other-(2-line)" transform="translate(168.000000, 219.000000)" stroke="#979797">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
-                <tspan x="54.790054" y="18.546875">622e8</tspan>
+                <tspan fill="#808080" x="54.790054" y="18.546875" >622e8</tspan>
             </text>
         </g>
         <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#9B9B9B" fill-opacity="1" id="first">
@@ -66,7 +66,7 @@
         <g id="ref" transform="translate(463.000000, 134.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">history</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" >history</tspan>
             </text>
         </g>
     </g>

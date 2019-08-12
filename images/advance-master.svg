@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 616 394" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" viewBox="0 0 616 394">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -20,23 +20,23 @@
  <g fill="none" fill-rule="evenodd">
   <g id="other" transform="translate(317,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text id="master" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="21">f30ab</tspan></text>
+   <text id="master" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">f30ab</tspan></text>
   </g>
   <g transform="translate(172,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="21">34ac2</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">34ac2</tspan></text>
   </g>
   <g transform="translate(27,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="21">98ca9</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">98ca9</tspan></text>
   </g>
   <g transform="translate(462,230)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="21">87ab2</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">87ab2</tspan></text>
   </g>
   <g transform="translate(462,164)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="21">c2b9e</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">c2b9e</tspan></text>
   </g>
  </g>
  <path d="m506 272v30h-1v-30h-4l4.5-9 4.5 9z" fill="#8f8981"/>

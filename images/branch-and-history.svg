@@ -8,27 +8,27 @@
         <g id="symref" transform="translate(300.000000, 206.000000)">
             <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="20">Snapshot C</tspan>
+                <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">Snapshot C</tspan>
             </text>
         </g>
         <path id="Line-5" d="M198,197 L198,159 L199,159 L199,197 L203,197 L198.5,206 L194,197 L198,197 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="symref" transform="translate(155.000000, 206.000000)">
             <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="20">Snapshot B</tspan>
+                <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">Snapshot B</tspan>
             </text>
         </g>
         <path id="Line-5" d="M53,197 L53,159 L54,159 L54,197 L58,197 L53.5,206 L49,197 L53,197 Z" fill="#8F8981" fill-rule="nonzero"/>
         <g id="symref" transform="translate(10.000000, 206.000000)">
             <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="20">Snapshot A</tspan>
+                <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">Snapshot A</tspan>
             </text>
         </g>
         <g id="other" transform="translate(300.000000, 134.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="21">f30ab</tspan>
+                <tspan fill="#808080" x="43" y="21" fill-opacity="1">f30ab</tspan>
             </text>
         </g>
         <path id="Line-6" d="M406,63 L406,39 L407,39 L407,63 L411,63 L406.5,72 L402,63 L406,63 Z" fill="#8F8981" fill-rule="nonzero"/>
@@ -37,13 +37,13 @@
         <g id="other" transform="translate(155.000000, 134.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="21">34ac2</tspan>
+                <tspan fill="#808080" x="43" y="21" fill-opacity="1">34ac2</tspan>
             </text>
         </g>
         <g id="other" transform="translate(10.000000, 134.000000)">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="43" y="21">98ca9</tspan>
+                <tspan fill="#808080" x="43" y="21" fill-opacity="1">98ca9</tspan>
             </text>
         </g>
         <path id="Line" d="M250,150 L300,150 L300,151 L250,151 L250,155 L241,150.5 L250,146 L250,150 Z" fill="#8F8981" fill-rule="nonzero"/>
@@ -51,19 +51,19 @@
         <g id="ref" transform="translate(353.000000, 72.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">master</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">master</tspan>
             </text>
         </g>
         <g id="goldref" transform="translate(352.000000, 18.000000)">
             <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="108" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-2">
-                <tspan x="54" y="20">HEAD</tspan>
+                <tspan fill="#f0f0f0" x="54" y="20" fill-opacity="1">HEAD</tspan>
             </text>
         </g>
         <g id="ref" transform="translate(241.000000, 72.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
             <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan x="53" y="20">v1.0</tspan>
+                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">v1.0</tspan>
             </text>
         </g>
     </g>
