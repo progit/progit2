@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg75" version="1.1" viewBox="0 0 434 371" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata81">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/reset-ex2</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title2">images/reset-ex2</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <g id="07---Reset-2" fill="none" fill-rule="evenodd">
+  <g id="Rectangle-6-+-ref-(2-line)" transform="translate(302 226)"></g>
+  <g id="Rectangle-5-+-symref-(2-line)" transform="translate(162 226)">
+   <rect id="Rectangle-5" x="6.6816" y="1" width="98.528" height="102" stroke="#8F8981" stroke-linecap="square"/>
+   <g id="symref-(2-line)" transform="translate(.20995)">
+    <rect id="rect16" width="110.58" height="38" fill="#00909A"/>
+    <text id="text20" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="900" text-anchor="middle" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr"><tspan id="tspan18" x="55.290054" y="21" fill="#f0f0f0" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr">Index</tspan></text>
+   </g>
+  </g>
+  <g id="Rectangle-4-+-other-(2-line)" transform="translate(21 226)">
+   <rect id="Rectangle-4" x="5.9433" y="1" width="98.528" height="102" stroke="#8F8981" stroke-linecap="square"/>
+   <g id="other-(2-line)">
+    <g id="g30" transform="translate(.47163)">
+     <rect id="rect25" width="110.58" height="38" fill="#EFEFE7"/>
+     <text id="master-4" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="900" text-anchor="middle" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr"><tspan id="tspan27" x="55.290054" y="22.03125" fill="#808080" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr">HEAD</tspan></text>
+    </g>
+   </g>
+  </g>
+  <g id="Line-+-symref-+-goldref" transform="translate(33 21)">
+   <path id="Line" d="m43 97v-77h1v77h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="other">
+    <rect id="rect35" width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text39" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="900" text-anchor="middle" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr"><tspan id="tspan37" x="43" y="21" fill="#808080" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr">HEAD</tspan></text>
+   </g>
+   <g id="goldref" transform="translate(0 45)">
+    <rect id="Rectangle-3" width="108" height="33" fill="#CD9F00" fill-rule="evenodd"/>
+    <text id="master-2" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="900" text-anchor="middle" style="fill:#f0f0f0"><tspan id="tspan43" x="54" y="20" fill="#f0f0f0" style="fill:#f0f0f0">master</tspan></text>
+   </g>
+  </g>
+  <text id="?" transform="translate(-129.96)" font-size="12px" font-weight="900" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:21.333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan48" x="206.5" y="154" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:21.333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">?</tspan></text>
+  <rect id="Rectangle-7" x="11" y="11" width="413" height="195" stroke="#8F8981" stroke-linecap="square"/>
+  <text id="Git-Repository" transform="translate(-130.1)" font-size="12px" font-weight="900" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan52" x="206.5" y="202" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">Git Repository</tspan></text>
+  <g id="g939">
+   <rect id="Rectangle-6" transform="translate(302,226)" x="6.9483" y="1" width="98.528" height="102" stroke="#8F8981" stroke-linecap="square"/>
+   <g id="g920" transform="translate(302.95 226)">
+    <rect id="Rectangle-2" transform="translate(.043615 -.0493)" width="110.58" height="38" style="fill:#f44d27"/>
+    <text id="text912" transform="translate(-443.07 -200.68)" x="498.15219" y="216.66064" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:12.66666698px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan910" x="498.15219" y="216.66064">Working</tspan><tspan id="tspan914" x="498.15219" y="229.32732">Directory</tspan></text>
+   </g>
+   <g id="brown" transform="translate(322 274)">
+    <rect id="Rectangle-1" width="75" height="45" rx="22.5" fill="#00909A" fill-opacity=".35"/>
+    <text id="file.txt" transform="translate(-.19434 -2.97)" font-size="12px" font-weight="900" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan56" x="37.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">file.txt</tspan> <tspan id="tspan58" x="37.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">v1</tspan></text>
+   </g>
+  </g>
+  <g id="brown-2" transform="translate(180 274)">
+   <rect id="rect62" width="75" height="45" rx="22.5" fill="#00909A" fill-opacity=".35"/>
+   <text id="text68" transform="translate(-.19434 -2.97)" font-size="12px" font-weight="900" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan64" x="37.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">file.txt</tspan> <tspan id="tspan66" x="37.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">v1</tspan></text>
+  </g>
+  <text id="git-add" transform="translate(11.118)" font-size="12px" font-weight="900" style="fill:#f44d27;font-family:'Source Code Pro';font-feature-settings:normal;font-size:21.333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr"><tspan id="tspan71" x="206.5" y="355" style="fill:#f44d27;font-family:'Source Code Pro';font-feature-settings:normal;font-size:21.333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle;writing-mode:lr">git add</tspan></text>
+ </g>
+</svg>
