@@ -50,8 +50,8 @@
             </g>
         </g>
         <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="11" y="10" width="413" height="207"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="Git-Repository-2">
-            <tspan fill="#f0f0f0" x="206.5" y="213" >Git Repository</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="Git-Repository-2">
+            <tspan fill="#808080" x="206.5" y="213" >Git Repository</tspan>
         </text>
         <g id="brown-3" transform="translate(321.000000, 290.000000)">
             <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"/>
@@ -74,8 +74,8 @@
                 <tspan fill="#f0f0f0" x="37.5" y="37" >v3</tspan>
             </text>
         </g>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="38eb946">
-            <tspan fill="#f0f0f0" x="206.5" y="285.169922" >38eb946</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="38eb946">
+            <tspan fill="#808080" x="206.5" y="285.169922" >38eb946</tspan>
         </text>
         <g id="Rectangle-8-+-brown-4-+-eb43bf8-3" transform="translate(26.000000, 112.000000)">
             <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="72"/>

@@ -50,14 +50,14 @@
             </g>
         </g>
         <rect id="Rectangle-7" stroke="#8F8981" stroke-linecap="square" x="11" y="10" width="413" height="301"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="Git-Repository">
-            <tspan fill="#f0f0f0" x="206.5" y="307" >Git Repository</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="Git-Repository">
+            <tspan fill="#808080" x="206.5" y="307" >Git Repository</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="git-commit">
-            <tspan fill="#f0f0f0" x="206.5" y="475.339844" >git commit</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="git-commit">
+            <tspan fill="#808080" x="206.5" y="475.339844" >git commit</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="68aef35">
-            <tspan fill="#f0f0f0" x="206.5" y="379.169922" >68aef35</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="68aef35">
+            <tspan fill="#808080" x="206.5" y="379.169922" >68aef35</tspan>
         </text>
         <g id="Rectangle-8-+-brown-4-+-eb43bf8-2" transform="translate(26.000000, 206.000000)">
             <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="82"/>

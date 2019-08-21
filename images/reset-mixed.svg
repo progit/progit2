@@ -50,8 +50,8 @@
             </g>
         </g>
         <rect id="Rectangle-7" stroke="#8F8981" stroke-linecap="square" x="10" y="10" width="413" height="207"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="Git-Repository">
-            <tspan fill="#f0f0f0" x="206.5" y="213" >Git Repository</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="Git-Repository">
+            <tspan fill="#808080" x="206.5" y="213" >Git Repository</tspan>
         </text>
         <g id="brown" transform="translate(320.000000, 290.000000)">
             <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"/>
@@ -74,11 +74,11 @@
                 <tspan fill="#f0f0f0" x="37.5" y="37" >v2</tspan>
             </text>
         </g>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="git-reset-[--mixed]-">
-            <tspan fill="#f0f0f0" x="206.5" y="366.339844" >git reset [--mixed] HEAD~</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="git-reset-[--mixed]-">
+            <tspan fill="#808080" x="206.5" y="366.339844" >git reset [--mixed] HEAD~</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="10">
-            <tspan fill="#f0f0f0" x="206.5" y="285.169922" >9e5e6a4</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="10">
+            <tspan fill="#808080" x="206.5" y="285.169922" >9e5e6a4</tspan>
         </text>
         <g id="Rectangle-8-+-brown-4-+-eb43bf8-2" transform="translate(25.000000, 112.000000)">
             <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="72"/>
@@ -122,11 +122,11 @@
         <path id="Line-2" d="M134,147 L167,147 L167,148 L134,148 L134,152 L125,147.5 L134,143 L134,147 Z" fill="#8F8981" fill-rule="nonzero"/>
         <path id="Line-3" d="M286,70 L353,70 L353,73 L286,73 L286,81 L267,71.5 L286,62 L286,70 Z" fill="#F14E32" fill-rule="nonzero"/>
         <path id="Line-4" d="M142.127907,306 L127.872093,306 L127.872093,303 L142.127907,303 L142.127907,295 L161.127907,304.5 L142.127907,314 L142.127907,306 Z" fill="#F14E32" fill-rule="nonzero"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="2">
-            <tspan fill="#f0f0f0" x="206.5" y="296" >2</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="2">
+            <tspan fill="#808080" x="206.5" y="296" >2</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="1">
-            <tspan fill="#f0f0f0" x="206.5" y="65" >1</tspan>
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#808080" fill-opacity="1" text-anchor="middle" id="1">
+            <tspan fill="#808080" x="206.5" y="65" >1</tspan>
         </text>
         <path id="Line-5" d="M276,148 L309,148 L309,149 L276,149 L276,153 L267,148.5 L276,144 L276,148 Z" fill="#8F8981" fill-rule="nonzero"/>
     </g>
