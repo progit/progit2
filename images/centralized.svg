@@ -12,13 +12,13 @@
  <title>images/centralized</title>
  <desc>Created with Sketch.</desc>
  <rect transform="translate(87,3)" width="110.58" height="38" style="fill-rule:evenodd;fill:#cd9f00"/>
- <text transform="translate(87,3)" font-size="12px" font-weight="900" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:900;text-anchor:middle"><tspan x="55.290054" y="15.53125" style="fill-opacity:.8;fill:white">shared</tspan> <tspan x="55.290054" y="28.53125" style="fill-opacity:.8;fill:white">repository</tspan></text>
+ <text transform="translate(87,3)" font-size="12px" font-weight="700" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan x="55.290054" y="15.53125" style="fill-opacity:.8;fill:white">shared</tspan> <tspan x="55.290054" y="28.53125" style="fill-opacity:.8;fill:white">repository</tspan></text>
  <rect transform="translate(113,87)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
- <text id="master" transform="translate(113,87)" font-size="12px" font-weight="900" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:900;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
+ <text id="master" transform="translate(113,87)" font-size="12px" font-weight="700" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
  <rect transform="translate(14,87)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
- <text transform="translate(14,87)" font-size="12px" font-weight="900" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:900;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
+ <text transform="translate(14,87)" font-size="12px" font-weight="700" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
  <rect transform="translate(211,87)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
- <text transform="translate(211,87)" font-size="12px" font-weight="900" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:900;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
+ <text transform="translate(211,87)" font-size="12px" font-weight="700" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan x="40.121494" y="20" style="fill-opacity:.8;fill:white">developer</tspan></text>
  <path id="Line" d="m78.191 78.827 16.744-30.139-3.4966-1.9426 8.3045-5.682-.43708 10.053-3.4966-1.9426-16.744 30.139 3.4966 1.9426-8.3045 5.682.43708-10.053z" style="fill:#8f8981"/>
  <path d="m142 78v-28h-4l4.5-9 4.5 9h-4v28h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
  <path d="m206.81 79.39-17.495-30.28-3.4635 2.0011-.60611-10.044 8.3989 5.5415-3.4635 2.0011 17.495 30.28 3.4635-2.0011.60611 10.044-8.3989-5.5415z" style="fill:#8f8981"/>

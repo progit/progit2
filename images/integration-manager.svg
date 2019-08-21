@@ -7,28 +7,28 @@
         <g id="Group">
             <g id="goldref-(2-line)" transform="translate(7.000000, 5.000000)">
                 <rect id="Rectangle-4" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-3">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-3">
                     <tspan fill="#f0f0f0" x="55.290054" y="15.53125" fill-opacity="1">blessed</tspan>
                     <tspan fill="#f0f0f0" x="55.290054" y="28.53125" fill-opacity="1">repository</tspan>
                 </text>
             </g>
             <g id="ref-(2-line)" transform="translate(7.000000, 89.000000)">
                 <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                     <tspan fill="#f0f0f0" x="55.290054" y="15.53125" fill-opacity="1">integration</tspan>
                     <tspan fill="#f0f0f0" x="55.290054" y="28.53125" fill-opacity="1">manager</tspan>
                 </text>
             </g>
             <g id="symref-(2-line)" transform="translate(149.209946, 5.000000)">
                 <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                     <tspan fill="#f0f0f0" x="55.290054" y="15" fill-opacity="1">developer</tspan>
                     <tspan fill="#f0f0f0" x="55.290054" y="28" fill-opacity="1">public</tspan>
                 </text>
             </g>
             <g id="other-(2-line)" transform="translate(149.000000, 89.000000)" stroke="#979797">
                 <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"/>
-                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
+                <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
                     <tspan fill="#808080" x="54.790054" y="16.03125" fill-opacity="1">developer</tspan>
                     <tspan fill="#808080" x="54.790054" y="30.03125" fill-opacity="1">private</tspan>
                 </text>
@@ -36,14 +36,14 @@
             <g id="symref-(2-line)-2-+-other-(2-line)-2-+-Line-4" transform="translate(149.000000, 5.000000)">
                 <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
                     <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                         <tspan fill="#f0f0f0" x="55.290054" y="15" fill-opacity="1">developer</tspan>
                         <tspan fill="#f0f0f0" x="55.290054" y="28" fill-opacity="1">public</tspan>
                     </text>
                 </g>
                 <g id="other-(2-line)" transform="translate(0.000000, 84.000000)" stroke="#979797">
                     <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
                         <tspan fill="#808080" x="54.790054" y="16.03125" fill-opacity="1">developer</tspan>
                         <tspan fill="#808080" x="54.790054" y="30.03125" fill-opacity="1">private</tspan>
                     </text>
@@ -58,14 +58,14 @@
             <g id="symref-(2-line)-2-+-other-(2-line)-2-+-Line-5" transform="translate(281.000000, 5.000000)">
                 <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
                     <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                         <tspan fill="#f0f0f0" x="55.290054" y="15" fill-opacity="1">developer</tspan>
                         <tspan fill="#f0f0f0" x="55.290054" y="28" fill-opacity="1">public</tspan>
                     </text>
                 </g>
                 <g id="other-(2-line)" transform="translate(0.000000, 84.000000)" stroke="#979797">
                     <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
+                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-4">
                         <tspan fill="#808080" x="54.790054" y="16.03125" fill-opacity="1">developer</tspan>
                         <tspan fill="#808080" x="54.790054" y="30.03125" fill-opacity="1">private</tspan>
                     </text>

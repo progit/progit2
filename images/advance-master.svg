@@ -20,32 +20,32 @@
  <g fill="none" fill-rule="evenodd">
   <g id="other" transform="translate(317,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text id="master" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">f30ab</tspan></text>
+   <text id="master" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">f30ab</tspan></text>
   </g>
   <g transform="translate(172,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">34ac2</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">34ac2</tspan></text>
   </g>
   <g transform="translate(27,197)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">98ca9</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">98ca9</tspan></text>
   </g>
   <g transform="translate(462,230)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">87ab2</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">87ab2</tspan></text>
   </g>
   <g transform="translate(462,164)">
    <rect width="86" height="33" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">c2b9e</tspan></text>
+   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan fill="#808080" x="43" y="21" fill-opacity="1">c2b9e</tspan></text>
   </g>
  </g>
  <path d="m506 272v30h-1v-30h-4l4.5-9 4.5 9z" fill="#8f8981"/>
  <rect transform="translate(462,292)" width="85.204" height="33" fill="#f44d27" fill-rule="evenodd"/>
- <text transform="translate(462,292)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="42.601852" y="20" fill="white" fill-opacity=".8">testing</tspan></text>
+ <text transform="translate(462,292)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan x="42.601852" y="20" fill="white" fill-opacity=".8">testing</tspan></text>
  <path d="m505 155v-29h1v29h4l-4.5 9-4.5-9z" fill="#8f8981"/>
  <rect transform="translate(462,103)" width="85.204" height="33" fill="#f44d27" fill-rule="evenodd"/>
- <text transform="translate(462,103)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="42.601852" y="20" fill="white" fill-opacity=".8">master</tspan></text>
+ <text transform="translate(462,103)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan x="42.601852" y="20" fill="white" fill-opacity=".8">master</tspan></text>
  <path d="m506 94v-34h1v34h4l-4.5 9-4.5-9z" fill="#8f8981"/>
  <rect transform="translate(462,42)" width="86" height="33" fill="#cd9f00" fill-rule="evenodd"/>
- <text transform="translate(462,42)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan x="43" y="20" fill="white" fill-opacity=".8">HEAD</tspan></text>
+ <text transform="translate(462,42)" fill="white" fill-opacity=".8" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan x="43" y="20" fill="white" fill-opacity=".8">HEAD</tspan></text>
 </svg>

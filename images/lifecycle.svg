@@ -13,7 +13,7 @@
         <path d="M463.5,16.937203 L463.5,212.821739" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
         <g id="goldref" transform="translate(281.000000, 0.000000)">
             <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="108" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-2">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master-2">
                 <tspan fill="#f0f0f0" x="54" y="20" fill-opacity="1">Modified</tspan>
             </text>
         </g>
@@ -22,36 +22,36 @@
         <path id="Line-10" d="M112.497908,147.5 L183.044991,147.5 L183.044991,160.5 L112.497908,160.5 L112.497908,188.5 L43.497908,154 L112.497908,119.5 L112.497908,147.5 Z" fill="#8F8981" fill-rule="nonzero"/>
         <path id="Line-5" d="M394,147.5 L323.997908,147.5 L323.997908,134.5 L394,134.5 L394,106.5 L463,141 L394,175.5 L394,147.5 Z" fill="#8F8981" fill-rule="nonzero"/>
         <path id="Line-8" d="M252.486149,179.877252 L462.988351,179.50001 L463.011649,192.49999 L252.509447,192.877231 L252.559625,220.877186 L183.497909,186.500896 L252.435971,151.877297 L252.486149,179.877252 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Edit-the-file">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#FFFFFF" fill-opacity="1" id="Edit-the-file">
             <tspan x="195.590332" y="116">Edit the file</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Add-the-file">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#FFFFFF" fill-opacity="1" id="Add-the-file">
             <tspan x="57.3908691" y="70.1699219">Add the file</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Remove-the-file">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#FFFFFF" fill-opacity="1" id="Remove-the-file">
             <tspan x="76.9892578" y="157.03125">Remove the file</tspan>
         </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Stage-the-file">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#FFFFFF" fill-opacity="1" id="Stage-the-file">
             <tspan x="331.789795" y="145.169922">Stage the file</tspan>
         </text>
         <g id="other">
             <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan fill="#808080" x="43" y="21" fill-opacity="1">Untracked</tspan>
             </text>
         </g>
         <g id="symref" transform="translate(140.000000, 0.000000)">
             <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan fill="#f0f0f0" x="43" y="20" fill-opacity="1">Unmodified</tspan>
             </text>
         </g>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#FFFFFF" fill-opacity="1" id="Commit">
+        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#FFFFFF" fill-opacity="1" id="Commit">
             <tspan x="318.696777" y="190">Commit</tspan>
         </text>
         <g id="ref" transform="translate(409.000000, 0.000000)">
             <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
+            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="700" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
                 <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">Staged</tspan>
             </text>
         </g>
