@@ -1,105 +1,61 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="797px" height="264px" viewBox="0 0 797 264" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/commits-and-parents</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Commits-and-Parents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="commit-(v)" transform="translate(10.000000, 23.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">size</tspan>
-                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">92ec2</tspan>
-                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1"/>
-                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">Scott</tspan>
-                <tspan fill="#808080" x="102.5" y="79" fill-opacity="1">Scott</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="commit">
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">commit</tspan>
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1"/>
-                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">tree</tspan>
-                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1">parent</tspan>
-                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">author</tspan>
-                <tspan fill="#808080" x="102.5" y="79" fill-opacity="1">committer</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="The-initial-commit-o">
-                <tspan fill="#808080" x="102.5" y="96" fill-opacity="1">The initial commit of my project</tspan>
-            </text>
-        </g>
-        <g id="symref" transform="translate(40.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="72" y="29" fill-opacity="1">Snapshot A</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M112,194 L112,147 L113,147 L113,194 L117,194 L112.5,203 L108,194 L112,194 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="commit-(v)-2" transform="translate(294.000000, 23.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">size</tspan>
-                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">184ca</tspan>
-                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1">98ca9</tspan>
-                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">Scott</tspan>
-                <tspan fill="#808080" x="102.5" y="79" fill-opacity="1">Scott</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="commit">
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1">commit</tspan>
-                <tspan fill="#808080" x="102.5" y="23" fill-opacity="1"/>
-                <tspan fill="#808080" x="102.5" y="37" fill-opacity="1">tree</tspan>
-                <tspan fill="#808080" x="102.5" y="51" fill-opacity="1">parent</tspan>
-                <tspan fill="#808080" x="102.5" y="65" fill-opacity="1">author</tspan>
-                <tspan fill="#808080" x="102.5" y="79" fill-opacity="1">committer</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="Fixed-bug-#1328---st">
-                <tspan fill="#808080" x="102.5" y="96" fill-opacity="1">Fixed bug #1328 - stack overflow </tspan>
-                <tspan fill="#808080" x="102.5" y="106" fill-opacity="1">under certain conditions</tspan>
-            </text>
-        </g>
-        <g id="symref-2" transform="translate(324.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="72" y="29" fill-opacity="1">Snapshot B</tspan>
-            </text>
-        </g>
-        <path id="Line-2" d="M396,194 L396,147 L397,147 L397,194 L401,194 L396.5,203 L392,194 L396,194 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#413932" fill-opacity="1" id="98ca9">
-            <tspan x="94.4970703" y="20">98ca9</tspan>
-        </text>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#413932" fill-opacity="1" id="34ac2">
-            <tspan x="378.49707" y="20">34ac2</tspan>
-        </text>
-        <path id="Line" d="M224,85 L294,85 L294,86 L224,86 L224,90 L215,85.5 L224,81 L224,85 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="commit-(v)-3" transform="translate(453.000000, -191.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="126" y="214" width="205" height="124"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="size">
-                <tspan fill="#808080" x="102.5" y="237" fill-opacity="1">size</tspan>
-                <tspan fill="#808080" x="102.5" y="251" fill-opacity="1">0de24</tspan>
-                <tspan fill="#808080" x="102.5" y="265" fill-opacity="1">34ac2</tspan>
-                <tspan fill="#808080" x="102.5" y="279" fill-opacity="1">Scott</tspan>
-                <tspan fill="#808080" x="102.5" y="293" fill-opacity="1">Scott</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="commit">
-                <tspan fill="#808080" x="102.5" y="237" fill-opacity="1">commit</tspan>
-                <tspan fill="#808080" x="102.5" y="237" fill-opacity="1"/>
-                <tspan fill="#808080" x="102.5" y="251" fill-opacity="1">tree</tspan>
-                <tspan fill="#808080" x="102.5" y="265" fill-opacity="1">parent</tspan>
-                <tspan fill="#808080" x="102.5" y="279" fill-opacity="1">author</tspan>
-                <tspan fill="#808080" x="102.5" y="293" fill-opacity="1">committer</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="add-feature-#32---ab">
-                <tspan fill="#808080" x="102.5" y="310" fill-opacity="1">add feature #32 - ability to add new </tspan>
-                <tspan fill="#808080" x="102.5" y="320" fill-opacity="1">formats to the central interface</tspan>
-            </text>
-        </g>
-        <g id="symref-3" transform="translate(609.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="72" y="29" fill-opacity="1">Snapshot C</tspan>
-            </text>
-        </g>
-        <path id="Line-4" d="M681,194 L681,147 L682,147 L682,194 L686,194 L681.5,203 L677,194 L681,194 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#413932" fill-opacity="1" id="f30ab">
-            <tspan x="663.494141" y="20">f30ab</tspan>
-        </text>
-        <path id="Line-3" d="M509,85 L579,85 L579,86 L509,86 L509,90 L500,85.5 L509,81 L509,85 Z" fill="#8F8981" fill-rule="nonzero"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2687" version="1.1" viewBox="0 0 797 264" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata2693">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/commits-and-parents</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title2551">images/commits-and-parents</title>
+ <desc id="desc2553">Created with Sketch.</desc>
+ <g id="03---Commits-and-Parents" fill="none" fill-rule="evenodd">
+  <g id="g2826">
+   <g id="commit-(v)" transform="translate(10 23)">
+    <rect id="Rectangle-12" width="205" height="124" fill="#EFEFE7"/>
+    <g id="g2710" transform="translate(3.0363)" font-size="12px" font-weight="700">
+     <text id="size" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2556" x="102.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2558" x="102.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">92ec2</tspan> <tspan id="tspan2560" x="102.5" y="51" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"/> <tspan id="tspan2562" x="102.5" y="65" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2564" x="102.5" y="79" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+     <text id="commit" transform="translate(-6.3)" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"><tspan id="tspan2567" x="102.5" y="23" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">commit</tspan> <tspan id="tspan2569" x="102.5" y="23" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"/> <tspan id="tspan2571" x="102.5" y="37" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">tree</tspan> <tspan id="tspan2573" x="102.5" y="51" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">parent</tspan> <tspan id="tspan2575" x="102.5" y="65" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">author</tspan> <tspan id="tspan2577" x="102.5" y="79" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">committer</tspan></text>
     </g>
+    <text id="The-initial-commit-o" transform="translate(.080638)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2580" x="102.5" y="96" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">The initial commit of my project</tspan></text>
+   </g>
+   <g id="symref" transform="translate(40 203)">
+    <rect id="Rectangle-2" width="144" height="50" fill="#00909A"/>
+    <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan2585" x="72" y="29" fill="#f0f0f0">Snapshot A</tspan></text>
+   </g>
+   <path id="Line" d="m112 194v-47h1v47h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="commit-(v)-2" transform="translate(294 23)">
+    <rect id="rect2590" width="205" height="124" fill="#EFEFE7"/>
+    <g id="g2740" font-size="12px" font-weight="700">
+     <text id="text2602" transform="translate(3.3)" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2592" x="102.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2594" x="102.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">184ca</tspan> <tspan id="tspan2596" x="102.5" y="51" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">98ca9</tspan> <tspan id="tspan2598" x="102.5" y="65" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2600" x="102.5" y="79" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+     <text id="text2616" transform="translate(-3.6)" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"><tspan id="tspan2604" x="102.5" y="23" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">commit</tspan> <tspan id="tspan2606" x="102.5" y="23" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"/> <tspan id="tspan2608" x="102.5" y="37" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">tree</tspan> <tspan id="tspan2610" x="102.5" y="51" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">parent</tspan> <tspan id="tspan2612" x="102.5" y="65" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">author</tspan> <tspan id="tspan2614" x="102.5" y="79" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">committer</tspan></text>
+    </g>
+    <text id="Fixed-bug-#1328---st" transform="translate(-.43936)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2618" x="102.5" y="96" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">Fixed bug #1328 - stack overflow</tspan> <tspan id="tspan2620" x="102.5" y="106" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">under certain conditions</tspan></text>
+   </g>
+   <g id="symref-2" transform="translate(324 203)">
+    <rect id="rect2624" width="144" height="50" fill="#00909A"/>
+    <text id="text2628" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan2626" x="72" y="29" fill="#f0f0f0">Snapshot B</tspan></text>
+   </g>
+   <path id="Line-2" d="m396 194v-47h1v47h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <text id="98ca9" transform="translate(-.014334)" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2632" x="94.49707" y="20">98ca9</tspan></text>
+   <text id="34ac2" fill="#413932" font-family="Source Code Pro" font-size="12px" font-weight="700"><tspan id="tspan2635" x="378.49707" y="20">34ac2</tspan></text>
+   <path id="path2638" d="m224 85h70v1h-70v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="commit-(v)-3" transform="translate(453 -191)">
+    <rect id="rect2640" x="126" y="214" width="205" height="124" fill="#EFEFE7"/>
+    <text id="text2652" transform="translate(129.6)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2642" x="102.5" y="237" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2644" x="102.5" y="251" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">0de24</tspan> <tspan id="tspan2646" x="102.5" y="265" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">34ac2</tspan> <tspan id="tspan2648" x="102.5" y="279" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2650" x="102.5" y="293" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+    <text id="text2666" transform="translate(122.5)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"><tspan id="tspan2654" x="102.5" y="237" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">commit</tspan> <tspan id="tspan2656" x="102.5" y="237" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end"/> <tspan id="tspan2658" x="102.5" y="251" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">tree</tspan> <tspan id="tspan2660" x="102.5" y="265" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">parent</tspan> <tspan id="tspan2662" x="102.5" y="279" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">author</tspan> <tspan id="tspan2664" x="102.5" y="293" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:end;text-anchor:end">committer</tspan></text>
+    <text id="add-feature-#32---ab" transform="translate(125.75)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2668" x="102.5" y="310" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">add feature #32 - ability to add new</tspan> <tspan id="tspan2670" x="102.5" y="320" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">formats to the central interface</tspan></text>
+   </g>
+   <g id="symref-3" transform="translate(609 203)">
+    <rect id="rect2674" width="144" height="50" fill="#00909A"/>
+    <text id="text2678" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan2676" x="72" y="29" fill="#f0f0f0">Snapshot C</tspan></text>
+   </g>
+   <path id="Line-4" d="m681 194v-47h1v47h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <text id="f30ab" fill="#413932" font-family="Source Code Pro" font-size="12px" font-weight="700"><tspan id="tspan2682" x="663.494141" y="20">f30ab</tspan></text>
+   <path id="Line-3" d="m509 85h70v1h-70v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+  </g>
+ </g>
 </svg>

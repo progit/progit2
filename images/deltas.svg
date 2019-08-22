@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="558px" height="216px" version="1.1" viewBox="0 0 558 216">
- <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4406" version="1.1" viewBox="0 0 558 216" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata4281">
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
@@ -9,53 +9,53 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <title>images/deltas</title>
- <desc>Created with Sketch.</desc>
- <g fill-rule="evenodd">
-  <rect transform="translate(1,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
-  <text transform="translate(1,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">Version 1</tspan></text>
-  <rect transform="translate(117,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
-  <text transform="translate(117,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">Version 2</tspan></text>
-  <rect transform="translate(233,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
-  <text transform="translate(233,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">Version 3</tspan></text>
-  <rect transform="translate(349,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
-  <text transform="translate(349,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">Version 4</tspan></text>
-  <rect transform="translate(465,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
-  <text transform="translate(465,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">Version 5</tspan></text>
+ <title id="title4283">images/deltas</title>
+ <desc id="desc4285">Created with Sketch.</desc>
+ <g id="g4384" fill-rule="evenodd">
+  <rect id="rect4287" transform="translate(1,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4291" transform="translate(1,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4289" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 1</tspan></text>
+  <rect id="rect4293" transform="translate(117,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4297" transform="translate(117,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4295" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 2</tspan></text>
+  <rect id="rect4299" transform="translate(233,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4303" transform="translate(233,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4301" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 3</tspan></text>
+  <rect id="rect4305" transform="translate(349,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4309" transform="translate(349,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4307" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 4</tspan></text>
+  <rect id="rect4311" transform="translate(465,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4315" transform="translate(465,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4313" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 5</tspan></text>
   <g id="brown" transform="translate(1,85)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">File A</tspan></text>
+   <rect id="rect4317" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4321" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4319" x="44.5" y="21" fill="#808080">File A</tspan></text>
   </g>
-  <rect transform="translate(1,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(1,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">File A</tspan></text>
-  <rect transform="translate(117,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(117,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ1</tspan></text>
-  <rect transform="translate(117,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(117,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ1</tspan></text>
-  <rect transform="translate(233,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(233,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ2</tspan></text>
-  <rect transform="translate(349,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(349,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ1</tspan></text>
-  <rect transform="translate(349,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(349,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ2</tspan></text>
-  <rect transform="translate(465,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(465,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ2</tspan></text>
-  <rect transform="translate(465,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(465,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">Δ3</tspan></text>
-  <rect transform="translate(1,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(1,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">File B</tspan></text>
-  <rect transform="translate(1,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
-  <text transform="translate(1,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="21" fill-opacity="1">File C</tspan></text>
+  <rect id="rect4324" transform="translate(1,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4328" transform="translate(1,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4326" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">File A</tspan></text>
+  <rect id="rect4330" transform="translate(117,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4334" transform="translate(117,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4332" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ1</tspan></text>
+  <rect id="rect4336" transform="translate(117,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4340" transform="translate(117,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4338" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ1</tspan></text>
+  <rect id="rect4342" transform="translate(233,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4346" transform="translate(233,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4344" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ2</tspan></text>
+  <rect id="rect4348" transform="translate(349,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4352" transform="translate(349,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4350" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ1</tspan></text>
+  <rect id="rect4354" transform="translate(349,85)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4358" transform="translate(349,85)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4356" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ2</tspan></text>
+  <rect id="rect4360" transform="translate(465,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4364" transform="translate(465,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4362" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ2</tspan></text>
+  <rect id="rect4366" transform="translate(465,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4370" transform="translate(465,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4368" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">Δ3</tspan></text>
+  <rect id="rect4372" transform="translate(1,134)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4376" transform="translate(1,134)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4374" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">File B</tspan></text>
+  <rect id="rect4378" transform="translate(1,183)" width="89" height="33" rx="16.5" fill="#efefe7"/>
+  <text id="text4382" transform="translate(1,183)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:gray"><tspan id="tspan4380" x="44.5" y="21" fill="#f0f0f0" style="fill:gray">File C</tspan></text>
  </g>
- <g fill="#8f8981">
+ <g id="g4401" fill="#8f8981">
   <path id="Line" transform="translate(1,-1)" d="m107 103h-18v-1h18v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m339 103h-134v-1h134v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m339 152h-250v-1h250v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m107 201h-18v-1h18v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m223 201h-18v-1h18v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m455 201h-134v-1h134v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m455 152h-18v-1h18v-4l9 4.5-9 4.5z"/>
-  <path transform="translate(1,-1)" d="m538.5 17h-539v-2h539v-6l14 7-14 7z"/>
+  <path id="path4387" transform="translate(1,-1)" d="m339 103h-134v-1h134v-4l9 4.5-9 4.5z"/>
+  <path id="path4389" transform="translate(1,-1)" d="m339 152h-250v-1h250v-4l9 4.5-9 4.5z"/>
+  <path id="path4391" transform="translate(1,-1)" d="m107 201h-18v-1h18v-4l9 4.5-9 4.5z"/>
+  <path id="path4393" transform="translate(1,-1)" d="m223 201h-18v-1h18v-4l9 4.5-9 4.5z"/>
+  <path id="path4395" transform="translate(1,-1)" d="m455 201h-134v-1h134v-4l9 4.5-9 4.5z"/>
+  <path id="path4397" transform="translate(1,-1)" d="m455 152h-18v-1h18v-4l9 4.5-9 4.5z"/>
+  <path id="path4399" transform="translate(1,-1)" d="m538.5 17h-539v-2h539v-6l14 7-14 7z"/>
  </g>
- <text id="Checkins-Over-Time" transform="translate(1,-1)" fill="#4d4d4d" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="900"><tspan x="211" y="11" fill="#4d4d4d">Checkins Over Time</tspan></text>
+ <text id="Checkins-Over-Time" transform="translate(1,-1)" fill="#4d4d4d" fill-rule="evenodd" font-family="'Source Code Pro'" font-size="12px" font-weight="700" style="fill:#404040"><tspan id="tspan4403" x="211" y="11" fill="#4d4d4d" style="fill:#404040">Checkins Over Time</tspan></text>
 </svg>

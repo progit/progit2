@@ -1,151 +1,124 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="565px" height="427px" viewBox="0 0 565 427" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/reset-checkout</title>
-    <desc>Created with Sketch.</desc>
-    <g id="07---Checkout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-+-before-command" transform="translate(10.000000, 126.000000)">
-            <g id="Group">
-                <g id="brown" transform="translate(0.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
-                    </text>
-                </g>
-                <path id="Line" d="M98,124 L145,124 L145,125 L98,125 L98,129 L89,124.5 L98,120 L98,124 Z" fill="#8F8981" fill-rule="nonzero"/>
-                <g id="brown" transform="translate(117.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
-                    </text>
-                </g>
-                <g id="Line-3-+-ref" transform="translate(3.000000, 54.000000)">
-                    <path id="Line-3" d="M42,46 L42,16 L43,16 L43,46 L47,46 L42.5,55 L38,46 L42,46 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-2-+-ref-2" transform="translate(119.000000, 54.000000)">
-                    <path id="Line-2" d="M43,45 L43,16 L44,16 L44,45 L48,45 L43.5,54 L39,45 L43,45 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-4-+-symref" transform="translate(119.000000, 0.000000)">
-                    <path id="Line-4" d="M43,45 L43,16 L44,16 L44,45 L48,45 L43.5,54 L39,45 L43,45 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="symref">
-                        <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
-                        </text>
-                    </g>
-                </g>
-            </g>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#F14E32" fill-opacity="1" id="before-command">
-                <tspan x="27" y="164">before command</tspan>
-            </text>
-        </g>
-        <g id="Group-+-after-reset" transform="translate(295.000000, 22.000000)">
-            <g id="Group">
-                <g id="brown" transform="translate(43.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
-                    </text>
-                </g>
-                <path id="Line-5" d="M141,124 L188,124 L188,125 L141,125 L141,129 L132,124.5 L141,120 L141,124 Z" fill="#8F8981" fill-rule="nonzero"/>
-                <g id="brown" transform="translate(160.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
-                    </text>
-                </g>
-                <g id="Line-3-+-ref-2" transform="translate(0.000000, 54.000000)">
-                    <path id="Line-3" d="M64.1691492,47.8605701 L41.8028062,16.3820134 L42.6179866,15.8028062 L64.9843296,47.281363 L68.2450512,44.9645344 L69.7896036,54.9075902 L60.9084275,50.1773986 L64.1691492,47.8605701 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-2-+-ref-3" transform="translate(96.000000, 54.000000)">
-                    <path id="Line-2" d="M22.8444935,46.1770651 L43.3656342,15.8057768 L44.1942232,16.3656342 L23.6730825,46.7369225 L26.9874384,48.9763521 L18.2200713,53.9142945 L19.5301376,43.9376354 L22.8444935,46.1770651 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-4-+-symref-2" transform="translate(96.000000, 0.000000)">
-                    <path id="Line-4" d="M43,45 L43,16 L44,16 L44,45 L48,45 L43.5,54 L39,45 L43,45 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="symref">
-                        <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
-                        </text>
-                    </g>
-                </g>
-            </g>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#F14E32" fill-opacity="1" id="after-reset">
-                <tspan x="77.5859375" y="164">after reset</tspan>
-            </text>
-        </g>
-        <path d="M248.5,10.5 L248.5,416.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <path d="M554.5,204.5 L248.5,204.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"/>
-        <g id="after-checkout-+-Group" transform="translate(316.000000, 234.000000)">
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#F14E32" fill-opacity="1" id="after-checkout">
-                <tspan x="27.3833008" y="164">after checkout</tspan>
-            </text>
-            <g id="Group">
-                <g id="brown" transform="translate(0.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit A</tspan>
-                    </text>
-                </g>
-                <path id="Line-6" d="M98,124 L145,124 L145,125 L98,125 L98,129 L89,124.5 L98,120 L98,124 Z" fill="#8F8981" fill-rule="nonzero"/>
-                <g id="brown" transform="translate(117.000000, 108.000000)">
-                    <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-                    <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                        <tspan fill="#808080" x="44.5" y="21" >commit B</tspan>
-                    </text>
-                </g>
-                <g id="Line-3-+-ref-3" transform="translate(3.000000, 54.000000)">
-                    <path id="Line-3" d="M42,46 L42,16 L43,16 L43,46 L47,46 L42.5,55 L38,46 L42,46 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >master</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-2-+-ref-4" transform="translate(119.000000, 54.000000)">
-                    <path id="Line-2" d="M43,45 L43,16 L44,16 L44,45 L48,45 L43.5,54 L39,45 L43,45 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="ref">
-                        <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="53" y="20" >develop</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Line-4-+-symref-3" transform="translate(3.000000, 0.000000)">
-                    <path id="Line-4" d="M43,45 L43,16 L44,16 L44,45 L48,45 L43.5,54 L39,45 L43,45 Z" fill="#8F8981" fill-rule="nonzero"/>
-                    <g id="symref">
-                        <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="86" height="33"/>
-                        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                            <tspan fill="#f0f0f0" x="43" y="20" >HEAD</tspan>
-                        </text>
-                    </g>
-                </g>
-            </g>
-        </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg20238" version="1.1" viewBox="0 0 565 427" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata20244">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/reset-checkout</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title20073">images/reset-checkout</title>
+ <desc id="desc20075">Created with Sketch.</desc>
+ <g id="07---Checkout" fill="none" fill-rule="evenodd">
+  <g id="Group-+-before-command" transform="translate(10 126)">
+   <g id="Group">
+    <g id="brown" transform="translate(0 108)">
+     <rect id="Rectangle-1" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+     <text id="C6" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan20078" x="44.5" y="21" fill="#808080">commit A</tspan></text>
     </g>
+    <path id="Line" d="m98 124h47v1h-47v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+    <g id="g20089" transform="translate(117 108)">
+     <rect id="rect20083" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+     <text id="text20087" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan20085" x="44.5" y="21" fill="#808080">commit B</tspan></text>
+    </g>
+    <g id="Line-3-+-ref" transform="translate(3 54)">
+     <path id="Line-3" d="m42 46v-30h1v30h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+     <g id="ref">
+      <rect id="Rectangle-2" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
+      <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan20093" x="53" y="20" fill="#f0f0f0">master</tspan></text>
+     </g>
+    </g>
+    <g id="Line-2-+-ref-2" transform="translate(119 54)">
+     <path id="Line-2" d="m43 45v-29h1v29h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+     <g id="g20105">
+      <rect id="rect20099" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
+      <text id="text20103" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan20101" x="53" y="20" fill="#f0f0f0">develop</tspan></text>
+     </g>
+    </g>
+    <g id="Line-4-+-symref" transform="translate(119)">
+     <path id="Line-4" d="m43 45v-29h1v29h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+     <g id="symref">
+      <rect id="rect20109" width="86" height="33" fill="#00909A" fill-rule="evenodd"/>
+      <text id="text20113" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan20111" x="43" y="20" fill="#f0f0f0">HEAD</tspan></text>
+     </g>
+    </g>
+   </g>
+   <text id="before-command" transform="translate(18.341)" font-size="12px" font-weight="700" style="fill:#f14e32;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan20118" x="27" y="164" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">before command</tspan></text>
+  </g>
+  <g id="Group-+-after-reset" transform="translate(286.7,22)">
+   <g id="g20172">
+    <g id="g20128" transform="translate(43,108)">
+     <rect id="rect20122" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text20126" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20124" x="44.5" y="21" style="fill:gray">commit A</tspan></text>
+    </g>
+    <path id="Line-5" d="m141 124h47v1h-47v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <g id="g20137" transform="translate(160,108)">
+     <rect id="rect20131" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text20135" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20133" x="44.5" y="21" style="fill:gray">commit B</tspan></text>
+    </g>
+    <g id="Line-3-+-ref-2" transform="translate(0,54)">
+     <path id="path20139" transform="translate(0 -.7)" d="m64.169 47.861-22.366-31.479.81518-.57921 22.366 31.479 3.2607-2.3168 1.5446 9.9431-8.8812-4.7302z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20147">
+      <rect id="rect20141" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+      <text id="text20145" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20143" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+     </g>
+    </g>
+    <g id="Line-2-+-ref-3" transform="translate(115,54)">
+     <path id="path20150" transform="rotate(18.021 8.2385 -3.7678)" d="m22.844 46.177 20.521-30.371.82859.55986-20.521 30.371 3.3144 2.2394-8.7674 4.9379 1.3101-9.9767z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20158">
+      <rect id="rect20152" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+      <text id="text20156" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20154" x="53" y="20" style="fill:#f0f0f0">develop</tspan></text>
+     </g>
+    </g>
+    <g id="Line-4-+-symref-2" transform="translate(96)">
+     <path id="path20161" d="m43 45v-29h1v29h4l-4.5 9-4.5-9z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20169">
+      <rect id="rect20163" width="86" height="33" style="fill-rule:evenodd;fill:#00909a"/>
+      <text id="text20167" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20165" x="43" y="20" style="fill:#f0f0f0">HEAD</tspan></text>
+     </g>
+    </g>
+   </g>
+   <text id="after-reset" transform="translate(-6.0067)" font-size="12px" font-weight="700" style="fill:#f14e32;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan20174" x="77.585938" y="164" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">after reset</tspan></text>
+  </g>
+  <path id="path20178" d="m248.5 10.5v406" fill="#8F8981" stroke="#8F8981" stroke-linecap="square"/>
+  <path id="Line-7" d="m554.5 204.5h-306" fill="#8F8981" stroke="#8F8981" stroke-linecap="square"/>
+  <g id="after-checkout-+-Group" transform="translate(297,234)">
+   <text id="after-checkout" transform="translate(84.962)" font-size="12px" font-weight="700" style="fill:#f14e32;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan20181" x="27.383301" y="164" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">after checkout</tspan></text>
+   <g id="g20234">
+    <g id="g20190" transform="translate(0,108)">
+     <rect id="rect20184" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text20188" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20186" x="44.5" y="21" style="fill:gray">commit A</tspan></text>
+    </g>
+    <path id="Line-6" d="m98 124h47v1h-47v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <g id="g20199" transform="translate(117,108)">
+     <rect id="rect20193" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text20197" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20195" x="44.5" y="21" style="fill:gray">commit B</tspan></text>
+    </g>
+    <g id="Line-3-+-ref-3" transform="translate(3,54)">
+     <path id="path20201" d="m42 46v-30h1v30h4l-4.5 9-4.5-9z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20209">
+      <rect id="rect20203" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+      <text id="text20207" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20205" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+     </g>
+    </g>
+    <g id="Line-2-+-ref-4" transform="translate(119,54)">
+     <path id="path20212" d="m43 45v-29h1v29h4l-4.5 9-4.5-9z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20220">
+      <rect id="rect20214" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+      <text id="text20218" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20216" x="53" y="20" style="fill:#f0f0f0">develop</tspan></text>
+     </g>
+    </g>
+    <g id="Line-4-+-symref-3" transform="translate(3)">
+     <path id="path20223" d="m43 45v-29h1v29h4l-4.5 9-4.5-9z" style="fill-rule:nonzero;fill:#8f8981"/>
+     <g id="g20231">
+      <rect id="rect20225" width="86" height="33" style="fill-rule:evenodd;fill:#00909a"/>
+      <text id="text20229" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan20227" x="43" y="20" style="fill:#f0f0f0">HEAD</tspan></text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
 </svg>

@@ -1,129 +1,102 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="507px" height="402px" viewBox="0 0 507 402" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/topic-branches-1</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Topic-Branches-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="brown" transform="translate(139.000000, 362.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C0</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M184,353 L184,328 L185,328 L185,353 L189,353 L184.5,362 L180,353 L184,353 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(139.000000, 309.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C1</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M184,300 L184,275 L185,275 L185,300 L189,300 L184.5,309 L180,300 L184,300 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(139.000000, 256.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C3</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M184,247 L184,222 L185,222 L185,247 L189,247 L184.5,256 L180,247 L184,247 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(139.000000, 203.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C9</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M184,194 L184,169 L185,169 L185,194 L189,194 L184.5,203 L180,194 L184,194 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(139.000000, 150.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C10</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M234.056604,313.576005 L320.752534,274.839526 L321.160474,275.752534 L234.464544,314.489014 L236.096304,318.141049 L226.043496,317.70397 L232.424844,309.92397 L234.056604,313.576005 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(275.000000, 256.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C2</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M320,247 L320,222 L321,222 L321,247 L325,247 L320.5,256 L316,247 L320,247 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(275.000000, 203.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C4</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M320,194 L320,169 L321,169 L321,194 L325,194 L320.5,203 L316,194 L320,194 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(275.000000, 150.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C5</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M320,141 L320,116 L321,116 L321,141 L325,141 L320.5,150 L316,141 L320,141 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(275.000000, 97.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C6</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M131.629932,157.250072 L47.8322067,116.732491 L48.267509,115.832207 L132.065234,156.349788 L133.806444,152.748651 L139.950142,160.717651 L129.888723,160.85121 L131.629932,157.250072 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(3.000000, 97.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C12</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M48,88 L48,63 L49,63 L49,88 L53,88 L48.5,97 L44,88 L48,88 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(3.000000, 44.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C13</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M370.091239,206.643436 L456.758404,168.8418 L457.1582,169.758404 L370.491035,207.56004 L372.090217,211.226458 L362.041698,210.699898 L368.492057,202.977019 L370.091239,206.643436 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(411.000000, 150.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C7</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M456,141 L456,116 L457,116 L457,141 L461,141 L456.5,150 L452,141 L456,141 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(411.000000, 97.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C8</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M456,88 L456,63 L457,63 L457,88 L461,88 L456.5,97 L452,88 L456,88 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(411.000000, 44.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="C6">
-                <tspan fill="#808080" x="44.5" y="21" fill-opacity="1">C11</tspan>
-            </text>
-        </g>
-        <g id="ref" transform="translate(141.000000, 112.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">master</tspan>
-            </text>
-        </g>
-        <g id="ref" transform="translate(276.000000, 59.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">iss91</tspan>
-            </text>
-        </g>
-        <g id="ref" transform="translate(413.000000, 6.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">iss91v2</tspan>
-            </text>
-        </g>
-        <g id="ref" transform="translate(4.000000, 6.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">dumbidea</tspan>
-            </text>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg29970" version="1.1" viewBox="0 0 507 402" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata29976">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/topic-branches-1</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title29802">images/topic-branches-1</title>
+ <desc id="desc29804">Created with Sketch.</desc>
+ <g id="03---Topic-Branches-1" fill="none" fill-rule="evenodd">
+  <g id="g30624">
+   <g id="brown" transform="translate(139 362)">
+    <rect id="Rectangle-1" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="C6" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29807" x="44.5" y="21" fill="#808080">C0</tspan></text>
+   </g>
+   <path id="Line" d="m184 353v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29818" transform="translate(139 309)">
+    <rect id="rect29812" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29816" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29814" x="44.5" y="21" fill="#808080">C1</tspan></text>
+   </g>
+   <path id="path29820" d="m184 300v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29828" transform="translate(139 256)">
+    <rect id="rect29822" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29826" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29824" x="44.5" y="21" fill="#808080">C3</tspan></text>
+   </g>
+   <path id="path29830" d="m184 247v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29838" transform="translate(139 203)">
+    <rect id="rect29832" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29836" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29834" x="44.5" y="21" fill="#808080">C9</tspan></text>
+   </g>
+   <path id="path29840" d="m184 194v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29848" transform="translate(139 150)">
+    <rect id="rect29842" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29846" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29844" x="44.5" y="21" fill="#808080">C10</tspan></text>
+   </g>
+   <path id="path29850" d="m234.06 313.58 86.696-38.736.40794.91301-86.696 38.736 1.6318 3.652-10.053-.43708 6.3813-7.78 1.6318 3.652z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29858" transform="translate(275 256)">
+    <rect id="rect29852" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29856" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29854" x="44.5" y="21" fill="#808080">C2</tspan></text>
+   </g>
+   <path id="path29860" d="m320 247v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29868" transform="translate(275 203)">
+    <rect id="rect29862" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29866" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29864" x="44.5" y="21" fill="#808080">C4</tspan></text>
+   </g>
+   <path id="path29870" d="m320 194v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29878" transform="translate(275 150)">
+    <rect id="rect29872" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29876" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29874" x="44.5" y="21" fill="#808080">C5</tspan></text>
+   </g>
+   <path id="path29880" d="m320 141v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29888" transform="translate(275 97)">
+    <rect id="rect29882" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29886" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29884" x="44.5" y="21" fill="#808080">C6</tspan></text>
+   </g>
+   <path id="path29890" d="m131.63 157.25-83.798-40.518.4353-.90028 83.798 40.518 1.7412-3.6011 6.1437 7.969-10.061.13356 1.7412-3.6011z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29898" transform="translate(3 97)">
+    <rect id="rect29892" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29896" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29894" x="44.5" y="21" fill="#808080">C12</tspan></text>
+   </g>
+   <path id="path29900" d="m48 88v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29908" transform="translate(3 44)">
+    <rect id="rect29902" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29906" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29904" x="44.5" y="21" fill="#808080">C13</tspan></text>
+   </g>
+   <path id="path29910" d="m370.09 206.64 86.667-37.802.3998.9166-86.667 37.802 1.5992 3.6664-10.049-.52656 6.4504-7.7229 1.5992 3.6664z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29918" transform="translate(411 150)">
+    <rect id="rect29912" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29916" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29914" x="44.5" y="21" fill="#808080">C7</tspan></text>
+   </g>
+   <path id="path29920" d="m456 141v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29928" transform="translate(411 97)">
+    <rect id="rect29922" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29926" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29924" x="44.5" y="21" fill="#808080">C8</tspan></text>
+   </g>
+   <path id="path29930" d="m456 88v-25h1v25h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+   <g id="g29938" transform="translate(411 44)">
+    <rect id="rect29932" width="89" height="33" rx="16.5" fill="#EFEFE7" fill-rule="evenodd"/>
+    <text id="text29936" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan29934" x="44.5" y="21" fill="#808080">C11</tspan></text>
+   </g>
+   <g id="ref" transform="translate(139,112)">
+    <rect id="Rectangle-2" transform="scale(.83977 1)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="master" transform="translate(-8.3927 .316)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan29941" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+   </g>
+   <g id="g29951" transform="translate(275.1,59)">
+    <rect id="rect29945" transform="scale(.83894 1)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text29949" transform="translate(-8.6585 .958)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan29947" x="53" y="20" style="fill:#f0f0f0">iss91</tspan></text>
+   </g>
+   <rect id="rect29953" transform="matrix(.83906 0 0 1 411.1 6)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+   <text id="text29957" transform="translate(402.48 6.958)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan29955" x="53" y="20" style="fill:#f0f0f0">iss91v2</tspan></text>
+   <g id="g29967" transform="translate(3,6)">
+    <rect id="rect29961" transform="scale(.83965 1)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text29965" transform="translate(-8.3928 .958)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan29963" x="53" y="20" style="fill:#f0f0f0">dumbidea</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

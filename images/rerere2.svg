@@ -1,67 +1,58 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="589px" height="329px" viewBox="0 0 589 329" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/rerere2</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <pattern id="pattern-1" width="30" height="30" x="-14" y="78" patternUnits="userSpaceOnUse">
-            <use xlink:href="#image-2"/>
-        </pattern>
-        <image id="image-2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAADqSURBVEgN7ZVdDgIhDISl19KrrOFoBD2KXsOjkO1slAQBaVjovthHdjIfP7Otcc69iOjK9ThVijVn/nQbqTMzTCWbNDjkEfANfAQ8grXhCVgTnoG14EWwBrwKng0n7/0FkFJZa5+8voQQWDZWRzNMJZv8d66hg4DzUfVLUq3ZsxMwkv2G33kELoJR2a3LwIAjlUh7a/7u0RXBGvAqeDacfv3seGNcd6vJ9OianavHVHIYsycgeI7vkvptbywVj9TFcI00xS20/CJYIv5ca8tUokvAmvAMrAUvgjXgVfBsOCEogJRqVvNAJ1wBMfROw+AwCxUAAAAASUVORK5CYII="/>
-    </defs>
-    <g id="rerere2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line-7" d="M425,77 L425,48 L426,48 L426,77 L430,77 L425.5,86 L421,77 L425,77 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line" d="M178,109 L220,109 L220,110 L178,110 L178,114 L169,109.5 L178,105 L178,109 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-4" d="M331,110 L373,110 L373,111 L331,111 L331,115 L322,110.5 L331,106 L331,110 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-5" d="M326.859294,169.883508 L373.467598,118.793636 L374.206364,119.467598 L327.59806,170.55747 L330.553124,173.253318 L321.163019,176.869383 L323.90423,167.18766 L326.859294,169.883508 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-3" d="M272,205 L272,222 L271,222 L271,205 L267,205 L271.5,196 L276,205 L272,205 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-2" d="M25,109 L75,109 L75,110 L25,110 L25,114 L16,109.5 L25,105 L25,109 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="ref" transform="translate(381.000000, 16.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">master</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(67.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#808080" x="51" y="28" fill-opacity="1">hello world</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(221.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#808080" x="51" y="28" fill-opacity="1">hola world</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(373.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#808080" x="51" y="28" fill-opacity="1">hola mundo</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(220.000000, 148.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#808080" x="51" y="28" fill-opacity="1">hello mundo</tspan>
-            </text>
-        </g>
-        <path id="Line-8" d="M175.978058,126.025827 L220.20696,168.485572 L219.514428,169.20696 L175.285526,126.747214 L172.515399,129.632763 L169.139306,120.153734 L178.748185,123.140278 L175.978058,126.025827 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="ref" transform="translate(228.000000, 223.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="master">
-                <tspan fill="#f0f0f0" x="53" y="20" fill-opacity="1">i18-world</tspan>
-            </text>
-        </g>
-        <rect id="Rectangle-7" stroke="#979797" fill="#D8D8D8" x="384.5" y="180.5" width="191" height="111" rx="1"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="rerere-cache">
-            <tspan fill="#808080" x="95.5" y="203" fill-opacity="1">rerere cache</tspan>
-        </text>
-        <rect id="Rectangle-8" stroke="#979797" fill="#E7E7E7" x="390.5" y="218.5" width="178" height="64" rx="1"/>
-        <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="----puts-&#x2018;hola-world">
-            <tspan fill="#808080" x="95.5" y="240" fill-opacity="1">-   puts ‘hola world’</tspan>
-            <tspan fill="#808080" x="95.5" y="254" fill-opacity="1"> -  puts ‘hello mundo’</tspan>
-            <tspan fill="#808080" x="95.5" y="268" fill-opacity="1">++  puts ‘hola mundo’</tspan>
-        </text>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg16210" version="1.1" viewBox="0 0 589 329" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata16214">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/rerere2</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title16136">images/rerere2</title>
+ <desc id="desc16138">Created with Sketch.</desc>
+ <g id="rerere2" fill="none" fill-rule="evenodd">
+  <path id="Line-7" d="m425 77v-29h1v29h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line" d="m178 109h42v1h-42v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-4" d="m331.94 110h41.056v1h-41.056v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+  <path id="Line-5" d="m327.7 163.42 45.772-44.63.73876.67396-45.772 44.63 2.9551 2.6958-9.3901 3.6161 2.7412-9.6817z" style="fill-rule:nonzero;fill:#8f8981"/>
+  <path id="Line-3" d="m272 205v17h-1v-17h-4l4.5-9 4.5 9h-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-2" d="m25 109h50v1h-50v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="ref" transform="translate(381 16)">
+   <rect id="Rectangle-2" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
+   <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16153" x="53" y="20" fill="#f0f0f0">master</tspan></text>
+  </g>
+  <g id="content" transform="translate(67 86)">
+   <rect id="rect16157" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text id="text16161" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16159" x="51" y="28" fill="#808080">hello world</tspan></text>
+  </g>
+  <g id="g16170" transform="translate(221 86)">
+   <rect id="rect16164" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text id="text16168" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16166" x="51" y="28" fill="#808080">hola world</tspan></text>
+  </g>
+  <g id="g16178" transform="translate(373 86)">
+   <rect id="rect16172" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text id="text16176" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16174" x="51" y="28" fill="#808080">hola mundo</tspan></text>
+  </g>
+  <g id="g16186" transform="translate(220 148)">
+   <rect id="rect16180" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text id="text16184" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16182" x="51" y="28" fill="#808080">hello mundo</tspan></text>
+  </g>
+  <path id="Line-8" d="m175.98 126.03 44.229 42.46-.69253.72139-44.229-42.46-2.7701 2.8855-3.3761-9.479 9.6089 2.9865-2.7701 2.8855z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="g16195" transform="translate(228 223)">
+   <rect id="rect16189" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
+   <text id="text16193" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan16191" x="53" y="20" fill="#f0f0f0">i18-world</tspan></text>
+  </g>
+  <g id="g16350">
+   <g id="g16337">
+    <rect id="Rectangle-7" x="384.5" y="180.5" width="191" height="111" rx="1" fill="#D8D8D8" stroke="#979797"/>
+    <text id="rerere-cache" transform="translate(296.51 .44153)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan16198" x="95.5" y="203" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">rerere cache</tspan></text>
+   </g>
+   <g id="g16332">
+    <rect id="Rectangle-8" x="390.5" y="218.5" width="178" height="64" rx="1" fill="#E7E7E7" stroke="#979797"/>
+    <text id="text16296" transform="translate(8.512 -110.66)" x="388.82846" y="352.83362" style="fill:#f44d27;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:9.5px;word-spacing:0px" xml:space="preserve"><tspan id="tspan16294" x="388.82846" y="352.83362" style="fill:#f44d27;line-height:13.33333302px"><tspan id="tspan16302" style="fill:#cc003d">-  puts ‘hola world’</tspan> </tspan><tspan id="tspan16298" x="388.82846" y="366.16696" style="fill:#f44d27;line-height:13.33333302px">-  puts ‘hello mundo’ </tspan><tspan id="tspan16300" x="388.82846" y="379.50027" style="fill:green;line-height:13.33333302px">++ puts ‘hola mundo’</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

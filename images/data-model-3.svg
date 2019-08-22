@@ -1,136 +1,97 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="479px" height="356px" viewBox="0 0 479 356" version="1.1">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/data-model-3</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-89" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line-2" d="M152,60 L80,60 L80,59 L152,59 L152,55 L161,59.5 L152,64 L152,60 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-6" d="M331,293 L250,293 L250,292 L331,292 L331,288 L340,292.5 L331,297 L331,293 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-10" d="M446,209 L455.12468,209 L455.12468,60 L250,60 L250,59 L456.12468,59 L456.12468,210 L446,210 L446,214 L437,209.5 L446,205 L446,209 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-11" d="M239.101292,320.295033 L260.728487,345.451813 L468.162775,345.451813 L468.162775,18 L265.134997,18 L233.2289,54.5613358 L232.475455,53.9038247 L264.680433,17 L469.162775,17 L469.162775,346.451813 L260.269442,346.451813 L238.342993,320.94694 L235.309797,323.554568 L232.85498,313.796296 L242.134487,317.687405 L239.101292,320.295033 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-7" d="M332.214803,207.536456 L249.877413,182.835239 L250.164761,181.877413 L332.502151,206.57863 L333.651542,202.747325 L340.978913,209.643674 L331.065411,211.367761 L332.214803,207.536456 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-9" d="M331.688881,115.110837 L249.828184,73.7205964 L250.279404,72.8281836 L332.140101,114.218424 L333.944981,110.648773 L339.946206,118.72561 L329.884002,118.680488 L331.688881,115.110837 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-8" d="M331.451935,144.280044 L250.153847,167.116586 L249.883414,166.153847 L331.181502,143.317305 L330.099773,139.466349 L339.981369,141.364784 L332.533664,148.131 L331.451935,144.280044 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-4" d="M61,143 L61,59 L62,59 L62,143 L66,143 L61.5,152 L57,143 L61,143 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <path id="Line-5" d="M61,259 L61,175 L62,175 L62,259 L66,259 L61.5,268 L57,259 L61,259 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown" transform="translate(341.000000, 109.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-2&quot;">
-                <tspan fill="#808080" x="48.5" y="29" fill-opacity="1">"version 2"</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1f7a7a">
-                <tspan fill="#808080" x="48.5" y="12" fill-opacity="1">1f7a7a</tspan>
-            </text>
-        </g>
-        <g id="brown-4" transform="translate(341.000000, 187.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;new-file&quot;">
-                <tspan fill="#808080" x="48.5" y="29" fill-opacity="1">"new file"</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fa49b0">
-                <tspan fill="#808080" x="48.5" y="12" fill-opacity="1">fa49b0</tspan>
-            </text>
-        </g>
-        <g id="brown-5" transform="translate(341.000000, 271.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" x="0" y="0" width="97" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="&quot;version-1&quot;">
-                <tspan fill="#808080" x="48.5" y="29" fill-opacity="1">"version 1"</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="83baae">
-                <tspan fill="#808080" x="48.5" y="12" fill-opacity="1">83baae</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-2" transform="translate(258.000000, 285.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
-                <tspan fill="#808080" x="32.5" y="11" fill-opacity="1">test.txt</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-5" transform="translate(258.000000, 147.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
-                <tspan fill="#808080" x="32.5" y="11" fill-opacity="1">test.txt</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-6" transform="translate(258.000000, 85.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="65" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="test.txt">
-                <tspan fill="#808080" x="32.5" y="11" fill-opacity="1">test.txt</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-4" transform="translate(264.000000, 52.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
-                <tspan fill="#808080" x="26.5" y="11" fill-opacity="1">new.txt</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-7" transform="translate(264.000000, 187.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="53" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="new.txt">
-                <tspan fill="#808080" x="26.5" y="11" fill-opacity="1">new.txt</tspan>
-            </text>
-        </g>
-        <g id="Rectangle-6-+-simplegit.rb-3" transform="translate(274.000000, 10.000000)">
-            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="34" height="15"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="bak">
-                <tspan fill="#808080" x="17" y="11" fill-opacity="1">bak</tspan>
-            </text>
-        </g>
-        <g id="brown-2" transform="translate(161.000000, 36.000000)">
-            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
-                <tspan fill="#808080" x="44.5" y="29" fill-opacity="1">tree</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="3c4e9c">
-                <tspan fill="#808080" x="44.5" y="12" fill-opacity="1">3c4e9c</tspan>
-            </text>
-        </g>
-        <g id="brown-6" transform="translate(0.000000, 36.000000)">
-            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="third-commit">
-                <tspan fill="#f0f0f0" x="60" y="28" fill-opacity="1">third commit</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="1a410e">
-                <tspan fill="#f0f0f0" x="60" y="13" fill-opacity="1">1a410e</tspan>
-            </text>
-        </g>
-        <path id="Line-3" d="M152,176 L80,176 L80,175 L152,175 L152,171 L161,175.5 L152,180 L152,176 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown-8" transform="translate(0.000000, 152.000000)">
-            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="second-commit">
-                <tspan fill="#f0f0f0" x="60" y="28" fill-opacity="1">second commit</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="cac0ca">
-                <tspan fill="#f0f0f0" x="60" y="13" fill-opacity="1">cac0ca</tspan>
-            </text>
-        </g>
-        <path id="Line-3" d="M152,292 L80,292 L80,291 L152,291 L152,287 L161,291.5 L152,296 L152,292 Z" fill="#8F8981" fill-rule="nonzero"/>
-        <g id="brown-8" transform="translate(0.000000, 268.000000)">
-            <rect id="Rectangle-1" fill="#CD9F00" x="0" y="0" width="120" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="first-commit">
-                <tspan fill="#f0f0f0" x="60" y="28" fill-opacity="1">first commit</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="fdf4fc">
-                <tspan fill="#f0f0f0" x="60" y="13" fill-opacity="1">fdf4fc</tspan>
-            </text>
-        </g>
-        <g id="brown-3" transform="translate(161.000000, 152.000000)">
-            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
-                <tspan fill="#808080" x="44.5" y="28" fill-opacity="1">tree</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="0155eb">
-                <tspan fill="#808080" x="44.5" y="12" fill-opacity="1">0155eb</tspan>
-            </text>
-        </g>
-        <g id="brown-7" transform="translate(161.000000, 268.000000)">
-            <rect id="Rectangle-1" fill="#159099" x="0" y="0" width="89" height="46" rx="10"/>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="tree">
-                <tspan fill="#808080" x="44.5" y="28" fill-opacity="1">tree</tspan>
-            </text>
-            <text stroke="none" font-family="Source Code Pro" font-size="12px" font-weight="900" fill="#979797" fill-opacity="1" text-anchor="middle" id="d8329f">
-                <tspan fill="#808080" x="44.5" y="12" fill-opacity="1">d8329f</tspan>
-            </text>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg3621" version="1.1" viewBox="0 0 479 356" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata3627">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/data-model-3</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title3483">images/data-model-3</title>
+ <desc id="desc3485">Created with Sketch.</desc>
+ <g id="Page-89" fill="none" fill-rule="evenodd">
+  <path id="Line-2" d="m152 60h-72v-1h72v-4l9 4.5-9 4.5v-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-6" d="m331 293h-81v-1h81v-4l9 4.5-9 4.5v-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-10" d="m446 209h9.1247v-149h-205.12v-1h206.12v151h-10.125v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-11" d="m239.1 320.3 21.627 25.157h207.43v-327.45h-203.03l-31.906 36.561-.75344-.65751 32.205-36.904h204.48v329.45h-208.89l-21.926-25.505-3.0332 2.6076-2.4548-9.7583 9.2795 3.8911-3.0332 2.6076z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-7" d="m332.21 207.54-82.337-24.701.28735-.95783 82.337 24.701 1.1494-3.8313 7.3274 6.8963-9.9135 1.7241 1.1494-3.8313z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-9" d="m331.69 115.11-81.861-41.39.45122-.89241 81.861 41.39 1.8049-3.5697 6.0012 8.0768-10.062-.045122 1.8049-3.5697z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-8" d="m331.45 144.28-81.298 22.837-.27043-.96274 81.298-22.837-1.0817-3.851 9.8816 1.8984-7.4477 6.7662-1.0817-3.851z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-4" d="m61 143v-84h1v84h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+  <path id="Line-5" d="m61 259v-84h1v84h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="brown" transform="translate(341 109)">
+   <rect id="Rectangle-1" width="97" height="46" rx="10" fill="#EFEFE7"/>
+   <text id='"version-2"' fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan3497" x="48.5" y="29" fill="#808080">"version 2"</tspan></text>
+   <text id="1f7a7a" transform="translate(-43.069 -2.293)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3500" x="48.5" y="12" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">1f7a7a</tspan></text>
+  </g>
+  <g id="brown-4" transform="translate(341 187)">
+   <rect id="rect3504" width="97" height="46" rx="10" fill="#EFEFE7"/>
+   <text id='"new-file"' transform="translate(-.0083438 -1.542)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3506" x="48.5" y="29" style="fill:gray">"new file"</tspan></text>
+   <text id="fa49b0" transform="translate(-43.167 -2.1927)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3509" x="48.5" y="12" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">fa49b0</tspan></text>
+  </g>
+  <g id="brown-5" transform="translate(340.95 267.89)">
+   <rect id="rect3513" width="97" height="46" rx="10" ry="10" style="fill:#efefe7"/>
+   <text id='"version-1"' transform="translate(-.0083438 -1.542)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3515" x="48.5" y="29" style="fill:gray">"version 1"</tspan></text>
+   <text id="83baae" transform="translate(-42.87 -2.3923)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3518" x="48.5" y="12" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">83baae</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-2" transform="translate(258 285)">
+   <rect id="Rectangle-6" width="65" height="15" fill="#FFFFFF"/>
+   <text id="test.txt" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3523" x="32.5" y="11" fill="#808080" style="fill:#404040">test.txt</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-5" transform="translate(258 147)">
+   <rect id="rect3527" width="65" height="15" fill="#FFFFFF"/>
+   <text id="text3531" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3529" x="32.5" y="11" fill="#808080" style="fill:#404040">test.txt</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-6" transform="translate(258 85)">
+   <rect id="rect3534" width="65" height="15" fill="#FFFFFF"/>
+   <text id="text3538" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3536" x="32.5" y="11" fill="#808080" style="fill:#404040">test.txt</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-4" transform="translate(264 52)">
+   <rect id="rect3541" width="53" height="15" fill="#FFFFFF"/>
+   <text id="new.txt" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3543" x="26.5" y="11" fill="#808080" style="fill:#404040">new.txt</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-7" transform="translate(264 187)">
+   <rect id="rect3547" width="53" height="15" fill="#FFFFFF"/>
+   <text id="text3551" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3549" x="26.5" y="11" fill="#808080" style="fill:#404040">new.txt</tspan></text>
+  </g>
+  <g id="Rectangle-6-+-simplegit.rb-3" transform="translate(274 10)">
+   <rect id="rect3554" width="34" height="15" fill="#FFFFFF"/>
+   <text id="bak" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan3556" x="17" y="11" fill="#808080" style="fill:#404040">bak</tspan></text>
+  </g>
+  <g id="brown-2" transform="translate(161,35.9)">
+   <rect id="rect3560" width="89" height="46" rx="10" ry="10" style="fill:#159099"/>
+   <text id="tree" transform="translate(.021656 -2.184)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3562" x="44.5" y="29" style="fill:#f0f0f0">tree</tspan></text>
+   <text id="3c4e9c" transform="translate(-38.844 -2.2612)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3565" x="44.5" y="12" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">3c4e9c</tspan></text>
+  </g>
+  <g id="brown-6" transform="translate(0 36)">
+   <rect id="rect3569" width="120" height="46" rx="10" fill="#CD9F00"/>
+   <text id="third-commit" transform="translate(.0036562 -.542)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3571" x="60" y="28" style="fill:#f0f0f0">third commit</tspan></text>
+   <text id="1a410e" transform="translate(-54.513 -3.3459)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3574" x="60" y="13" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">1a410e</tspan></text>
+  </g>
+  <path id="Line-3" d="m152 176h-72v-1h72v-4l9 4.5-9 4.5v-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="brown-8" transform="translate(0 152)">
+   <rect id="rect3579" width="120" height="46" rx="10" fill="#CD9F00"/>
+   <text id="second-commit" transform="translate(-.020344 -.542)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3581" x="60" y="28" style="fill:#f0f0f0">second commit</tspan></text>
+   <text id="cac0ca" transform="translate(-54.451 -3.2845)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3584" x="60" y="13" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">cac0ca</tspan></text>
+  </g>
+  <path id="path3588" d="m152 292h-72v-1h72v-4l9 4.5-9 4.5v-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="g3598" transform="translate(0 268)">
+   <rect id="rect3590" width="120" height="46" rx="10" fill="#CD9F00"/>
+   <text id="first-commit" transform="translate(-.19434 -.542)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3592" x="60" y="28" style="fill:#f0f0f0">first commit</tspan></text>
+   <text id="fdf4fc" transform="translate(-54.633 -3.5881)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3595" x="60" y="13" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">fdf4fc</tspan></text>
+  </g>
+  <g id="brown-3" transform="translate(161 152)">
+   <rect id="rect3600" width="89" height="46" rx="10" fill="#159099"/>
+   <text id="text3604" transform="translate(.021656 -1.184)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3602" x="44.5" y="28" style="fill:#f0f0f0">tree</tspan></text>
+   <text id="0155eb" transform="translate(-38.801 -2.2953)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3606" x="44.5" y="12" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">0155eb</tspan></text>
+  </g>
+  <g id="brown-7" transform="translate(161 268)">
+   <rect id="rect3610" width="89" height="46" rx="10" fill="#159099"/>
+   <text id="text3614" transform="translate(.021656 -1.184)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3612" x="44.5" y="28" style="fill:#f0f0f0">tree</tspan></text>
+   <text id="d8329f" transform="translate(-38.683 -2.5923)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500"><tspan id="tspan3616" x="44.5" y="12" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500">d8329f</tspan></text>
+  </g>
+ </g>
 </svg>

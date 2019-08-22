@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="471px" height="564px" version="1.1" viewBox="0 0 471 564">
- <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4760" version="1.1" viewBox="0 0 471 564" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata4596">
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
@@ -9,91 +9,91 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <title>images/distributed</title>
- <desc>Created with Sketch.</desc>
- <g fill-rule="evenodd">
-  <rect x="155.5" y="8.5" width="160" height="203" fill="#d8d8d8" stroke="#979797"/>
-  <rect x="163.5" y="45.5" width="143" height="159" fill="white" stroke="#979797"/>
-  <text transform="translate(155.77)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="80" y="67" fill-opacity="1">Version Database</tspan></text>
+ <title id="title4598">images/distributed</title>
+ <desc id="desc4600">Created with Sketch.</desc>
+ <g id="g4610" fill-rule="evenodd">
+  <rect id="rect4602" x="155.5" y="8.5" width="160" height="203" fill="#d8d8d8" stroke="#979797"/>
+  <rect id="rect4604" x="163.5" y="45.5" width="143" height="159" fill="white" stroke="#979797"/>
+  <text id="text4608" transform="translate(155.77)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4606" x="80" y="67" fill="#808080">Version Database</tspan></text>
  </g>
- <g fill="none" fill-rule="evenodd">
+ <g id="g4635" fill="none" fill-rule="evenodd">
   <g id="brown" transform="translate(191,77)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 3</tspan></text>
+   <rect id="rect4612" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4616" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4614" x="44.5" y="21" fill="#808080">Version 3</tspan></text>
   </g>
-  <g transform="translate(191,119)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 2</tspan></text>
+  <g id="g4625" transform="translate(191,119)">
+   <rect id="rect4619" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4623" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4621" x="44.5" y="21" fill="#808080">Version 2</tspan></text>
   </g>
-  <g transform="translate(191,161)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 1</tspan></text>
-  </g>
- </g>
- <g fill-rule="evenodd">
-  <path d="m235.5 110.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-  <path d="m235.5 152.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-  <text id="Server-Computer" transform="translate(155.52)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="80" y="32" fill-opacity="1">Server Computer</tspan></text>
-  <rect transform="translate(9,301)" x=".5" y=".5" width="160" height="253" fill="#d8d8d8" stroke="#979797"/>
-  <rect transform="translate(17,388)" x=".5" y=".5" width="143" height="159" fill="white" stroke="#979797"/>
-  <text transform="translate(17,388)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="71.5" y="22" fill-opacity="1">Version Database</tspan></text>
- </g>
- <g fill="none" fill-rule="evenodd">
-  <g transform="translate(45,420)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 3</tspan></text>
-  </g>
-  <g transform="translate(45,462)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 2</tspan></text>
-  </g>
-  <g transform="translate(45,504)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 1</tspan></text>
+  <g id="g4633" transform="translate(191,161)">
+   <rect id="rect4627" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4631" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4629" x="44.5" y="21" fill="#808080">Version 1</tspan></text>
   </g>
  </g>
- <g fill-rule="evenodd">
-  <g>
-   <path transform="translate(17,388)" d="m72.5 65.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-   <path transform="translate(17,388)" d="m72.5 107.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-   <text id="Computer-A" transform="translate(9.1977 301)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="80" y="22" fill-opacity="1">Computer A</tspan></text>
+ <g id="g4652" fill-rule="evenodd">
+  <path id="path4637" d="m235.5 110.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+  <path id="path4639" d="m235.5 152.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+  <text id="Server-Computer" transform="translate(155.52)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan4641" x="80" y="32" fill="#808080" style="fill:#404040">Server Computer</tspan></text>
+  <rect id="rect4644" transform="translate(9,301)" x=".5" y=".5" width="160" height="253" fill="#d8d8d8" stroke="#979797"/>
+  <rect id="rect4646" transform="translate(17,388)" x=".5" y=".5" width="143" height="159" fill="white" stroke="#979797"/>
+  <text id="text4650" transform="translate(17,388)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4648" x="71.5" y="22" fill="#808080">Version Database</tspan></text>
+ </g>
+ <g id="g4678" fill="none" fill-rule="evenodd">
+  <g id="g4660" transform="translate(45,420)">
+   <rect id="rect4654" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4658" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4656" x="44.5" y="21" fill="#808080">Version 3</tspan></text>
   </g>
-  <rect transform="translate(45,332)" width="89" height="33" rx="16.5" fill="#00909a"/>
-  <text id="tree" transform="translate(45,332)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">File</tspan></text>
+  <g id="g4668" transform="translate(45,462)">
+   <rect id="rect4662" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4666" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4664" x="44.5" y="21" fill="#808080">Version 2</tspan></text>
+  </g>
+  <g id="g4676" transform="translate(45,504)">
+   <rect id="rect4670" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4674" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4672" x="44.5" y="21" fill="#808080">Version 1</tspan></text>
+  </g>
+ </g>
+ <g id="g4694" fill-rule="evenodd">
+  <g id="g4687">
+   <path id="path4680" transform="translate(17,388)" d="m72.5 65.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+   <path id="path4682" transform="translate(17,388)" d="m72.5 107.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+   <text id="Computer-A" transform="translate(9.1977 301)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan4684" x="80" y="22" fill="#f0f0f0" style="fill:#404040">Computer A</tspan></text>
+  </g>
+  <rect id="rect4689" transform="translate(45,332)" width="89" height="33" rx="16.5" fill="#00909a"/>
+  <text id="tree" transform="translate(45,332)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4691" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">File</tspan></text>
  </g>
  <path id="Line" transform="translate(9,301)" d="m81 73v14h-1v-14h-4l4.5-9 4.5 9z" fill="#8f8981"/>
- <g fill-rule="evenodd">
-  <rect transform="translate(301,301)" x=".5" y=".5" width="160" height="253" fill="#d8d8d8" stroke="#979797"/>
-  <rect transform="translate(310,388)" x=".5" y=".5" width="143" height="159" fill="white" stroke="#979797"/>
-  <text transform="translate(310,388)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="71.5" y="22" fill-opacity="1">Version Database</tspan></text>
+ <g id="g4705" fill-rule="evenodd">
+  <rect id="rect4697" transform="translate(301,301)" x=".5" y=".5" width="160" height="253" fill="#d8d8d8" stroke="#979797"/>
+  <rect id="rect4699" transform="translate(310,388)" x=".5" y=".5" width="143" height="159" fill="white" stroke="#979797"/>
+  <text id="text4703" transform="translate(310,388)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4701" x="71.5" y="22" fill="#808080">Version Database</tspan></text>
  </g>
- <g fill="none" fill-rule="evenodd">
-  <g transform="translate(338,420)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 3</tspan></text>
+ <g id="g4731" fill="none" fill-rule="evenodd">
+  <g id="g4713" transform="translate(338,420)">
+   <rect id="rect4707" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4711" transform="translate(0 -.042)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan4709" x="44.5" y="21" style="fill:gray">Version 3</tspan></text>
   </g>
-  <g transform="translate(338,462)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 2</tspan></text>
+  <g id="g4721" transform="translate(338,462)">
+   <rect id="rect4715" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4719" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4717" x="44.5" y="21" fill="#808080">Version 2</tspan></text>
   </g>
-  <g transform="translate(338,504)">
-   <rect width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
-   <text fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#808080" x="44.5" y="21" fill-opacity="1">Version 1</tspan></text>
+  <g id="g4729" transform="translate(338,504)">
+   <rect id="rect4723" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+   <text id="text4727" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4725" x="44.5" y="21" fill="#808080">Version 1</tspan></text>
   </g>
  </g>
- <g fill-rule="evenodd">
-  <g>
-   <path transform="translate(310,388)" d="m72.5 65.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-   <path transform="translate(310,388)" d="m72.5 107.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
-   <text id="Computer-B" transform="translate(301.39 301)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="80" y="22" fill-opacity="1">Computer B</tspan></text>
+ <g id="g4748" fill-rule="evenodd">
+  <g id="g4740">
+   <path id="path4733" transform="translate(310,388)" d="m72.5 65.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+   <path id="path4735" transform="translate(310,388)" d="m72.5 107.5v8" fill="#8f8981" stroke="#8f8981" stroke-linecap="square"/>
+   <text id="Computer-B" transform="translate(301.39 301)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan4737" x="80" y="22" fill="#f0f0f0" style="fill:#404040">Computer B</tspan></text>
   </g>
-  <rect transform="translate(337,332)" width="89" height="33" rx="16.5" fill="#00909a"/>
-  <text transform="translate(337,332)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="900" text-anchor="middle"><tspan fill="#f0f0f0" x="44.5" y="20" fill-opacity="1">File</tspan></text>
+  <rect id="rect4742" transform="translate(337,332)" width="89" height="33" rx="16.5" fill="#00909a"/>
+  <text id="text4746" transform="translate(337,332)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4744" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">File</tspan></text>
  </g>
- <g fill="#8f8981">
-  <path transform="translate(301,301)" d="m81 73v14h-1v-14h-4l4.5-9 4.5 9z"/>
-  <path d="m158.27 289.45 28.527-69.28-3.6987-1.523 7.5878-6.6087.73431 10.035-3.6987-1.523-28.527 69.28 3.6987 1.523-7.5878 6.6087-.7343-10.035z"/>
-  <path d="m311.92 291.77-28.778-73.179-3.7225 1.4639.89403-10.023 7.4816 6.7287-3.7225 1.4639 28.778 73.179 3.7225-1.4639-.89403 10.023-7.4816-6.7287z"/>
-  <path d="m292 411h-113v4l-9-4.5 9-4.5v4h113v-4l9 4.5-9 4.5z"/>
+ <g id="g4758" fill="#8f8981">
+  <path id="path4750" transform="translate(301,301)" d="m81 73v14h-1v-14h-4l4.5-9 4.5 9z"/>
+  <path id="path4752" d="m158.27 289.45 28.527-69.28-3.6987-1.523 7.5878-6.6087.73431 10.035-3.6987-1.523-28.527 69.28 3.6987 1.523-7.5878 6.6087-.7343-10.035z"/>
+  <path id="path4754" d="m311.92 291.77-28.778-73.179-3.7225 1.4639.89403-10.023 7.4816 6.7287-3.7225 1.4639 28.778 73.179 3.7225-1.4639-.89403 10.023-7.4816-6.7287z"/>
+  <path id="path4756" d="m292 411h-113v4l-9-4.5 9-4.5v4h113v-4l9 4.5-9 4.5z"/>
  </g>
 </svg>
