@@ -18,17 +18,15 @@
    <path id="path1140" d="m199.5 26.411v184.08"/>
   </g>
   <g id="g1172" style="fill-rule:evenodd">
-   <g id="ref-(2-line)" transform="translate(3.4716,4)">
-    <rect id="rect1144" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
-    <text id="master" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1146" x="55.290054" y="15.53125" style="fill:#f0f0f0">Working</tspan> <tspan id="tspan1148" x="55.290054" y="28.53125" style="fill:#f0f0f0">Directory</tspan></text>
-   </g>
    <g id="g1160">
-    <rect id="rect1152" transform="translate(144.21,4)" width="110.58" height="38" style="fill:#00909a"/>
-    <text id="text1158" transform="translate(144.21,4)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1154" x="55.290054" y="15" style="fill:#f0f0f0">Staging</tspan> <tspan id="tspan1156" x="55.290054" y="28" style="fill:#f0f0f0">Area</tspan></text>
+    <g id="g986">
+     <rect id="rect1152" transform="translate(144.21,4)" width="110.58" height="38" style="fill:#00909a"/>
+     <text id="text978" transform="translate(-31.483 78.068)" x="230.84857" y="-57.143829" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan976" x="230.84857" y="-57.143829">Staging</tspan><tspan id="tspan980" x="230.84857" y="-44.077164">Area</tspan></text>
+    </g>
    </g>
    <g id="g1170">
     <rect id="rect1162" transform="translate(284.95,4)" x=".5" y=".5" width="109.58" height="37" style="fill:#efefe7;stroke:gray"/>
-    <text id="text1168" transform="translate(284.95,4)" font-size="12px" font-weight="700" style="fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1164" x="54.790054" y="16.03125" style="fill:gray">.git directory</tspan> <tspan id="tspan1166" x="54.790054" y="30.03125" style="fill:gray">(Repository)</tspan></text>
+    <text id="text990" transform="translate(-25.325 77.518)" x="364.63309" y="-57.685589" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan988" x="364.63309" y="-57.685589">.git directory</tspan><tspan id="tspan992" x="364.63309" y="-44.618923">(Repository)</tspan></text>
    </g>
   </g>
   <g id="g1180" style="fill:#8f8981">
@@ -41,5 +39,11 @@
    <text id="Stage-Fixes" transform="translate(0,-1.116)" style="fill-opacity:1;fill:#f0f0f0"><tspan id="tspan1185" x="70.722588" y="138" style="fill-opacity:1;fill:#f0f0f0">Stage Fixes</tspan></text>
    <text id="Commit" transform="translate(0,-1.1346)" style="fill-opacity:1;fill:#f0f0f0"><tspan id="tspan1188" x="221.93959" y="184.16992" style="fill-opacity:1;fill:#f0f0f0">Commit</tspan></text>
   </g>
+ </g>
+ <g id="g974">
+  <g id="ref-(2-line)" transform="translate(4,4)" style="fill-rule:evenodd">
+   <rect id="rect1144" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+  </g>
+  <text id="text956" transform="translate(-47.951 73.488)" x="106.99279" y="-53.654934" style="fill:#f0f0e4;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan954" x="106.99279" y="-53.654934" style="fill:#f0f0e4;line-height:13.0666666px">Working</tspan><tspan id="tspan958" x="106.99279" y="-40.588268" style="fill:#f0f0e4;line-height:13.0666666px">Directory</tspan></text>
  </g>
 </svg>
