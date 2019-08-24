@@ -57,7 +57,7 @@
     </g>
    </g>
    <text id="Common" transform="translate(0,-1.4)" font-size="12px" font-weight="700" style="fill:#404141;font-family:'Source Code Pro';font-size:12px;font-weight:700;line-height:12.33333302px"><tspan id="tspan431" x="289.32617" y="115" style="fill:#404141;line-height:12.33333302px">Common</tspan> <tspan id="tspan433" x="282.10156" y="129" style="fill:#404141;line-height:12.33333302px">Ancestor</tspan></text>
-   <text id="text34539" transform="translate(-106.25 55.082)" x="669.72546" y="113.00938" style="fill:black;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan34537" x="669.72546" y="113.00938">Snapshot to</tspan><tspan id="tspan34541" x="669.72546" y="127.00938">Merge In</tspan></text>
+   <text id="text34539" transform="translate(-106.25 55.082)" x="669.72546" y="113.00938" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan34537" x="669.72546" y="113.00938" style="fill:#404040">Snapshot to</tspan><tspan id="tspan34541" x="669.72546" y="127.00938" style="fill:#404040">Merge In</tspan></text>
   </g>
  </g>
 </svg>
