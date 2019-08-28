@@ -11,39 +11,43 @@
  </metadata>
  <title id="title1133">images/areas</title>
  <desc id="desc1135">Created with Sketch.</desc>
- <g id="g299">
-  <g id="g1142" transform="translate(.5284)" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981">
-   <path id="Line" d="m59.5 26.411v184.08"/>
-   <path id="path1138" d="m339.5 26.411v184.08"/>
-   <path id="path1140" d="m199.5 26.411v184.08"/>
-  </g>
-  <g id="g1172" transform="translate(.5284)" style="fill-rule:evenodd">
-   <g id="g1160">
-    <g id="g986">
-     <rect id="rect1152" transform="translate(144.21,4)" width="110.58" height="38" style="fill:#00909a"/>
-     <text id="text978" transform="translate(-31.483,78.068)" x="230.84857" y="-57.143829" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan976" x="230.84857" y="-57.143829">Staging</tspan><tspan id="tspan980" x="230.84857" y="-44.077164">Area</tspan></text>
+ <g id="layer1">
+  <g id="g393">
+   <g id="g1142" transform="translate(.5284)" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981">
+    <path id="Line" d="m59.5 26.411v184.08" style="stroke:gray"/>
+    <path id="path1138" d="m339.5 26.411v184.08" style="stroke:gray"/>
+    <path id="path1140" d="m199.5 26.411v184.08" style="stroke:gray"/>
+   </g>
+   <g id="g1172" transform="translate(.5284)" style="fill-rule:evenodd">
+    <g id="g1160">
+     <g id="g986">
+      <rect id="rect1152" transform="translate(144.21,4)" width="110.58" height="38" style="fill:#00909a"/>
+      <text id="text978" transform="translate(-31.483,78.068)" x="230.84857" y="-57.143829" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan976" x="230.84857" y="-57.143829">Staging</tspan><tspan id="tspan980" x="230.84857" y="-44.077164">Area</tspan></text>
+     </g>
+    </g>
+    <g id="g1170">
+     <rect id="rect1162" transform="translate(284.95,4)" x=".5" y=".5" width="109.58" height="37" style="fill:#efefe7;stroke:gray"/>
+     <text id="text990" transform="translate(-25.325,77.518)" x="364.63309" y="-57.685589" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan988" x="364.63309" y="-57.685589">.git directory</tspan><tspan id="tspan992" x="364.63309" y="-44.618923">(Repository)</tspan></text>
     </g>
    </g>
-   <g id="g1170">
-    <rect id="rect1162" transform="translate(284.95,4)" x=".5" y=".5" width="109.58" height="37" style="fill:#efefe7;stroke:gray"/>
-    <text id="text990" transform="translate(-25.325,77.518)" x="364.63309" y="-57.685589" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan988" x="364.63309" y="-57.685589">.git directory</tspan><tspan id="tspan992" x="364.63309" y="-44.618923">(Repository)</tspan></text>
+   <g id="g347">
+    <path id="path1174" transform="translate(.5284)" d="m122.38 70.5h216.95v21.875h-216.95v6.447l-63.25-17.319 63.25-17.525z" style="fill:#8f8981"/>
+    <text id="Checkout-the-project" transform="translate(.5284 -1.1079)" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan1182" x="139.63197" y="86" style="fill:#f0f0f0">Checkout the project</tspan></text>
    </g>
-  </g>
-  <g id="g1180" transform="translate(.5284)" style="fill:#8f8981">
-   <path id="path1174" d="m122.38 70.5h216.95v21.875h-216.95v6.447l-63.25-17.319 63.25-17.525z"/>
-   <path id="path1176" d="m137 144.38h-77.875v-21.75h77.875v-6.5l62.209 17.293-62.209 17.457z"/>
-   <path id="path1178" d="m277.32 190.61h-78.112v-21.858h78.112v-6.5386l62.68 17.785-62.68 17.087z"/>
-  </g>
-  <g id="g1191" transform="translate(.5284)" font-size="12px" font-weight="700" style="fill-opacity:.8;fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700">
-   <text id="Checkout-the-project" transform="translate(0,-1.1079)" style="fill-opacity:1;fill:#f0f0f0"><tspan id="tspan1182" x="139.63197" y="86" style="fill-opacity:1;fill:#f0f0f0">Checkout the project</tspan></text>
-   <text id="Stage-Fixes" transform="translate(0,-1.116)" style="fill-opacity:1;fill:#f0f0f0"><tspan id="tspan1185" x="70.722588" y="138" style="fill-opacity:1;fill:#f0f0f0">Stage Fixes</tspan></text>
-   <text id="Commit" transform="translate(0,-1.1346)" style="fill-opacity:1;fill:#f0f0f0"><tspan id="tspan1188" x="221.93959" y="184.16992" style="fill-opacity:1;fill:#f0f0f0">Commit</tspan></text>
-  </g>
-  <g id="g974">
-   <g id="ref-(2-line)" transform="translate(4,4)" style="fill-rule:evenodd">
-    <rect id="rect1144" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+   <g id="g352">
+    <path id="path1176" transform="translate(.5284)" d="m137 144.38h-77.875v-21.75h77.875v-6.5l62.209 17.293-62.209 17.457z" style="fill:#8f8981"/>
+    <text id="Stage-Fixes" transform="translate(.5284 -1.116)" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan1185" x="70.722588" y="138" style="fill:#f0f0f0">Stage Fixes</tspan></text>
    </g>
-   <text id="text956" transform="translate(-47.951 73.488)" x="106.99279" y="-53.654934" style="fill:#f0f0e4;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan954" x="106.99279" y="-53.654934" style="fill:#f0f0e4;line-height:13.0666666px">Working</tspan><tspan id="tspan958" x="106.99279" y="-40.588268" style="fill:#f0f0e4;line-height:13.0666666px">Directory</tspan></text>
+   <g id="g357">
+    <path id="path1178" transform="translate(.5284)" d="m277.32 190.61h-78.112v-21.858h78.112v-6.5386l62.68 17.785-62.68 17.087z" style="fill:#8f8981"/>
+    <text id="Commit" transform="translate(.5284 -1.1346)" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan1188" x="221.93959" y="184.16992" style="fill:#f0f0f0">Commit</tspan></text>
+   </g>
+   <g id="g974">
+    <g id="ref-(2-line)" transform="translate(4,4)" style="fill-rule:evenodd">
+     <rect id="rect1144" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+    </g>
+    <text id="text956" transform="translate(-47.951,73.488)" x="106.99279" y="-53.654934" style="fill:#f0f0e4;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan954" x="106.99279" y="-53.654934" style="fill:#f0f0e4;line-height:13.0666666px">Working</tspan><tspan id="tspan958" x="106.99279" y="-40.588268" style="fill:#f0f0e4;line-height:13.0666666px">Directory</tspan></text>
+   </g>
   </g>
  </g>
 </svg>
