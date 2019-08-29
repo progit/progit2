@@ -1,111 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="741px" height="410px" viewBox="0 0 741 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/commit-and-tree</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Commit-and-Tree" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="commit-(v)" transform="translate(0.000000, 166.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="205" height="98"></rect>
-            <text id="size" stroke="#979797" stroke-width="1" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-                <tspan x="108" y="23">size</tspan>
-                <tspan x="108" y="37">92ec2</tspan>
-                <tspan x="108" y="51">Scott</tspan>
-                <tspan x="108" y="65">Scott</tspan>
-            </text>
-            <text id="commit-tree-author-c" stroke="#979797" stroke-width="1" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-                <tspan x="54.7929688" y="23" text-decoration="underline">commit</tspan>
-                <tspan x="98" y="23" font-family="Menlo-Regular, Menlo" font-weight="normal"></tspan>
-                <tspan x="69.1953125" y="37" font-family="RobotoMono-Regular, Roboto Mono" font-weight="normal">tree</tspan>
-                <tspan x="54.7929688" y="51" font-family="RobotoMono-Regular, Roboto Mono" font-weight="normal">author</tspan>
-                <tspan x="33.1894531" y="65" font-family="RobotoMono-Regular, Roboto Mono" font-weight="normal">committer</tspan>
-            </text>
-            <text id="The-initial-commit-o" stroke="#979797" stroke-width="1" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
-                <tspan x="16.5837402" y="84">The initial commit of my project</tspan>
-            </text>
-        </g>
-        <g id="tree-(v)" transform="translate(268.000000, 166.000000)">
-            <rect id="Rectangle-13" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="205" height="98"></rect>
-            <text id="size" stroke="#979797" stroke-width="1" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="72" y="29">size</tspan>
-                <tspan x="72" y="43">5b1d3 README</tspan>
-                <tspan x="72" y="57">911e7 LICENSE</tspan>
-                <tspan x="72" y="71">cba0a test.rb</tspan>
-            </text>
-            <text id="tree-blob-blob-blob" stroke="#979797" stroke-width="1" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#FFFFFF">
-                <tspan x="38.1953125" y="29" text-decoration="underline">tree</tspan>
-                <tspan x="67" y="29" font-family="Menlo-Bold, Menlo"></tspan>
-                <tspan x="38.1953125" y="43">blob</tspan>
-                <tspan x="38.1953125" y="57">blob</tspan>
-                <tspan x="38.1953125" y="71">blob</tspan>
-            </text>
-        </g>
-        <g id="blob-(v)" transform="translate(536.000000, 20.000000)">
-            <rect id="Rectangle-14" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="205" height="98"></rect>
-            <text id="size" stroke="#979797" stroke-width="1" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="108" y="23">size</tspan>
-            </text>
-            <text id="blob" stroke="#979797" stroke-width="1" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#FFFFFF" text-decoration="underline">
-                <tspan x="69.1953125" y="23">blob</tspan>
-            </text>
-            <text id="==-Testing-library" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
-                <tspan x="16" y="47">== Testing library</tspan>
-                <tspan x="16" y="57"></tspan>
-                <tspan x="16" y="67">This library is used to test </tspan>
-                <tspan x="16" y="77">Ruby projects.</tspan>
-            </text>
-        </g>
-        <g id="blob-(v)-2" transform="translate(536.000000, 166.000000)">
-            <rect id="Rectangle-14" fill="#CD9F00" x="0" y="0" width="205" height="98"></rect>
-            <text id="size" stroke="#979797" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="108" y="23">size</tspan>
-            </text>
-            <text id="blob" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#FFFFFF" text-decoration="underline">
-                <tspan x="69.1953125" y="23">blob</tspan>
-            </text>
-            <text id="The-MIT-License" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
-                <tspan x="16" y="47">The MIT License</tspan>
-                <tspan x="16" y="57"></tspan>
-                <tspan x="16" y="67">Copyright (c) 2008 Scott Chacon</tspan>
-                <tspan x="16" y="77"></tspan>
-                <tspan x="16" y="87">Permission is hereby granted, </tspan>
-                <tspan x="16" y="97">free of charge, to any person</tspan>
-            </text>
-        </g>
-        <g id="blob-(v)-3" transform="translate(536.000000, 312.000000)">
-            <rect id="Rectangle-14" fill="#CD9F00" x="0" y="0" width="205" height="98"></rect>
-            <text id="size" stroke="#979797" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="108" y="23">size</tspan>
-            </text>
-            <text id="blob" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#FFFFFF" text-decoration="underline">
-                <tspan x="69.1953125" y="23">blob</tspan>
-            </text>
-            <text id="require-'logger'" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#FFFFFF">
-                <tspan x="16" y="47">require 'logger'</tspan>
-                <tspan x="16" y="57">require 'test/unit'</tspan>
-                <tspan x="16" y="67"></tspan>
-                <tspan x="16" y="77"></tspan>
-                <tspan x="16" y="87">class Test::Unit::TestCase</tspan>
-                <tspan x="16" y="97">  </tspan>
-            </text>
-        </g>
-        <text id="98ca9" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="84.4970703" y="164">98ca9</tspan>
-        </text>
-        <text id="92ec2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="352.49707" y="164">92ec2</tspan>
-        </text>
-        <text id="5b1d3" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="620.49707" y="17">5b1d3</tspan>
-        </text>
-        <text id="911e7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="620.49707" y="164">911e7</tspan>
-        </text>
-        <text id="cba0a" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="620.49707" y="309">cba0a</tspan>
-        </text>
-        <path id="Line" d="M259,212 L205,212 L205,211 L259,211 L259,207 L268,211.5 L259,216 L259,212 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-4" d="M527,213 L473,213 L473,212 L527,212 L527,208 L536,212.5 L527,217 L527,213 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-2" d="M528.424258,306.763559 L472.799495,264.5964 L473.4036,263.799495 L529.028363,305.966654 L531.444784,302.779036 L535.898452,311.802053 L526.007838,309.951177 L528.424258,306.763559 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-3" d="M529.028363,124.033346 L473.4036,166.200505 L472.799495,165.4036 L528.424258,123.236441 L526.007838,120.048823 L535.898452,118.197947 L531.444784,127.220964 L529.028363,124.033346 Z" fill="#8F8981" fill-rule="nonzero"></path>
+<svg id="svg2244" version="1.1" viewBox="0 0 749 409.41" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata2250">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/commit-and-tree</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title2106">images/commit-and-tree</title>
+ <desc id="desc2108">Created with Sketch.</desc>
+ <g id="03---Commit-and-Tree" transform="translate(4,-4.588)" style="fill-rule:evenodd;fill:none">
+  <g id="g1478">
+   <rect id="Rectangle-13" transform="translate(268,166)" width="205" height="98" style="fill-rule:evenodd;fill:#00909a"/>
+   <g id="g1212" transform="translate(284.4 166.14)" style="font-size:12px;font-weight:700">
+    <text id="text2144" transform="translate(-46)" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan2136" x="102.5" y="29" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">size</tspan> <tspan id="tspan2138" x="102.5" y="43" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">5b1d3 README</tspan> <tspan id="tspan2140" x="102.5" y="57" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">911e7 LICENSE</tspan> <tspan id="tspan2142" x="102.5" y="71" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">cba0a test.rb</tspan></text>
+    <text id="text1194" transform="translate(-382.5 -105.66)" x="432.57669" y="134.68932" style="fill:white;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:-.04px;line-height:14px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan id="tspan1192" x="432.53668" y="134.68932">tree</tspan><tspan id="tspan1196" x="432.53668" y="148.68932">blob</tspan><tspan id="tspan1198" x="432.53668" y="162.68932">blob</tspan><tspan id="tspan1200" x="432.53668" y="176.68932">blob</tspan></text>
+   </g>
+   <g id="g1396">
+    <rect id="Rectangle-12" transform="translate(0,166)" width="205" height="98" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="The-initial-commit-o" transform="translate(.086846 166)" font-size="12px" font-weight="700" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle;writing-mode:lr"><tspan id="tspan2131" x="102.5" y="84" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle;writing-mode:lr">The initial commit of my project</tspan></text>
+    <g id="g1377">
+     <text id="size" transform="translate(19.371,166)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan2111" x="102.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">size</tspan> <tspan id="tspan2113" x="102.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">92ec2</tspan> <tspan id="tspan2115" x="102.5" y="51" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">Scott</tspan> <tspan id="tspan2117" x="102.5" y="65" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">Scott</tspan></text>
+     <text id="text2357" transform="translate(318.53 -14.63)" x="-206.91388" y="203.76675" style="fill:black;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:12.66666698px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan id="tspan2355" x="-206.91388" y="203.76675" style="line-height:14px">commit</tspan><tspan id="tspan2361" x="-206.91388" y="217.76675" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;line-height:14px;text-align:end;text-anchor:end">tree</tspan><tspan id="tspan2363" x="-206.91388" y="231.76675" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;line-height:14px;text-align:end;text-anchor:end">author</tspan><tspan id="tspan2365" x="-206.91388" y="245.76675" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;line-height:14px;text-align:end;text-anchor:end">committer</tspan><tspan id="tspan2359" x="-206.91388" y="259.1001"/></text>
     </g>
+    <text id="98ca9" transform="translate(.066305)" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2224" x="84.49707" y="164">98ca9</tspan></text>
+   </g>
+   <text id="92ec2" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2227" x="352.49707" y="164">92ec2</tspan></text>
+   <g id="g1348">
+    <rect id="Rectangle-14" transform="translate(536,20)" width="205" height="98" style="fill-rule:evenodd;fill:#cd9f00"/>
+    <text id="text2161" transform="translate(558.6,20)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2159" x="102.5" y="23" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">size</tspan></text>
+    <text id="blob" transform="translate(512.5,20)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan2163" x="102.5" y="23" style="fill:white">blob</tspan></text>
+    <text id="==-Testing-library" transform="translate(449,25)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan2166" x="102.5" y="47" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">== Testing library</tspan> <tspan id="tspan2168" x="102.5" y="57" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/> <tspan id="tspan2170" x="102.5" y="67" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">This library is used to test</tspan> <tspan id="tspan2172" x="102.5" y="77" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">Ruby projects.</tspan></text>
+    <text id="5b1d3" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2230" x="620.49707" y="17">5b1d3</tspan></text>
+   </g>
+   <g id="g1364">
+    <rect id="rect2176" transform="translate(535.9,166)" width="205" height="98" style="fill:#cd9f00"/>
+    <text id="text2180" transform="translate(558.76 166)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2178" x="102.5" y="23" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">size</tspan></text>
+    <text id="text2184" transform="translate(512.86 166)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan2182" x="102.5" y="23" style="fill:white">blob</tspan></text>
+    <text id="The-MIT-License" transform="translate(449,157.9)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan2186" x="102.5" y="47" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">The MIT License</tspan> <tspan id="tspan2188" x="102.5" y="57" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/> <tspan id="tspan2190" x="102.5" y="67" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">Copyright (c) 2008 Scott Chacon</tspan> <tspan id="tspan2192" x="102.5" y="77" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/> <tspan id="tspan2194" x="102.5" y="87" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">Permission is hereby granted,</tspan> <tspan id="tspan2196" x="102.5" y="97" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">free of charge, to any person</tspan></text>
+    <text id="911e7" transform="translate(-.039695)" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2233" x="620.49707" y="164">911e7</tspan></text>
+   </g>
+   <g id="g1328">
+    <rect id="rect2200" transform="translate(536,312)" width="205" height="98" style="fill:#cd9f00"/>
+    <text id="text2204" transform="translate(558.6,312)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2202" x="102.5" y="23" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">size</tspan></text>
+    <text id="text2208" transform="translate(512.6,312)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan2206" x="102.5" y="23" style="fill:white">blob</tspan></text>
+    <text id="require-'logger'" transform="translate(447,312)" font-size="12px" font-weight="700" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"><tspan id="tspan2210" x="102.5" y="47" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">require 'logger'</tspan> <tspan id="tspan2212" x="102.5" y="57" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">require 'test/unit'</tspan> <tspan id="tspan2214" x="102.5" y="67" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/> <tspan id="tspan2216" x="102.5" y="77" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/> <tspan id="tspan2218" x="102.5" y="87" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600">class Test::Unit::TestCase</tspan> <tspan id="tspan2220" x="102.5" y="97" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:9.3333px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600"/></text>
+    <text id="cba0a" font-size="12px" font-weight="700" style="fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2236" x="620.49707" y="309">cba0a</tspan></text>
+   </g>
+   <g id="g1334">
+    <path id="Line" d="m259 212h-54v-1h54v-4l9 4.5-9 4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <path id="Line-4" d="m527 213h-54v-1h54v-4l9 4.5-9 4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <path id="Line-2" d="m528.42 306.76-55.625-42.167.6041-.7969 55.625 42.167 2.4164-3.1876 4.4537 9.023-9.8906-1.8509z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <path id="Line-3" d="m529.03 124.03-55.625 42.167-.6041-.7969 55.625-42.167-2.4164-3.1876 9.8906-1.8509-4.4537 9.023z" style="fill-rule:nonzero;fill:#8f8981"/>
+   </g>
+  </g>
+ </g>
 </svg>

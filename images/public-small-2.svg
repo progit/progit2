@@ -1,92 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="729px" height="220px" viewBox="0 0 729 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/public-small-2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="05---Public-Small-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="brown" transform="translate(5.000000, 74.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">4b078</tspan>
-            </text>
-        </g>
-        <path id="Line-4" d="M103,90 L148,90 L148,91 L103,91 L103,95 L94,90.5 L103,86 L103,90 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(124.000000, 74.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">1edee</tspan>
-            </text>
-        </g>
-        <g id="Line-+-brown-2" transform="translate(213.000000, 74.000000)">
-            <path id="Line" d="M9,16 L54,16 L54,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(30.000000, 0.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4970703" y="21">33009</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-5-+-brown-5" transform="translate(452.000000, 122.000000)">
-            <path id="Line-5" d="M9,16 L54,16 L54,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(30.000000, 0.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4970703" y="21">5399e</tspan>
-                </text>
-            </g>
-        </g>
-        <path id="Line-8" d="M176.794081,115.488513 C185.694547,145.132019 196.332039,169.755255 207.081116,177.449762 C213.899009,182.33021 232.122471,185.302172 258.121603,186.682426 C274.452126,187.549388 291.754372,187.700119 307.297292,187.438645 C308.714392,187.414806 309.974738,187.389265 311.063048,187.363728 C311.443836,187.354793 311.775887,187.346498 312.057291,187.339055 C312.225961,187.334594 312.340385,187.331405 312.397994,187.329721 L312.89778,187.315109 L312.927004,188.314682 L312.427218,188.329294 C312.368248,188.331018 312.253337,188.33422 312.08373,188.338705 C311.801341,188.346174 311.468297,188.354494 311.086507,188.363453 C309.996022,188.389041 308.733467,188.414626 307.314112,188.438503 C291.749888,188.700335 274.426162,188.549418 258.068589,187.68102 C231.846804,186.288945 213.540668,183.303501 206.499047,178.262901 C200.274287,173.807034 193.978754,163.601809 187.742879,149.110613 C183.28688,138.75557 179.257053,127.163453 175.832489,115.763174 L171.979914,116.863592 L173.835035,106.973773 L180.633818,114.391761 L176.794081,115.488513 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(243.000000, 172.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4941406" y="21">e5b0f</tspan>
-            </text>
-        </g>
-        <path id="Line-3" d="M335.934939,105.649902 L387.190439,138.347377 L386.652623,139.190439 L335.397123,106.492965 L333.24586,109.865214 L328.078469,101.231092 L338.086201,102.277652 L335.934939,105.649902 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(363.000000, 122.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">dee6b</tspan>
-            </text>
-        </g>
-        <g id="Line-2-+-ref-2" transform="translate(110.000000, 13.000000)">
-            <path id="Line-2" d="M57,52 L57,9 L58,9 L58,52 L62,52 L57.5,61 L53,52 L57,52 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="116" height="38"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="37.6023833" y="21.5151515">master</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-2-+-ref-4-+-ref-(2-line)-3" transform="translate(232.000000, 13.000000)">
-            <g id="Line-2-+-ref-4" transform="translate(55.000000, 19.000000)" fill="#8F8981" fill-rule="nonzero">
-                <path id="Line-2" d="M0,33.0961538 L0,-0.0961538462 L1,-0.0961538462 L1,33.0961538 L5,33.0961538 L0.5,42.0961538 L-4,33.0961538 L0,33.0961538 Z"></path>
-            </g>
-            <g id="ref-(2-line)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="31.8862453" y="15.53125">origin/</tspan>
-                    <tspan x="35.2296466" y="28.53125">master</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-2-+-ref-3" transform="translate(571.000000, 120.000000)">
-            <path id="Line-2" d="M9,19 L85,19 L85,20 L9,20 L9,24 L0,19.5 L9,15 L9,19 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref" transform="translate(27.000000, 0.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="116" height="38"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="30.9128605" y="21.5151515">featureA</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-2-+-ref-5" transform="translate(332.000000, 170.000000)">
-            <path id="Line-2" d="M9,19 L85,19 L85,20 L9,20 L9,24 L0,19.5 L9,15 L9,19 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref" transform="translate(27.000000, 0.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="116" height="38"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="30.9128605" y="21.5151515">featureB</tspan>
-                </text>
-            </g>
-        </g>
-    </g>
+<svg id="svg3569" version="1.1" viewBox="0 0 692.08 195.03" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata3575">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/public-small-2</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title3470">images/public-small-2</title>
+ <desc id="desc3472">Created with Sketch.</desc>
+ <g id="g3818" transform="translate(-1 -13.966)">
+  <g id="brown" transform="translate(5,74)" style="fill-rule:evenodd;fill:none">
+   <rect id="Rectangle-1" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="C6" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3475" x="44.5" y="21" style="fill:gray">4b078</tspan></text>
+  </g>
+  <path id="Line-4" d="m103 90h45v1h-45v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="g3486" transform="translate(124,74)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect3480" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text3484" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3482" x="44.5" y="21" style="fill:gray">1edee</tspan></text>
+  </g>
+  <path id="Line" transform="translate(213,74)" d="m9 16h45v1h-45v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="g3495" transform="translate(243,74)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect3489" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text3493" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3491" x="44.5" y="21" style="fill:gray">33009</tspan></text>
+  </g>
+  <g id="g3725">
+   <path id="Line-5" transform="translate(451,122)" d="m9 16h45v1h-45v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g3505" transform="translate(481.1,122)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect3499" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text3503" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3501" x="44.5" y="21" style="fill:gray">5399e</tspan></text>
+   </g>
+  </g>
+  <path id="Line-8" d="m176.79 115.49c8.9005 29.644 19.538 54.267 30.287 61.961 6.8179 4.8804 25.041 7.8524 51.04 9.2327 16.331.86696 33.633 1.0177 49.176.75621 1.4171-.0238 2.6774-.0494 3.7658-.0749.38079-.009.71284-.0172.99424-.0247.16867-.004.2831-.008.3407-.009l.49979-.0146.0292.99957-.49978.0146c-.059.002-.17388.005-.34349.009-.28239.007-.61543.0158-.99722.0248-1.0905.0256-2.353.0512-3.7724.0751-15.564.26183-32.888.11092-49.246-.75748-26.222-1.3921-44.528-4.3775-51.57-9.4181-6.2248-4.4559-12.52-14.661-18.756-29.152-4.456-10.355-8.4858-21.947-11.91-33.347l-3.8526 1.1004 1.8551-9.8898 6.7988 7.418z" style="fill:#8f8981"/>
+  <g id="g3515" transform="translate(243,172)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect3509" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text3513" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3511" x="44.5" y="21" style="fill:gray">e5b0f</tspan></text>
+  </g>
+  <path id="Line-3" d="m335.93 105.65 51.256 32.697-.53782.84306-51.256-32.697-2.1513 3.3722-5.1674-8.6341 10.008 1.0466z" style="fill:#8f8981"/>
+  <g id="g3524" transform="translate(362,122)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect3518" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text3522" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3520" x="44.5" y="21" style="fill:gray">dee6b</tspan></text>
+  </g>
+  <g id="g3683" transform="translate(1)">
+   <path id="Line-2" transform="translate(110,13)" d="m57 52v-43h1v43h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <rect id="Rectangle-2" transform="matrix(.76724 0 0 .86842 123 18)" width="116" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+   <text id="master" transform="translate(109.6 16.801)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3528" x="58" y="21.515152" style="fill:#f0f0f0">master</tspan></text>
+  </g>
+  <g id="g3761">
+   <path id="path3546" transform="translate(570,119)" d="m9 19h76v1h-76v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g3742" transform="translate(2.0766 -3)">
+    <rect id="rect3548" transform="matrix(.76724 0 0 .86842 598 125)" width="116" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text3552" transform="translate(584.06 124.19)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3550" x="58" y="21.515152" style="fill:#f0f0f0">featureA</tspan></text>
+   </g>
+  </g>
+  <g id="g3718">
+   <path id="path3557" transform="translate(332,169)" d="m9 19h76v1h-76v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g3711" transform="translate(0,-3)">
+    <rect id="rect3559" transform="matrix(.76724 0 0 .86842 362 175)" width="116" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text3563" transform="translate(348.23 174.19)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan3561" x="58" y="21.515152" style="fill:#f0f0f0">featureB</tspan></text>
+   </g>
+  </g>
+  <g id="g3677">
+   <g id="Line-2-+-ref-4" transform="translate(287,32)" style="fill:#8f8981">
+    <path id="path3533" d="m0 33.096v-33.192h1v33.192h4l-4.5 9-4.5-9z"/>
+   </g>
+   <g id="g3438" transform="translate(-1.0002 -.03431)">
+    <rect id="rect2699" transform="matrix(.80485 0 0 .86842 244 18)" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text2825" transform="translate(-90.018,19.575)" x="378.6778" y="12.849665" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan2823" x="378.6778" y="12.849665">origin/</tspan><tspan id="tspan2827" x="378.6778" y="25.916332">master</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

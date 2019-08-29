@@ -1,122 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="434px" height="357px" viewBox="0 0 434 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/reset-start</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-94" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Rectangle-6-+-ref-(2-line)-2" transform="translate(302.000000, 237.000000)">
-            <rect id="Rectangle-6" stroke="#8F8981" stroke-linecap="square" x="6.94826518" y="1" width="98.5283731" height="102"></rect>
-            <g id="ref-(2-line)" transform="translate(0.948265, 0.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="31.8862453" y="15.53125">Working</tspan>
-                    <tspan x="25.1994429" y="28.53125">Directory</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Rectangle-5-+-symref-(2-line)-2" transform="translate(162.000000, 237.000000)">
-            <rect id="Rectangle-5" stroke="#8F8981" stroke-linecap="square" x="6.681573" y="1" width="98.5283731" height="102"></rect>
-            <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
-                <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="38.5730478" y="21">Index</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Rectangle-4-+-other-(2-line)-2" transform="translate(21.000000, 237.000000)">
-            <rect id="Rectangle-4" stroke="#8F8981" stroke-linecap="square" x="5.94325388" y="1" width="98.5283731" height="102"></rect>
-            <g id="other-(2-line)">
-                <g transform="translate(0.471627, 0.000000)">
-                    <rect id="Rectangle-2" fill="#EFEFE7" x="0" y="0" width="110.580108" height="38"></rect>
-                    <text id="master-4" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                        <tspan x="40.8877102" y="22.03125">HEAD</tspan>
-                    </text>
-                </g>
-            </g>
-        </g>
-        <g id="Line-+-symref-+-goldref-2" transform="translate(316.000000, 16.000000)">
-            <path id="Line" d="M43,87.0581395 L43,19.9418605 L44,19.9418605 L44,87.0581395 L48,87.0581395 L43.5,96.0581395 L39,87.0581395 L43,87.0581395 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="other">
-                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="86" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="28.5976562" y="21">HEAD</tspan>
-                </text>
-            </g>
-            <g id="goldref" transform="translate(0.000000, 45.000000)">
-                <rect id="Rectangle-3" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="108" height="33"></rect>
-                <text id="master-2" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="33.6256391" y="20">master</tspan>
-                </text>
-            </g>
-        </g>
-        <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="11" y="10" width="413" height="207"></rect>
-        <text id="Git-Repository-2" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="16.5917969" y="213">Git Repository</tspan>
-        </text>
-        <g id="brown-3" transform="translate(321.000000, 290.000000)">
-            <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-            <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="8.46766371" y="23">file.txt</tspan>
-                <tspan x="30.074109" y="37">v3</tspan>
-            </text>
-        </g>
-        <g id="brown-5" transform="translate(180.000000, 290.000000)">
-            <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-            <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="8.46766371" y="23">file.txt</tspan>
-                <tspan x="30.074109" y="37">v3</tspan>
-            </text>
-        </g>
-        <g id="brown-6" transform="translate(39.000000, 290.000000)">
-            <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-            <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="8.46766371" y="23">file.txt</tspan>
-                <tspan x="30.074109" y="37">v3</tspan>
-            </text>
-        </g>
-        <text id="38eb946" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="10" font-weight="normal" fill="#413932">
-            <tspan x="55.496582" y="285.169922">38eb946</tspan>
-        </text>
-        <g id="Rectangle-8-+-brown-4-+-eb43bf8-3" transform="translate(26.000000, 112.000000)">
-            <rect id="Rectangle-8" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="72"></rect>
-            <g id="brown-4" transform="translate(13.000000, 19.000000)">
-                <rect id="Rectangle-1" fill-opacity="0.35" fill="#00909A" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-                <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="8.46766371" y="23">file.txt</tspan>
-                    <tspan x="30.074109" y="37">v1</tspan>
-                </text>
-            </g>
-            <text id="eb43bf8-2" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="10" font-weight="normal" fill="#413932">
-                <tspan x="29.4941406" y="13.6416016">eb43bf8</tspan>
-            </text>
-        </g>
-        <g id="brown-5-+-Rectangle-9-+-10" transform="translate(167.000000, 112.000000)">
-            <g id="brown-5" transform="translate(13.000000, 21.000000)">
-                <rect id="Rectangle-1" fill-opacity="0.35" fill="#F44D27" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-                <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="8.46766371" y="23">file.txt</tspan>
-                    <tspan x="30.074109" y="37">v2</tspan>
-                </text>
-            </g>
-            <rect id="Rectangle-9" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="72"></rect>
-            <text id="9e5e6a4" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="10" font-weight="normal" fill="#413932">
-                <tspan x="29.496582" y="13.6416016">9e5e6a4</tspan>
-            </text>
-        </g>
-        <g id="brown-6-+-Rectangle-9-+-39" transform="translate(309.000000, 112.000000)">
-            <g id="brown-6" transform="translate(12.000000, 22.000000)">
-                <rect id="Rectangle-1" fill-opacity="0.35" fill="#CD9F00" x="0" y="0" width="75" height="45" rx="22.5"></rect>
-                <text id="file.txt" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="8.46766371" y="23">file.txt</tspan>
-                    <tspan x="30.074109" y="37">v3</tspan>
-                </text>
-            </g>
-            <rect id="Rectangle-9" stroke="#8F8981" stroke-linecap="square" x="0.943253875" y="0" width="98.5283731" height="72"></rect>
-            <text id="38eb946" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="10" font-weight="normal" fill="#413932">
-                <tspan x="29.496582" y="13.6416016">38eb946</tspan>
-            </text>
-        </g>
-        <path id="Line-3" d="M135,147 L168,147 L168,148 L135,148 L135,152 L126,147.5 L135,143 L135,147 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-5" d="M277,148 L310,148 L310,149 L277,149 L277,153 L268,148.5 L277,144 L277,148 Z" fill="#8F8981" fill-rule="nonzero"></path>
+<svg id="svg24615" version="1.1" viewBox="0 0 434 357" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata24621">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/reset-start</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title24487">images/reset-start</title>
+ <desc id="desc24489">Created with Sketch.</desc>
+ <g id="g26219">
+  <rect id="Rectangle-8" x="11" y="10" width="413" height="207" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+  <path id="Line-6" transform="matrix(1.0399 0 0 1 -12.18 .13061)" d="m277 148h33v1h-33v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <path id="Line-2-0" transform="translate(-.41988 -.00539)" d="m135 147h33v1h-33v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="g25444">
+   <rect id="Rectangle-8-4" transform="translate(26.057 111.99)" x=".94325" width="98.528" height="72" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+   <text id="eb43bf8-2-7" transform="translate(27.028 111.99)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1323" x="49.264187" y="13.641602" style="fill:gray">eb43bf8</tspan></text>
+   <g id="g20484-4-0" transform="translate(38.764 130.86)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1-8-2-9" width="75" height="45" rx="22.5" ry="22.5" style="fill-opacity:.35;fill:#00909a"/>
+    <text id="text20476-5-7" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-8-2" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-7-7" x="468.5" y="251.5">v1</tspan></text>
+   </g>
+  </g>
+  <g id="g25404">
+   <rect id="Rectangle-9-5" transform="translate(166.58 112)" x=".94325" width="98.528" height="72" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+   <text id="text1339" transform="translate(167.45 112)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1337" x="49.264187" y="13.641602" style="fill:gray">9e5e6a4</tspan></text>
+   <g id="g20484-3-6" transform="translate(179.29 130.86)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1-8-6-2" width="75" height="45" rx="22.5" ry="22.5" style="fill-opacity:.34902;fill:#f44d27"/>
+    <text id="text20476-0-8" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-0-9" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-1-7" x="468.5" y="251.5">v2</tspan></text>
+   </g>
+  </g>
+  <g id="g25422">
+   <rect id="rect1999" transform="translate(309.68 111.99)" x=".94325" width="98.528" height="72" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+   <text id="38eb946-0" transform="translate(310.7 111.99)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan2001" x="49.264187" y="13.641602" style="fill:gray">38eb946</tspan></text>
+   <g id="g20484-4-0-0" transform="translate(322.39 130.74)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1-8-2-9-9" width="75" height="45" rx="22.5" ry="22.5" style="fill:#eedda6"/>
+    <text id="text20476-5-7-2" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-8-2-3" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-7-7-9" x="468.5" y="251.5">v3</tspan></text>
+   </g>
+  </g>
+  <text id="Git-Repository-9" transform="translate(-130.32 -2.0854)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1279" x="206.5" y="213" style="fill:#404040">Git Repository</tspan></text>
+  <g id="g18761" transform="translate(141.74 -.29663)">
+   <path id="Line-20" transform="translate(174.72,15.68)" d="m43 87.058v-67.116h1v67.116h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="other-0" transform="translate(174.62,15.88)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect1914" transform="matrix(.99201 0 0 .98697 .87401 .42992)" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text1918" transform="translate(.36011 -.37304)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1916" x="43" y="21" style="fill:gray">HEAD</tspan></text>
+   </g>
+   <g id="goldref-1" transform="translate(174.62,60.88)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-3-9" transform="matrix(.78993 0 0 1 .87401 0)" width="108" height="33" style="fill-rule:evenodd;fill:#cd9f00"/>
+    <text id="master-2-1" transform="translate(-10.37 .316)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1922" x="54" y="20" style="fill:#f0f0f0">master</tspan></text>
+   </g>
+  </g>
+  <g id="g18609" transform="translate(-.26061 -.11186)">
+   <g id="g20484" transform="translate(320.81,289.94)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1-8" width="75" height="45" rx="22.5" ry="22.5" style="fill:#eedda6"/>
+    <text id="text20476" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478" x="468.5" y="251.5">v3</tspan></text>
+   </g>
+   <g id="g1003" transform="translate(.00623 .000735)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-6-5" transform="translate(302.09,237.09)" x="6.9483" y="1" width="98.528" height="102" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+    <g id="g20472" transform="translate(-73.867,6.8598)">
+     <g id="ref-(2-line)-6" transform="translate(376.88,230.19)">
+      <rect id="Rectangle-2-2" width="110.58" height="38" style="fill:#f44d27"/>
+     </g>
+     <text id="text20453" transform="translate(-56.635,117.41)" x="488.55258" y="128.65054" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:10px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20451" x="488.55258" y="128.65054" style="fill:#f0f0f0;line-height:13px">Working</tspan><tspan id="tspan20455" x="488.55258" y="141.65054" style="fill:#f0f0f0;line-height:13px">Directory</tspan></text>
     </g>
+   </g>
+  </g>
+  <g id="g25532" transform="translate(453.26)">
+   <g id="Rectangle-5-+-symref-(2-line)-9" transform="translate(-291.38 237.04)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-5-4" x="6.6816" y="1" width="98.528" height="102" style="stroke-linecap:square;stroke:#8f8981"/>
+    <g id="symref-(2-line)-1" transform="translate(.20995)">
+     <rect id="rect23187" width="110.58" height="38" style="fill:#00909a"/>
+     <text id="text23191" transform="translate(-.21834 2.134)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23189" x="55.290054" y="21" style="fill:#f0f0f0">Index</tspan></text>
+    </g>
+   </g>
+   <g id="g20484-3" transform="translate(-273.38 289.42)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1-8-8" width="75" height="45" rx="22.5" ry="22.5" style="fill:#eedda6"/>
+    <text id="text20476-0" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-0" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-4" x="468.5" y="251.5">v3</tspan></text>
+   </g>
+  </g>
+  <g id="g26133">
+   <text id="38eb946" transform="translate(-129.59)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan24562" x="206.5" y="285.16992" style="fill:gray">38eb946</tspan></text>
+   <g id="g26089" transform="translate(458.87 38)">
+    <rect id="Rectangle-4-9" transform="translate(-437.24 199.04)" x="5.9433" y="1" width="98.528" height="102" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+    <g id="other-(2-line)-2" transform="translate(-437.79 199.04)" style="fill-rule:evenodd;fill:none">
+     <g id="g23201" transform="translate(.47163)">
+      <rect id="rect23196" width="110.58" height="38" style="fill:#efefe7"/>
+      <text id="master-4-5" transform="translate(-.17034 .88075)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23198" x="55.290054" y="22.03125" style="fill:gray">HEAD</tspan></text>
+     </g>
+    </g>
+   </g>
+   <g id="g25503" transform="translate(-40.41 -59.602)">
+    <rect id="Rectangle-1-8-8-3" transform="translate(79.748 348.76)" width="75" height="45" rx="22.5" ry="22.5" style="fill-rule:evenodd;fill:#eedda6"/>
+    <text id="text20476-0-1" transform="translate(-351.44 130.79)" x="468.5" y="238.5" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-0-0" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-4-5" x="468.5" y="251.5">v3</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

@@ -1,77 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="399px" height="133px" viewBox="0 0 399 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/integration-manager</title>
-    <desc>Created with Sketch.</desc>
-    <g id="05---Workflows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
-            <g id="goldref-(2-line)" transform="translate(7.000000, 5.000000)">
-                <rect id="Rectangle-4" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master-3" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="31.8862453" y="15.53125">blessed</tspan>
-                    <tspan x="21.8560417" y="28.53125">repository</tspan>
-                </text>
-            </g>
-            <g id="ref-(2-line)" transform="translate(7.000000, 89.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="18.5126404" y="15.53125">integration</tspan>
-                    <tspan x="31.8862453" y="28.53125">manager</tspan>
-                </text>
-            </g>
-            <g id="symref-(2-line)" transform="translate(149.209946, 5.000000)">
-                <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="25.1994429" y="15">developer</tspan>
-                    <tspan x="35.2296466" y="28">public</tspan>
-                </text>
-            </g>
-            <g id="other-(2-line)" transform="translate(149.000000, 89.000000)" stroke="#979797">
-                <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
-                <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="22.8847805" y="16.03125">developer</tspan>
-                    <tspan x="30.0859524" y="30.03125">private</tspan>
-                </text>
-            </g>
-            <g id="symref-(2-line)-2-+-other-(2-line)-2-+-Line-4" transform="translate(149.000000, 5.000000)">
-                <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
-                    <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                    <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="25.1994429" y="15">developer</tspan>
-                        <tspan x="35.2296466" y="28">public</tspan>
-                    </text>
-                </g>
-                <g id="other-(2-line)" transform="translate(0.000000, 84.000000)" stroke="#979797">
-                    <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
-                    <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                        <tspan x="22.8847805" y="16.03125">developer</tspan>
-                        <tspan x="30.0859524" y="30.03125">private</tspan>
-                    </text>
-                </g>
-                <path id="Line-4" d="M57,47 L57,84 L56,84 L56,47 L52,47 L56.5,38 L61,47 L57,47 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            </g>
-            <path id="Line-7" d="M63.4198921,52 L63.4198921,89 L62.4198921,89 L62.4198921,52 L58.4198921,52 L62.9198921,43 L67.4198921,52 L63.4198921,52 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <path id="Line-8" d="M105.955315,82.9476209 L158.594337,42.7992143 L159.200786,43.5943365 L106.561764,83.7427432 L108.98756,86.9232322 L99.1024389,88.8032246 L103.529518,79.7671319 L105.955315,82.9476209 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
-            <path id="Line-10" d="M158.477778,83.6845673 L106.798459,43.588544 L107.411456,42.7984589 L159.090775,82.8944821 L161.542764,79.7341415 L165.895043,88.8064985 L156.02579,86.8449079 L158.477778,83.6845673 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
-            <path id="Line-11" d="M272.204949,86.578514 L116.879122,40.8383934 L117.161607,39.8791217 L272.487433,85.6192422 L273.617373,81.7821553 L280.979637,88.6412425 L271.075009,90.4156009 L272.204949,86.578514 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
-            <path id="Line-9" d="M126.618336,86.9323898 L300.862236,42.8927229 L301.107278,43.8622355 L126.863378,87.9019024 L127.843544,91.7799526 L118.015244,89.6225208 L125.638169,83.0543396 L126.618336,86.9323898 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.5"></path>
-            <g id="symref-(2-line)-2-+-other-(2-line)-2-+-Line-5" transform="translate(281.000000, 5.000000)">
-                <g id="symref-(2-line)" transform="translate(0.209946, 0.000000)">
-                    <rect id="Rectangle-2" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                    <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="25.1994429" y="15">developer</tspan>
-                        <tspan x="35.2296466" y="28">public</tspan>
-                    </text>
-                </g>
-                <g id="other-(2-line)" transform="translate(0.000000, 84.000000)" stroke="#979797">
-                    <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="37"></rect>
-                    <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                        <tspan x="22.8847805" y="16.03125">developer</tspan>
-                        <tspan x="30.0859524" y="30.03125">private</tspan>
-                    </text>
-                </g>
-                <path id="Line-5" d="M55.2099461,47 L55.2099461,84 L54.2099461,84 L54.2099461,47 L50.2099461,47 L54.7099461,38 L59.2099461,47 L55.2099461,47 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            </g>
-        </g>
+<svg id="svg37952" version="1.1" viewBox="0 0 392.79 130" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata37958">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/integration-manager</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title37866">images/integration-manager</title>
+ <desc id="desc37868">Created with Sketch.</desc>
+ <g id="05---Workflows" transform="translate(-3,-1)" style="fill-rule:evenodd;fill:none">
+  <g id="Group">
+   <g id="g38145">
+    <g id="symref-(2-line)" transform="translate(149.21 5)">
+     <rect id="rect37884" width="110.58" height="38" style="fill-rule:evenodd;fill:#00909a"/>
+     <text id="text37890" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan37886" x="55.290054" y="15" style="fill:#f0f0f0">developer</tspan> <tspan id="tspan37888" x="55.290054" y="28" style="fill:#f0f0f0">public</tspan></text>
     </g>
+    <g id="other-(2-line)" transform="translate(149,89)" style="stroke:#979797">
+     <rect id="rect37893" x=".5" y=".5" width="109.58" height="37" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="master-4" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;stroke:none;text-anchor:middle"><tspan id="tspan37895" x="54.790054" y="16.03125" style="fill:gray">developer</tspan> <tspan id="tspan37897" x="54.790054" y="30.03125" style="fill:gray">private</tspan></text>
+    </g>
+    <rect id="rect37911" transform="translate(149,89)" x=".5" y=".5" width="109.58" height="37" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+    <path id="Line-4" transform="translate(149,5)" d="m57 47v37h-1v-37h-4l4.5-9 4.5 9z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <path id="Line-7" transform="matrix(1 0 0 1.0287 -.62984 -1.2326)" d="m63.42 52v37h-1v-37h-4l4.5-9 4.5 9z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <path id="Line-8" d="m105.96 82.948 52.639-40.148.60645.79512-52.639 40.148 2.4258 3.1805-9.8851 1.88 4.4271-9.0361z" style="fill-rule:nonzero;fill:#8f8981;opacity:.5"/>
+    <path id="Line-10" d="m158.48 83.685-51.679-40.096.613-.79008 51.679 40.096 2.452-3.1603 4.3523 9.0724-9.8692-1.9616z" style="fill-rule:nonzero;fill:#8f8981;opacity:.5"/>
+    <path id="Line-11" d="m272.2 86.579-155.33-45.74.28249-.95927 155.33 45.74 1.1299-3.8371 7.3623 6.8591-9.9046 1.7744z" style="fill-rule:nonzero;fill:#8f8981;opacity:.5"/>
+    <path id="Line-9" d="m126.62 86.932 174.24-44.04.24504.96951-174.24 44.04.98016 3.8781-9.8283-2.1574 7.6229-6.5682z" style="fill-rule:nonzero;fill:#8f8981;opacity:.5"/>
+    <rect id="rect37938" transform="translate(281,89)" x=".5" y=".5" width="109.58" height="37" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+    <path id="Line-5" transform="translate(281,5)" d="m55.21 47v37h-1v-37h-4l4.5-9 4.5 9z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <g id="g37996">
+     <rect id="Rectangle-4" transform="translate(7,5)" width="110.58" height="38" style="fill-rule:evenodd;fill:#cd9f00"/>
+     <text id="text37984" transform="translate(-62.632 67.404)" x="124.39753" y="-47.361919" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan37982" x="124.39753" y="-47.361919">blessed</tspan><tspan id="tspan37986" x="124.39753" y="-33.361919">repository</tspan></text>
+    </g>
+    <g id="g38012">
+     <rect id="Rectangle-2" transform="translate(7,89)" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text38000" transform="translate(-74.403 143.8)" x="136.57631" y="-39.532703" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan37998" x="136.57631" y="-39.532703">integration</tspan><tspan id="tspan38002" x="136.57631" y="-25.532703">manager</tspan></text>
+    </g>
+    <g id="g38063">
+     <rect id="rect37928" transform="translate(281.21 5)" width="110.58" height="38" style="fill-rule:evenodd;fill:#00909a"/>
+     <text id="text38020" transform="translate(155.88 55.575)" x="180.65189" y="-35.47311" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan38018" x="180.65189" y="-35.47311">developer</tspan><tspan id="tspan38022" x="180.65189" y="-21.47311">public</tspan></text>
+    </g>
+    <g id="g38069">
+     <rect id="rect37901" transform="translate(149.21 5)" width="110.58" height="38" style="fill-rule:evenodd;fill:#00909a"/>
+     <text id="text38020-2" transform="translate(23.876 55.575)" x="180.65189" y="-35.47311" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan38018-8" x="180.65189" y="-35.47311">developer</tspan><tspan id="tspan38022-4" x="180.65189" y="-21.47311">public</tspan></text>
+    </g>
+    <text id="text38020-0" transform="translate(155.67 139.58)" x="180.65189" y="-35.47311" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan38018-3" x="180.65189" y="-35.47311">developer</tspan><tspan id="tspan38022-6" x="180.65189" y="-21.47311">private</tspan></text>
+    <text id="text38020-0-8" transform="translate(23.666 139.58)" x="180.65189" y="-35.47311" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan38018-3-5" x="180.65189" y="-35.47311">developer</tspan><tspan id="tspan38022-6-9" x="180.65189" y="-21.47311">private</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

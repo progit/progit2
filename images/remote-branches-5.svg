@@ -1,162 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="696px" height="498px" viewBox="0 0 696 498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/remote-branches-5</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Remote-Branches-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="brown" transform="translate(57.000000, 306.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">0b743</tspan>
-            </text>
-        </g>
-        <path id="Line-5" d="M155,322 L194,322 L194,323 L155,323 L155,327 L146,322.5 L155,318 L155,322 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(174.000000, 306.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">a6b4c</tspan>
-            </text>
-        </g>
-        <g id="Line-4-+-brown-3" transform="translate(263.000000, 306.000000)">
-            <path id="Line-4" d="M9,16 L48,16 L48,17 L9,17 L9,21 L0,16.5 L9,12 L9,16 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(28.000000, 0.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4941406" y="21">f4265</tspan>
-                </text>
-            </g>
-        </g>
-        <path id="Line-11" d="M390,322 L429,322 L429,323 L390,323 L390,327 L381,322.5 L390,318 L390,322 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-14" d="M381.171242,341.790985 L422.205994,378.460337 L421.539663,379.205994 L380.504911,342.536641 L377.839587,345.519266 L374.127172,336.166835 L383.836566,338.808361 L381.171242,341.790985 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(409.000000, 306.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">31b8e</tspan>
-            </text>
-        </g>
-        <path id="Line-12" d="M507,322 L546,322 L546,323 L507,323 L507,327 L498,322.5 L507,318 L507,322 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(526.000000, 306.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">190a3</tspan>
-            </text>
-        </g>
-        <g id="brown" transform="translate(409.000000, 363.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">a38de</tspan>
-            </text>
-        </g>
-        <path id="Line-13" d="M507,379 L546,379 L546,380 L507,380 L507,384 L498,379.5 L507,375 L507,379 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(526.000000, 363.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4941406" y="21">893cf</tspan>
-            </text>
-        </g>
-        <g id="Line-3-+-ref-2" transform="translate(527.000000, 396.000000)">
-            <path id="Line-3" d="M44,9 L44,34 L43,34 L43,9 L39,9 L43.5,0 L48,9 L44,9 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref" transform="translate(0.000000, 20.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="33.1285461" y="20">master</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-6-+-ref-3" transform="translate(515.000000, 252.000000)">
-            <path id="Line-6" d="M54,44 L54,17 L55,17 L55,44 L59,44 L54.5,53 L50,44 L54,44 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref-3">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="111" height="33"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="11.7131096" y="20">origin/master</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Line-6-+-ref-4" transform="translate(398.000000, 252.000000)">
-            <path id="Line-6" d="M54,44 L54,17 L55,17 L55,44 L59,44 L54.5,53 L50,44 L54,44 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref-3">
-                <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="111" height="33"></rect>
-                <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="8.36970839" y="20">teamone/master</tspan>
-                </text>
-            </g>
-        </g>
-        <rect id="Rectangle-11" stroke="#8F8981" stroke-linecap="square" x="29.7349823" y="219" width="626.450972" height="262"></rect>
-        <text id="My-Computer" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="296.393555" y="236">My Computer</tspan>
-        </text>
-        <text id="git-fetch-teamone" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="315.287109" y="198">git fetch teamone</tspan>
-        </text>
-        <path id="Line" d="M452.5,190.5 L452.5,156.662162 L457.5,156.662162 L457.5,190.5 L469.5,190.5 L455,219.5 L440.5,190.5 L452.5,190.5 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="Group" transform="translate(24.000000, 51.000000)">
-            <path id="Line-8" d="M0,69.5 L9,65 L9,74 L0,69.5 Z M47.5,69 L47.5,70 L45.5,70 L45.5,69 L47.5,69 Z M43.5,69 L43.5,70 L41.5,70 L41.5,69 L43.5,69 Z M39.5,69 L39.5,70 L37.5,70 L37.5,69 L39.5,69 Z M35.5,69 L35.5,70 L33.5,70 L33.5,69 L35.5,69 Z M31.5,69 L31.5,70 L29.5,70 L29.5,69 L31.5,69 Z M27.5,69 L27.5,70 L25.5,70 L25.5,69 L27.5,69 Z M23.5,69 L23.5,70 L21.5,70 L21.5,69 L23.5,69 Z M19.5,69 L19.5,70 L17.5,70 L17.5,69 L19.5,69 Z M15.5,69 L15.5,70 L13.5,70 L13.5,69 L15.5,69 Z M11.5,69 L11.5,70 L9.5,70 L9.5,69 L11.5,69 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(28.000000, 53.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4941406" y="21">f4265</tspan>
-                </text>
-            </g>
-            <path id="Line-9" d="M124,69 L163,69 L163,70 L124,70 L124,74 L115,69.5 L124,65 L124,69 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(143.000000, 53.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4970703" y="21">31b8e</tspan>
-                </text>
-            </g>
-            <path id="Line-10" d="M240,69 L279,69 L279,70 L240,70 L240,74 L231,69.5 L240,65 L240,69 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="brown" transform="translate(259.000000, 53.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="27.4970703" y="21">190a3</tspan>
-                </text>
-            </g>
-            <g id="Line-2-+-ref" transform="translate(261.000000, 0.000000)">
-                <path id="Line-2" d="M42,44 L42,20 L43,20 L43,44 L47,44 L42.5,53 L38,44 L42,44 Z" fill="#8F8981" fill-rule="nonzero"></path>
-                <g id="ref">
-                    <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-                    <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="33.1285461" y="20">master</tspan>
-                    </text>
-                </g>
-            </g>
-        </g>
-        <rect id="Rectangle-10" stroke="#8F8981" stroke-linecap="square" x="10" y="12" width="388" height="144.96875"></rect>
-        <text id="git.ourcompany.com" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="134.189453" y="28">git.ourcompany.com</tspan>
-        </text>
-        <text id="origin" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-            <tspan x="177" y="170">origin</tspan>
-        </text>
-        <path id="Line-15" d="M426,120.5 L435,116 L435,125 L426,120.5 Z M473.5,120 L473.5,121 L471.5,121 L471.5,120 L473.5,120 Z M469.5,120 L469.5,121 L467.5,121 L467.5,120 L469.5,120 Z M465.5,120 L465.5,121 L463.5,121 L463.5,120 L465.5,120 Z M461.5,120 L461.5,121 L459.5,121 L459.5,120 L461.5,120 Z M457.5,120 L457.5,121 L455.5,121 L455.5,120 L457.5,120 Z M453.5,120 L453.5,121 L451.5,121 L451.5,120 L453.5,120 Z M449.5,120 L449.5,121 L447.5,121 L447.5,120 L449.5,120 Z M445.5,120 L445.5,121 L443.5,121 L443.5,120 L445.5,120 Z M441.5,120 L441.5,121 L439.5,121 L439.5,120 L441.5,120 Z M437.5,120 L437.5,121 L435.5,121 L435.5,120 L437.5,120 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(454.000000, 104.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4941406" y="21">f4265</tspan>
-            </text>
-        </g>
-        <path id="Line-16" d="M550,120 L589,120 L589,121 L550,121 L550,125 L541,120.5 L550,116 L550,120 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(569.000000, 104.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="27.4970703" y="21">31b8e</tspan>
-            </text>
-        </g>
-        <g id="Line-2-+-ref-2" transform="translate(571.000000, 51.000000)">
-            <path id="Line-2" d="M42,44 L42,20 L43,20 L43,44 L47,44 L42.5,53 L38,44 L42,44 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="33.1285461" y="20">master</tspan>
-                </text>
-            </g>
-        </g>
-        <rect id="Rectangle-12" stroke="#8F8981" stroke-linecap="square" x="412" y="12" width="272" height="144.96875"></rect>
-        <text id="git.team1.ourcompany" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="457.585938" y="28">git.team1.ourcompany.com</tspan>
-        </text>
-        <text id="teamone" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-            <tspan x="518" y="170">teamone</tspan>
-        </text>
+<svg id="svg14736" version="1.1" viewBox="0 0 683 478" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata14742">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/remote-branches-5</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title14555">images/remote-branches-5</title>
+ <desc id="desc14557">Created with Sketch.</desc>
+ <g id="g11422">
+  <path id="path13358" transform="matrix(1 0 0 .98453 283.58 4.797)" d="m162.05 180.34v-33.369h7.7029v33.369h3.8616l-7.7 29.312-7.6903-29.312z" style="fill:#8f8981"/>
+  <g id="g11312" transform="translate(4.21)">
+   <g id="brown" transform="translate(51.5,298.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="Rectangle-1" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="C6" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14560" x="44.5" y="21" style="fill:gray">0b743</tspan></text>
+   </g>
+   <path id="Line-5" transform="translate(-5.5,-7.5)" d="m155 322h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14571" transform="translate(168.5,298.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14565" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14569" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14567" x="44.5" y="21" style="fill:gray">a6b4c</tspan></text>
+   </g>
+   <g id="Line-4-+-brown-3" transform="translate(257.5,298.5)" style="fill-rule:evenodd;fill:none">
+    <path id="Line-4" d="m9 16h39v1h-39v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <g id="g14580" transform="translate(28)">
+     <rect id="rect14574" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text14578" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14576" x="44.5" y="21" style="fill:gray">f4265</tspan></text>
     </g>
+   </g>
+   <path id="Line-11" transform="translate(-5.5,-7.5)" d="m390 322h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <path id="Line-14" transform="translate(-5.5,-7.5)" d="m381.17 341.79 41.035 36.669-.66633.74566-41.035-36.669-2.6653 2.9826-3.7124-9.3524 9.7094 2.6415-2.6653 2.9826z" style="fill:#8f8981"/>
+   <g id="g14591" transform="translate(403.5,298.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14585" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14589" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14587" x="44.5" y="21" style="fill:gray">31b8e</tspan></text>
+   </g>
+   <path id="Line-12" transform="translate(-5.5,-7.5)" d="m507 322h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14600" transform="translate(520.5,298.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14594" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14598" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14596" x="44.5" y="21" style="fill:gray">190a3</tspan></text>
+   </g>
+   <g id="g14608" transform="translate(403.5,355.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14602" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14606" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14604" x="44.5" y="21" style="fill:gray">a38de</tspan></text>
+   </g>
+   <path id="Line-13" transform="translate(-5.5,-7.5)" d="m507 379h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14617" transform="translate(520.5,355.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14611" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14615" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14613" x="44.5" y="21" style="fill:gray">893cf</tspan></text>
+   </g>
+   <g id="g11225">
+    <path id="Line-3" transform="translate(521.5,388.5)" d="m44 9v25h-1v-25h-4l4.5-9 4.5 9z" style="fill:#8f8981"/>
+    <g id="g11218">
+     <rect id="Rectangle-2" transform="matrix(.83962 0 0 1 520.5 408.5)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="master" transform="translate(512.1 408.82)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14621" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+    </g>
+   </g>
+   <g id="g11258" transform="translate(1)">
+    <path id="Line-6" transform="translate(509.5,244.5)" d="m54 44v-27h1v27h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+    <g id="g11251" transform="translate(4.5)">
+     <rect id="rect14627" transform="matrix(.9009 0 0 1 509.5 244.5)" width="111" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text14631" transform="translate(504.03 244.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14629" x="55.5" y="20" style="fill:#f0f0f0">origin/master</tspan></text>
+    </g>
+   </g>
+   <path id="path14635" transform="translate(393.5,244.5)" d="m54 44v-27h1v27h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="g11238" transform="translate(.5)">
+    <rect id="rect14637" transform="matrix(.99099 0 0 1 392.5 244.5)" width="111" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text14641" transform="translate(392.02 244.3)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14639" x="55.5" y="20" style="fill:#f0f0f0">teamone/master</tspan></text>
+   </g>
+  </g>
+  <rect id="Rectangle-11" transform="translate(-5.5,-7.5)" x="29.735" y="219" width="626.45" height="262" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+  <text id="My-Computer" transform="translate(24.197,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14647" x="313.22549" y="236" style="fill:#404040">My Computer</tspan></text>
+  <text id="git-fetch-teamone" transform="translate(32.5,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;text-align:center;text-anchor:middle"><tspan id="tspan14650" x="313.22549" y="198" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;line-height:15px;text-align:center;text-anchor:middle">git fetch teamone</tspan></text>
+  <g id="g11090" transform="translate(6.0038)">
+   <path id="Line-8" transform="translate(18.5,43.5)" d="m0 69.5 9-4.5v9zm47.5-.5v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1z" style="fill:#8f8981"/>
+   <g id="g14661" transform="translate(46.5,96.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14655" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14659" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14657" x="44.5" y="21" style="fill:gray">f4265</tspan></text>
+   </g>
+   <path id="Line-9" transform="translate(18.5,43.5)" d="m124 69h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14670" transform="translate(161.5,96.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14664" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14668" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14666" x="44.5" y="21" style="fill:gray">31b8e</tspan></text>
+   </g>
+   <path id="Line-10" transform="translate(18.5,43.5)" d="m240 69h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14679" transform="translate(277.5,96.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14673" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14677" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14675" x="44.5" y="21" style="fill:gray">190a3</tspan></text>
+   </g>
+   <g id="g11067">
+    <path id="Line-2" transform="translate(279.5,43.5)" d="m42 44v-24h1v24h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+    <g id="g11060" transform="translate(-2)">
+     <rect id="rect14682" transform="matrix(.83962 0 0 1 279.5 43.5)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text14686" transform="translate(271.1 43.816)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14684" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+    </g>
+   </g>
+  </g>
+  <rect id="Rectangle-10" transform="translate(-5.4962 -7.5)" x="10" y="12" width="388" height="144.97" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+  <text id="git.ourcompany.com" transform="translate(-114.88,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14693" x="313.22549" y="28" style="fill:#404040">git.ourcompany.com</tspan></text>
+  <text id="origin" transform="translate(-114.65,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14696" x="313.22549" y="170" style="fill:#404040">origin</tspan></text>
+  <g id="g11149" transform="translate(6)">
+   <path id="Line-15" transform="translate(-5.5,-7.5)" d="m426 120.5 9-4.5v9zm47.5-.5v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1z" style="fill:#8f8981"/>
+   <g id="g14706" transform="translate(448.5,96.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14700" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14704" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14702" x="44.5" y="21" style="fill:gray">f4265</tspan></text>
+   </g>
+   <path id="Line-16" transform="translate(-5.5,-7.5)" d="m550 120h39v1h-39v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g14715" transform="translate(563.5,96.5)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect14709" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text14713" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14711" x="44.5" y="21" style="fill:gray">31b8e</tspan></text>
+   </g>
+   <g id="g11131">
+    <path id="path14717" transform="translate(565.5,43.5)" d="m42 44v-24h1v24h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+    <g id="g11124" transform="translate(-2)">
+     <rect id="rect14719" transform="matrix(.83962 0 0 1 565.5 43.5)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text14723" transform="translate(557.1 43.816)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14721" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+    </g>
+   </g>
+  </g>
+  <rect id="Rectangle-12" transform="translate(-5.5,-7.5)" x="412" y="12" width="272" height="144.97" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
+  <text id="git.team1.ourcompany" transform="translate(229.12,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14729" x="313.22549" y="28" style="fill:#404040">git.team1.ourcompany.com</tspan></text>
+  <text id="teamone" transform="translate(229.3,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14732" x="313.22549" y="170" style="fill:#404040">teamone</tspan></text>
+ </g>
 </svg>

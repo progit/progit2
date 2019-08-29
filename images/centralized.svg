@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="302px" height="123px" viewBox="0 0 302 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/centralized</title>
-    <desc>Created with Sketch.</desc>
-    <g id="05---Workflows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
-            <g id="goldref-(2-line)" transform="translate(87.000000, 3.000000)">
-                <rect id="Rectangle-4" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="110.580108" height="38"></rect>
-                <text id="master-3" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="35.2296466" y="15.53125">shared</tspan>
-                    <tspan x="21.8560417" y="28.53125">repository</tspan>
-                </text>
-            </g>
-            <g id="ref" transform="translate(113.000000, 87.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="10.1739238" y="20">developer</tspan>
-                </text>
-            </g>
-            <g id="ref" transform="translate(14.000000, 87.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="10.1739238" y="20">developer</tspan>
-                </text>
-            </g>
-            <g id="ref" transform="translate(211.000000, 87.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="80.2429907" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="10.1739238" y="20">developer</tspan>
-                </text>
-            </g>
-            <path id="Line" d="M78.1908863,78.8268417 L94.9349564,48.6875154 L91.4383273,46.7449437 L99.7428215,41.0629214 L99.3057428,51.11573 L95.8091137,49.1731583 L79.0650436,79.3124846 L82.5616727,81.2550563 L74.2571785,86.9370786 L74.6942572,76.88427 L78.1908863,78.8268417 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <path id="Line-3" d="M142,78 L142,50 L138,50 L142.5,41 L147,50 L143,50 L143,78 L147,78 L142.5,87 L138,78 L142,78 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <path id="Line-2" d="M206.814708,79.3902857 L189.319427,49.1099919 L185.855967,51.1111023 L185.249861,41.0670675 L193.648752,46.6086039 L190.185292,48.6097143 L207.680573,78.8900081 L211.144033,76.8888977 L211.750139,86.9329325 L203.351248,81.3913961 L206.814708,79.3902857 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        </g>
-    </g>
+<svg id="svg1684" version="1.1" viewBox="0 0 309 125.04" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata1648">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/centralized</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title1650">images/centralized</title>
+ <desc id="desc1652">Created with Sketch.</desc>
+ <g id="g36231" transform="translate(-3,1)">
+  <g id="g36207">
+   <g id="g36160">
+    <rect id="rect1662" transform="matrix(1.0717 0 0 1 113 87)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="master" transform="translate(115.91 86.602)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan1664" x="40.121494" y="20" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">developer</tspan></text>
+   </g>
+   <g id="g36165">
+    <rect id="rect1667" transform="matrix(1.0717 0 0 1 7 87)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text1671" transform="translate(9.9062 86.602)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan1669" x="40.121494" y="20" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">developer</tspan></text>
+   </g>
+   <g id="g36170">
+    <rect id="rect1673" transform="matrix(1.1091 0 0 1 219 87.037)" width="80.243" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text1677" transform="translate(223.41 86.639)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan1675" x="40.121494" y="20" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">developer</tspan></text>
+   </g>
+  </g>
+  <path id="path1682" transform="rotate(.35664 202.85 2250.8)" d="m206.81 79.39-17.495-30.28-3.4635 2.0011-.60611-10.044 8.3989 5.5415-3.4635 2.0011 17.495 30.28 3.4635-2.0011.60611 10.044-8.3989-5.5415z" style="fill:#8f8981"/>
+  <g id="g36178" transform="translate(13.5)">
+   <path id="path1680" d="m142 78v-28h-4l4.5-9 4.5 9h-4v28h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="g36143" transform="translate(2.5)">
+    <rect id="rect1654" transform="matrix(.95858 0 0 1 87 3)" width="110.58" height="38" style="fill-rule:evenodd;fill:#cd9f00"/>
+    <text id="text36135" transform="translate(46.049 65.755)" x="93.426483" y="-47.712845" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan36133" x="93.426483" y="-47.712845">shared</tspan><tspan id="tspan36137" x="93.426483" y="-33.712845">repository</tspan></text>
+   </g>
+  </g>
+  <path id="path1682-5" transform="matrix(-.99998 .0062246 .0062246 .99998 297.93 -1.219)" d="m206.81 79.39-17.495-30.28-3.4635 2.0011-.60611-10.044 8.3989 5.5415-3.4635 2.0011 17.495 30.28 3.4635-2.0011.60611 10.044-8.3989-5.5415z" style="fill:#8f8981"/>
+ </g>
 </svg>

@@ -1,71 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="480px" height="493px" viewBox="0 0 480 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/replace2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="replace2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line" d="M244,118 L244,93 L245,93 L245,118 L249,118 L244.5,127 L240,118 L244,118 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.221490205"></path>
-        <path id="Line-2" d="M306,64 L332,64 L332,65 L306,65 L306,69 L297,64.5 L306,60 L306,64 Z" fill="#8F8981" fill-rule="nonzero" opacity="0.221490205"></path>
-        <g id="brown-2" opacity="0.221490205" transform="translate(186.000000, 36.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" x="0.5" y="0.5" width="109.580108" height="56"></rect>
-            <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2841946" y="18.546875">ef989</tspan>
-            </text>
-        </g>
-        <text id="fifth" opacity="0.221490205" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="224" y="81">fifth</tspan>
-        </text>
-        <g id="other-(2-line)" transform="translate(187.000000, 128.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"></rect>
-            <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2871243" y="18.546875">c6e1e</tspan>
-            </text>
-        </g>
-        <text id="fourth" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="222" y="173">fourth</tspan>
-        </text>
-        <path id="Line-3" d="M244,210 L244,185 L245,185 L245,210 L249,210 L244.5,219 L240,210 L244,210 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="other-(2-line)" transform="translate(187.000000, 220.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"></rect>
-            <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2841946" y="18.546875">9c68f</tspan>
-            </text>
-        </g>
-        <text id="third" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="224" y="265">third</tspan>
-        </text>
-        <path id="Line-4" d="M244,302 L244,277 L245,277 L245,302 L249,302 L244.5,311 L240,302 L244,302 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="other-(2-line)" transform="translate(187.000000, 312.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"></rect>
-            <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2871243" y="18.546875">94570</tspan>
-            </text>
-        </g>
-        <text id="second" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="222" y="357">second</tspan>
-        </text>
-        <path id="Line-5" d="M244,394 L244,369 L245,369 L245,394 L249,394 L244.5,403 L240,394 L244,394 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="other-(2-line)" transform="translate(187.000000, 404.000000)" stroke="#979797">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0.5" y="0.5" width="109.580108" height="56"></rect>
-            <text id="master-4" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2871243" y="18.546875">c1822</tspan>
-            </text>
-        </g>
-        <text id="first" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="226" y="449">first</tspan>
-        </text>
-        <g id="ref-4" opacity="0.221490205" transform="translate(333.000000, 41.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" x="0" y="0" width="111" height="47"></rect>
-            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="35.1169182" y="24.2424242">master</tspan>
-            </text>
-        </g>
-        <path id="Line-6" d="M307,157 L338,157 L338,158 L307,158 L307,162 L298,157.5 L307,153 L307,157 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="ref" transform="translate(334.000000, 134.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="29.7851449" y="20">history</tspan>
-            </text>
-        </g>
-    </g>
+<svg id="svg11924" version="1.1" viewBox="0 0 245.01 433" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata11930">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/replace2</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title11849">images/replace2</title>
+ <desc id="desc11851">Created with Sketch.</desc>
+ <g id="g12150" transform="translate(-181.9,-32)">
+  <path id="Line" transform="translate(-3.2099 1)" d="m244 118v-27.392h1v27.392h4l-4.5 9-4.5-9z" style="fill:#8f8981;opacity:.5"/>
+  <g id="g12009" style="opacity:.5">
+   <rect id="Rectangle-2" transform="translate(186,36)" x=".5" y=".5" width="109.58" height="56" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+   <text id="master-4" transform="translate(186.56 39.149)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan11856" x="54.790054" y="18.546875" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">ef989</tspan></text>
+   <text id="fifth" transform="translate(-.83257)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#9b9b9b;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan11860" x="224" y="81">fifth</tspan></text>
+  </g>
+  <g id="g12054">
+   <path id="Line-3" transform="translate(-3.1099 .9)" d="m244 210v-28.528h1v28.528h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="g12038">
+    <rect id="rect11863" transform="translate(186.1,128)" x=".5" y=".5" width="109.58" height="56" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+    <text id="text11867" transform="translate(186.48 131.27)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan11865" x="54.790054" y="18.546875" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">c6e1e</tspan></text>
+    <text id="fourth" transform="translate(-2.3302)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#9b9b9b;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan11870" x="222" y="173">fourth</tspan></text>
+   </g>
+  </g>
+  <g id="g12079">
+   <path id="Line-4" transform="translate(-3.3099 1)" d="m244 302v-28.528h1v28.528h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="g12063">
+    <rect id="rect11874" transform="translate(185.9,220)" x=".5" y=".5" width="109.58" height="56" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+    <text id="text11878" transform="translate(186.06 223.06)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan11876" x="54.790054" y="18.546875" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">9c68f</tspan></text>
+    <text id="third" transform="translate(-.66257)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#9b9b9b;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan11882" x="224" y="265">third</tspan></text>
+   </g>
+  </g>
+  <path id="Line-5" transform="translate(-3.3099 1)" d="m244 394v-28.936h1v28.936h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <g id="g12086">
+   <rect id="rect11886" transform="translate(185.9,312)" x=".5" y=".5" width="109.58" height="56" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+   <text id="text11890" transform="translate(186.43 315.22)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan11888" x="54.790054" y="18.546875" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">94570</tspan></text>
+   <text id="second" transform="translate(-2.2842)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#9b9b9b;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan11894" x="222" y="357">second</tspan></text>
+  </g>
+  <g id="g12100">
+   <rect id="rect11898" transform="translate(185.9,404)" x=".5" y=".5" width="109.58" height="56" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+   <text id="text11902" transform="translate(186.39 407.09)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan11900" x="54.790054" y="18.546875" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">c1822</tspan></text>
+   <text id="first" transform="translate(-2.9926)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#9b9b9b;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan11906" x="226" y="449">first</tspan></text>
+  </g>
+  <g id="g11998" style="opacity:.5">
+   <path id="Line-2" transform="translate(-.4)" d="m306 64h31.985v1h-31.985v4l-9-4.5 9-4.5z" style="fill:#8f8981;opacity:1"/>
+   <g id="g11991" transform="translate(-9.9889 3.0736)">
+    <rect id="rect11909" transform="matrix(.8018 0 0 .70213 343.9 44.926)" width="111" height="47" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="master" transform="translate(333,41)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan11911" x="55.5" y="24.242424" style="fill:#f0f0f0">master</tspan></text>
+   </g>
+  </g>
+  <g id="g12031">
+   <path id="Line-6" transform="translate(-1.4)" d="m307 157h31v1h-31v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g12024" transform="translate(-.1 7)">
+    <rect id="rect11916" transform="matrix(.83962 0 0 1 334 134)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text11920" transform="translate(325.24 133.87)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan11918" x="53" y="20" style="fill:#f0f0f0">history</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>

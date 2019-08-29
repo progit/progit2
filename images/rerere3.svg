@@ -1,73 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="589px" height="329px" viewBox="0 0 589 329" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/rerere3</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <pattern id="pattern-1" width="30" height="30" x="-14" y="78" patternUnits="userSpaceOnUse">
-            <use xlink:href="#image-2"></use>
-        </pattern>
-        <image id="image-2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAADqSURBVEgN7ZVdDgIhDISl19KrrOFoBD2KXsOjkO1slAQBaVjovthHdjIfP7Otcc69iOjK9ThVijVn/nQbqTMzTCWbNDjkEfANfAQ8grXhCVgTnoG14EWwBrwKng0n7/0FkFJZa5+8voQQWDZWRzNMJZv8d66hg4DzUfVLUq3ZsxMwkv2G33kELoJR2a3LwIAjlUh7a/7u0RXBGvAqeDacfv3seGNcd6vJ9OianavHVHIYsycgeI7vkvptbywVj9TFcI00xS20/CJYIv5ca8tUokvAmvAMrAUvgjXgVfBsOCEogJRqVvNAJ1wBMfROw+AwCxUAAAAASUVORK5CYII="></image>
-    </defs>
-    <g id="rerere3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line-7" d="M272,77 L272,48 L273,48 L273,77 L277,77 L272.5,86 L268,77 L272,77 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line" d="M178,109 L220,109 L220,110 L178,110 L178,114 L169,109.5 L178,105 L178,109 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-4" d="M331,110 L373,110 L373,111 L331,111 L331,115 L322,110.5 L331,106 L331,110 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-3" d="M426,77 L426,47 L427,47 L427,77 L431,77 L426.5,86 L422,77 L426,77 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-2" d="M25,109 L75,109 L75,110 L25,110 L25,114 L16,109.5 L25,105 L25,109 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="ref" transform="translate(228.000000, 18.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="33.1285461" y="20">master</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(67.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="11.3935547" y="28">hello world</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(221.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="14.9941406" y="28">hola world</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(373.000000, 86.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="14.9941406" y="28">hola mundo</tspan>
-            </text>
-        </g>
-        <g id="content" transform="translate(220.000000, 148.000000)">
-            <rect id="Rectangle-2" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="102" height="47"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="11.3935547" y="28">hello mundo</tspan>
-            </text>
-        </g>
-        <path id="Line-8" d="M175.978058,126.025827 L220.20696,168.485572 L219.514428,169.20696 L175.285526,126.747214 L172.515399,129.632763 L169.139306,120.153734 L178.748185,123.140278 L175.978058,126.025827 Z" fill="#E7E7E7" fill-rule="nonzero"></path>
-        <g id="ref" transform="translate(383.000000, 16.000000)">
-            <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-            <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="23.095622" y="20">i18-world</tspan>
-            </text>
-        </g>
-        <rect id="Rectangle-7" stroke="#979797" fill="#D8D8D8" x="388.5" y="205.5" width="191" height="111" rx="1"></rect>
-        <text id="rerere-cache" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="397" y="228">rerere cache</tspan>
-        </text>
-        <rect id="Rectangle-8" stroke="#979797" fill="#E7E7E7" x="394.5" y="243.5" width="178" height="64" rx="1"></rect>
-        <text id="----puts-‘hola-world" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal">
-            <tspan x="405" y="265" fill="#D0021B">-   puts ‘hola world’</tspan>
-            <tspan x="405" y="279" fill="#F44D27"> -  puts ‘hello mundo’</tspan>
-            <tspan x="405" y="293" fill="#417505">++  puts ‘hola mundo’</tspan>
-        </text>
-        <text id="hello-mundo" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#9B9B9B">
-            <tspan x="231" y="176">hello mundo</tspan>
-        </text>
-        <path id="Line" d="M364.146029,136.325683 C359.612382,145.005905 355.503958,151.63381 352.473322,154.375815 C349.766404,156.824931 345.807861,159.170154 340.921768,161.391371 C337.576346,162.912198 333.994941,164.285545 330.413909,165.488928 C329.160773,165.910036 327.996971,166.279897 326.952152,166.59561 C326.586104,166.706219 326.260947,166.802193 325.980391,166.883167 C325.81145,166.931927 325.694539,166.964955 325.633369,166.981885 L325.151484,167.115254 L324.884746,166.151484 L325.366631,166.018115 C325.424327,166.002147 325.537719,165.970114 325.703089,165.922385 C325.979717,165.842544 326.300894,165.747745 326.662899,165.638357 C327.698235,165.32551 328.852321,164.958737 330.09537,164.541018 C333.646297,163.347752 337.196851,161.986235 340.507924,160.481023 C345.308338,158.298756 349.186177,156.001345 351.802408,153.634279 C354.708436,151.005016 358.781009,144.435361 363.250934,135.879389 L359.680033,134.098939 L367.723105,128.052536 L367.734385,138.114836 L364.146029,136.325683 Z" fill="#4A90E2" fill-rule="nonzero"></path>
-        <text id="rebase" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#4A90E2">
-            <tspan x="357" y="164">rebase</tspan>
-        </text>
+<svg id="svg16842" version="1.1" viewBox="0 0 530.4 290.03" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata16846">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/rerere3</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title16761">images/rerere3</title>
+ <desc id="desc16763">Created with Sketch.</desc>
+ <defs id="defs16769">
+  <marker id="TriangleOutL" style="overflow:visible" orient="auto">
+   <path id="path17724" transform="scale(.8)" d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;fill:#4a90e2;stroke-width:1pt;stroke:#4a90e2"/>
+  </marker>
+ </defs>
+ <g id="layer13" transform="translate(-12.001 -20.987)" style="display:none">
+  <path id="Line-7" d="m272 77v-29h1v29h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <path id="Line" d="m178 109h42v1h-42v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <path id="Line-4" transform="translate(1)" d="m331 110h42v1h-42v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <path id="Line-3" d="m426 77v-30h1v30h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <path id="Line-2" d="m25 109h50v1h-50v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="ref" transform="translate(228,18)" style="fill-rule:evenodd;fill:none">
+   <rect id="Rectangle-2" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+   <text id="master" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16777" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+  </g>
+  <g id="content" transform="translate(67,86)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect16781" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text16785" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16783" x="51" y="28" style="fill:gray">hello world</tspan></text>
+  </g>
+  <g id="g16794" transform="translate(221,86)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect16788" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text16792" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16790" x="51" y="28" style="fill:gray">hola world</tspan></text>
+  </g>
+  <g id="g16802" transform="translate(373,86)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect16796" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text16800" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16798" x="51" y="28" style="fill:gray">hola mundo</tspan></text>
+  </g>
+  <g id="g16810" transform="translate(220,148)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect16804" width="102" height="47" style="fill-rule:evenodd;fill:#efefe8;opacity:.8"/>
+   <text id="text16808" transform="translate(-.15234 -.366)" font-size="12px" font-weight="700" style="fill:#ababab;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16806" x="51" y="28" style="fill:#ababab">hello mundo</tspan></text>
+  </g>
+  <path id="Line-8" d="m175.98 126.03 44.229 42.46-.69253.72139-44.229-42.46-2.7701 2.8855-3.3761-9.479 9.6089 2.9865-2.7701 2.8855z" style="fill:#e7e7e7"/>
+  <g id="g16819" transform="translate(383,16)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect16813" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+   <text id="text16817" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16815" x="53" y="20" style="fill:#f0f0f0">i18-world</tspan></text>
+  </g>
+  <rect id="Rectangle-7" x="388.5" y="205.5" width="191" height="111" rx="1" ry="1" style="fill-rule:evenodd;fill:#d8d8d8;stroke:#979797"/>
+  <text id="rerere-cache" transform="translate(344.24,1.4837)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:black;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16822" x="95.5" y="228" style="fill:black">rerere cache</tspan></text>
+  <rect id="Rectangle-8" x="394.5" y="243.5" width="178" height="64" rx="1" ry="1" style="fill-rule:evenodd;fill:#e7e7e7;stroke:#979797"/>
+  <g id="g16225">
+   <text id="text16296" transform="translate(12.195,-87.793)" x="388.82846" y="352.83362" style="fill:#f44d27;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:9.5px;word-spacing:0px" xml:space="preserve"><tspan id="tspan16294" x="388.82846" y="352.83362" style="fill:#f44d27;line-height:13.33333302px"><tspan id="tspan16302" style="fill:#cc003d">-  puts ‘hola world’</tspan> </tspan><tspan id="tspan16298" x="388.82846" y="366.16696" style="fill:#f44d27;line-height:13.33333302px">-  puts ‘hello mundo’ </tspan><tspan id="tspan16300" x="388.82846" y="379.50027" style="fill:green;line-height:13.33333302px">++ puts ‘hola mundo’</tspan></text>
+  </g>
+ </g>
+ <g id="layer15" transform="translate(-12.001 -20.987)">
+  <g id="g16752">
+   <g id="g15992" transform="translate(.00093 .12199)">
+    <path id="Line-2-6" d="m25 109h50v1h-50v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+    <g id="content-2" transform="translate(67,86)" style="fill-rule:evenodd;fill:none">
+     <rect id="rect16157" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text16161" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16159" x="51" y="28" style="fill:gray">hello world</tspan></text>
     </g>
+   </g>
+   <g id="g16695">
+    <path id="Line-1" transform="translate(.00093 .12199)" d="m178 109h42v1h-42v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+    <g id="g16170" transform="translate(219.87 86.118)" style="fill-rule:evenodd;fill:none">
+     <rect id="rect16164" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text16168" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16166" x="51" y="28" style="fill:gray">hola world</tspan></text>
+    </g>
+   </g>
+   <g id="g15378" transform="translate(-66.629 6.9962)">
+    <path id="Line-7-1" d="m337 70v-29h1v29h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+    <g id="g15371">
+     <rect id="Rectangle-2-5" transform="matrix(.83962 0 0 1 293 18)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="master-4" transform="translate(284.6,18.316)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15969" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+    </g>
+   </g>
+   <g id="g16675">
+    <g id="g16668">
+     <path id="path17580" transform="matrix(1 0 0 1.0255 -4.8765 -6.0727)" d="m325.18 173.33c23.206-3.0421 27.716-27.21 48.486-45.373" style="fill:none;marker-end:url(#TriangleOutL);stroke-width:1px;stroke:#4a90e2"/>
+     <rect id="rect16664" transform="translate(-6.3638 15.985)" x="325.46" y="152.86" width="2.8031" height="5.5305" style="fill-rule:evenodd;fill:white"/>
+    </g>
+    <text id="rebase" transform="translate(271.15,5.2942)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#4a90e2;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16838" x="95.5" y="164" style="fill:#4a90e2">rebase</tspan></text>
+   </g>
+   <g id="g16660" style="opacity:.5">
+    <g id="g16186" transform="translate(219.9 148.12)" style="fill-rule:evenodd;fill:none">
+     <rect id="rect16180" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text16184" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16182" x="51" y="28" style="fill:gray">hello mundo</tspan></text>
+    </g>
+    <g id="g16002" transform="matrix(1.0388 0 0 1.0388 -6.7106 -3.4531)">
+     <path id="Line-8-3" d="m175.98 126.03 43.681 43.204-.69253.72139-43.681-43.204-2.7701 2.8855-3.3761-9.479 9.6089 2.9865-2.7701 2.8855z" style="fill:#8f8981"/>
+    </g>
+   </g>
+   <g id="g16688">
+    <path id="Line-4-6" transform="translate(-1.0991 .12199)" d="m331.94 110h43.949v1h-43.949v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+    <g id="g16178" transform="translate(373 86.118)" style="fill-rule:evenodd;fill:none">
+     <rect id="rect16172" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+     <text id="text16176" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan16174" x="51" y="28" style="fill:gray">hola mundo</tspan></text>
+    </g>
+   </g>
+   <g id="g16350" transform="translate(-37.6 15.013)" style="fill-rule:evenodd;fill:none">
+    <g id="g16337">
+     <rect id="Rectangle-7-9" x="384.5" y="180.5" width="191" height="111" rx="1" ry="1" style="fill:#d8d8d8;stroke:#979797"/>
+     <text id="rerere-cache-9" transform="translate(296.51 .44153)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan16198" x="95.5" y="203" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">rerere cache</tspan></text>
+    </g>
+    <g id="g16332">
+     <rect id="Rectangle-8-0" x="390.5" y="218.5" width="178" height="64" rx="1" ry="1" style="fill:#e7e7e7;stroke:#979797"/>
+     <text id="text16296-0" transform="translate(8.512,-110.66)" x="388.82846" y="352.83362" style="fill:#f44d27;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:9.5px;word-spacing:0px" xml:space="preserve"><tspan id="tspan16294-7" x="388.82846" y="352.83362" style="fill:#f44d27;line-height:13.33333302px"><tspan id="tspan16302-4" style="fill:#cc003d">-  puts ‘hola world’</tspan> </tspan><tspan id="tspan16298-1" x="388.82846" y="366.16696" style="fill:#f44d27;line-height:13.33333302px">-  puts ‘hello mundo’ </tspan><tspan id="tspan16300-2" x="388.82846" y="379.50027" style="fill:green;line-height:13.33333302px">++ puts ‘hola mundo’</tspan></text>
+    </g>
+   </g>
+   <g id="g16579" transform="translate(-10.392)">
+    <path id="Line-3-1" transform="matrix(1 0 0 -1 96.893 274)" d="m338 197v20.577h-1v-20.577h-4l4.5-9 4.5 9z" style="fill:#8f8981"/>
+    <g id="g15336" transform="translate(95.893 -190.01)">
+     <rect id="rect15997" transform="matrix(.83962 0 0 1 294 215)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text16001" transform="translate(285.46,215.96)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15999" x="53" y="20" style="fill:#f0f0f0">i18-world</tspan></text>
+    </g>
+   </g>
+  </g>
+ </g>
 </svg>

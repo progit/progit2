@@ -1,79 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="637px" height="295px" viewBox="0 0 637 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/basic-merging-1</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Basic-Merging-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line" d="M110,146 L145,146 L145,147 L110,147 L110,151 L101,146.5 L110,142 L110,146 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-2" d="M237,148 L272,148 L272,149 L237,149 L237,153 L228,148.5 L237,144 L237,148 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <path id="Line-6" d="M364,147 L399,147 L399,148 L364,148 L364,152 L355,147.5 L364,143 L364,147 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown" transform="translate(12.000000, 131.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="38.2988281" y="21">C0</tspan>
-            </text>
-        </g>
-        <g id="brown" transform="translate(139.000000, 131.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="38.2988281" y="21">C1</tspan>
-            </text>
-        </g>
-        <g id="brown-3" transform="translate(266.000000, 131.000000)">
-            <rect id="Rectangle-1" stroke="#159099" stroke-width="2" fill="#EFEFE7" x="1" y="1" width="87" height="31" rx="15.5"></rect>
-            <text id="C5" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2988281" y="21">C2</tspan>
-            </text>
-        </g>
-        <path id="Line-5" d="M359.178048,162.782393 L399.205942,198.459429 L398.540571,199.205942 L358.512678,163.528906 L355.851195,166.514959 L352.126743,157.167315 L361.83953,159.79634 L359.178048,162.782393 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="Line-7-+-ref-3" transform="translate(394.000000, 69.000000)">
-            <path id="Line-7" d="M43,53 L43,21 L44,21 L44,53 L48,53 L43.5,62 L39,53 L43,53 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="33.1285461" y="20">master</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="brown-5" transform="translate(393.000000, 131.000000)">
-            <rect id="Rectangle-1" stroke="#159099" stroke-width="2" fill="#EFEFE7" x="1" y="1" width="87" height="31" rx="15.5"></rect>
-            <text id="C5" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2988281" y="21">C4</tspan>
-            </text>
-        </g>
-        <path id="Line-8" d="M490,205 L525,205 L525,206 L490,206 L490,210 L481,205.5 L490,201 L490,205 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="brown-6" transform="translate(519.000000, 189.000000)">
-            <rect id="Rectangle-1" stroke="#159099" stroke-width="2" fill="#EFEFE7" x="1" y="1" width="87" height="31" rx="15.5"></rect>
-            <text id="C5" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="37.2988281" y="21">C5</tspan>
-            </text>
-        </g>
-        <g id="brown" transform="translate(393.000000, 189.000000)">
-            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-            <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="38.2988281" y="21">C3</tspan>
-            </text>
-        </g>
-        <g id="Line-4-+-ref-2" transform="translate(521.000000, 222.000000)">
-            <path id="Line-4" d="M44,9 L44,44 L43,44 L43,9 L39,9 L43.5,0 L48,9 L44,9 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <g id="ref" transform="translate(0.000000, 29.000000)">
-                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="106" height="33"></rect>
-                <text id="master" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="36.4719473" y="20">iss53</tspan>
-                </text>
-            </g>
-        </g>
-        <text id="Snapshot-to" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="524.264648" y="171">Snapshot to</tspan>
-            <tspan x="535.101562" y="185">Merge In</tspan>
-        </text>
-        <text id="Snapshot-to" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="484.264648" y="124">Snapshot to</tspan>
-            <tspan x="487.876953" y="138">Merge Into</tspan>
-        </text>
-        <text id="Common" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="289.326172" y="115">Common</tspan>
-            <tspan x="282.101562" y="129">Ancestor</tspan>
-        </text>
+<svg id="svg437" version="1.1" viewBox="0 0 604.1 223" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata443">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/basic-merging-1</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title353">images/basic-merging-1</title>
+ <desc id="desc355">Created with Sketch.</desc>
+ <g id="03---Basic-Merging-1" transform="translate(-8,-65)" style="fill-rule:evenodd;fill:none">
+  <g id="g34594">
+   <path id="Line" d="m110 146h35v1h-35v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <path id="Line-2" d="m237 148h35v1h-35v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <path id="Line-6" d="m364 147h35v1h-35v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <g id="brown" transform="translate(12,131)">
+    <rect id="Rectangle-1" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="C6" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan361" x="44.5" y="21" style="fill:gray">C0</tspan></text>
+   </g>
+   <g id="g371" transform="translate(139,131)">
+    <rect id="rect365" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text369" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan367" x="44.5" y="21" style="fill:gray">C1</tspan></text>
+   </g>
+   <g id="brown-3" transform="translate(266,131)">
+    <rect id="rect373" x="1" y="1" width="87" height="31" rx="15.5" ry="15.5" style="fill:#efefe7;stroke-width:2;stroke:#159099"/>
+    <text id="C5" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan375" x="43.5" y="21" style="fill:gray">C2</tspan></text>
+   </g>
+   <path id="Line-5" d="m359.18 162.78 40.028 35.677-.66537.74651-40.028-35.677-2.6615 2.9861-3.7245-9.3476 9.7128 2.629-2.6615 2.9861z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <path id="Line-7" transform="translate(394,69)" d="m43 53v-32h1v32h4l-4.5 9-4.5-9z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <g id="ref" transform="translate(393,69)">
+    <rect id="Rectangle-2" transform="scale(.83962 1)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="master" transform="translate(-8.4003 .316)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan382" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+   </g>
+   <text id="text34525" transform="translate(371.04 -122.9)" x="112.49346" y="246.85464" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;word-spacing:0px" xml:space="preserve"><tspan id="tspan34523" x="112.49346" y="246.85464">Snapshot to</tspan><tspan id="tspan34527" x="112.49346" y="260.85464">Merge Into</tspan></text>
+   <g id="brown-5" transform="translate(393,131)">
+    <rect id="rect387" x="1" y="1" width="87" height="31" rx="15.5" ry="15.5" style="fill:#efefe7;stroke-width:2;stroke:#159099"/>
+    <text id="text391" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan389" x="43.5" y="21" style="fill:gray">C4</tspan></text>
+   </g>
+   <path id="Line-8" transform="translate(.9)" d="m490 205h35v1h-35v4l-9-4.5 9-4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
+   <g id="brown-6" transform="translate(519,189)">
+    <rect id="rect395" x="1" y="1" width="87" height="31" rx="15.5" ry="15.5" style="fill:#efefe7;stroke-width:2;stroke:#159099"/>
+    <text id="text399" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan397" x="43.5" y="21" style="fill:gray">C5</tspan></text>
+   </g>
+   <g id="g408" transform="translate(393,189)">
+    <rect id="rect402" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text406" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan404" x="44.5" y="21" style="fill:gray">C3</tspan></text>
+   </g>
+   <g id="Line-4-+-ref-2" transform="translate(521,222)">
+    <path id="Line-4" transform="translate(-.9)" d="m44 9v35h-1v-35h-4l4.5-9 4.5 9z" style="fill-rule:nonzero;fill:#8f8981"/>
+    <g id="g417" transform="translate(-1.9,29)">
+     <rect id="rect411" transform="scale(.83962 1)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+     <text id="text415" transform="translate(-8.5623)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan413" x="53" y="20" style="fill:#f0f0f0">iss53</tspan></text>
     </g>
+   </g>
+   <text id="Common" transform="translate(0,-1.4)" font-size="12px" font-weight="700" style="fill:#404141;font-family:'Source Code Pro';font-size:12px;font-weight:700;line-height:12.33333302px"><tspan id="tspan431" x="289.32617" y="115" style="fill:#404141;line-height:12.33333302px">Common</tspan> <tspan id="tspan433" x="282.10156" y="129" style="fill:#404141;line-height:12.33333302px">Ancestor</tspan></text>
+   <text id="text34539" transform="translate(-106.25 55.082)" x="669.72546" y="113.00938" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan34537" x="669.72546" y="113.00938" style="fill:#404040">Snapshot to</tspan><tspan id="tspan34541" x="669.72546" y="127.00938" style="fill:#404040">Merge In</tspan></text>
+  </g>
+ </g>
 </svg>

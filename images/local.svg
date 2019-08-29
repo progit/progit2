@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="336px" height="287px" viewBox="0 0 336 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/local</title>
-    <desc>Created with Sketch.</desc>
-    <g id="01---Local" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Local">
-            <rect id="Rectangle-6" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="334" height="285"></rect>
-            <text id="Local-Computer" font-family="RobotoMono-Regular, Roboto Mono" font-size="14" font-weight="normal" fill="#413932">
-                <tspan x="108" y="27">Local Computer</tspan>
-            </text>
-            <rect id="Rectangle-5" stroke="#979797" fill="#FFFFFF" x="147.5" y="59.5" width="166" height="210"></rect>
-            <text id="Version-Database" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="170.390625" y="78">Version Database</tspan>
-            </text>
-            <text id="Checkout" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                <tspan x="35.1953125" y="78">Checkout</tspan>
-            </text>
-            <g id="blue" transform="translate(20.000000, 103.000000)">
-                <rect id="Rectangle-1" fill="#00909A" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="tree" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="31.1263951" y="20">File</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(185.000000, 103.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="13.0947266" y="21">Version 3</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(185.000000, 158.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="13.0947266" y="21">Version 2</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(185.000000, 213.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="13.0947266" y="21">Version 1</tspan>
-                </text>
-            </g>
-            <path d="M228.5,136.5 L228.5,157.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M228.5,191.5 L228.5,212.5" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M184.5,119.5 L109.5,119.5" id="Line-3" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-        </g>
-    </g>
+<svg id="svg7571" version="1.1" viewBox="0 0 336 287" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata7511">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/local</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title7513">images/local</title>
+ <desc id="desc7515">Created with Sketch.</desc>
+ <g id="g7569" fill-rule="evenodd">
+  <g id="g7530">
+   <rect id="rect7517" x=".5" y=".5" width="334" height="285" fill="#d8d8d8" stroke="#979797"/>
+   <text id="Local-Computer" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan7519" x="167" y="27" fill="#808080" style="fill:#404040">Local Computer</tspan></text>
+   <rect id="rect7522" x="147.5" y="59.5" width="166" height="210" fill="white" stroke="#979797"/>
+   <text id="Version-Database" transform="translate(63.774)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan7524" x="167" y="78" fill="#808080" style="fill:#404040">Version Database</tspan></text>
+   <text id="Checkout" transform="translate(-102.51)" fill="#4d4d4d" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle" style="fill:#404040"><tspan id="tspan7527" x="167" y="78" fill="#808080" style="fill:#404040">Checkout</tspan></text>
+  </g>
+  <rect id="rect7532" transform="translate(20,103)" width="89" height="33" rx="16.5" fill="#00909a"/>
+  <text id="tree" transform="translate(19.734 103)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan7534" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">File</tspan></text>
+  <g id="g7560" fill="none">
+   <g id="brown" transform="translate(185,103)">
+    <rect id="rect7537" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+    <text id="text7541" transform="translate(0 -.042)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan7539" x="44.5" y="21" style="fill:gray">Version 3</tspan></text>
+   </g>
+   <g id="g7550" transform="translate(185,158)">
+    <rect id="rect7544" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+    <text id="text7548" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan7546" x="44.5" y="21" fill="#808080">Version 2</tspan></text>
+   </g>
+   <g id="g7558" transform="translate(185,213)">
+    <rect id="rect7552" width="89" height="33" rx="16.5" fill="#efefe7" fill-rule="evenodd"/>
+    <text id="text7556" fill="#979797" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan7554" x="44.5" y="21" fill="#808080">Version 1</tspan></text>
+   </g>
+  </g>
+  <g id="g7567" fill="#8f8981" stroke="#8f8981" stroke-linecap="square">
+   <path id="Line" d="m228.5 136.5v21"/>
+   <path id="path7563" d="m228.5 191.5v21"/>
+   <path id="path7565" d="m184.5 119.5h-75"/>
+  </g>
+ </g>
 </svg>

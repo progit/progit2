@@ -1,167 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="558px" height="213px" viewBox="0 0 558 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/snapshots</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="89" height="33" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <rect id="path-3" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="89" height="33" fill="white">
-            <use xlink:href="#path-3"></use>
-        </mask>
-        <rect id="path-5" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="89" height="33" fill="white">
-            <use xlink:href="#path-5"></use>
-        </mask>
-        <rect id="path-7" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="89" height="33" fill="white">
-            <use xlink:href="#path-7"></use>
-        </mask>
-        <rect id="path-9" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="89" height="33" fill="white">
-            <use xlink:href="#path-9"></use>
-        </mask>
-    </defs>
-    <g id="01---Deltas-vs.-Snapshots" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(1.000000, -1.000000)">
-            <path d="M41.5,48.5 L41.5,196.503372" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M161.5,48.5 L161.5,196.503372" id="Line-8" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M276.5,48.5 L276.5,196.503372" id="Line-9" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M392.5,48.5 L392.5,196.503372" id="Line-10" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <path d="M508.5,48.5 L508.5,196.503372" id="Line-11" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
-            <g id="gold" transform="translate(0.000000, 24.000000)">
-                <rect id="Rectangle-1" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="Version-5" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="14.409389" y="20">Version 1</tspan>
-                </text>
-            </g>
-            <g id="gold" transform="translate(116.000000, 24.000000)">
-                <rect id="Rectangle-1" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="Version-5" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="14.409389" y="20">Version 2</tspan>
-                </text>
-            </g>
-            <g id="gold" transform="translate(232.000000, 24.000000)">
-                <rect id="Rectangle-1" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="Version-5" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="14.409389" y="20">Version 3</tspan>
-                </text>
-            </g>
-            <g id="gold" transform="translate(348.000000, 24.000000)">
-                <rect id="Rectangle-1" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="Version-5" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="14.409389" y="20">Version 4</tspan>
-                </text>
-            </g>
-            <g id="gold" transform="translate(464.000000, 24.000000)">
-                <rect id="Rectangle-1" fill="#CD9F00" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="Version-5" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="14.409389" y="20">Version 5</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(0.000000, 83.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="23.8964844" y="21">File A</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(0.000000, 83.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="23.8964844" y="21">File A</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(116.000000, 83.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">A1</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(116.000000, 181.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">C1</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(232.000000, 181.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">C2</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(348.000000, 132.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">B1</tspan>
-                </text>
-            </g>
-            <g id="brown-23" transform="translate(116.000000, 132.000000)" stroke="#979797">
-                <use id="Rectangle-1" mask="url(#mask-2)" stroke-width="2" fill="#EFEFE7" stroke-dasharray="3" xlink:href="#path-1"></use>
-                <text id="B" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="40.8994141" y="21">B</tspan>
-                </text>
-            </g>
-            <g id="brown-24" transform="translate(232.000000, 83.000000)" stroke="#979797">
-                <use id="Rectangle-1" mask="url(#mask-4)" stroke-width="2" fill="#EFEFE7" stroke-dasharray="3" xlink:href="#path-3"></use>
-                <text id="A1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="37.2988281" y="21">A1</tspan>
-                </text>
-            </g>
-            <g id="brown-26" transform="translate(464.000000, 83.000000)" stroke="#979797">
-                <use id="Rectangle-1" mask="url(#mask-6)" stroke-width="2" fill="#EFEFE7" stroke-dasharray="3" xlink:href="#path-5"></use>
-                <text id="A2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="37.2988281" y="21">A2</tspan>
-                </text>
-            </g>
-            <g id="brown-25" transform="translate(232.000000, 132.000000)" stroke="#979797">
-                <use id="Rectangle-1" mask="url(#mask-8)" stroke-width="2" fill="#EFEFE7" stroke-dasharray="3" xlink:href="#path-7"></use>
-                <text id="B" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="40.8994141" y="21">B</tspan>
-                </text>
-            </g>
-            <g id="brown-27" transform="translate(348.000000, 181.000000)" stroke="#979797">
-                <use id="Rectangle-1" mask="url(#mask-10)" stroke-width="2" fill="#EFEFE7" stroke-dasharray="3" xlink:href="#path-9"></use>
-                <text id="C2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="37.2988281" y="21">C2</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(348.000000, 83.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">A2</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(464.000000, 132.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">B2</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(464.000000, 181.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="38.2988281" y="21">C3</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(0.000000, 132.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="23.8964844" y="21">File B</tspan>
-                </text>
-            </g>
-            <g id="brown" transform="translate(0.000000, 181.000000)">
-                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
-                <text id="C6" stroke="#979797" stroke-width="1" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#000000">
-                    <tspan x="23.8964844" y="21">File C</tspan>
-                </text>
-            </g>
-            <path id="Line-14" d="M538.5,17 L-0.5,17 L-0.5,15 L538.5,15 L538.5,9 L552.5,16 L538.5,23 L538.5,17 Z" fill="#8F8981" fill-rule="nonzero"></path>
-            <text id="Checkins-Over-Time-2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-                <tspan x="211" y="11">Checkins Over Time</tspan>
-            </text>
-        </g>
-    </g>
+<svg id="svg28972" version="1.1" viewBox="0 0 561.91 220.57" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata28976">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/snapshots</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title28781">images/snapshots</title>
+ <desc id="desc28783">Created with Sketch.</desc>
+ <g id="g29437" transform="translate(3.5,3.06)">
+  <path id="Line" transform="translate(1,-1)" d="m41.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+  <path id="Line-8" transform="translate(1,-1)" d="m161.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+  <path id="Line-9" transform="translate(1,-1)" d="m276.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+  <path id="Line-10" transform="translate(1,-1)" d="m392.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+  <path id="Line-11" transform="translate(1,-1)" d="m508.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+  <g id="gold" transform="translate(1,23)" style="fill-rule:evenodd;fill:none">
+   <rect id="Rectangle-1" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
+   <text id="Version-5" transform="translate(.26166)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28813" x="44.5" y="20" style="fill:#f0f0f0">Version 1</tspan></text>
+  </g>
+  <g id="g28823" transform="translate(117,23)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28817" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
+   <text id="text28821" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28819" x="44.5" y="20" style="fill:#f0f0f0">Version 2</tspan></text>
+  </g>
+  <g id="g28831" transform="translate(233,23)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28825" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
+   <text id="text28829" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28827" x="44.5" y="20" style="fill:#f0f0f0">Version 3</tspan></text>
+  </g>
+  <g id="g28839" transform="translate(349,23)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28833" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
+   <text id="text28837" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28835" x="44.5" y="20" style="fill:#f0f0f0">Version 4</tspan></text>
+  </g>
+  <g id="g28847" transform="translate(465,23)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28841" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
+   <text id="text28845" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28843" x="44.5" y="20" style="fill:#f0f0f0">Version 5</tspan></text>
+  </g>
+  <g id="brown" transform="translate(1,82)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28849" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="C6" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28851" x="44.5" y="21" style="fill:gray">File A</tspan></text>
+  </g>
+  <g id="g28861" transform="translate(1,82)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28855" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28859" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28857" x="44.5" y="21" style="fill:gray">File A</tspan></text>
+  </g>
+  <g id="g28869" transform="translate(117,82)" style="fill-rule:evenodd;fill:none">
+   <g id="g29320">
+    <rect id="rect28863" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text28867" transform="translate(.29766 -.588)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28865" x="44.5" y="21" style="fill:gray">A1</tspan></text>
+   </g>
+  </g>
+  <g id="g28877" transform="translate(117,180)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28871" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28875" transform="translate(.027656 -.588)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28873" x="44.5" y="21" style="fill:gray">C1</tspan></text>
+  </g>
+  <g id="g29330">
+   <rect id="rect28879" transform="translate(233,180)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28883" transform="translate(233.06 179.41)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28881" x="44.5" y="21" style="fill:gray">C2</tspan></text>
+  </g>
+  <g id="g28893" transform="translate(349,131)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28887" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28891" transform="translate(-.092344 -.588)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28889" x="44.5" y="21" style="fill:gray">B1</tspan></text>
+  </g>
+  <g id="g28932" transform="translate(349,82)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28926" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28930" transform="translate(.33366 -.588)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28928" x="44.5" y="21" style="fill:gray">A2</tspan></text>
+  </g>
+  <g id="g29340">
+   <rect id="rect28879-7-9" transform="translate(464.91 82.01)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7;paint-order:markers fill stroke;stroke-dasharray:4, 1;stroke-linejoin:round;stroke:#999"/>
+   <text id="A2" transform="translate(465.25 81.422)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28909" x="37.298828" y="21" style="fill:gray">A2</tspan></text>
+  </g>
+  <g id="g28940" transform="translate(465,131)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28934" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28938" transform="translate(-.056344 -.588)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28936" x="44.5" y="21" style="fill:gray">B2</tspan></text>
+  </g>
+  <rect id="rect28942" transform="translate(465,180)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+  <text id="text28946" transform="translate(465.09 179.41)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28944" x="44.5" y="21" style="fill:gray">C3</tspan></text>
+  <g id="g28956" transform="translate(1,131)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28950" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28954" transform="translate(-.40434 -.042)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28952" x="44.5" y="21" style="fill:gray">File B</tspan></text>
+  </g>
+  <g id="g28964" transform="translate(1,180)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect28958" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="text28962" transform="translate(-.45234 -.042)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28960" x="44.5" y="21" style="fill:gray">File C</tspan></text>
+  </g>
+  <path id="Line-14" transform="translate(1,-1)" d="m538.5 17h-539v-2h539v-6l14 7-14 7z" style="fill:#8f8981"/>
+  <text id="Checkins-Over-Time-2" transform="translate(1,-1)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#3e4141;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28967" x="211" y="11" style="fill:#3e4141">Checkins Over Time</tspan></text>
+  <g id="g29263" transform="translate(-.01541 -.188)">
+   <rect id="rect28879-7-4" transform="translate(233.02 131.19)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7;paint-order:markers fill stroke;stroke-dasharray:4, 1;stroke-linejoin:round;stroke:#999"/>
+   <text id="text28917" transform="translate(232.8,130.6)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28915" x="40.899414" y="21" style="fill:gray">B</tspan></text>
+  </g>
+  <g id="g29325">
+   <rect id="rect28879-7" transform="translate(233 82.01)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7;paint-order:markers fill stroke;stroke-dasharray:4, 1;stroke-linejoin:round;stroke:#999"/>
+   <text id="A1" transform="translate(233.3 81.422)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28903" x="37.298828" y="21" style="fill:gray">A1</tspan></text>
+  </g>
+  <g id="g29335">
+   <rect id="rect28879-7-2" transform="translate(348.92 180.01)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7;paint-order:markers fill stroke;stroke-dasharray:4, 1;stroke-linejoin:round;stroke:#999"/>
+   <text id="C2" transform="translate(348.99 179.42)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28922" x="37.298828" y="21" style="fill:gray">C2</tspan></text>
+  </g>
+  <g id="g29315">
+   <rect id="rect28879-7-3" transform="translate(116.95 131)" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7;paint-order:markers fill stroke;stroke-dasharray:4, 1;stroke-linejoin:round;stroke:#999"/>
+   <text id="B" transform="translate(116.73 130.41)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:gray;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan28897" x="40.899414" y="21" style="fill:gray">B</tspan></text>
+  </g>
+ </g>
 </svg>

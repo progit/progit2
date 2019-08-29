@@ -1,105 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="797px" height="264px" viewBox="0 0 797 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>images/commits-and-parents</title>
-    <desc>Created with Sketch.</desc>
-    <g id="03---Commits-and-Parents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="commit-(v)" transform="translate(10.000000, 23.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"></rect>
-            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-                <tspan x="108" y="23">size</tspan>
-                <tspan x="108" y="37">92ec2</tspan>
-                <tspan x="108" y="51"></tspan>
-                <tspan x="108" y="65">Scott</tspan>
-                <tspan x="108" y="79">Scott</tspan>
-            </text>
-            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-                <tspan x="54.7929688" y="23" text-decoration="underline">commit</tspan>
-                <tspan x="98" y="23"></tspan>
-                <tspan x="69.1953125" y="37">tree</tspan>
-                <tspan x="54.7929688" y="51">parent</tspan>
-                <tspan x="54.7929688" y="65">author</tspan>
-                <tspan x="33.1894531" y="79">committer</tspan>
-            </text>
-            <text id="The-initial-commit-o" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
-                <tspan x="16.0837402" y="96">The initial commit of my project</tspan>
-            </text>
-        </g>
-        <g id="symref" transform="translate(40.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
-            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="38.5659877" y="29">Snapshot A</tspan>
-            </text>
-        </g>
-        <path id="Line" d="M112,194 L112,147 L113,147 L113,194 L117,194 L112.5,203 L108,194 L112,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="commit-(v)-2" transform="translate(294.000000, 23.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="0" y="0" width="205" height="124"></rect>
-            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-                <tspan x="108" y="23">size</tspan>
-                <tspan x="108" y="37">184ca</tspan>
-                <tspan x="108" y="51">98ca9</tspan>
-                <tspan x="108" y="65">Scott</tspan>
-                <tspan x="108" y="79">Scott</tspan>
-            </text>
-            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-                <tspan x="54.7929688" y="23" text-decoration="underline">commit</tspan>
-                <tspan x="98" y="23"></tspan>
-                <tspan x="69.1953125" y="37">tree</tspan>
-                <tspan x="54.7929688" y="51">parent</tspan>
-                <tspan x="54.7929688" y="65">author</tspan>
-                <tspan x="33.1894531" y="79">committer</tspan>
-            </text>
-            <text id="Fixed-bug-#1328---st" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
-                <tspan x="16.081543" y="96">Fixed bug #1328 - stack overflow </tspan>
-                <tspan x="37.6894531" y="106">under certain conditions</tspan>
-            </text>
-        </g>
-        <g id="symref-2" transform="translate(324.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
-            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="38.5659877" y="29">Snapshot B</tspan>
-            </text>
-        </g>
-        <path id="Line-2" d="M396,194 L396,147 L397,147 L397,194 L401,194 L396.5,203 L392,194 L396,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <text id="98ca9" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="94.4970703" y="20">98ca9</tspan>
-        </text>
-        <text id="34ac2" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="378.49707" y="20">34ac2</tspan>
-        </text>
-        <path id="Line" d="M224,85 L294,85 L294,86 L224,86 L224,90 L215,85.5 L224,81 L224,85 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <g id="commit-(v)-3" transform="translate(453.000000, -191.000000)">
-            <rect id="Rectangle-12" fill="#EFEFE7" x="126" y="214" width="205" height="124"></rect>
-            <text id="size" stroke="#979797" opacity="0.7" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-                <tspan x="234" y="237">size</tspan>
-                <tspan x="234" y="251">0de24</tspan>
-                <tspan x="234" y="265">34ac2</tspan>
-                <tspan x="234" y="279">Scott</tspan>
-                <tspan x="234" y="293">Scott</tspan>
-            </text>
-            <text id="commit" stroke="#979797" font-family="RobotoMono-Bold, Roboto Mono" font-size="12" font-weight="bold" fill="#413932">
-                <tspan x="180.792969" y="237" text-decoration="underline">commit</tspan>
-                <tspan x="224" y="237"></tspan>
-                <tspan x="195.195312" y="251">tree</tspan>
-                <tspan x="180.792969" y="265">parent</tspan>
-                <tspan x="180.792969" y="279">author</tspan>
-                <tspan x="159.189453" y="293">committer</tspan>
-            </text>
-            <text id="add-feature-#32---ab" opacity="0.6" font-family="RobotoMono-Regular, Roboto Mono" font-size="9" font-weight="normal" fill="#413932">
-                <tspan x="131.279785" y="310">add feature #32 - ability to add new </tspan>
-                <tspan x="142.081543" y="320">formats to the central interface</tspan>
-            </text>
-        </g>
-        <g id="symref-3" transform="translate(609.000000, 203.000000)">
-            <rect id="Rectangle-2" fill="#00909A" x="0" y="0" width="144" height="50"></rect>
-            <text id="master" stroke="#979797" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
-                <tspan x="38.5659877" y="29">Snapshot C</tspan>
-            </text>
-        </g>
-        <path id="Line-4" d="M681,194 L681,147 L682,147 L682,194 L686,194 L681.5,203 L677,194 L681,194 Z" fill="#8F8981" fill-rule="nonzero"></path>
-        <text id="f30ab" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" font-weight="normal" fill="#413932">
-            <tspan x="663.494141" y="20">f30ab</tspan>
-        </text>
-        <path id="Line-3" d="M509,85 L579,85 L579,86 L509,86 L509,90 L500,85.5 L509,81 L509,85 Z" fill="#8F8981" fill-rule="nonzero"></path>
-    </g>
+<svg id="svg2687" version="1.1" viewBox="0 0 782 249.56" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata2693">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/commits-and-parents</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title id="title2551">images/commits-and-parents</title>
+ <desc id="desc2553">Created with Sketch.</desc>
+ <g id="g1718" transform="translate(-6,-7.444)">
+  <rect id="Rectangle-2" transform="translate(40,203)" width="144" height="50" style="fill-rule:evenodd;fill:#00909a"/>
+  <text id="master" transform="translate(40,203)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2585" x="72" y="29" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">Snapshot A</tspan></text>
+  <path id="Line" d="m112 194v-47h1v47h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <g id="symref-2" transform="translate(324,203)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect2624" width="144" height="50" style="fill:#00909a"/>
+   <text id="text2628" transform="translate(-.099125 .136)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2626" x="72" y="29" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">Snapshot B</tspan></text>
+  </g>
+  <path id="Line-2" d="m396 194v-47h1v47h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <text id="98ca9" transform="translate(-.014334)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2632" x="94.49707" y="20">98ca9</tspan></text>
+  <text id="34ac2" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2635" x="378.49707" y="20">34ac2</tspan></text>
+  <path id="path2638" d="m224 85h70v1h-70v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="symref-3" transform="translate(609,203)" style="fill-rule:evenodd;fill:none">
+   <rect id="rect2674" width="144" height="50" style="fill:#00909a"/>
+   <text id="text2678" transform="translate(-.16312 .136)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle"><tspan id="tspan2676" x="72" y="29" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;text-align:center;text-anchor:middle">Snapshot C</tspan></text>
+  </g>
+  <path id="Line-4" d="m681 194v-47h1v47h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+  <text id="f30ab" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan2682" x="663.49414" y="20">f30ab</tspan></text>
+  <path id="Line-3" d="m509 85h70v1h-70v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+  <g id="g1476">
+   <rect id="rect2590" transform="translate(294,23)" width="205" height="124" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="Fixed-bug-#1328---st" transform="translate(293.56 23)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2618" x="102.5" y="96" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">Fixed bug #1328 - stack overflow</tspan> <tspan id="tspan2620" x="102.5" y="106" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">under certain conditions</tspan></text>
+   <g id="g1457">
+    <text id="text2602" transform="translate(297.3,23)" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2592" x="102.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2594" x="102.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">184ca</tspan> <tspan id="tspan2596" x="102.5" y="51" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">98ca9</tspan> <tspan id="tspan2598" x="102.5" y="65" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2600" x="102.5" y="79" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+    <text id="text1356" transform="translate(87.286 206.12)" x="305.52573" y="-160.18504" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan id="tspan1354" x="305.52573" y="-160.18504">commit</tspan><tspan id="tspan1358" x="305.52573" y="-146.18504">tree</tspan><tspan id="tspan1360" x="305.52573" y="-132.18504">parent</tspan><tspan id="tspan1362" x="305.52573" y="-118.18504">author</tspan><tspan id="tspan1364" x="305.52573" y="-104.18504">committer</tspan></text>
+   </g>
+  </g>
+  <g id="g1638">
+   <rect id="Rectangle-12" transform="translate(10,23)" width="205" height="124" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="The-initial-commit-o" transform="translate(10.081 23)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2580" x="102.5" y="96" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">The initial commit of my project</tspan></text>
+   <g id="g1620">
+    <text id="size" transform="translate(13.036 23)" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2556" x="102.5" y="23" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2558" x="102.5" y="37" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">92ec2</tspan> <tspan id="tspan2560" x="102.5" y="51" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"/> <tspan id="tspan2562" x="102.5" y="65" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2564" x="102.5" y="79" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+    <text id="text1356-3" transform="translate(-198.99 206.35)" x="305.52573" y="-160.18504" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan id="tspan1354-3" x="305.52573" y="-160.18504">commit</tspan><tspan id="tspan1358-8" x="305.52573" y="-146.18504">tree</tspan><tspan id="tspan1360-3" x="305.52573" y="-132.18504">parent</tspan><tspan id="tspan1362-9" x="305.52573" y="-118.18504">author</tspan><tspan id="tspan1364-2" x="305.52573" y="-104.18504">committer</tspan></text>
+   </g>
+  </g>
+  <g id="g1606">
+   <rect id="rect2640" transform="translate(453,-191)" x="126" y="214" width="205" height="124" style="fill-rule:evenodd;fill:#efefe7"/>
+   <text id="add-feature-#32---ab" transform="translate(578.75,-191)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle"><tspan id="tspan2668" x="102.5" y="310" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">add feature #32 - ability to add new</tspan> <tspan id="tspan2670" x="102.5" y="320" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:8.6667px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:600;text-align:center;text-anchor:middle">formats to the central interface</tspan></text>
+   <g id="g1551">
+    <text id="text2652" transform="translate(582.6,-191)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold"><tspan id="tspan2642" x="102.5" y="237" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">size</tspan> <tspan id="tspan2644" x="102.5" y="251" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">0de24</tspan> <tspan id="tspan2646" x="102.5" y="265" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">34ac2</tspan> <tspan id="tspan2648" x="102.5" y="279" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan> <tspan id="tspan2650" x="102.5" y="293" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold">Scott</tspan></text>
+    <text id="text1356-3-6" transform="translate(372.46 206.15)" x="305.52573" y="-160.18504" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:14px;text-align:end;text-anchor:end;word-spacing:0px" xml:space="preserve"><tspan id="tspan1354-3-6" x="305.52573" y="-160.18504">commit</tspan><tspan id="tspan1358-8-6" x="305.52573" y="-146.18504">tree</tspan><tspan id="tspan1360-3-7" x="305.52573" y="-132.18504">parent</tspan><tspan id="tspan1362-9-4" x="305.52573" y="-118.18504">author</tspan><tspan id="tspan1364-2-5" x="305.52573" y="-104.18504">committer</tspan></text>
+   </g>
+  </g>
+ </g>
 </svg>
