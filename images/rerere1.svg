@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg16006" version="1.1" viewBox="0 0 521 266" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg16006" version="1.1" viewBox="0 0 314 238.9" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata16010">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -12,31 +12,41 @@
  <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
  <title id="title15954">images/rerere1</title>
  <desc id="desc15956">Created with Sketch.</desc>
- <g id="rerere1" fill="none" fill-rule="evenodd">
-  <path id="Line-7" d="m337 70v-29h1v29h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
-  <path id="Line" d="m244 101h42v1h-42v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
-  <path id="Line-3" d="m338 197v17h-1v-17h-4l4.5-9 4.5 9h-4z" fill="#8F8981" fill-rule="nonzero"/>
-  <path id="Line-2" d="m91 101h50v1h-50v4l-9-4.5 9-4.5v4z" fill="#8F8981" fill-rule="nonzero"/>
-  <g id="ref" transform="translate(294 18)">
-   <rect id="Rectangle-2" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
-   <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan15969" x="53" y="20" fill="#f0f0f0">master</tspan></text>
+ <g id="g15525" transform="translate(-78,-13.1)">
+  <g id="g15378" transform="translate(-1 -.9)">
+   <path id="Line-7" d="m337 70v-29h1v29h4l-4.5 9-4.5-9z" style="fill:#8f8981"/>
+   <g id="g15371">
+    <rect id="Rectangle-2" transform="matrix(.83962 0 0 1 293 18)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="master" transform="translate(284.6 18.316)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15969" x="53" y="20" style="fill:#f0f0f0">master</tspan></text>
+   </g>
   </g>
-  <g id="content" transform="translate(133 78)">
-   <rect id="rect15973" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
-   <text id="text15977" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan15975" x="51" y="28" fill="#808080">hello world</tspan></text>
+  <g id="g15409">
+   <path id="Line-2" d="m91 101h50v1h-50v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="content" transform="translate(133,78)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect15973" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text15977" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15975" x="51" y="28" style="fill:gray">hello world</tspan></text>
+   </g>
   </g>
-  <g id="g15986" transform="translate(287 78)">
-   <rect id="rect15980" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
-   <text id="text15984" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan15982" x="51" y="28" fill="#808080"><tspan id="tspan16012" style="fill:#3d6fb2">hola</tspan> world</tspan></text>
+  <g id="g15491">
+   <path id="Line" d="m244 101h44.615v1h-44.615v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
+   <g id="g15986" transform="translate(286,78)" style="fill-rule:evenodd;fill:none">
+    <rect id="rect15980" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text15984" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15982" x="51" y="28" style="fill:gray"><tspan id="tspan16012" style="fill:#3d6fb2">hola</tspan> world</tspan></text>
+   </g>
   </g>
-  <g id="g15994" transform="translate(286 140)">
-   <rect id="rect15988" width="102" height="47" fill="#EFEFE7" fill-rule="evenodd"/>
-   <text id="text15992" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan15990" x="51" y="28" fill="#808080">hello <tspan id="tspan16046" style="fill:#3d6eb2">mundo</tspan></tspan></text>
+  <g id="g15402">
+   <path id="Line-8" transform="translate(-.1489 1.0355)" d="m241.98 118.03 46.419 45.315-.69253.72139-46.419-45.315-2.7701 2.8855-3.3761-9.479 9.6089 2.9865-2.7701 2.8855z" style="fill:#8f8981"/>
+   <g id="g15355">
+    <rect id="rect15988" transform="translate(286,140)" width="102" height="47" style="fill-rule:evenodd;fill:#efefe7"/>
+    <text id="text15992" transform="translate(286,140)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15990" x="51" y="28" style="fill:gray">hello <tspan id="tspan16046" style="fill:#3d6eb2">mundo</tspan></tspan></text>
+   </g>
   </g>
-  <path id="Line-8" d="m241.98 118.03 44.229 42.46-.69253.72139-44.229-42.46-2.7701 2.8855-3.3761-9.479 9.6089 2.9865-2.7701 2.8855z" fill="#8F8981" fill-rule="nonzero"/>
-  <g id="g16003" transform="translate(294 215)">
-   <rect id="rect15997" width="106" height="33" fill="#F44D27" fill-rule="evenodd"/>
-   <text id="text16001" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan15999" x="53" y="20" fill="#f0f0f0">i18-world</tspan></text>
+  <g id="g15343" transform="translate(-1.5)">
+   <path id="Line-3" transform="translate(1 -1.1)" d="m338 197v20.577h-1v-20.577h-4l4.5-9 4.5 9z" style="fill:#8f8981"/>
+   <g id="g15336">
+    <rect id="rect15997" transform="matrix(.83962 0 0 1 294 215)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
+    <text id="text16001" transform="translate(285.46 215.96)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15999" x="53" y="20" style="fill:#f0f0f0">i18-world</tspan></text>
+   </g>
   </g>
  </g>
 </svg>
