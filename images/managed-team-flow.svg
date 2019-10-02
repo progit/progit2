@@ -1,94 +1,587 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg41932" version="1.1" viewBox="0 0 575.97 636.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata41938">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>images/managed-team-flow</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
- <title id="title41749">images/managed-team-flow</title>
- <desc id="desc41751">Created with Sketch.</desc>
- <g id="g10069" transform="translate(-5.6133 -5.9)">
-  <g id="ref" transform="matrix(.81132 0 0 1 157 10)" style="fill-rule:evenodd;fill:none">
-   <rect id="Rectangle-2" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="master" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41754" x="53" y="20" style="fill:#f0f0f0">Josie</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg41932"
+   version="1.1"
+   viewBox="0 0 575.97 636.1"
+   sodipodi:docname="managed-team-flow.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs114" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview112"
+     showgrid="false"
+     inkscape:zoom="1.0493772"
+     inkscape:cx="517.24453"
+     inkscape:cy="391.43253"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10069" />
+  <metadata
+     id="metadata41938">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>images/managed-team-flow</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+  <title
+     id="title41749">images/managed-team-flow</title>
+  <desc
+     id="desc41751">Created with Sketch.</desc>
+  <g
+     id="g10069"
+     transform="translate(-5.6133,-5.9)">
+    <g
+       id="ref"
+       transform="matrix(0.81132,0,0,1,157,10)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="Rectangle-2"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="master"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41754"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">Josie</tspan>
+      </text>
+    </g>
+    <path
+       id="Line-2"
+       d="m 199.5,43.583 v 571.35"
+       style="fill:#8f8981;fill-rule:evenodd;stroke:#8f8981;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g41765"
+       transform="matrix(0.81132,0,0,1,157,605)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="rect41759"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text41763"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41761"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">Josie</tspan>
+      </text>
+    </g>
+    <g
+       id="g41773"
+       transform="matrix(0.81132,0,0,1,252,10)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="rect41767"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text41771"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41769"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">John</tspan>
+      </text>
+    </g>
+    <path
+       id="Line-3"
+       d="m 293.5,43.583 v 571.35"
+       style="fill:#8f8981;fill-rule:evenodd;stroke:#8f8981;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g41782"
+       transform="matrix(0.81132,0,0,1,252,605)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="rect41776"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text41780"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41778"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">John</tspan>
+      </text>
+    </g>
+    <g
+       id="g41790"
+       transform="matrix(0.81132,0,0,1,62,10)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="rect41784"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text41788"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41786"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">Jessica</tspan>
+      </text>
+    </g>
+    <path
+       id="Line-15"
+       d="m 103.5,43.583 v 571.35"
+       style="fill:#8f8981;fill-rule:evenodd;stroke:#8f8981;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g41799"
+       transform="matrix(0.81132,0,0,1,62,605)"
+       style="fill:none;fill-rule:evenodd">
+      <rect
+         id="rect41793"
+         width="106"
+         height="33"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text41797"
+         font-size="12px"
+         font-weight="700"
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
+        <tspan
+           id="tspan41795"
+           x="53"
+           y="20"
+           style="fill:#f0f0f0">Jessica</tspan>
+      </text>
+    </g>
+    <path
+       id="path41801"
+       d="m 400.5,43.583 v 571.35"
+       style="fill:#8f8981;fill-rule:evenodd;stroke:#8f8981;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path41822"
+       d="m 521.5,43.583 v 571.35"
+       style="fill:#8f8981;fill-rule:evenodd;stroke:#8f8981;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Line"
+       d="m 209.38,179 h 192.24 v 1 H 209.38 v 4 l -9,-4.5 9,-4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-commit"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41845"
+         x="8.9892578"
+         y="73.195312">git commit</tspan>
+      <tspan
+         id="tspan41847"
+         x="55.196777"
+         y="86.195312">(A)</tspan>
+    </text>
+    <text
+       id="text41854"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41850"
+         x="8.9892578"
+         y="351.19531">git commit</tspan>
+      <tspan
+         id="tspan41852"
+         x="55.196777"
+         y="364.19531">(B)</tspan>
+    </text>
+    <text
+       id="git-fetch-origin"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41856"
+         x="242.68872"
+         y="176">git fetch origin</tspan>
+    </text>
+    <path
+       id="Line-5"
+       d="m 111.98,474 h 289.64 v 1 H 111.98 v 4 l -9,-4.5 9,-4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-fetch-origin-3"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41860"
+         x="215.68872"
+         y="470.19531">git fetch origin</tspan>
+    </text>
+    <path
+       id="Line-4"
+       d="m 113,387 h 409.62 v 1 H 113 v 4 l -9,-4.5 9,-4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-fetch-origin-2"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41864"
+         x="242.68872"
+         y="384">git fetch origin</tspan>
+    </text>
+    <text
+       id="git-push-origin-feat"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41867"
+         x="167.28442"
+         y="105.40576">git push origin featureA</tspan>
+    </text>
+    <path
+       id="Line-7"
+       d="M 391.22,110 H 105.77 v -1 h 285.45 v -4 l 9,4.5 -9,4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-push-origin-feat-3"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41871"
+         x="167.28442"
+         y="583.40576">git push origin featureA</tspan>
+    </text>
+    <path
+       id="Line-11"
+       d="M 391.22,588 H 105.77 v -1 h 285.45 v -4 l 9,4.5 -9,4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-push-origin-feat-2"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41875"
+         x="215.28442"
+         y="247.69531">git push origin featureA</tspan>
+    </text>
+    <path
+       id="Line-8"
+       d="M 391.22,252 H 200 v -1 h 191.22 v -4 l 9,4.5 -9,4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41881"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41879"
+         x="316.68335"
+         y="323.69531">git push origin featureBee</tspan>
+    </text>
+    <path
+       id="Line-9"
+       d="M 513,328 H 293.01 v -1 H 513 v -4 l 9,4.5 -9,4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41886"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41884"
+         x="177.97583"
+         y="446.19531">git push origin featureB:featureBee</tspan>
+    </text>
+    <path
+       id="Line-10"
+       d="M 512.58,451 H 103.43 v -1 h 409.15 v -4 l 9,4.5 -9,4.5 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Line-6"
+       d="m 96.56901,96.08 c -10.689,-2.6979 -17.581,-8.9529 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24588 3.2925,-0.32684 4.1532,-0.32457 0.002,7e-6 0.002,7e-6 0.002,6e-6 l 0.49999,0.0026 0.005,-0.99999 -0.49999,-0.0026 -0.004,-1.6e-5 c -0.90323,-0.0024 -2.3985,0.08104 -4.2882,0.33336 -3.1071,0.41487 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.2539 -8.3161,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-commit-3"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41890"
+         x="203"
+         y="142.69531">git commit</tspan>
+      <tspan
+         id="tspan41892"
+         x="203"
+         y="155.69531">(A)</tspan>
+    </text>
+    <path
+       id="Line-16"
+       d="m 192.56959,165.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41900"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41896"
+         x="297"
+         y="283.69531">git commit</tspan>
+      <tspan
+         id="tspan41898"
+         x="297"
+         y="296.69531">(B)</tspan>
+    </text>
+    <path
+       id="Line-18"
+       d="m 286.56959,306.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2996,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52735,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <path
+       id="Line-19"
+       d="m 95.56901,374.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="git-merge"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41904"
+         x="15.590332"
+         y="414.19531">git merge</tspan>
+      <tspan
+         id="tspan41906"
+         x="55.196777"
+         y="427.19531">(B)</tspan>
+    </text>
+    <path
+       id="Line-20"
+       d="m 95.56901,437.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41914"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41910"
+         x="15.590332"
+         y="502.19531">git merge</tspan>
+      <tspan
+         id="tspan41912"
+         x="55.196777"
+         y="515.19531">(A)</tspan>
+    </text>
+    <path
+       id="Line-21"
+       d="m 95.56901,525.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41921"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41917"
+         x="8.9892578"
+         y="552.19531">git commit</tspan>
+      <tspan
+         id="tspan41919"
+         x="55.196777"
+         y="565.19531">(A)</tspan>
+    </text>
+    <path
+       id="Line-22"
+       d="m 95.56901,575.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text41928"
+       font-size="12px"
+       font-weight="700"
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
+      <tspan
+         id="tspan41924"
+         x="203.5"
+         y="207.69531">git merge</tspan>
+      <tspan
+         id="tspan41926"
+         x="203.5"
+         y="220.69531">(A)</tspan>
+    </text>
+    <path
+       id="Line-17"
+       d="m 192.56959,230.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52734,3.9015 z"
+       style="fill:#8f8981"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g9918">
+      <rect
+         id="rect41803"
+         transform="matrix(1,0,0,0.86842,346,9.9)"
+         width="110.58"
+         height="38"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text9828"
+         transform="translate(27.351,59.387)"
+         x="373.49857"
+         y="-36.316429"
+         style="font-weight:bold;font-size:12px;line-height:13.0666666px;font-family:'Source Code Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f0f0f0"
+         xml:space="preserve"><tspan
+           id="tspan9826"
+           x="373.49857"
+           y="-36.316429">server:</tspan><tspan
+           id="tspan9830"
+           x="373.49857"
+           y="-23.249763">featureA</tspan></text>
+    </g>
+    <g
+       id="g9912">
+      <path
+         id="rect41824"
+         transform="matrix(1,0,0,0.86842,467,9.9)"
+         d="M 0,0 H 110.58 V 38 H 0 Z"
+         style="fill:#f44d27;fill-rule:evenodd"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text9828-4"
+         transform="translate(148.62,59.387)"
+         x="373.49857"
+         y="-36.316429"
+         style="font-weight:bold;font-size:12px;line-height:13.0666666px;font-family:'Source Code Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f0f0f0"
+         xml:space="preserve"><tspan
+           id="tspan9826-2"
+           x="373.49857"
+           y="-36.316429">server:</tspan><tspan
+           id="tspan9830-6"
+           x="373.49857"
+           y="-23.249763">featureBee</tspan></text>
+    </g>
+    <g
+       id="g9918-9"
+       transform="translate(-0.03624,595.08)">
+      <rect
+         id="rect41803-0"
+         transform="matrix(1,0,0,0.86842,346,9.9)"
+         width="110.58"
+         height="38"
+         style="fill:#f44d27;fill-rule:evenodd"
+         x="0"
+         y="0" />
+      <text
+         id="text9828-6"
+         transform="translate(27.351,59.387)"
+         x="373.49857"
+         y="-36.316429"
+         style="font-weight:bold;font-size:12px;line-height:13.0666666px;font-family:'Source Code Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f0f0f0"
+         xml:space="preserve"><tspan
+           id="tspan9826-1"
+           x="373.49857"
+           y="-36.316429">server:</tspan><tspan
+           id="tspan9830-7"
+           x="373.49857"
+           y="-23.249763">featureA</tspan></text>
+    </g>
+    <g
+       id="g9912-8"
+       transform="translate(-0.03624,595.08)">
+      <path
+         id="rect41824-1"
+         transform="matrix(1,0,0,0.86842,467,9.9)"
+         d="M 0,0 H 110.58 V 38 H 0 Z"
+         style="fill:#f44d27;fill-rule:evenodd"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text9828-4-1"
+         transform="translate(148.62,59.387)"
+         x="373.49857"
+         y="-36.316429"
+         style="font-weight:bold;font-size:12px;line-height:13.0666666px;font-family:'Source Code Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f0f0f0"
+         xml:space="preserve"><tspan
+           id="tspan9826-2-5"
+           x="373.49857"
+           y="-36.316429">server:</tspan><tspan
+           id="tspan9830-6-9"
+           x="373.49857"
+           y="-23.249763">featureBee</tspan></text>
+    </g>
   </g>
-  <path id="Line-2" d="m199.5 43.583v571.35" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <g id="g41765" transform="matrix(.81132 0 0 1 157 605)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect41759" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text41763" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41761" x="53" y="20" style="fill:#f0f0f0">Josie</tspan></text>
-  </g>
-  <g id="g41773" transform="matrix(.81132 0 0 1 252 10)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect41767" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text41771" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41769" x="53" y="20" style="fill:#f0f0f0">John</tspan></text>
-  </g>
-  <path id="Line-3" d="m293.5 43.583v571.35" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <g id="g41782" transform="matrix(.81132 0 0 1 252 605)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect41776" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text41780" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41778" x="53" y="20" style="fill:#f0f0f0">John</tspan></text>
-  </g>
-  <g id="g41790" transform="matrix(.81132 0 0 1 62 10)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect41784" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text41788" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41786" x="53" y="20" style="fill:#f0f0f0">Jessica</tspan></text>
-  </g>
-  <path id="Line-15" d="m103.5 43.583v571.35" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <g id="g41799" transform="matrix(.81132 0 0 1 62 605)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect41793" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text41797" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan41795" x="53" y="20" style="fill:#f0f0f0">Jessica</tspan></text>
-  </g>
-  <path id="path41801" d="m400.5 43.583v571.35" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <path id="path41822" d="m521.5 43.583v571.35" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <path id="Line" d="m209.38 179h192.24v1h-192.24v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
-  <text id="git-commit" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41845" x="8.9892578" y="73.195312">git commit</tspan> <tspan id="tspan41847" x="55.196777" y="86.195312">(A)</tspan></text>
-  <text id="text41854" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41850" x="8.9892578" y="351.19531">git commit</tspan> <tspan id="tspan41852" x="55.196777" y="364.19531">(B)</tspan></text>
-  <text id="git-fetch-origin" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41856" x="242.68872" y="176">git fetch origin</tspan></text>
-  <path id="Line-5" d="m111.98 474h289.64v1h-289.64v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
-  <text id="git-fetch-origin-3" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41860" x="215.68872" y="470.19531">git fetch origin</tspan></text>
-  <path id="Line-4" d="m113 387h409.62v1h-409.62v4l-9-4.5 9-4.5z" style="fill:#8f8981"/>
-  <text id="git-fetch-origin-2" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41864" x="242.68872" y="384">git fetch origin</tspan></text>
-  <text id="git-push-origin-feat" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41867" x="167.28442" y="105.40576">git push origin featureA</tspan></text>
-  <path id="Line-7" d="m391.22 110h-285.45v-1h285.45v-4l9 4.5-9 4.5z" style="fill:#8f8981"/>
-  <text id="git-push-origin-feat-3" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41871" x="167.28442" y="583.40576">git push origin featureA</tspan></text>
-  <path id="Line-11" d="m391.22 588h-285.45v-1h285.45v-4l9 4.5-9 4.5z" style="fill:#8f8981"/>
-  <text id="git-push-origin-feat-2" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41875" x="215.28442" y="247.69531">git push origin featureA</tspan></text>
-  <path id="Line-8" d="m391.22 252h-191.22v-1h191.22v-4l9 4.5-9 4.5z" style="fill:#8f8981"/>
-  <text id="text41881" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41879" x="316.68335" y="323.69531">git push origin featureBee</tspan></text>
-  <path id="Line-9" d="m513 328h-219.99v-1h219.99v-4l9 4.5-9 4.5z" style="fill:#8f8981"/>
-  <text id="text41886" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41884" x="177.97583" y="446.19531">git push origin featureB:featureBee</tspan></text>
-  <path id="Line-10" d="m512.58 451h-409.15v-1h409.15v-4l9 4.5-9 4.5z" style="fill:#8f8981"/>
-  <path id="Line-6" d="m86.839 96.08c10.689-2.6979 17.581-8.9529 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24588-3.2925-.32684-4.1532-.32457-.002 7e-6-.002 7e-6-.0018 6e-6l-.49999.0026-.0052-.99999.49999-.0026.0044-1.6e-5c.90323-.0024 2.3985.08104 4.2882.33336 3.1071.41487 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54338 4.0202-9.5216-3.2539 8.3161-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="git-commit-3" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41890" x="203" y="142.69531">git commit</tspan> <tspan id="tspan41892" x="203" y="155.69531">(A)</tspan></text>
-  <path id="Line-16" d="m182.84 165.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.002l-.5.003-.005-.99999.49999-.003.004-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.107.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54337 4.0202-9.5216-3.254 8.3162-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="text41900" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41896" x="297" y="283.69531">git commit</tspan> <tspan id="tspan41898" x="297" y="296.69531">(B)</tspan></text>
-  <path id="Line-18" d="m276.84 306.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.002l-.5.003-.005-.99998.49999-.003.004-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.107.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2996 18.295-18.447 21.077l.54337 4.0202-9.5216-3.254 8.3162-5.665.52735 3.9015z" style="fill:#8f8981"/>
-  <path id="Line-19" d="m85.839 374.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.0018l-.49999.003-.0052-.99998.49999-.003.0044-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.1071.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54338 4.0202-9.5216-3.254 8.3161-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="git-merge" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41904" x="15.590332" y="414.19531">git merge</tspan> <tspan id="tspan41906" x="55.196777" y="427.19531">(B)</tspan></text>
-  <path id="Line-20" d="m85.839 437.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.0018l-.49999.003-.0052-.99998.49999-.003.0044-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.1071.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54338 4.0202-9.5216-3.254 8.3161-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="text41914" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41910" x="15.590332" y="502.19531">git merge</tspan> <tspan id="tspan41912" x="55.196777" y="515.19531">(A)</tspan></text>
-  <path id="Line-21" d="m85.839 525.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.0018l-.49999.003-.0052-.99998.49999-.003.0044-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.1071.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54338 4.0202-9.5216-3.254 8.3161-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="text41921" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41917" x="8.9892578" y="552.19531">git commit</tspan> <tspan id="tspan41919" x="55.196777" y="565.19531">(A)</tspan></text>
-  <path id="Line-22" d="m85.839 575.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.0018l-.49999.003-.0052-.99999.49999-.003.0044-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.1071.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54338 4.0202-9.5216-3.254 8.3161-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <text id="text41928" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#413932;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan41924" x="203.5" y="207.69531">git merge</tspan> <tspan id="tspan41926" x="203.5" y="220.69531">(A)</tspan></text>
-  <path id="Line-17" d="m182.84 230.08c10.689-2.6979 17.581-8.9528 17.581-20.08 0-9.2424-4.8176-15.134-12.902-18.401-2.8167-1.1383-5.8402-1.8701-8.8696-2.2746-1.8415-.24589-3.2925-.32684-4.1532-.32457h-.002l-.5.003-.005-.99999.49999-.003.004-2e-5c.90323-.002 2.3985.081 4.2882.33336 3.107.41488 6.21 1.1659 9.112 2.3387 8.4339 3.4084 13.527 9.6368 13.527 19.328 0 11.713-7.2995 18.295-18.447 21.077l.54337 4.0202-9.5216-3.254 8.3162-5.665.52734 3.9015z" style="fill:#8f8981"/>
-  <g id="g9918">
-   <rect id="rect41803" transform="matrix(1 0 0 .86842 346 9.9)" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text9828" transform="translate(27.351 59.387)" x="373.49857" y="-36.316429" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan9826" x="373.49857" y="-36.316429">server:</tspan><tspan id="tspan9830" x="373.49857" y="-23.249763">featureA</tspan></text>
-  </g>
-  <g id="g9912">
-   <path id="rect41824" transform="matrix(1 0 0 .86842 467 9.9)" d="m0 0h110.58v38h-110.58z" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text9828-4" transform="translate(148.62 59.387)" x="373.49857" y="-36.316429" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan9826-2" x="373.49857" y="-36.316429">server:</tspan><tspan id="tspan9830-6" x="373.49857" y="-23.249763">featureBee</tspan></text>
-  </g>
-  <g id="g9918-9" transform="translate(-.03624 595.08)">
-   <rect id="rect41803-0" transform="matrix(1 0 0 .86842 346 9.9)" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text9828-6" transform="translate(27.351 59.387)" x="373.49857" y="-36.316429" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan9826-1" x="373.49857" y="-36.316429">server:</tspan><tspan id="tspan9830-7" x="373.49857" y="-23.249763">featureA</tspan></text>
-  </g>
-  <g id="g9912-8" transform="translate(-.03624 595.08)">
-   <path id="rect41824-1" transform="matrix(1 0 0 .86842 467 9.9)" d="m0 0h110.58v38h-110.58z" style="fill-rule:evenodd;fill:#f44d27"/>
-   <text id="text9828-4-1" transform="translate(148.62 59.387)" x="373.49857" y="-36.316429" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan9826-2-5" x="373.49857" y="-36.316429">server:</tspan><tspan id="tspan9830-6-9" x="373.49857" y="-23.249763">featureBee</tspan></text>
-  </g>
- </g>
 </svg>

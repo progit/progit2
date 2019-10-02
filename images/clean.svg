@@ -1,62 +1,282 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg1880" version="1.1" viewBox="0 0 425 204" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata1886">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>images/clean</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
- <title id="title1802">images/clean</title>
- <desc id="desc1804">Created with Sketch.</desc>
- <g id="08---Smudge-and-Clean" fill="none" fill-rule="evenodd">
-  <g id="Group" transform="translate(10 10)">
-   <g id="g145">
-    <g id="other" transform="translate(0,45)">
-     <rect id="Rectangle-2" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
-     <text id="master" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1807" x="43" y="21" style="fill:gray">fileA.txt</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 425 204"
+   version="1.1"
+   id="svg1880">
+  <defs
+     id="defs55" />
+  <metadata
+     id="metadata1886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>images/clean</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+  <title
+     id="title1802">images/clean</title>
+  <desc
+     id="desc1804">Created with Sketch.</desc>
+  <g
+     style="fill:none;fill-rule:evenodd"
+     id="08---Smudge-and-Clean">
+    <g
+       transform="translate(10,10)"
+       id="Group">
+      <g
+         id="g145">
+        <g
+           transform="translate(0,45)"
+           id="other">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#efefe7;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="Rectangle-2" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="master">
+            <tspan
+               style="fill:#808080"
+               y="21"
+               x="43"
+               id="tspan1807">fileA.txt</tspan>
+          </text>
+        </g>
+        <rect
+           style="fill:#d8d8d8;stroke:#979797"
+           height="142"
+           width="109"
+           y="0.5"
+           x="138.5"
+           id="Rectangle-10" />
+        <g
+           transform="translate(300,45)"
+           id="goldref">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#cd9f00;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="Rectangle-3" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="master-2">
+            <tspan
+               style="fill:#f0f0f0"
+               y="20"
+               x="43"
+               id="tspan1813">fileA.txt'</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(300,98)"
+           id="g1823">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#cd9f00;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="rect1817" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1821">
+            <tspan
+               style="fill:#f0f0f0"
+               y="20"
+               x="43"
+               id="tspan1819">fileB.txt'</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(0,98)"
+           id="g1831">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#efefe7;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="rect1825" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1829">
+            <tspan
+               style="fill:#808080"
+               y="21"
+               x="43"
+               id="tspan1827">fileB.txt</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(0,151)"
+           id="g1839">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#efefe7;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="rect1833" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1837">
+            <tspan
+               style="fill:#808080"
+               y="21"
+               x="43"
+               id="tspan1835">fileC.rb</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(300,151)"
+           id="g1847">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#efefe7;fill-rule:evenodd"
+             height="33"
+             width="86"
+             id="rect1841" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1845">
+            <tspan
+               style="fill:#808080"
+               y="21"
+               x="43"
+               id="tspan1843">fileC.rb</tspan>
+          </text>
+        </g>
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#404040"
+           font-weight="700"
+           font-size="12px"
+           transform="translate(-11.397)"
+           id="Staging-Area-2">
+          <tspan
+             style="fill:#404040"
+             y="22"
+             x="54.5"
+             id="tspan1849">Staging Area</tspan>
+        </text>
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#404040"
+           font-weight="700"
+           font-size="12px"
+           transform="translate(288.9)"
+           id="Working-Directory-2">
+          <tspan
+             style="fill:#404040"
+             y="22"
+             x="54.5"
+             id="tspan1852">Working Directory</tspan>
+        </text>
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#404040"
+           font-weight="700"
+           font-size="12px"
+           transform="translate(138.35)"
+           id="*.txt-Filter-2">
+          <tspan
+             style="fill:#404040"
+             y="22"
+             x="54.5"
+             id="tspan1855">*.txt Filter</tspan>
+        </text>
+        <g
+           transform="translate(150,45)"
+           id="ref">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#f44d27;fill-rule:evenodd"
+             height="33"
+             width="86.186996"
+             id="rect1858" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1862">
+            <tspan
+               style="fill:#f0f0f0"
+               y="20"
+               x="43.093456"
+               id="tspan1860">smudge</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(150,98)"
+           id="g1871">
+          <rect
+             y="0"
+             x="0"
+             style="fill:#f44d27;fill-rule:evenodd"
+             height="33"
+             width="86.186996"
+             id="rect1865" />
+          <text
+             style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"
+             font-weight="700"
+             font-size="12px"
+             id="text1869">
+            <tspan
+               style="fill:#f0f0f0"
+               y="20"
+               x="43.093456"
+               id="tspan1867">clean</tspan>
+          </text>
+        </g>
+        <path
+           style="fill:#8f8981;fill-rule:nonzero"
+           d="M 291,169 H 87 v -1 h 204 v -4 l 9,4.5 -9,4.5 z"
+           id="Line-6" />
+        <path
+           style="fill:#8f8981;fill-rule:nonzero"
+           d="m 96,115 h 54 v -1 H 96 v -4 l -9,4.5 9,4.5 z"
+           id="Line-7" />
+        <path
+           style="fill:#8f8981;fill-rule:nonzero"
+           d="m 291,115 h -55 v -1 h 55 v -4 l 9,4.5 -9,4.5 z"
+           transform="matrix(-1,0,0,1,536,2.7)"
+           id="Line-8" />
+        <path
+           style="fill:#8f8981;fill-rule:nonzero"
+           d="m 94.92563,61.968 c 7.0598,0.40966 13.566,1.8194 18.723,4.552 6.9044,3.6585 10.749,9.38 10.749,17.577 0,11.618 4.9267,18.264 13.106,20.948 3.9129,1.2838 8.0431,1.5039 11.761,1.1136 0.34273,-0.036 0.64823,-0.0746 0.91288,-0.11334 0.16072,-0.0235 0.27333,-0.0421 0.33421,-0.0532 l 0.49189,-0.0897 -0.17936,-0.98378 -0.49189,0.0897 c -0.0496,0.009 -0.15072,0.0257 -0.29968,0.0475 -0.25147,0.0368 -0.54351,0.0737 -0.87246,0.10826 -3.5892,0.37676 -7.5861,0.16385 -11.344,-1.0693 -7.7731,-2.5504 -12.418,-8.8161 -12.418,-19.997 0,-8.5882 -4.0644,-14.637 -11.281,-18.461 -5.3218,-2.8199 -11.983,-4.2584 -19.199,-4.6705 l -0.0305,-4.0302 -8.9657,4.568 9.0338,4.4318 -0.03,-3.9675 z"
+           id="Line-9" />
+        <path
+           style="fill:#8f8981;fill-rule:nonzero"
+           d="m 290.01,106.96 c -11.928,-2.7066 -19.793,-9.6708 -19.793,-22.464 0,-9.966 -6.2552,-16.307 -16.763,-19.784 -3.6099,-1.1948 -7.4822,-1.9602 -11.37,-2.3799 -1.3885,-0.14986 -2.6896,-0.24512 -3.8725,-0.29644 -0.74985,-0.03253 -1.3205,-0.0425 -1.6812,-0.0406 l -0.0195,1.34e-4 -0.49997,0.0052 -0.0104,-0.99995 0.49997,-0.0052 0.0246,-1.74e-4 c 0.37648,-0.002 0.96325,0.0083 1.7299,0.04153 1.2035,0.05222 2.5258,0.14903 3.9364,0.30128 3.9536,0.42671 7.8934,1.2055 11.577,2.4247 10.875,3.5992 17.449,10.263 17.449,20.734 0,12.2 7.4474,18.833 18.909,21.464 l 0.4526,-3.9124 8.4232,5.5044 -9.4575,3.4359 0.46606,-4.0287 z"
+           transform="matrix(-1,0,0,1,535,0)"
+           id="Line-10" />
+      </g>
     </g>
-    <rect id="Rectangle-10" x="138.5" y=".5" width="109" height="142" style="fill:#d8d8d8;stroke:#979797"/>
-    <g id="goldref" transform="translate(300,45)">
-     <rect id="Rectangle-3" width="86" height="33" style="fill-rule:evenodd;fill:#cd9f00"/>
-     <text id="master-2" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1813" x="43" y="20" style="fill:#f0f0f0">fileA.txt'</tspan></text>
-    </g>
-    <g id="g1823" transform="translate(300,98)">
-     <rect id="rect1817" width="86" height="33" style="fill-rule:evenodd;fill:#cd9f00"/>
-     <text id="text1821" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1819" x="43" y="20" style="fill:#f0f0f0">fileB.txt'</tspan></text>
-    </g>
-    <g id="g1831" transform="translate(0,98)">
-     <rect id="rect1825" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
-     <text id="text1829" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1827" x="43" y="21" style="fill:gray">fileB.txt</tspan></text>
-    </g>
-    <g id="g1839" transform="translate(0,151)">
-     <rect id="rect1833" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
-     <text id="text1837" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1835" x="43" y="21" style="fill:gray">fileC.rb</tspan></text>
-    </g>
-    <g id="g1847" transform="translate(300,151)">
-     <rect id="rect1841" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
-     <text id="text1845" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1843" x="43" y="21" style="fill:gray">fileC.rb</tspan></text>
-    </g>
-    <text id="Staging-Area-2" transform="translate(-11.397)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1849" x="54.5" y="22" style="fill:#404040">Staging Area</tspan></text>
-    <text id="Working-Directory-2" transform="translate(288.9)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1852" x="54.5" y="22" style="fill:#404040">Working Directory</tspan></text>
-    <text id="*.txt-Filter-2" transform="translate(138.35)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1855" x="54.5" y="22" style="fill:#404040">*.txt Filter</tspan></text>
-    <g id="ref" transform="translate(150,45)">
-     <rect id="rect1858" width="86.187" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-     <text id="text1862" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1860" x="43.093456" y="20" style="fill:#f0f0f0">smudge</tspan></text>
-    </g>
-    <g id="g1871" transform="translate(150,98)">
-     <rect id="rect1865" width="86.187" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-     <text id="text1869" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1867" x="43.093456" y="20" style="fill:#f0f0f0">clean</tspan></text>
-    </g>
-    <path id="Line-6" d="m291 169h-204v-1h204v-4l9 4.5-9 4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
-    <path id="Line-7" d="m141 115h-54v-1h54v-4l9 4.5-9 4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
-    <path id="Line-8" transform="matrix(-1,0,0,1,536,2.7)" d="m291 115h-55v-1h55v-4l9 4.5-9 4.5z" style="fill-rule:nonzero;fill:#8f8981"/>
-    <path id="Line-9" d="m142 61.968c-7.0598.40966-13.566 1.8194-18.723 4.552-6.9044 3.6585-10.749 9.38-10.749 17.577 0 11.618-4.9267 18.264-13.106 20.948-3.9129 1.2838-8.0431 1.5039-11.761 1.1136-.34273-.036-.64823-.0746-.91288-.11334-.16072-.0235-.27333-.0421-.33421-.0532l-.49189-.0897.17936-.98378.49189.0897c.04961.009.15072.0257.29968.0475.25147.0368.54351.0737.87246.10826 3.5892.37676 7.5861.16385 11.344-1.0693 7.7731-2.5504 12.418-8.8161 12.418-19.997 0-8.5882 4.0644-14.637 11.281-18.461 5.3218-2.8199 11.983-4.2584 19.199-4.6705l.0305-4.0302 8.9657 4.568-9.0338 4.4318.03-3.9675z" style="fill-rule:nonzero;fill:#8f8981"/>
-    <path id="Line-10" transform="matrix(-1 0 0 1 535 0)" d="m290.01 106.96c-11.928-2.7066-19.793-9.6708-19.793-22.464 0-9.966-6.2552-16.307-16.763-19.784-3.6099-1.1948-7.4822-1.9602-11.37-2.3799-1.3885-.14986-2.6896-.24512-3.8725-.29644-.74985-.03253-1.3205-.0425-1.6812-.0406l-.0195.000134-.49997.0052-.0104-.99995.49997-.0052.0246-.000174c.37648-.002.96325.0083 1.7299.04153 1.2035.05222 2.5258.14903 3.9364.30128 3.9536.42671 7.8934 1.2055 11.577 2.4247 10.875 3.5992 17.449 10.263 17.449 20.734 0 12.2 7.4474 18.833 18.909 21.464l.4526-3.9124 8.4232 5.5044-9.4575 3.4359.46606-4.0287z" style="fill-rule:nonzero;fill:#8f8981"/>
-   </g>
   </g>
- </g>
 </svg>
