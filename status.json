@@ -1,27 +1,27 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "fa",
+  "language": "Persin",
+  "maintainers": ["hjavadish"],
   "files": {
     "01-introduction": {
-      "1-introduction.asc": 0,
-      "sections/about-version-control.asc": 0,
+      "1-introduction.asc": 100,
+      "sections/about-version-control.asc": 95,
       "sections/basics.asc": 0,
-      "sections/command-line.asc": 0,
-      "sections/first-time-setup.asc": 0,
+      "sections/command-line.asc": 100,
+      "sections/first-time-setup.asc": 95,
       "sections/help.asc": 0,
-      "sections/history.asc": 0,
-      "sections/installing.asc": 0
+      "sections/history.asc": 100,
+      "sections/installing.asc": 50
     },
     "02-git-basics": {
-      "1-git-basics.asc": 0,
-      "sections/aliases.asc": 0,
-      "sections/getting-a-repository.asc": 0,
+      "1-git-basics.asc": 100,
+      "sections/aliases.asc": 90,
+      "sections/getting-a-repository.asc": 40,
       "sections/recording-changes.asc": 0,
       "sections/remotes.asc": 0,
-      "sections/tagging.asc": 0,
-      "sections/undoing.asc": 0,
-      "sections/viewing-history.asc": 0
+      "sections/tagging.asc": 95,
+      "sections/undoing.asc": 10,
+      "sections/viewing-history.asc": 20
     },
     "03-git-branching": {
       "1-git-branching.asc": 0,
