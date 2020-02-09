@@ -44,6 +44,7 @@ The following are guidelines to help you on your way:
 | Русский   | [progit/progit2-ru](https://github.com/progit/progit2-ru) |
 | Slovenščina  | [progit/progit2-sl](https://github.com/progit/progit2-sl) |
 | Српски   | [progit/progit2-sr](https://github.com/progit/progit2-sr) |
+| Svenska  | [progit2-sv/progit2](https://github.com/progit2-sv/progit2) |
 | Tagalog   | [progit2-tl/progit2](https://github.com/progit2-tl/progit2) |
 | Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr) |
 | Українська| [progit/progit2-uk](https://github.com/progit/progit2-uk) |
