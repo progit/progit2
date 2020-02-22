@@ -17,6 +17,7 @@ deploy:
   - progit.epub
   - progit.mobi
   - progit.pdf
+  - progit.html
   skip_cleanup: true
   on:
     tags: true
