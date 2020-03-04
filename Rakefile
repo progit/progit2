@@ -13,7 +13,7 @@ namespace :book do
       `git shortlog -s | grep -v -E "(Straub|Chacon)" | cut -f 2- | column -c 120 > book/contributors.txt`
 
       puts "Converting to HTML..."
-      `bundle exec asciidoctor #{params} progit.asc`
+      `bundle exec asciidoctor #{params} -a data-uri progit.asc`
       puts " -- HTML output at progit.html"
 
       puts "Converting to EPub..."
