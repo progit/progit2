@@ -1,62 +1,84 @@
-# Contributing to Pro Git (2nd Edition)
+# همکاری در پروگیت (ویرایش دوم)
 
 
-## Licensing
+## لایسنس
+
+ترجمه از متن انگلیسی زیر: (متن انگلیسی زیر مرجع قانون است و ترجمه تلاش بر این دارد تا به
+درک آن کمک کند)
 
 By opening a pull request to this repository, you agree to provide your work under the [project license](LICENSE.asc).
 Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
 Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
 
-## Signaling an Issue
+با باز کردن یک درخواست پول به این مخزن، شما موافقت می‌کنید که کارتان را تحت
+[لایسنس پروژه](LICENSE.asc) به اشتراک بگذارید.
+همچنین موافقت می‌کنید که چنین مجوزی از کارتان بدهید چرا که برای اهداف چاپ ویرایش‌های
+آینده برای @ben و @scancon ضروری است.
+اگر تغییرات شما در نسخه چاپی اعمال شوند، شما در [لیست
+همکاران](book/contributors.asc) خواهید بود.
 
-Before signaling an issue, please check that there isn't already a similar one in the bug tracking system.
+## ارجاع یک مشکل
 
-Also, if this issue has been spotted on the git-scm.com site, please cross-check that it is still present in the pdf version.
-The issue may have already been corrected, but the changes have not been deployed yet.
+قبل از ارجاع یک مشکل، لطفاً بررسی کنید که پیشتر مشکل مشاهبی در سیستم رهگیری باگ وجود نداشته باشد.
 
-## Small Corrections
+همچنین اگر این مشکل سابقاً روی سایت git-scm.com مشاهده شده، لطفاً بازنگری کنید که آیا هنوز در این مخزن موجود است یا خیر.
+ممکن است پیش از این مشکل اصلاح شده باشد، اما تغییرات هنوز اعمال نشده باشند.
 
-Errata and basic clarifications will be accepted if we agree that they improve the content.
-You can also open an issue so we can figure out how or if it needs to be addressed.
+## اصلاحات کوچک
 
-If you've never done this before, the [flow guide](https://guides.github.com/introduction/flow/) might be useful.
+اشتباهات تایپی و واضح‌سازی‌های پایه در صورتی مورد موافقت ما قرار می‌گیرند که به
+صراحت محتوا را بهبود بخشند.
+شما همچنین می‌توانید یک ایشو باز کنید تا ما بررسی کنیم که آیا احتیاج است و اگر
+هست چگونه آنرا حل کنیم.
 
-## Large Rewrites
+اگر پیش از این هرگز چنین کاری نکرده‌اید [راهنمای
+روندکاری](https://guides.github.com/introduction/flow/) ممکن است برای شما سودمند
+باشد.
 
-Open an issue for discussion before you start.
-These changes tend to be very subjective, often only clarifying things for some small percentage of people and it's rarely worth the time to accept them.
-Professional copy editors have already reviewed this content multiple times so while you may have somewhat better taste and grammar than we do it's unlikely that your prose is going to be *so* much better that it's worth changing vast swaths of text.
+## بازنویسی‌های بزرگ
 
-## Figures
-
-The images in this book were generated using [Sketch 3](http://bohemiancoding.com/sketch/), with the [included sketchbook file](diagram-source/progit.sketch).
-
-To add a figure:
-
-1. Add a page to the sketchbook.
-Try to use the included symbols wherever possible.
-2. Add a "slice" to your page.
-Give it a name that matches the destination PNG filename, relative from the root of the source directory.
-3. Make sure your slice is set to export at "800w".
+پیش از آنکه شروع کنید برای مبحث مورد نظر یک ایشو باز کنید.
+این تغییرات احتمالاً وابسته به طرز فکر اشخاص هستند و معمولاً فقط برای درصد کمی از
+افراد شفاف‌سازی می‌کنند و به ندرت ارزش زحمت و زمان قبول کردن را دارند.
+ویرایستارهای حرفه‌ای پیش از این، این مطالب را بارها بررسی کرده‌اند؛ بنابراین حتی
+اگر شما از ادبیات یا نوشتار کم‌وبیش بهتری برخوردارید احتمال اینکه متن شما آنقدر
+خوب باشد که ارزش ویرایش متقابل دریایی از متون مرتبط به خود (مثلاً در آن فصل) را
+داشته باشد بسیار کم است.
 
 
-## Translations
+## اشکال
 
-Translations to other languages are highly encouraged but handled a little differently than the first edition.
-We now keep each translation in a separate repository.
+تصاویر این کتاب بوسیلهٔ [Sketch 3](http://bohemiancoding.com/sketch/) و با [فایل
+Sketchook نظیر](diagram-source/progit.sketch) ساخته شده‌اند.
 
-Since each translation is a different repository, we can also have different maintainers for each project.
-The Pro Git team simply pulls them in and builds them for the translation teams on the git-scm.com website.
+برای افزودن یک شکل:
 
-### Existing Projects
+۱. یک صفحه به Sketchbook اضافه کنید.
+سعی کنید که هرجا که ممکن است از سمبل‌های از پیش اضافه شده استفاده کنید.
+۲. یک «اسلایس» به صفحه خود اضافه کنید.
+به آن یک نام بدهید که به نام فایل PNG مقصد و آدرس نسبی که از روت سورس دایرکتوری
+دارد بخورد.
+۳. اطمینان حاصل کنید که اسلایس شما برای خروجی گرفتن در «800w» تنظیم شده است.
 
-If you wish to help at translating Progit 2nd edition to your
-language, first check already existing projects and get in touch with
-the people in charge of them if there's already one.
 
-Existing projects include:
+## ترجمه‌ها
 
-  Language   |   Project
+ترجمه به زبان‌های دیگر بسیار مورد پسند است اگرچه به نسبت نسخه قبل کمی متففاوت
+مدیریت می‌شود.
+حال هر ترجمه به صورت یک مخزن جدا نگه‌داری می‌شود.
+
+ازآنجایی که هر ترجمه در یک مخز جداست، ما می‌توانیم مدیران مختلفی برای هر پروژه
+داشته باشیم.
+تیم پروگیت به سادگی آن‌ها پول کرده و برای تیم ترجمه در سایت git-scm.com می‌سازد.
+
+### پروژه‌های از پیش موجود
+
+اگر می‌خواهید به ترجمه پروگیت ویرایش دوم در زبان خودتان کمک کنید، اول پروژه‌های از
+پیش موجود را چک کنید و اگر زبان خود را یافتید با مسئولین آن پروژه‌ها ارتباط پیدا کنید.
+
+پروژه‌های از پیش موجود شامل:
+
+  زبان   |   پروژه
 ------------ | -------------
 Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be)
 Čeština    | [progit-cs/progit2-cs](https://github.com/progit-cs/progit2-cs)
@@ -79,16 +101,19 @@ Türkçe   | [progit/progit2-tr](https://github.com/progit/progit2-tr)
 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh)
 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw)
 
-### Your Language does not Exist
+### زبان شما موجود نیست
 
-Then you're lucky! You're gonna be the initiator of a new translation project!
+پس شما خیلی خوش‌شانس هستید! شما شروع‌کننده یک پروژهٔ ترجمه جدید باشید!
 
-You can start to make your own version with the second edition in English, available here. To do so,
+شما می‌توانید شروع به ساختن نسخه خودتان از ویرایش دوم در فارسی که در اینجا موجود
+است کنید. بدین طریق که:
 
- 1. Pick your the [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and create a GitHub organization, say `progit2-[your code]` on github
- 2. Create a project progit2
- 3. Copy the structure of progit/progit2 (this project) in your project and start translating. You can reuse some material from the first edition, but beware that:
-    1. the text has been reworked in numerous parts
-    2. the markup has changed from markdown to [asciidoc](http://asciidoc.org)
- 4. Push to the new repo a few translated chapters
- 5. Ping an organizer so that the second edition of Progit in your language is pushed on git-scm.com.
+۱. کد [ایزو ۶۳۹](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) خودتان
+را بردارید و یک سازمان گیت‌هاب به نام `progit2-[code]` روی گیت‌هاب در نظر بگیرید.
+۲. پروژه progit2 را بسازید.
+۳. یک کپی از ساختار progit/progit2 (این پروژه) در پروژه خودتان بسازید و شروع به
+ترجمه کنید. می‌توانید از المان‌های ویرایش اول هم استفاده کنید اما توجه کنید که:
+   ۱. متون در بسیاری از جاها بازنویسی شده‌اند.
+   ۲. زبان نشانه‌گذاری از markdown به [asciidoc](http://asciidoc.org) تغییر کرده است.
+۴. چند فصل ترجمه شده به مخزن پوش کنید.
+۵. یک سازمان‌ده را مطلع کنید تا ویرایش دوم پروگیت در زبان شما به git-scm.com پوش شود.
