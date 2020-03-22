@@ -29,7 +29,7 @@
       "sections/branch-management.asc": 0,
       "sections/nutshell.asc": 100,
       "sections/rebasing.asc": 0,
-      "sections/remote-branches.asc": 0,
+      "sections/remote-branches.asc": 100,
       "sections/workflows.asc": 0
     },
     "04-git-server": {
