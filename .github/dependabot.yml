@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # Maintain dependencies for Ruby
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "daily" # Checks on Monday trough Friday.
+
+    # Set default reviewer and labels
+    reviewers:
+      - "ben"
+    labels:
+      - "dependabot"
