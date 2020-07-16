@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# This is for running on Travis. It automatically tags any merge to Master as a release in the 2.1.x series.
-if [[ $TRAVIS_PULL_REQUEST != 'false' || "$TRAVIS_BRANCH" != 'master' ]]; then
+# This is for running on Travis. It automatically tags any merge to Main as a release in the 2.1.x series.
+if [[ $TRAVIS_PULL_REQUEST != 'false' || "$TRAVIS_BRANCH" != 'main' ]]; then
   # Don't run on pull requests
-  echo 'This only runs on a merge to master.'
+  echo 'This only runs on a merge to main.'
   exit 0
 fi
 
