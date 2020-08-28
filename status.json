@@ -107,7 +107,6 @@
     "A-git-in-other-environments": {
       "1-git-other-environments.asc": 0,
       "sections/bash.asc": 0,
-      "sections/eclipse.asc": 0,
       "sections/guis.asc": 0,
       "sections/powershell.asc": 0,
       "sections/visualstudio.asc": 0,
