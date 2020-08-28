@@ -20,9 +20,13 @@ namespace :book do
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
       puts " -- Epub output at progit.epub"
 
-      puts "Converting to Mobi (kf8)..."
-      `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
-      puts " -- Mobi output at progit.mobi"
+      # Commented out the .mobi file creation because the kindlegen dependency is not available.
+      # For more information on this see: #1496.
+      # This is a (hopefully) temporary fix until upstream asciidoctor-epub3 is fixed and we can offer .mobi files again.
+
+      # puts "Converting to Mobi (kf8)..."
+      # `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
+      # puts " -- Mobi output at progit.mobi"
 
       puts "Converting to PDF... (this one takes a while)"
       `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
