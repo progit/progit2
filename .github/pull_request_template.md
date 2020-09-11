@@ -15,7 +15,7 @@
 List related issues.
 Provide the necessary context to understand the changes you made.
 
-Are you fixing a issue with this pull-request?
+Are you fixing an issue with this pull-request?
 Use the "Fixes" keyword, to close the issue automatically after your work is merged.
 
 Fixes #123
