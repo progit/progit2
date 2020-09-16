@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'asciidoctor', '1.5.6.2'
+gem 'asciidoctor', '2.0.10'
 
 gem 'json'
 gem 'awesome_print'
 
-gem 'asciidoctor-epub3', '~> 1.5.0.alpha.9'
-gem 'asciidoctor-pdf', '~> 1.5.0.beta.8'
+gem 'asciidoctor-epub3', '1.5.0.alpha.18'
+gem 'asciidoctor-pdf', '1.5.3'
 
 gem 'coderay'
 gem 'pygments.rb'
