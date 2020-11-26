@@ -1,4 +1,11 @@
 namespace :book do
+  def exec_or_raise(command)
+    puts `#{command}`
+    if (! $?.success?)
+      raise "'#{command}' failed"
+    end
+  end
+
   desc 'build basic book formats'
   task :build do
 
@@ -16,9 +23,13 @@ namespace :book do
       `bundle exec asciidoctor #{params} -a data-uri progit.asc`
       puts " -- HTML output at progit.html"
 
+      exec_or_raise('htmlproofer --check-html progit.html')
+
       puts "Converting to EPub..."
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
       puts " -- Epub output at progit.epub"
+
+      exec_or_raise('epubcheck progit.epub')
 
       # Commented out the .mobi file creation because the kindlegen dependency is not available.
       # For more information on this see: #1496.
