@@ -6,6 +6,12 @@ updates:
     schedule:
       interval: "daily" # Checks on Monday trough Friday.
 
+  # Maintain GitHub Action runners
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily" # Checks on Monday trough Friday.
+
     # Set default reviewer and labels
     reviewers:
       - "ben"
