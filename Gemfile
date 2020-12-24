@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake', ' 13.0.1'
+gem 'rake', '13.0.3'
 gem 'asciidoctor', '2.0.12'
 
 gem 'json', '2.5.1'
