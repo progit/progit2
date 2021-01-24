@@ -18,16 +18,19 @@ namespace :book do
   task :build do
 
     begin
-      puts "Generating contributors list"
-      `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 > book/contributors.txt`
-
 
 
     end
   end
 
+  desc 'generate contributors list'
+  file 'book/contributors.txt' do
+      puts "Generating contributors list"
+      `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 > book/contributors.txt`
+  end
+
   desc 'build HTML format'
-  task :build_html do
+  task :build_html => 'book/contributors.txt' do
       puts "Converting to HTML..."
       `bundle exec asciidoctor #{params} -a data-uri progit.asc`
       puts " -- HTML output at progit.html"
@@ -36,7 +39,7 @@ namespace :book do
   end
 
   desc 'build Epub format'
-  task :build_epub do
+  task :build_epub => 'book/contributors.txt' do
       puts "Converting to EPub..."
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
       puts " -- Epub output at progit.epub"
@@ -45,7 +48,7 @@ namespace :book do
   end
 
   desc 'build Mobi format'
-  task :build_mobi do
+  task :build_mobi => 'book/contributors.txt' do
       # Commented out the .mobi file creation because the kindlegen dependency is not available.
       # For more information on this see: #1496.
       # This is a (hopefully) temporary fix until upstream asciidoctor-epub3 is fixed and we can offer .mobi files again.
@@ -62,7 +65,7 @@ namespace :book do
   end
 
   desc 'build PDF format'
-  task :build_pdf do
+  task :build_pdf => 'book/contributors.txt' do
       puts "Converting to PDF... (this one takes a while)"
       `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
       puts " -- PDF output at progit.pdf"
