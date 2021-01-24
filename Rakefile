@@ -15,13 +15,7 @@ namespace :book do
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
 
   desc 'build basic book formats'
-  task :build do
-
-    begin
-
-
-    end
-  end
+  task :build => [:build_html, :build_epub, :build_pdf]
 
   desc 'generate contributors list'
   file 'book/contributors.txt' do
