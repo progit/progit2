@@ -65,6 +65,22 @@ namespace :book do
       puts " -- PDF output at progit.pdf"
   end
 
+  desc 'Clean all generated files'
+  task :clean do
+    begin
+        puts "Removing generated files"
+
+        FileList['book/contributors.txt', 'progit.html', 'progit.epub', 'progit.pdf'].each do |file|
+            rm file
+
+            # Rescue if file not found
+            rescue Errno::ENOENT => e
+            puts e.message
+            puts "Error removing files (ignored)"
+        end
+    end
+  end
+
 end
 
 task :default => "book:build"
