@@ -15,7 +15,7 @@ namespace :book do
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
 
   desc 'build basic book formats'
-  task :build => [:build_html, :build_epub, :build_pdf]
+  task :build => [:build_html, :build_epub, :build_pdf, :check]
 
   desc 'generate contributors list'
   file 'book/contributors.txt' do
@@ -29,7 +29,6 @@ namespace :book do
       `bundle exec asciidoctor #{params} -a data-uri progit.asc`
       puts " -- HTML output at progit.html"
 
-      exec_or_raise('htmlproofer --check-html progit.html')
   end
 
   desc 'build Epub format'
@@ -38,7 +37,6 @@ namespace :book do
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
       puts " -- Epub output at progit.epub"
 
-      exec_or_raise('epubcheck progit.epub')
   end
 
   desc 'build Mobi format'
@@ -63,6 +61,16 @@ namespace :book do
       puts "Converting to PDF... (this one takes a while)"
       `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
       puts " -- PDF output at progit.pdf"
+  end
+
+  desc 'Check generated books'
+  task :check => [:build_html, :build_epub] do
+    begin
+        puts "Checking generated books"
+
+        exec_or_raise('htmlproofer --check-html progit.html')
+        exec_or_raise('epubcheck progit.epub')
+    end
   end
 
   desc 'Clean all generated files'
