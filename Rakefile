@@ -15,7 +15,17 @@ namespace :book do
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
 
   desc 'build basic book formats'
-  task :build => [:build_html, :build_epub, :build_pdf, :check]
+  task :build => [:build_html, :build_epub, :build_pdf] do
+    begin
+        # Run check
+        Rake::Task["book:check"].invoke
+
+        # Rescue to ignore checking errors
+        rescue => e
+        puts e.message
+        puts "Error when checking books (ignored)"
+    end
+  end
 
   desc 'generate contributors list'
   file 'book/contributors.txt' do
