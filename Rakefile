@@ -27,6 +27,14 @@ namespace :book do
     end
   end
 
+  desc 'build basic book formats (for ci)'
+  task :ci => [:build_html, :build_epub, :build_pdf] do
+    begin
+        # Run check, but don't ignore any errors
+        Rake::Task["book:check"].invoke
+    end
+  end
+
   desc 'generate contributors list'
   file 'book/contributors.txt' do
       puts "Generating contributors list"
