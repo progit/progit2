@@ -67,8 +67,7 @@ namespace :book do
       # `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
       # puts " -- Mobi output at progit.mobi"
 
-      # FIXME: If asciidoctor-epub3 supports Mobi again, uncomment these
-      # lines below
+      # FIXME: If asciidoctor-epub3 supports Mobi again, uncomment these lines below
       puts "Converting to Mobi isn't supported yet."
       puts "For more information see issue #1496 at https://github.com/progit/progit2/issues/1496."
       exit(127)
