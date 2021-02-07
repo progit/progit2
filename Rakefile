@@ -11,7 +11,7 @@ namespace :book do
   if version_string.empty?
     version_string = '0'
   end
-  date_string = Time.now.strftime("%Y-%m-%d")
+  date_string = Time.now.strftime('%Y-%m-%d')
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
 
   desc 'build basic book formats'
@@ -23,7 +23,7 @@ namespace :book do
         # Rescue to ignore checking errors
         rescue => e
         puts e.message
-        puts "Error when checking books (ignored)"
+        puts 'Error when checking books (ignored)'
     end
   end
 
@@ -35,23 +35,23 @@ namespace :book do
 
   desc 'generate contributors list'
   file 'book/contributors.txt' do
-      puts "Generating contributors list"
+      puts 'Generating contributors list'
       `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 > book/contributors.txt`
   end
 
   desc 'build HTML format'
   task :build_html => 'book/contributors.txt' do
-      puts "Converting to HTML..."
+      puts 'Converting to HTML...'
       `bundle exec asciidoctor #{params} -a data-uri progit.asc`
-      puts " -- HTML output at progit.html"
+      puts ' -- HTML output at progit.html'
 
   end
 
   desc 'build Epub format'
   task :build_epub => 'book/contributors.txt' do
-      puts "Converting to EPub..."
+      puts 'Converting to EPub...'
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
-      puts " -- Epub output at progit.epub"
+      puts ' -- Epub output at progit.epub'
 
   end
 
@@ -67,21 +67,21 @@ namespace :book do
 
       # FIXME: If asciidoctor-epub3 supports Mobi again, uncomment these
       # lines below
-      puts "Converting to Mobi isn't supported yet."
-      puts "For more information see issue #1496 at https://github.com/progit/progit2/issues/1496."
+      puts 'Converting to Mobi is not supported yet.'
+      puts 'For more information see issue #1496 at https://github.com/progit/progit2/issues/1496.'
       exit(127)
   end
 
   desc 'build PDF format'
   task :build_pdf => 'book/contributors.txt' do
-      puts "Converting to PDF... (this one takes a while)"
+      puts 'Converting to PDF... (this one takes a while)'
       `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
-      puts " -- PDF output at progit.pdf"
+      puts ' -- PDF output at progit.pdf'
   end
 
   desc 'Check generated books'
   task :check => [:build_html, :build_epub] do
-      puts "Checking generated books"
+      puts 'Checking generated books'
 
       exec_or_raise('htmlproofer --check-html progit.html')
       exec_or_raise('epubcheck progit.epub')
@@ -90,7 +90,7 @@ namespace :book do
   desc 'Clean all generated files'
   task :clean do
     begin
-        puts "Removing generated files"
+        puts 'Removing generated files'
 
         FileList['book/contributors.txt', 'progit.html', 'progit.epub', 'progit.pdf'].each do |file|
             rm file
@@ -99,7 +99,7 @@ namespace :book do
             rescue Errno::ENOENT => e
               begin
                   puts e.message
-                  puts "Error removing files (ignored)"
+                  puts 'Error removing files (ignored)'
               end
         end
     end
