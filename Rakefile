@@ -29,10 +29,8 @@ namespace :book do
 
   desc 'build basic book formats (for ci)'
   task :ci => [:build_html, :build_epub, :build_pdf] do
-    begin
-        # Run check, but don't ignore any errors
-        Rake::Task["book:check"].invoke
-    end
+      # Run check, but don't ignore any errors
+      Rake::Task["book:check"].invoke
   end
 
   desc 'generate contributors list'
@@ -83,12 +81,10 @@ namespace :book do
 
   desc 'Check generated books'
   task :check => [:build_html, :build_epub] do
-    begin
-        puts "Checking generated books"
+      puts "Checking generated books"
 
-        exec_or_raise('htmlproofer --check-html progit.html')
-        exec_or_raise('epubcheck progit.epub')
-    end
+      exec_or_raise('htmlproofer --check-html progit.html')
+      exec_or_raise('epubcheck progit.epub')
   end
 
   desc 'Clean all generated files'
