@@ -101,8 +101,10 @@ namespace :book do
 
             # Rescue if file not found
             rescue Errno::ENOENT => e
-            puts e.message
-            puts "Error removing files (ignored)"
+              begin
+                  puts e.message
+                  puts "Error removing files (ignored)"
+              end
         end
     end
   end
