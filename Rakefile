@@ -13,6 +13,7 @@ namespace :book do
   end
   date_string = Time.now.strftime('%Y-%m-%d')
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
+  header_hash = `git rev-parse --short HEAD`.strip
 
   desc 'build basic book formats'
   task :build => [:build_html, :build_epub, :build_pdf] do
@@ -36,7 +37,8 @@ namespace :book do
   desc 'generate contributors list'
   file 'book/contributors.txt' do
       puts 'Generating contributors list'
-      `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 > book/contributors.txt`
+      `echo "Contributors as of #{header_hash}:\n" > book/contributors.txt`
+      `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 >> book/contributors.txt`
   end
 
   desc 'build HTML format'
