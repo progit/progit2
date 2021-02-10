@@ -15,6 +15,27 @@ namespace :book do
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
   header_hash = `git rev-parse --short HEAD`.strip
 
+  # Check contributors list
+  # This checks commit hash stored in the header of list against current HEAD
+  def check_contrib
+    if File.exist?('book/contributors.txt')
+      current_head_hash = `git rev-parse --short HEAD`.strip
+      header = `head -n 1 book/contributors.txt`.strip
+      # Match regex, then coerce resulting array to string by join
+      header_hash = header.scan(/[a-f0-9]{7,}/).join
+
+      if header_hash == current_head_hash
+        puts "Hash on header of contributors list (#{header_hash}) matches the current HEAD (#{current_head_hash})"
+      else
+        puts "Hash on header of contributors list (#{header_hash}) does not match the current HEAD (#{current_head_hash}), refreshing"
+        `rm book/contributors.txt`
+        # Reenable and invoke task again
+        Rake::Task["book/contributors.txt"].reenable
+        Rake::Task["book/contributors.txt"].invoke
+      end
+    end
+  end
+
   desc 'build basic book formats'
   task :build => [:build_html, :build_epub, :build_pdf] do
     begin
@@ -43,6 +64,8 @@ namespace :book do
 
   desc 'build HTML format'
   task :build_html => 'book/contributors.txt' do
+      check_contrib()
+
       puts 'Converting to HTML...'
       `bundle exec asciidoctor #{params} -a data-uri progit.asc`
       puts ' -- HTML output at progit.html'
@@ -51,6 +74,8 @@ namespace :book do
 
   desc 'build Epub format'
   task :build_epub => 'book/contributors.txt' do
+      check_contrib()
+
       puts 'Converting to EPub...'
       `bundle exec asciidoctor-epub3 #{params} progit.asc`
       puts ' -- Epub output at progit.epub'
@@ -76,6 +101,8 @@ namespace :book do
 
   desc 'build PDF format'
   task :build_pdf => 'book/contributors.txt' do
+      check_contrib()
+
       puts 'Converting to PDF... (this one takes a while)'
       `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
       puts ' -- PDF output at progit.pdf'
