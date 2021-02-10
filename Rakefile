@@ -30,8 +30,8 @@ namespace :book do
         puts "Hash on header of contributors list (#{header_hash}) does not match the current HEAD (#{current_head_hash}), refreshing"
         `rm book/contributors.txt`
         # Reenable and invoke task again
-        Rake::Task["book/contributors.txt"].reenable
-        Rake::Task["book/contributors.txt"].invoke
+        Rake::Task['book/contributors.txt'].reenable
+        Rake::Task['book/contributors.txt'].invoke
       end
     end
   end
@@ -40,7 +40,7 @@ namespace :book do
   task :build => [:build_html, :build_epub, :build_pdf] do
     begin
         # Run check
-        Rake::Task["book:check"].invoke
+        Rake::Task['book:check'].invoke
 
         # Rescue to ignore checking errors
         rescue => e
@@ -52,7 +52,7 @@ namespace :book do
   desc 'build basic book formats (for ci)'
   task :ci => [:build_html, :build_epub, :build_pdf] do
       # Run check, but don't ignore any errors
-      Rake::Task["book:check"].invoke
+      Rake::Task['book:check'].invoke
   end
 
   desc 'generate contributors list'
