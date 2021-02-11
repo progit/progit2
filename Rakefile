@@ -95,7 +95,6 @@ namespace :book do
       # FIXME: If asciidoctor-epub3 supports Mobi again, uncomment these lines below
       puts "Converting to Mobi isn't supported yet."
       puts "For more information see issue #1496 at https://github.com/progit/progit2/issues/1496."
->>>>>>> fork/build-task-refactor
       exit(127)
   end
 
