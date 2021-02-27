@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the ProGit2 book or repository
 title: ""
-labels: ""
+labels: "enhancement"
 assignees: ""
 ---
 
