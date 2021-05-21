@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Enhancement idea
 about: Suggest an idea for the ProGit2 book or repository
 title: ""
 labels: "enhancement"
