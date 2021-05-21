@@ -12,4 +12,4 @@ assignees: ""
 
 **Have you thought about other solutions?**
 
-**Do you want to help with this feature request?**
+**Do you want to help with this enhancement idea?**
