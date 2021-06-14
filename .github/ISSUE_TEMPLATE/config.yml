@@ -5,12 +5,12 @@ contact_links:
 
   - name: Report bugs for git-scm.com site
     url: https://github.com/git/git-scm.com/issues/
-    about: Please report problems with the git-scm.com site here.
+    about: Please report problems with the git-scm.com site there.
 
   - name: Bug is about Git program itself
     url: https://git-scm.com/community
-    about: Please report problems with the Git program here.
+    about: Please report problems with the Git program there.
 
   - name: Bug is about Git for Windows
     url: https://github.com/git-for-windows/git/issues
-    about: Please report problems with Git for Windows here.
+    about: Please report problems with Git for Windows there.
