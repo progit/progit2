@@ -84,18 +84,9 @@ namespace :book do
 
   desc 'build Mobi format'
   task :build_mobi => 'book/contributors.txt' do
-      # Commented out the .mobi file creation because the kindlegen dependency is not available.
-      # For more information on this see: #1496.
-      # This is a (hopefully) temporary fix until upstream asciidoctor-epub3 is fixed and we can offer .mobi files again.
-
-      # puts "Converting to Mobi (kf8)..."
-      # `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
-      # puts " -- Mobi output at progit.mobi"
-
-      # FIXME: If asciidoctor-epub3 supports Mobi again, uncomment these lines below
-      puts "Converting to Mobi isn't supported yet."
-      puts "For more information see issue #1496 at https://github.com/progit/progit2/issues/1496."
-      exit(127)
+      puts "Converting to Mobi (kf8)..."
+      `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
+      puts " -- Mobi output at progit.mobi"
   end
 
   desc 'build PDF format'
