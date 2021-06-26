@@ -37,7 +37,7 @@ namespace :book do
   end
 
   desc 'build basic book formats'
-  task :build => [:build_html, :build_epub, :build_pdf] do
+  task :build => [:build_html, :build_epub, :build_mobi, :build_pdf] do
     begin
         # Run check
         Rake::Task['book:check'].invoke
@@ -50,7 +50,7 @@ namespace :book do
   end
 
   desc 'build basic book formats (for ci)'
-  task :ci => [:build_html, :build_epub, :build_pdf] do
+  task :ci => [:build_html, :build_epub, :build_mobi, :build_pdf] do
       # Run check, but don't ignore any errors
       Rake::Task['book:check'].invoke
   end
@@ -84,6 +84,8 @@ namespace :book do
 
   desc 'build Mobi format'
   task :build_mobi => 'book/contributors.txt' do
+      check_contrib()
+
       puts "Converting to Mobi (kf8)..."
       `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
       puts " -- Mobi output at progit.mobi"
@@ -111,7 +113,7 @@ namespace :book do
     begin
         puts 'Removing generated files'
 
-        FileList['book/contributors.txt', 'progit.html', 'progit.epub', 'progit.pdf'].each do |file|
+        FileList['book/contributors.txt', 'progit.html', 'progit.epub', 'progit.mobi', 'progit.pdf'].each do |file|
             rm file
 
             # Rescue if file not found
