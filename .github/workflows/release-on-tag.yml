@@ -16,7 +16,7 @@ jobs:
         ruby-version: 2.7
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
-    - name: Run build
+    - name: Build book
       run: bundle exec rake book:build
 
     - name: Grab tag name
