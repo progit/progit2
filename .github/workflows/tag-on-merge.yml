@@ -1,0 +1,22 @@
+name: Tag on merge to master
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Compute tag name
+      id: compute-tag
+      run: |
+        echo Computing next tag number
+        LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
+        echo "::set-output name=tagname::$(($LASTPATCH+1))"
+    - name: Create Tag
+      uses: negz/create-tag@v1
+      with:
+        version: ${{ steps.compute-tag.outputs.tagname }}
+        token: ${{ secrets.GITHUB_TOKEN }}
