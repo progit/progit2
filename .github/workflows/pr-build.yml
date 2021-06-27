@@ -1,4 +1,4 @@
-name: CI
+name: Pull Request Build
 
 on:
   push:
