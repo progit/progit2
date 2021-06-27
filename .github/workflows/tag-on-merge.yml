@@ -18,7 +18,7 @@ jobs:
         PATCH=$(($LASTPATCH+1))
         echo "::set-output name=tagname::2.1.${PATCH})"
 
-    - name: Create Tag
+    - name: Create tag
       uses: negz/create-tag@v1
       with:
         version: ${{ steps.compute-tag.outputs.tagname }}
