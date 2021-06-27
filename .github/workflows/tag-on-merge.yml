@@ -16,7 +16,7 @@ jobs:
         echo Computing next tag number
         LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
         PATCH=$(($LASTPATCH+1))
-        echo "::set-output name=tagname::2.1.${PATCH})"
+        echo "::set-output name=tagname::2.1.${PATCH}"
 
     - name: Create Tag
       uses: actions/github-script@v3
