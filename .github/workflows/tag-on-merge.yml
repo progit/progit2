@@ -18,8 +18,14 @@ jobs:
         PATCH=$(($LASTPATCH+1))
         echo "::set-output name=tagname::2.1.${PATCH})"
 
-    - name: Create tag
-      uses: negz/create-tag@v1
+    - name: Create Tag
+      uses: actions/github-script@v3
       with:
-        version: ${{ steps.compute-tag.outputs.tagname }}
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ github.token }}
+        script: |
+          github.git.createRef({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            ref: "refs/tags/${{ steps.compute-tag.outputs.tagname }}",
+            sha: context.sha
+          })
