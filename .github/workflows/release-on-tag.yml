@@ -1,0 +1,30 @@
+name: Tag on merge to master
+
+on:
+  push:
+    tags: [ '*' ]
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    
+    - name: Run build
+      run: bundle exec rake book:build
+
+    - name: Grab tag name
+      run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+    
+    - name: Create release
+      uses: ncipollo/release-action@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: ${{ env.RELEASE_VERSION }}
+        artifacts: './progit.epub,./progit.mobi,./progit.pdf,./progit.html'
