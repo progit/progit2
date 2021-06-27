@@ -16,7 +16,7 @@ jobs:
         echo Computing next tag number
         LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
         echo "::set-output name=tagname::$(($LASTPATCH+1))"
-    
+
     - name: Create Tag
       uses: negz/create-tag@v1
       with:
