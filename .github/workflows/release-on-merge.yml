@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  tag:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -21,16 +21,9 @@ jobs:
         echo "::set-output name=tagname::2.1.${PATCH}"
 
     - name: Create Tag
-      uses: actions/github-script@v3
-      with:
-        github-token: ${{ github.token }}
-        script: |
-          github.git.createRef({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            ref: "refs/tags/${{ steps.compute-tag.outputs.tagname }}",
-            sha: context.sha
-          })
+      run: |
+        git tag ${{ steps.compute-tag.outputs.tagname }}
+        git push origin ${{ steps.compute-tag.outputs.tagname }}
 
     - name: Create release
       uses: ncipollo/release-action@v1
