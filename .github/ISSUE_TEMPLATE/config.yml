@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Translation bug
-    url: https://github.com/progit/progit2/blob/master/TRANSLATING.md
+    url: https://github.com/progit/progit2/blob/main/TRANSLATING.md
     about: Refer to this table to find out where to report translation bugs.
 
   - name: Report bugs for git-scm.com site
