@@ -72,22 +72,11 @@ On https://git-scm.com, the translations are divided into three categories. Once
 | Partial translations available in | up to chapter 6 has been translated. |
 | Full translation available in |the book is (almost) fully translated. |
 
-## Continuous integration with Travis CI
+## Continuous integration with GitHub Actions
 
-Travis CI is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. Travis CI is used to ensure that a pull-request doesn't break the build or compilation. Travis CI can also provide compiled versions of the book.
+GitHub Actions is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. GitHub Actions is used to ensure that a pull-request doesn't break the build or compilation. GitHub Actions can also provide compiled versions of the book.
 
-Setting up Travis CI requires administrative control over the repository.
-
-### Registering for Travis continuous integration
-
-1. Register a Travis account [here](https://travis-ci.org/).
-1. Register your project in Travis.
-Please refer to the [Travis documentation](https://docs.travis-ci.com/) for more information.
-
-### Setting up your repository for continuous integration
-
-Travis CI works by scanning your project's root directory for a file named `.travis.yml` and following the 'recipe' that it contains. The good news is: there's already a working `.travis.yml` file in the Pro Git 2 source [here](https://raw.githubusercontent.com/progit/progit2-pub/master/travis.yml).
-Copy that file, and put it in your working directory. Commit the .yml file and push it to your translation repository; that should fire up a compilation and a check of the book's contents.
+If you keep the `.github` directory from the root repository, you should get the GitHub Action CI setup for free.
 
 ## Setting up a publication chain for e-books
 
