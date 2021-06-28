@@ -76,7 +76,9 @@ On https://git-scm.com, the translations are divided into three categories. Once
 
 GitHub Actions is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. GitHub Actions is used to ensure that a pull-request doesn't break the build or compilation. GitHub Actions can also provide compiled versions of the book.
 
-If you keep the `.github` directory from the root repository, you should get the GitHub Action CI setup for free.
+The configuration for GitHub Actions is contained in the `.github/workflows` directory, and if you bring in the `master` branch of the root repository you'll get them for free.
+However, if you created your translation repo by _forking_ the root repo, there's an extra step you must complete (if you did not fork, you can skip this part).
+GitHub assumes that forks will be used to contribute to the repo from which they were forked, so you'll have to visit the "Actions" tab on your forked repo, and click the "I understand my workflows" button to allow the actions to run.
 
 ## Setting up a publication chain for e-books
 
