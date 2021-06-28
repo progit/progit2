@@ -20,6 +20,15 @@ jobs:
         PATCH=$(($LASTPATCH+1))
         echo "::set-output name=tagname::2.1.${PATCH}"
 
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+    - name: Build release assets
+      run: bundle exec rake book:build
+
     - name: Create release
       uses: ncipollo/release-action@v1
       with:
