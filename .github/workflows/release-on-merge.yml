@@ -31,3 +31,10 @@ jobs:
             ref: "refs/tags/${{ steps.compute-tag.outputs.tagname }}",
             sha: context.sha
           })
+
+    - name: Create release
+      uses: ncipollo/release-action@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: ${{ steps.compute-tag.outputs.tagname }}
+        artifacts: './progit.epub,./progit.mobi,./progit.pdf,./progit.html'
