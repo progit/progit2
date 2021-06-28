@@ -20,14 +20,10 @@ jobs:
         PATCH=$(($LASTPATCH+1))
         echo "::set-output name=tagname::2.1.${PATCH}"
 
-    - name: Create Tag
-      run: |
-        git tag ${{ steps.compute-tag.outputs.tagname }}
-        git push origin ${{ steps.compute-tag.outputs.tagname }}
-
     - name: Create release
       uses: ncipollo/release-action@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        name: ${{ steps.compute-tag.outputs.tagname }}
+        tag: ${{ steps.compute-tag.outputs.tagname }}
+        commit: master
         artifacts: './progit.epub,./progit.mobi,./progit.pdf,./progit.html'
