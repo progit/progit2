@@ -1,10 +1,4 @@
 namespace :book do
-  def exec_or_raise(command)
-    puts `#{command}`
-    if (! $?.success?)
-      raise "'#{command}' failed"
-    end
-  end
 
   # Variables referenced for build
   version_string = `git describe --tags`.chomp
@@ -28,7 +22,7 @@ namespace :book do
         puts "Hash on header of contributors list (#{header_hash}) matches the current HEAD (#{current_head_hash})"
       else
         puts "Hash on header of contributors list (#{header_hash}) does not match the current HEAD (#{current_head_hash}), refreshing"
-        `rm book/contributors.txt`
+        sh "rm book/contributors.txt"
         # Reenable and invoke task again
         Rake::Task['book/contributors.txt'].reenable
         Rake::Task['book/contributors.txt'].invoke
@@ -58,8 +52,8 @@ namespace :book do
   desc 'generate contributors list'
   file 'book/contributors.txt' do
       puts 'Generating contributors list'
-      `echo "Contributors as of #{header_hash}:\n" > book/contributors.txt`
-      `git shortlog -s | grep -v -E "(Straub|Chacon|dependabot)" | cut -f 2- | column -c 120 >> book/contributors.txt`
+      sh "echo 'Contributors as of #{header_hash}:\n' > book/contributors.txt"
+      sh "git shortlog -s | grep -v -E '(Straub|Chacon|dependabot)' | cut -f 2- | column -c 120 >> book/contributors.txt"
   end
 
   desc 'build HTML format'
@@ -67,7 +61,7 @@ namespace :book do
       check_contrib()
 
       puts 'Converting to HTML...'
-      `bundle exec asciidoctor #{params} -a data-uri progit.asc`
+      sh "bundle exec asciidoctor #{params} -a data-uri progit.asc"
       puts ' -- HTML output at progit.html'
 
   end
@@ -77,7 +71,7 @@ namespace :book do
       check_contrib()
 
       puts 'Converting to EPub...'
-      `bundle exec asciidoctor-epub3 #{params} progit.asc`
+      sh "bundle exec asciidoctor-epub3 #{params} progit.asc"
       puts ' -- Epub output at progit.epub'
 
   end
@@ -87,7 +81,7 @@ namespace :book do
       check_contrib()
 
       puts "Converting to Mobi (kf8)..."
-      `bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc`
+      sh "bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc"
       puts " -- Mobi output at progit.mobi"
   end
 
@@ -96,7 +90,7 @@ namespace :book do
       check_contrib()
 
       puts 'Converting to PDF... (this one takes a while)'
-      `bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null`
+      sh "bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null"
       puts ' -- PDF output at progit.pdf'
   end
 
@@ -104,8 +98,8 @@ namespace :book do
   task :check => [:build_html, :build_epub] do
       puts 'Checking generated books'
 
-      exec_or_raise('htmlproofer --check-html progit.html')
-      exec_or_raise('epubcheck progit.epub')
+      sh "htmlproofer --check-html progit.html"
+      sh "epubcheck progit.epub"
   end
 
   desc 'Clean all generated files'
