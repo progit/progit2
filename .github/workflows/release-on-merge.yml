@@ -1,8 +1,8 @@
-name: Release on push to master
+name: Release on push to main
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   release:
@@ -34,5 +34,5 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ${{ steps.compute-tag.outputs.tagname }}
-        commit: master
+        commit: main
         artifacts: './progit.epub,./progit.mobi,./progit.pdf,./progit.html'
