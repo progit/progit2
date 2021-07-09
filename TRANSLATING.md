@@ -82,7 +82,7 @@ GitHub assumes that forks will be used to contribute to the repo from which they
 
 ## Setting up a publication chain for e-books
 
-This is a technical task, please ping @jnavila to get started with epub publication.
+This is a technical task, please ping [@jnavila](https://github.com/jnavila) to get started with epub publication.
 
 ## Beyond Pro Git
 
