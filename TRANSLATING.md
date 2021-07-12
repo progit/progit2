@@ -1,25 +1,25 @@
 # Translating Pro Git (2nd Edition)
-
+cbce616
 The translations are managed in a decentralized way. Each translation team maintains their own project. Each translation is in its own repository, the Pro Git team simply pulls the changes and builds them into the https://git-scm.com website when ready.
-
+cbce626
 ## General guidance for translating Pro Git
-
+cbce636
 Pro Git is a book about a technical tool, therefore translating it is difficult compared to a non-technical translation.
-
+cbce646
 The following are guidelines to help you on your way:
 * Before you begin, read the whole Git Pro book in English, so that you're aware of the content, and are familiar with the style used.
 * Ensure you have a good working knowledge of git, so that explaining the technical terms is doable.
 * Stick to a common style and format for the translation.
 * Be sure to read and understand the basics of [Asciidoc formatting](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
-
+cbce666
 ## Translating the book to another language
-
+cbce676
 ### Helping with a existing project
-
+cbce686
 * Check for an already existing project in the following table.
 * Go to the project's page on GitHub.
 * Open an issue, introduce yourself and ask where you can help.
-
+cbce696
 | Language     | GitHub page     |
 | :------------- | :------------- |
 | العربية | [progit2-ar/progit2](https://github.com/progit2-ar/progit2) |
@@ -51,47 +51,48 @@ The following are guidelines to help you on your way:
 | Ўзбекча  | [progit/progit2-uz](https://github.com/progit/progit2-uz) |
 | 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh) |
 | 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) |
-
+cecb6016
 ### Starting a new translation
-
+cccb6026
 If there is no project for your language, you can start your own translation.
-
+cecb6036
 Base your work on the second edition of the book, available [here](https://github.com/progit/progit2). To do so:
  1. Pick the correct [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language.
  1. Create a [GitHub organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch), for example: `progit2-[your code]` on GitHub.
  1. Create a project `progit2`.
  1. Copy the structure of progit/progit2 (this project) in your project and start translating.
-
+cecb6046
 ### Updating the status of your translation
-
+cccc6506
 On https://git-scm.com, the translations are divided into three categories. Once you have reached one of these levels, contact the maintainers of https://git-scm.com/ so that they can pull the changes.
-
+cccb6076
 | Category | Completion     |
 | :------------- | :------------- |
 | Translation started for | Introduction translated, not much else. |
 | Partial translations available in | up to chapter 6 has been translated. |
 | Full translation available in |the book is (almost) fully translated. |
-
+cccc6806
 ## Continuous integration with GitHub Actions
-
+cccc6096
 GitHub Actions is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. GitHub Actions is used to ensure that a pull-request doesn't break the build or compilation. GitHub Actions can also provide compiled versions of the book.
-
+ccc60016
 The configuration for GitHub Actions is contained in the `.github/workflows` directory, and if you bring in the `main` branch of the root repository you'll get them for free.
 However, if you created your translation repo by _forking_ the root repo, there's an extra step you must complete (if you did not fork, you can skip this part).
 GitHub assumes that forks will be used to contribute to the repo from which they were forked, so you'll have to visit the "Actions" tab on your forked repo, and click the "I understand my workflows" button to allow the actions to run.
-
+ccc60026
 ## Setting up a publication chain for e-books
-
+ccc60036
 This is a technical task, please ping @jnavila to get started with epub publication.
-
+ccc60046
 ## Beyond Pro Git
-
+ccc60056
 Translating the book is the first step. Once this is finished, you could consider translating the user interface of Git itself.
-
+ccc60066
 This task requires a more technical knowledge of the tool than the book. Hopefully, after having translated the full book content, you can understand the terms used in the application. If you feel technically up to the task, the repo is [here](https://github.com/git-l10n/git-po) and you just have to follow the [guide](https://github.com/git-l10n/git-po/blob/master/po/README).
-
+ccc60076
 Beware though that
-
+ccc60096
  * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.net/) and merging them. You might need to compile git in order to check your work.
  * a basic knowledge of how translating applications works is required, which is significantly different from translating books.
  * the core Git project uses more stringent [procedures](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) to accept contributions, be sure to abide by them.
+ccc68006
