@@ -1,0 +1,34 @@
+name: Enhancement idea
+description: Suggest an idea for the ProGit2 book or repository
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: General overview of your idea.
+      description: Give a general overview of your idea.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What problem will this solve?
+      description: Explain what problem you're trying to solve.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Have you thought about other solutions?
+      description: Describe any alternative solutions to the problem.
+    validations:
+      required: false
+
+  - type: dropdown
+    attributes:
+      label: Do you want to help with this enhancement idea?
+      options:
+        - "Yes"
+        - "Maybe"
+        - "No"
+    validations:
+      required: true
