@@ -1,0 +1,134 @@
+name: Bug report
+description: Create a report to help us improve
+labels: ["bug"]
+body:
+  - type: checkboxes
+    attributes:
+      label: There's no existing/similar bug report.
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+        - label: I have searched the existing issues
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: This report is about a single actionable bug.
+      description: Please create one issue per bug, split up your bug reports if needed.
+      options:
+        - label: I'm reporting a single actionable bug
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: This report is about the ProGit book, version 2, English language.
+      description: Bug reports about translations or the first version of the book are not accepted.
+      options:
+        - label: This bug is not about a translation or old version
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Bug covers book website/pdf
+      description: This bug is about the book as found on the [website](https://www.git-scm.com/book/en/v2) or the PDF.
+      options:
+        - label: I confirm the bug is about the book as found on the website/pdf
+    validations:
+      required: false
+
+  - type: checkboxes
+    attributes:
+      label: Problem is present in the Pro Git book on the website?
+      description: If you found an issue in the pdf/epub/mobi files, you've checked if the problem is also present in the Pro Git book on the [website](https://www.git-scm.com/book/en/v2).
+      options:
+        - label: This bug also affects the Pro Git book as published on the website.
+    validations:
+      required: false
+
+  - type: dropdown
+    attributes:
+      label: Which version of the book is affected?
+      description: |
+        It's important for us to know if the problem is in the source or in the tooling that creates the pdf/epub/mobi files.
+        Therefore, please select which versions are affected.
+      options:
+        - "Source files"
+        - "Tooling"
+        - "Source files and tooling"
+        - "I don't know"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Describe the bug:"
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Steps to reproduce:"
+      description: Please write the steps needed to reproduce the bug here.
+      placeholder: Provide a ordered list of steps to reproduce.
+      value: |
+        1. Go to '...'
+        2. Click on '...'
+        3. 'Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Expected behavior:"
+      description: A clear and concise description of what you expected to happen.
+      placeholder: I expected ... to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Screenshots:"
+      description: If applicable, add screenshots to help explain your problem.
+      placeholder: "Tip: you can drag your screenshot into this field, or you can copy/paste."
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: "Additional context:"
+      description: |
+        Add any other context about the problem here.
+        You can also put references to similar bugs here.
+      placeholder: "Example: this bug also affect issues #1 and #2."
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Device
+      description: Tell us what kind of device you're using to access the content.
+      placeholder: mobile device / desktop / laptop / e-book reader
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Operating system
+      description: If the problem is with the book or the published files, we need to know what operating system you run on your device.
+      placeholder: |
+        Windows 10 Home Edition
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: Browser/application + version
+      description: What browser/application are you using? We also need the version number of the browser/application.
+      placeholder: |
+        Google Chrome 91.0.4472.164
+    validations:
+      required: false
