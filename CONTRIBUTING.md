@@ -34,4 +34,4 @@ Bardzo zachęcamy do tłumaczenia na inne języki, ale są one teraz traktowane 
 
 Ponieważ każde tłumaczenie jest innym repozytorium, możemy również mieć różnych opiekunów dla każdego projektu. Zespół Pro Git po prostu ściąga je i buduje dla zespołów tłumaczy. Aby uzyskać automatyczne kompilacje, repozytorium tłumaczeń musi znajdować się w organizacji [`progit` na GitHub](https://github.com/progit).
 
-Możesz znaleźć informacje na temat wszystkich bieżących tłumaczeń i o tym, jak rozpocząć własne na [stronie informacyjnej](http://progit.org/translations).
+Możesz znaleźć informacje na temat wszystkich bieżących tłumaczeń i o tym, jak rozpocząć własne na [stronie informacyjnej](https://github.com/progit/progit2/blob/master/TRANSLATING.md).
