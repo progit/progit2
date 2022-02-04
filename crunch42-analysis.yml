@@ -1,0 +1,8 @@
+*.nuget
+[Windows.Foundation.Metadata.ContractVersion(typeof(Windows.Foundation.UniversalApiContract), 65536)]
+[Windows.Foundation.Metadata.MarshalingBehavior(Windows.Foundation.Metadata.MarshalingType.Agile)]
+[Windows.Foundation.Metadata.Threading(Windows.Foundation.Metadata.ThreadingModel.Both)]
+-+*.nuget_
+-"""%$"!0%s"--/%%..""%-$000b"""
+0
+
