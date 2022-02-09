@@ -33,15 +33,15 @@
       "sections/workflows.asc": 0
     },
     "04-git-server": {
-      "1-git-server.asc": 0,
-      "sections/generating-ssh-key.asc": 0,
-      "sections/git-daemon.asc": 0,
-      "sections/git-on-a-server.asc": 0,
+      "1-git-server.asc": 100,
+      "sections/generating-ssh-key.asc": 100,
+      "sections/git-daemon.asc": 100,
+      "sections/git-on-a-server.asc": 100,
       "sections/gitlab.asc": 0,
-      "sections/gitweb.asc": 0,
-      "sections/hosted.asc": 0,
-      "sections/protocols.asc": 0,
-      "sections/setting-up-server.asc": 0,
+      "sections/gitweb.asc": 100,
+      "sections/hosted.asc": 100,
+      "sections/protocols.asc": 80,
+      "sections/setting-up-server.asc": 100,
       "sections/smart-http.asc": 0
     },
     "05-distributed-git": {
