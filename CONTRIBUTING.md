@@ -3,9 +3,9 @@
 ## Licensing your work to us
 
 When you open a pull request, you agree to provide your work under the [project license](LICENSE.asc).
-Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
+Also, you agree to grant such license of your work as is required for the purposes of future print editions to @shafiul2s and @schacon.
 Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
-
+Should your changes appear in a printed edition, you'll be included in the [contributors tag list](book/contributorstag.asc).
 ## Signaling an Issue
 
 Search for similar issues, before creating a new issue.
