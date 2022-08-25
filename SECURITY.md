@@ -1,4 +1,4 @@
-## Reporting a security issue
+#security policy #google policy #microsoft security## Reporting a security issue
 
 If you find any security issue or vulnerability, please email [ben@straub.cc](mailto:ben@straub.cc) with your report.
 
