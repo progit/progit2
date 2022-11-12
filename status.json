@@ -1,7 +1,7 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "sq",
+  "language": "Shqip",
+  "maintainers": ["male-blu"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
