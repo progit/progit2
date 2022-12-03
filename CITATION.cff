@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pro Git
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Scott
+    family-names: Chacon
+    email: schacon@gmail.com
+  - given-names: Ben
+    family-names: Straub
+    email: ben@straub.cc
+identifiers:
+  - type: url
+    value: 'https://git-scm.com/book/en/v2'
+    description: Pro Git website
+repository-code: 'https://github.com/progit/progit2'
+url: 'https://git-scm.com/book/en/v2'
+keywords:
+  - git
+  - book
+  - asciidoc
+  - pro-git
+license: CC-BY-NC-SA-3.0
+version: '2'

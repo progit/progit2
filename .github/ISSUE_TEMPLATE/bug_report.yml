@@ -8,8 +8,7 @@ body:
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
         - label: I have searched the existing issues
-    validations:
-      required: true
+          required: true
 
   - type: checkboxes
     attributes:
@@ -17,8 +16,7 @@ body:
       description: Please create one issue per bug, split up your bug reports if needed.
       options:
         - label: I'm reporting a single actionable bug
-    validations:
-      required: true
+          required: true
 
   - type: checkboxes
     attributes:
@@ -26,8 +24,7 @@ body:
       description: Bug reports about translations or the first version of the book are not accepted.
       options:
         - label: This bug is not about a translation or old version
-    validations:
-      required: true
+          required: true
 
   - type: checkboxes
     attributes:

@@ -18,25 +18,17 @@
   <path id="Line-9" transform="translate(1,-1)" d="m276.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
   <path id="Line-10" transform="translate(1,-1)" d="m392.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
   <path id="Line-11" transform="translate(1,-1)" d="m508.5 48.5v148" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-  <g id="gold" transform="translate(1,23)" style="fill-rule:evenodd;fill:none">
-   <rect id="Rectangle-1" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
-   <text id="Version-5" transform="translate(.26166)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28813" x="44.5" y="20" style="fill:#f0f0f0">Version 1</tspan></text>
-  </g>
-  <g id="g28823" transform="translate(117,23)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect28817" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
-   <text id="text28821" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28819" x="44.5" y="20" style="fill:#f0f0f0">Version 2</tspan></text>
-  </g>
-  <g id="g28831" transform="translate(233,23)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect28825" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
-   <text id="text28829" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28827" x="44.5" y="20" style="fill:#f0f0f0">Version 3</tspan></text>
-  </g>
-  <g id="g28839" transform="translate(349,23)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect28833" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
-   <text id="text28837" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28835" x="44.5" y="20" style="fill:#f0f0f0">Version 4</tspan></text>
-  </g>
-  <g id="g28847" transform="translate(465,23)" style="fill-rule:evenodd;fill:none">
-   <rect id="rect28841" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#cd9f00"/>
-   <text id="text28845" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28843" x="44.5" y="20" style="fill:#f0f0f0">Version 5</tspan></text>
+  <g id="gold" transform="translate(0,-3)" style="fill-rule:evenodd;fill:none">
+  <rect id="rect4287" transform="translate(1,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4291" transform="translate(1,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4289" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 1</tspan></text>
+  <rect id="rect4293" transform="translate(117,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4297" transform="translate(117,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4295" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 2</tspan></text>
+  <rect id="rect4299" transform="translate(233,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4303" transform="translate(233,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4301" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 3</tspan></text>
+  <rect id="rect4305" transform="translate(349,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4309" transform="translate(349,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4307" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 4</tspan></text>
+  <rect id="rect4311" transform="translate(465,26)" width="89" height="33" rx="16.5" fill="#cd9f00"/>
+  <text id="text4315" transform="translate(465,26)" fill="white" fill-opacity=".8" font-family="'Source Code Pro'" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan4313" x="44.5" y="20" fill="#f0f0f0" fill-opacity="1">Version 5</tspan></text>
   </g>
   <g id="brown" transform="translate(1,82)" style="fill-rule:evenodd;fill:none">
    <rect id="rect28849" width="89" height="33" rx="16.5" ry="16.5" style="fill-rule:evenodd;fill:#efefe7"/>
