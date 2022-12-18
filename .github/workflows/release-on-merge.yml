@@ -35,4 +35,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: ${{ steps.compute-tag.outputs.tagname }}
         commit: main
-        artifacts: './progit.epub,./progit.mobi,./progit.pdf,./progit.html'
+        artifacts: './progit.epub,./progit.fb2.zip,./progit.mobi,./progit.pdf,./progit.html'
