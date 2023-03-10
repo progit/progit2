@@ -18,7 +18,7 @@ The issue may have already been corrected in the source files, but not yet deplo
 Errata and basic clarifications will be accepted if we agree that they improve the content.
 You can also open an issue so that we can discuss how or if the issue needs to be addressed.
 
-If you've never done this before, the [flow guide](https://guides.github.com/introduction/flow/) might be useful.
+If you've never done this before, the [flow guide](https://docs.github.com/en/get-started/quickstart/github-flow) might be useful.
 
 ## Large Rewrites
 
@@ -29,7 +29,7 @@ It's unlikely that your prose is going to be *so* much better that it's worth ch
 
 ## Figures
 
-The images in this book are generated using [Sketch 3](https://www.sketchapp.com/), with the [included sketchbook file](diagram-source/progit.sketch).
+The images in this book are generated using [Sketch 3](https://www.sketch.com/), with the [included sketchbook file](diagram-source/progit.sketch).
 
 To create a figure:
 
