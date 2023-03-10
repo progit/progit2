@@ -12,14 +12,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Compute tag name
-      id: compute-tag
-      run: |
-        echo Computing next tag number
-        LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
-        PATCH=$(($LASTPATCH+1))
-        echo "::set-output name=tagname::2.1.${PATCH}"
-
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -28,6 +20,14 @@ jobs:
 
     - name: Build release assets
       run: bundle exec rake book:build
+
+    - name: Compute tag name
+      id: compute-tag
+      run: |
+        echo Computing next tag number
+        LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
+        PATCH=$(($LASTPATCH+1))
+        echo "{tagname}={2.1.${PATCH}}" >> $GITHUB_OUTPUT
 
     - name: Create release
       uses: ncipollo/release-action@v1
