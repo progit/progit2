@@ -10,7 +10,7 @@ The following are guidelines to help you on your way:
 * Before you begin, read the whole Git Pro book in English, so that you're aware of the content, and are familiar with the style used.
 * Ensure you have a good working knowledge of git, so that explaining the technical terms is doable.
 * Stick to a common style and format for the translation.
-* Be sure to read and understand the basics of [Asciidoc formatting](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
+* Be sure to read and understand the basics of [Asciidoc formatting](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
 
 ## Translating the book to another language
 
@@ -58,7 +58,7 @@ If there is no project for your language, you can start your own translation.
 
 Base your work on the second edition of the book, available [here](https://github.com/progit/progit2). To do so:
  1. Pick the correct [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language.
- 1. Create a [GitHub organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch), for example: `progit2-[your code]` on GitHub.
+ 1. Create a [GitHub organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch), for example: `progit2-[your code]` on GitHub.
  1. Create a project `progit2`.
  1. Copy the structure of progit/progit2 (this project) in your project and start translating.
 
@@ -88,10 +88,10 @@ This is a technical task, please ping @jnavila to get started with epub publicat
 
 Translating the book is the first step. Once this is finished, you could consider translating the user interface of Git itself.
 
-This task requires a more technical knowledge of the tool than the book. Hopefully, after having translated the full book content, you can understand the terms used in the application. If you feel technically up to the task, the repo is [here](https://github.com/git-l10n/git-po) and you just have to follow the [guide](https://github.com/git-l10n/git-po/blob/master/po/README).
+This task requires a more technical knowledge of the tool than the book. Hopefully, after having translated the full book content, you can understand the terms used in the application. If you feel technically up to the task, the repo is [here](https://github.com/git-l10n/git-po) and you just have to follow the [guide](https://github.com/git-l10n/git-po/blob/master/po/README.md).
 
 Beware though that
 
- * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.net/) and merging them. You might need to compile git in order to check your work.
+ * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.net/)) and merging them. You might need to compile git in order to check your work.
  * a basic knowledge of how translating applications works is required, which is significantly different from translating books.
  * the core Git project uses more stringent [procedures](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) to accept contributions, be sure to abide by them.
