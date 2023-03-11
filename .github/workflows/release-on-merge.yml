@@ -27,7 +27,7 @@ jobs:
         echo Computing next tag number
         LASTPATCH=$(git describe --tags | cut -d- -f1 | cut -d. -f3)
         PATCH=$(($LASTPATCH+1))
-        echo "{tagname}={2.1.${PATCH}}" >> $GITHUB_OUTPUT
+        echo "tagname=2.1.${PATCH}" >> $GITHUB_OUTPUT
 
     - name: Create release
       uses: ncipollo/release-action@v1
