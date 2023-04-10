@@ -8,7 +8,7 @@ Pro Git is a book about a technical tool, therefore translating it is difficult 
 
 The following are guidelines to help you on your way:
 * Before you begin, read the whole Git Pro book in English, so that you're aware of the content, and are familiar with the style used.
-* Ensure you have a good working knowledge of git, so that explaining the technical terms is doable.
+* Ensure you have a good working knowledge of Git, so that explaining the technical terms is doable.
 * Stick to a common style and format for the translation.
 * Be sure to read and understand the basics of [Asciidoc formatting](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
 
