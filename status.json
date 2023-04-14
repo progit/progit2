@@ -85,9 +85,11 @@
     },
     "09-git-and-other-scms": {
       "1-git-and-other-scms.asc": 0,
+      "sections/client-bzr.asc": 0,
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
+      "sections/import-bzr.asc": 0,
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
@@ -108,13 +110,18 @@
       "1-git-other-environments.asc": 0,
       "sections/bash.asc": 0,
       "sections/guis.asc": 0,
+      "sections/jetbrainsides.asc": 0,
       "sections/powershell.asc": 0,
+      "sections/sublimetext.asc": 0,
       "sections/visualstudio.asc": 0,
+      "sections/visualstudiocode.asc": 0,
       "sections/zsh.asc": 0
     },
     "B-embedding-git": {
       "1-embedding-git.asc": 0,
       "sections/command-line.asc": 0,
+      "sections/dulwich.asc": 0,
+      "sections/go-git.asc": 0,
       "sections/jgit.asc": 0,
       "sections/libgit2.asc": 0
     },
