@@ -11,7 +11,7 @@ gem 'asciidoctor-epub3', '1.5.1'
 gem 'asciidoctor-pdf', '2.3.4'
 
 gem 'coderay', '1.1.3'
-gem 'pygments.rb', '2.3.1'
+gem 'pygments.rb', '2.4.0'
 gem 'thread_safe', '0.3.6'
 gem 'epubcheck-ruby', '5.0.0.0'
 gem 'html-proofer', '5.0.6'
