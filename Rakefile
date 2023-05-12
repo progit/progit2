@@ -1,9 +1,12 @@
 namespace :book do
 
   # Variables referenced for build
-  version_string = `git describe --tags`.chomp
+  version_string = `git describe --tags --abbrev=0`.chomp
   if version_string.empty?
     version_string = '0'
+  else
+    versions = version_string.split('.')
+    version_string = versions[0] + '.' + versions[1] + '.' + versions[2].to_i.next.to_s
   end
   date_string = Time.now.strftime('%Y-%m-%d')
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
