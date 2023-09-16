@@ -85,11 +85,9 @@
     },
     "09-git-and-other-scms": {
       "1-git-and-other-scms.asc": 0,
-      "sections/client-bzr.asc": 0,
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
-      "sections/import-bzr.asc": 0,
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
