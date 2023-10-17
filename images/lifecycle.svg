@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--1548 = 300*4+116*3, dx = 416, block_width = 300. -->
-<!--export by a [online tool](https://vincerubinetti.github.io/svg-to-png/) with firefox 118.0.1. (also works on chromium 118.0.5993.54)-->
+<!--export by a [online tool](https://vincerubinetti.github.io/svg-to-png/) with firefox 118.0.1. (not works on chromium 118.0.5993.54)-->
 <!--many tools, like krita, JB-idea, the [first result from google](https://svgtopng.com/), are not supporting [dominant-baseline](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/dominant-baseline) and will mess up words and gives me OCD. -->
 <svg id="svg7076" version="1.1" width="1548" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata7080">
@@ -50,43 +50,53 @@
    </g>
 
    <g id="Add-the-file" transform="translate(150, 200)">
-    <line x1="0" y1="0" x2="1238" y2="0" stroke="#8f8981" stroke-width="5" />
+    <line x1="0" y1="0" x2="1168" y2="0" stroke="#8f8981" stroke-width="40" />
     <g transform="translate(1248, 0)">
-     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+     <polygon points="0,0 -130,-40 -130,40" fill="#8f8981" />
     </g>
-    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Add the file</text>
+    <text x="20" y="0" font-family="Arial" font-size="32" fill="white" text-anchor="start" dominant-baseline="central">
+     Add the file
+    </text>
    </g>
 
    <g id="Edit-the-file" transform="translate(566, 350)">
-    <line x1="0" y1="0" x2="406" y2="0" stroke="#8f8981" stroke-width="5" />
+    <line x1="0" y1="0" x2="336" y2="0" stroke="#8f8981" stroke-width="40" />
     <g transform="translate(416, 0)">
-     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+     <polygon points="0,0 -130,-40 -130,40" fill="#8f8981" />
     </g>
-    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Edit the file</text>
+    <text x="20" y="0" font-family="Arial" font-size="32" fill="white" text-anchor="start" dominant-baseline="central">
+     Edit the file
+    </text>
    </g>
 
    <g id="Stage-the-file" transform="translate(982, 400)">
-    <line x1="0" y1="0" x2="406" y2="0" stroke="#8f8981" stroke-width="5" />
+    <line x1="0" y1="0" x2="336" y2="0" stroke="#8f8981" stroke-width="40" />
     <g transform="translate(416, 0)">
-     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+     <polygon points="0,0 -130,-40 -130,40" fill="#8f8981" />
     </g>
-    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Stage the file</text>
+    <text x="20" y="0" font-family="Arial" font-size="32" fill="white" text-anchor="start" dominant-baseline="central">
+     Stage the file
+    </text>
    </g>
 
    <g id="Remove-the-file" transform="translate(150, 450)">
-    <line x1="10" y1="0" x2="416" y2="0" stroke="#8f8981" stroke-width="5" />
+    <line x1="80" y1="0" x2="416" y2="0" stroke="#8f8981" stroke-width="40" />
     <g transform="translate(0, 0)">
-     <polygon points="0,0 120,-50 90,0 120,50" fill="#8f8981" />
+     <polygon points="0,0 130,-40 130,40" fill="#8f8981" />
     </g>
-    <text x="396" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="end" dominant-baseline="Auto">Remove the file</text>
+    <text x="396" y="0" font-family="Arial" font-size="32" fill="white" text-anchor="end" dominant-baseline="central">
+     Remove the file
+    </text>
    </g>
 
    <g id="Commit" transform="translate(566, 600)">
-    <line x1="30" y1="0" x2="832" y2="0" stroke="#8f8981" stroke-width="5" />
+    <line x1="80" y1="0" x2="832" y2="0" stroke="#8f8981" stroke-width="40" />
     <g transform="translate(0, 0)">
-     <polygon points="0,0 120,-50 90,0 120,50" fill="#8f8981" />
+     <polygon points="0,0 130,-40 130,40" fill="#8f8981" />
     </g>
-    <text x="812" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="end" dominant-baseline="Auto">Commit</text>
+    <text x="812" y="0" font-family="Arial" font-size="32" fill="white" text-anchor="end" dominant-baseline="central">
+     Commit
+    </text>
    </g>
   </g>
  </g>
