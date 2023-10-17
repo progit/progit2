@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg7076" version="1.1" viewBox="0 0 516 227" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<!--1548 = 300*4+116*3, dx = 416, block_width = 300. -->
+<!--export by a [online tool](https://vincerubinetti.github.io/svg-to-png/) with firefox 118.0.1. (also works on chromium 118.0.5993.54)-->
+<!--many tools, like krita, JB-idea, the [first result from google](https://svgtopng.com/), are not supporting [dominant-baseline](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/dominant-baseline) and will mess up words and gives me OCD. -->
+<svg id="svg7076" version="1.1" width="1548" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata7080">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,39 +13,80 @@
   </rdf:RDF>
  </metadata>
  <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <!-- re-write by gedit -->
+
  <title id="title7020">images/lifecycle</title>
  <desc id="desc7022">Created with Sketch.</desc>
+
  <g id="layer1">
-  <g id="02---lifecycle" style="fill-rule:evenodd;fill:none">
-   <path id="Line-6" transform="translate(10.5)" d="m43.5 17.469v195.88" style="fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-   <path id="Line-3" transform="translate(1.9)" d="m323.5 17.469v195.88" style="fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-   <path id="Line-2" transform="translate(6.2)" d="m183.5 17.469v195.88" style="fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-   <path id="Line-7" transform="translate(-2.4841)" d="m463.5 16.937v195.88" style="fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
-   <g id="goldref" transform="translate(281)">
-    <rect id="Rectangle-3" transform="matrix(.99844 0 0 1 -9.6 0)" width="108" height="33" style="fill-rule:evenodd;fill:#cd9f00"/>
-    <text id="master-2" transform="translate(-9.6023)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan7032" x="54" y="20" style="fill:#f0f0f0">Modified</tspan></text>
+  <g id="02---lifecycle">
+   <g id="rectangles">
+    <g id="untracked">
+     <rect x="0" y="0" width="300" height="100" fill="#efefe7" />
+     <text x="150" y="50" font-family="Arial" font-size="36" fill="black" text-anchor="middle" dominant-baseline="middle">Untracked</text>
+    </g>
+
+    <g id="unmodified" transform="translate(416, 0)">
+     <rect x="0" y="0" width="300" height="100" fill="#00909a" />
+     <text x="150" y="50" font-family="Arial" font-size="36" fill="white" text-anchor="middle" dominant-baseline="middle">Unmodified</text>
+    </g>
+
+    <g id="modified" transform="translate(832, 0)">
+     <rect x="0" y="0" width="300" height="100" fill="#cd9f00" />
+     <text x="150" y="50" font-family="Arial" font-size="36" fill="white" text-anchor="middle" dominant-baseline="middle">Modified</text>
+    </g>
+
+    <g id="modified" transform="translate(1248, 0)">
+     <rect x="0" y="0" width="300" height="100" fill="#f44d27" />
+     <text x="150" y="50" font-family="Arial" font-size="36" fill="white" text-anchor="middle" dominant-baseline="middle">Staged</text>
+    </g>
    </g>
-   <path id="Line-4" d="m261 116.32h-71.316v-21.682l71.316-.0349v-6.4182l64.395 17.311-64.395 17.305z" style="fill-rule:nonzero;fill:#8f8981"/>
-   <path id="Line-9" d="m397.91 76.738h-343.93v-21.717h343.93v-6.4121l63.071 17.271-63.071 17.33z" style="fill-rule:nonzero;fill:#8f8981"/>
-   <path id="Line-10" transform="translate(6.5119)" d="m110.43 142.72h72.744v21.67l-72.744-1e-5v6.449l-62.956-17.3 62.956-17.32z" style="fill-rule:nonzero;fill:#8f8981"/>
-   <path id="Line-5" transform="translate(-2.0144 -12.314)" d="m399.93 151.83h-72.52v-21.717h72.52v-6.4368l63.071 17.325-63.071 17.322z" style="fill-rule:nonzero;fill:#8f8981"/>
-   <path id="Line-8" d="m252.46 174.61h208.52v21.636l-208.52-.0262v6.5437l-62.777-17.317 62.777-17.307z" style="fill-rule:nonzero;fill:#8f8981"/>
-   <text id="Edit-the-file" transform="translate(2 -7.2452)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan7041" x="195.59033" y="116">Edit the file</tspan></text>
-   <text id="Add-the-file" transform="translate(9 .19847)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan7044" x="57.390869" y="70.169922">Add the file</tspan></text>
-   <text id="Remove-the-file" transform="translate(1.5325 .45528)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan7047" x="76.989258" y="157.03125">Remove the file</tspan></text>
-   <text id="Stage-the-file" transform="translate(-.8512 -13.221)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan7050" x="331.78979" y="145.16992">Stage the file</tspan></text>
-   <g id="other">
-    <rect id="Rectangle-2" transform="scale(1.2558 1)" width="86" height="33" style="fill-rule:evenodd;fill:#efefe7"/>
-    <text id="master" transform="translate(11.045)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan7054" x="43" y="21" style="fill:gray">Untracked</tspan></text>
+
+   <g id="lines">
+    <line x1="150" y1="100" x2="150" y2="700" stroke="#8f8981" stroke-width="5" />
+    <line x1="566" y1="100" x2="566" y2="700" stroke="#8f8981" stroke-width="5" />
+    <line x1="982" y1="100" x2="982" y2="700" stroke="#8f8981" stroke-width="5" />
+    <line x1="1398" y1="100" x2="1398" y2="700" stroke="#8f8981" stroke-width="5" />
    </g>
-   <g id="symref" transform="translate(140)">
-    <rect id="rect7058" transform="matrix(1.2566 0 0 1 -4.3944 0)" width="86" height="33" style="fill-rule:evenodd;fill:#00909a"/>
-    <text id="text7062" transform="translate(6.6865)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan7060" x="43" y="20" style="fill:#f0f0f0">Unmodified</tspan></text>
+
+   <g id="Add-the-file" transform="translate(150, 200)">
+    <line x1="0" y1="0" x2="1238" y2="0" stroke="#8f8981" stroke-width="5" />
+    <g transform="translate(1248, 0)">
+     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+    </g>
+    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Add the file</text>
    </g>
-   <text id="Commit" transform="translate(-14.974 -.090725)" font-size="12px" font-weight="700" style="fill:white;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan7065" x="318.69678" y="190">Commit</tspan></text>
-   <g id="ref" transform="translate(409)">
-    <rect id="rect7068" transform="matrix(1.0184 0 0 1 -1.9532 0)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-    <text id="text7072" transform="translate(-.84695)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan7070" x="53" y="20" style="fill:#f0f0f0">Staged</tspan></text>
+
+   <g id="Edit-the-file" transform="translate(566, 350)">
+    <line x1="0" y1="0" x2="406" y2="0" stroke="#8f8981" stroke-width="5" />
+    <g transform="translate(416, 0)">
+     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+    </g>
+    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Edit the file</text>
+   </g>
+
+   <g id="Stage-the-file" transform="translate(982, 400)">
+    <line x1="0" y1="0" x2="406" y2="0" stroke="#8f8981" stroke-width="5" />
+    <g transform="translate(416, 0)">
+     <polygon points="0,0 -120,-50 -90,0 -120,50" fill="#8f8981" />
+    </g>
+    <text x="20" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="start" dominant-baseline="Auto">Stage the file</text>
+   </g>
+
+   <g id="Remove-the-file" transform="translate(150, 450)">
+    <line x1="10" y1="0" x2="416" y2="0" stroke="#8f8981" stroke-width="5" />
+    <g transform="translate(0, 0)">
+     <polygon points="0,0 120,-50 90,0 120,50" fill="#8f8981" />
+    </g>
+    <text x="396" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="end" dominant-baseline="Auto">Remove the file</text>
+   </g>
+
+   <g id="Commit" transform="translate(566, 600)">
+    <line x1="30" y1="0" x2="832" y2="0" stroke="#8f8981" stroke-width="5" />
+    <g transform="translate(0, 0)">
+     <polygon points="0,0 120,-50 90,0 120,50" fill="#8f8981" />
+    </g>
+    <text x="812" y="-10" font-family="Arial" font-size="36" fill="black" text-anchor="end" dominant-baseline="Auto">Commit</text>
    </g>
   </g>
  </g>
