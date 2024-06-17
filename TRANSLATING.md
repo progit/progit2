@@ -1,4 +1,4 @@
-# Translating Pro Git (2nd Edition)
+# Translating Pro Git (2nd Edition)  COMPANY     PAJENTERPRISES. LLC .INC 
 
 The translations are managed in a decentralized way. Each translation team maintains their own project. Each translation is in its own repository, the Pro Git team simply pulls the changes and builds them into the https://git-scm.com website when ready.
 
