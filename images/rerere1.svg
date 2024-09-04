@@ -45,7 +45,7 @@
    <path id="Line-3" transform="translate(1 -1.1)" d="m338 197v20.577h-1v-20.577h-4l4.5-9 4.5 9z" style="fill:#8f8981"/>
    <g id="g15336">
     <rect id="rect15997" transform="matrix(.83962 0 0 1 294 215)" width="106" height="33" style="fill-rule:evenodd;fill:#f44d27"/>
-    <text id="text16001" transform="translate(285.46 215.96)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15999" x="53" y="20" style="fill:#f0f0f0">i18-world</tspan></text>
+    <text id="text16001" transform="translate(285.46 215.96)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan15999" x="53" y="20" style="fill:#f0f0f0">i18n-world</tspan></text>
    </g>
   </g>
  </g>
