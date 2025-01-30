@@ -3,8 +3,8 @@
 <!-- Should your changes appear in a printed edition, you'll be included in the contributors list. -->
 
 <!-- Mark the checkbox [X] or [x] if you agree with the item. -->
-- [ ] I provide my work under the [project license](https://github.com/progit/progit2/blob/main/LICENSE.asc).
-- [ ] I grant such license of my work as is required for the purposes of future print editions to [Ben Straub](https://github.com/ben) and [Scott Chacon](https://github.com/schacon).
+- [X] I provide my work under the [project license](https://github.com/progit/progit2/blob/main/LICENSE.asc).
+- [X] I grant such license of my work as is required for the purposes of future print editions to [Ben Straub](https://github.com/ben) and [Scott Chacon](https://github.com/schacon).
 
 ## Changes
 
