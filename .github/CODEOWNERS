@@ -1,3 +1,8 @@
 # Users listed in the CODEOWNERS file must review (and approve) PRs before merge.
 
 @ben
+
+# GitHub recommends listing the code owner in the CODEOWNER file.
+# This means changes to the CODEOWNERS file must be reviewed by the code owner.
+
+/.github/CODEOWNERS @ben
