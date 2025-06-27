@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg41932"
    version="1.1"
    viewBox="0 0 575.97 636.1"
    sodipodi:docname="managed-team-flow.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs114" />
   <sodipodi:namedview
@@ -23,17 +23,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-width="1876"
+     inkscape:window-height="1123"
      id="namedview112"
      showgrid="false"
      inkscape:zoom="1.0493772"
-     inkscape:cx="517.24453"
-     inkscape:cy="391.43253"
+     inkscape:cx="516.97331"
+     inkscape:cy="391.66088"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10069" />
+     inkscape:current-layer="ref"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata41938">
     <rdf:RDF>
@@ -69,13 +72,11 @@
          id="master"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41754"
            x="53"
            y="20"
-           style="fill:#f0f0f0">Josie</tspan>
-      </text>
+           style="fill:#f0f0f0">John</tspan></text>
     </g>
     <path
        id="Line-2"
@@ -97,13 +98,11 @@
          id="text41763"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41761"
            x="53"
            y="20"
-           style="fill:#f0f0f0">Josie</tspan>
-      </text>
+           style="fill:#f0f0f0">John</tspan></text>
     </g>
     <g
        id="g41773"
@@ -120,13 +119,11 @@
          id="text41771"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41769"
            x="53"
            y="20"
-           style="fill:#f0f0f0">John</tspan>
-      </text>
+           style="fill:#f0f0f0">Josie</tspan></text>
     </g>
     <path
        id="Line-3"
@@ -148,13 +145,11 @@
          id="text41780"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41778"
            x="53"
            y="20"
-           style="fill:#f0f0f0">John</tspan>
-      </text>
+           style="fill:#f0f0f0">Josie</tspan></text>
     </g>
     <g
        id="g41790"
@@ -171,13 +166,11 @@
          id="text41788"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41786"
            x="53"
            y="20"
-           style="fill:#f0f0f0">Jessica</tspan>
-      </text>
+           style="fill:#f0f0f0">Jessica</tspan></text>
     </g>
     <path
        id="Line-15"
@@ -199,13 +192,11 @@
          id="text41797"
          font-size="12px"
          font-weight="700"
-         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797">
-        <tspan
+         style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#979797"><tspan
            id="tspan41795"
            x="53"
            y="20"
-           style="fill:#f0f0f0">Jessica</tspan>
-      </text>
+           style="fill:#f0f0f0">Jessica</tspan></text>
     </g>
     <path
        id="path41801"
@@ -226,40 +217,32 @@
        id="git-commit"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41845"
          x="8.9892578"
-         y="73.195312">git commit</tspan>
-      <tspan
+         y="73.195312">git commit</tspan><tspan
          id="tspan41847"
          x="55.196777"
-         y="86.195312">(A)</tspan>
-    </text>
+         y="86.195312">(A)</tspan></text>
     <text
        id="text41854"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41850"
          x="8.9892578"
-         y="351.19531">git commit</tspan>
-      <tspan
+         y="351.19531">git commit</tspan><tspan
          id="tspan41852"
          x="55.196777"
-         y="364.19531">(B)</tspan>
-    </text>
+         y="364.19531">(B)</tspan></text>
     <text
        id="git-fetch-origin"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41856"
          x="242.68872"
-         y="176">git fetch origin</tspan>
-    </text>
+         y="176">git fetch origin</tspan></text>
     <path
        id="Line-5"
        d="m 111.98,474 h 289.64 v 1 H 111.98 v 4 l -9,-4.5 9,-4.5 z"
@@ -269,12 +252,10 @@
        id="git-fetch-origin-3"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41860"
          x="215.68872"
-         y="470.19531">git fetch origin</tspan>
-    </text>
+         y="470.19531">git fetch origin</tspan></text>
     <path
        id="Line-4"
        d="m 113,387 h 409.62 v 1 H 113 v 4 l -9,-4.5 9,-4.5 z"
@@ -284,22 +265,18 @@
        id="git-fetch-origin-2"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41864"
          x="242.68872"
-         y="384">git fetch origin</tspan>
-    </text>
+         y="384">git fetch origin</tspan></text>
     <text
        id="git-push-origin-feat"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41867"
          x="167.28442"
-         y="105.40576">git push origin featureA</tspan>
-    </text>
+         y="105.40576">git push origin featureA</tspan></text>
     <path
        id="Line-7"
        d="M 391.22,110 H 105.77 v -1 h 285.45 v -4 l 9,4.5 -9,4.5 z"
@@ -309,12 +286,10 @@
        id="git-push-origin-feat-3"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41871"
          x="167.28442"
-         y="583.40576">git push origin featureA</tspan>
-    </text>
+         y="583.40576">git push origin featureA</tspan></text>
     <path
        id="Line-11"
        d="M 391.22,588 H 105.77 v -1 h 285.45 v -4 l 9,4.5 -9,4.5 z"
@@ -324,12 +299,10 @@
        id="git-push-origin-feat-2"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41875"
          x="215.28442"
-         y="247.69531">git push origin featureA</tspan>
-    </text>
+         y="247.69531">git push origin featureA</tspan></text>
     <path
        id="Line-8"
        d="M 391.22,252 H 200 v -1 h 191.22 v -4 l 9,4.5 -9,4.5 z"
@@ -339,12 +312,10 @@
        id="text41881"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41879"
          x="316.68335"
-         y="323.69531">git push origin featureBee</tspan>
-    </text>
+         y="323.69531">git push origin featureBee</tspan></text>
     <path
        id="Line-9"
        d="M 513,328 H 293.01 v -1 H 513 v -4 l 9,4.5 -9,4.5 z"
@@ -354,12 +325,10 @@
        id="text41886"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41884"
          x="177.97583"
-         y="446.19531">git push origin featureB:featureBee</tspan>
-    </text>
+         y="446.19531">git push origin featureB:featureBee</tspan></text>
     <path
        id="Line-10"
        d="M 512.58,451 H 103.43 v -1 h 409.15 v -4 l 9,4.5 -9,4.5 z"
@@ -374,16 +343,13 @@
        id="git-commit-3"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41890"
          x="203"
-         y="142.69531">git commit</tspan>
-      <tspan
+         y="142.69531">git commit</tspan><tspan
          id="tspan41892"
          x="203"
-         y="155.69531">(A)</tspan>
-    </text>
+         y="155.69531">(A)</tspan></text>
     <path
        id="Line-16"
        d="m 192.56959,165.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52734,3.9015 z"
@@ -393,16 +359,13 @@
        id="text41900"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41896"
          x="297"
-         y="283.69531">git commit</tspan>
-      <tspan
+         y="283.69531">git commit</tspan><tspan
          id="tspan41898"
          x="297"
-         y="296.69531">(B)</tspan>
-    </text>
+         y="296.69531">(B)</tspan></text>
     <path
        id="Line-18"
        d="m 286.56959,306.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2996,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52735,3.9015 z"
@@ -417,16 +380,13 @@
        id="git-merge"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41904"
          x="15.590332"
-         y="414.19531">git merge</tspan>
-      <tspan
+         y="414.19531">git merge</tspan><tspan
          id="tspan41906"
          x="55.196777"
-         y="427.19531">(B)</tspan>
-    </text>
+         y="427.19531">(B)</tspan></text>
     <path
        id="Line-20"
        d="m 95.56901,437.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
@@ -436,16 +396,13 @@
        id="text41914"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41910"
          x="15.590332"
-         y="502.19531">git merge</tspan>
-      <tspan
+         y="502.19531">git merge</tspan><tspan
          id="tspan41912"
          x="55.196777"
-         y="515.19531">(A)</tspan>
-    </text>
+         y="515.19531">(A)</tspan></text>
     <path
        id="Line-21"
        d="m 95.56901,525.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99998 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
@@ -455,16 +412,13 @@
        id="text41921"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41917"
          x="8.9892578"
-         y="552.19531">git commit</tspan>
-      <tspan
+         y="552.19531">git commit</tspan><tspan
          id="tspan41919"
          x="55.196777"
-         y="565.19531">(A)</tspan>
-    </text>
+         y="565.19531">(A)</tspan></text>
     <path
        id="Line-22"
        d="m 95.56901,575.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.49999,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.1071,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54338,4.0202 9.5216,-3.254 -8.3161,-5.665 -0.52734,3.9015 z"
@@ -474,16 +428,13 @@
        id="text41928"
        font-size="12px"
        font-weight="700"
-       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd">
-      <tspan
+       style="font-weight:700;font-size:12px;font-family:'Source Code Pro';fill:#413932;fill-rule:evenodd"><tspan
          id="tspan41924"
          x="203.5"
-         y="207.69531">git merge</tspan>
-      <tspan
+         y="207.69531">git merge</tspan><tspan
          id="tspan41926"
          x="203.5"
-         y="220.69531">(A)</tspan>
-    </text>
+         y="220.69531">(A)</tspan></text>
     <path
        id="Line-17"
        d="m 192.56959,230.08 c -10.689,-2.6979 -17.581,-8.9528 -17.581,-20.08 0,-9.2424 4.8176,-15.134 12.902,-18.401 2.8167,-1.1383 5.8402,-1.8701 8.8696,-2.2746 1.8415,-0.24589 3.2925,-0.32684 4.1532,-0.32457 h 0.002 l 0.5,0.003 0.005,-0.99999 -0.49999,-0.003 -0.004,-2e-5 c -0.90323,-0.002 -2.3985,0.081 -4.2882,0.33336 -3.107,0.41488 -6.21,1.1659 -9.112,2.3387 -8.4339,3.4084 -13.527,9.6368 -13.527,19.328 0,11.713 7.2995,18.295 18.447,21.077 l -0.54337,4.0202 9.5216,-3.254 -8.3162,-5.665 -0.52734,3.9015 z"
