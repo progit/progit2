@@ -1,26 +1,26 @@
-# Translating Pro Git (2nd Edition)
+# A Pro Git (2. kiadás) fordítása
 
-The translations are managed in a decentralized way. Each translation team maintains their own project. Each translation is in its own repository, the Pro Git team simply pulls the changes and builds them into the https://git-scm.com website when ready.
+A fordításokat decentralizált módon kezeljük. Minden fordítócsapat saját projektet üzemeltet. Minden fordítás külön tárolóban található, a Pro Git csapat egyszerűen beolvassa a változtatásokat és beépíti azokat a https://git-scm.com weboldalba, amikor azok készen állnak.
 
-## General guidance for translating Pro Git
+## Általános irányelvek a Pro Git fordításához
 
-Pro Git is a book about a technical tool, therefore translating it is difficult compared to a non-technical translation.
+A Pro Git egy technikai eszközről szóló könyv, ezért a fordítása nehezebb, mint egy nem technikai szövegé.
 
-The following are guidelines to help you on your way:
-* Before you begin, read the whole Git Pro book in English, so that you're aware of the content, and are familiar with the style used.
-* Ensure you have a good working knowledge of Git, so that explaining the technical terms is doable.
-* Stick to a common style and format for the translation.
-* Be sure to read and understand the basics of [Asciidoc formatting](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/). Not following the asciidoc syntax can lead to problems with building/compilation of the pdf, epub and html files needed for the book.
+Az alábbi irányelvek segíthetnek a munkában:
+* Mielőtt nekilátna, olvassa végig az angol nyelvű Pro Git könyvet, hogy tisztában legyen a tartalommal és a használt stílussal.
+* Biztosítsa, hogy jó gyakorlati ismerete van a Git-ről, hogy a technikai kifejezések lefordítása ne jelenthessen problémát.
+* Kövessen egy egységes stílust és formátumot a fordítás során.
+* Mindenképpen tanulmányozza és értse meg az [Asciidoc formázás](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) alapjait. Az asciidoc szintaxis nem betartása problémákat okozhat a könyv pdf, epub és html változatainak összeállításában.
 
-## Translating the book to another language
+## A könyv fordítása más nyelvre
 
-### Helping with a existing project
+### Segítségnyújtás meglévő projektben
 
-* Check for an already existing project in the following table.
-* Go to the project's page on GitHub.
-* Open an issue, introduce yourself and ask where you can help.
+* Ellenőrizze a meglévő projekteket az alábbi táblázatban.
+* Látogasson el a projekt GitHub oldalára.
+* Nyisson egy kérdést, mutatkozzon be és kérdezze meg, hogy miben tud segíteni.
 
-| Language     | GitHub page     |
+| Nyelv     | GitHub oldal     |
 | :------------- | :------------- |
 | العربية | [progit2-ar/progit2](https://github.com/progit2-ar/progit2) |
 | Беларуская  | [progit/progit2-be](https://github.com/progit/progit2-be) |
@@ -36,6 +36,7 @@ The following are guidelines to help you on your way:
 | Italiano   | [progit/progit2-it](https://github.com/progit/progit2-it) |
 | 日本語   | [progit/progit2-ja](https://github.com/progit/progit2-ja) |
 | 한국어   | [progit/progit2-ko](https://github.com/progit/progit2-ko) |
+| Magyar | [dabzse/progit2](https://github.com/dabzse/progit2) |
 | Македонски | [progit2-mk/progit2](https://github.com/progit2-mk/progit2) |
 | Bahasa Melayu| [progit2-ms/progit2](https://github.com/progit2-ms/progit2) |
 | Nederlands | [progit/progit2-nl](https://github.com/progit/progit2-nl) |
@@ -52,46 +53,46 @@ The following are guidelines to help you on your way:
 | 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh) |
 | 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) |
 
-### Starting a new translation
+### Új fordítás indítása
 
-If there is no project for your language, you can start your own translation.
+Ha még nincs projekt az anyanyelvén, elindíthatja a saját fordítást.
 
-Base your work on the second edition of the book, available [here](https://github.com/progit/progit2). To do so:
- 1. Pick the correct [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language.
- 1. Create a [GitHub organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch), for example: `progit2-[your code]` on GitHub.
- 1. Create a project `progit2`.
- 1. Copy the structure of progit/progit2 (this project) in your project and start translating.
+Munkáját a könyv második kiadására alapozza, amely [itt](https://github.com/progit/progit2) érhető el:
+ 1. Válassza ki a nyelvének megfelelő [ISO 639 kódot](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+ 1. Hozzon létre egy [GitHub szervezetet](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch), például: `progit2-[Ön kódja]` a GitHub felületén.
+ 1. Hozzon létre egy `progit2` projektet.
+ 1. Másolja át a progit/progit2 (ez a projekt) szerkezetét a saját projektjébe és kezdje el fordítani.
 
-### Updating the status of your translation
+### A fordítás állapotának frissítése
 
-On https://git-scm.com, the translations are divided into three categories. Once you have reached one of these levels, contact the maintainers of https://git-scm.com/ so that they can pull the changes.
+A https://git-scm.com oldalon a fordítások három kategóriába sorolhatók. Amint elért egy szintet, lépjen kapcsolatba a https://git-scm.com/ karbantartóival, hogy beolvashassák a változtatásokat.
 
-| Category | Completion     |
+| Kategória | Készültségi szint     |
 | :------------- | :------------- |
-| Translation started for | Introduction translated, not much else. |
-| Partial translations available in | up to chapter 6 has been translated. |
-| Full translation available in |the book is (almost) fully translated. |
+| Fordítás elindítva (ehhez) | Bevezető lefordítva, más még nem. |
+| Részleges fordítás elérhető (itt) | az első 6 fejezet lefordítva. |
+| Teljes fordítás elérhető (itt) | a könyv (majdnem) teljesen lefordítva. |
 
-## Continuous integration with GitHub Actions
+## Folyamatos integráció GitHub Actions-szel
 
-GitHub Actions is a [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service that integrates with GitHub. GitHub Actions is used to ensure that a pull-request doesn't break the build or compilation. GitHub Actions can also provide compiled versions of the book.
+A GitHub Actions egy [folyamatos integrációs](https://en.wikipedia.org/wiki/Continuous_integration) szolgáltatás, amely integrálódik a GitHubbal. A GitHub Actions segítségével ellenőrizhető, hogy egy húzási kérelem (pull-request) nem teszi tönkre az összeállítást. A GitHub Actions a könyv lefordított változatait is képes biztosítani.
 
-The configuration for GitHub Actions is contained in the `.github/workflows` directory, and if you bring in the `main` branch of the root repository you'll get them for free.
-However, if you created your translation repo by _forking_ the root repo, there's an extra step you must complete (if you did not fork, you can skip this part).
-GitHub assumes that forks will be used to contribute to the repo from which they were forked, so you'll have to visit the "Actions" tab on your forked repo, and click the "I understand my workflows" button to allow the actions to run.
+A GitHub Actions konfigurációja a `.github/workflows` könyvtárban található, és ha a fő tároló `main` ágát használja, akkor ezeket automatikusan megkapja.
+Ha azonban a fordítási tárolót a gyökér tároló _elágaztatásával_ hozta létre, akkor van egy további lépés, amit el kell végeznie (ha nem végzett elágazást, akkor ez a rész kihagyható).
+A GitHub feltételezi, hogy az elágazásokaz arra használják, hogy hozzájáruljanak az eredeti tárolóhoz, ezért az elágazott tárolón fel kell keresni a "Műveletek" lapot, és a "Megértem a munkafolyamatokat" gombra kell kattintani a műveletek futtatásának engedélyezéséhez.
 
-## Setting up a publication chain for e-books
+## E-könyv kiadási lánc beállítása
 
-This is a technical task, please ping @jnavila to get started with epub publication.
+TEz egy technikai feladat, kérjük vegye fel a kapcsolatot @jnavila-val az epub kiadás elindításához.
 
-## Beyond Pro Git
+## A Pro Git-en túl
 
-Translating the book is the first step. Once this is finished, you could consider translating the user interface of Git itself.
+A könyv fordítása csak az első lépés. Miután ez elkészült, fontolóra veheti a Git felhasználói felületének fordítását.
 
-This task requires a more technical knowledge of the tool than the book. Hopefully, after having translated the full book content, you can understand the terms used in the application. If you feel technically up to the task, the repo is [here](https://github.com/git-l10n/git-po) and you just have to follow the [guide](https://github.com/git-l10n/git-po/blob/master/po/README.md).
+Ez a feladat technikai szempontból összetettebb, mint a könyv fordítása. Remélhetőleg, miután lefordította a teljes könyvet, megérti az alkalmazásban használt kifejezéseket. Ha úgy érzi, technikailag felkészült a feladatra, a tároló [itt](https://github.com/git-l10n/git-po) található, és csak követni kell az útmutatót.
 
-Beware though that
+Azonban vegye figyelembe, hogy
 
- * you'll need to use more specific tools to manage localization po files (such as editing them with [poedit](https://poedit.net/)) and merging them. You might need to compile git in order to check your work.
- * a basic knowledge of how translating applications works is required, which is significantly different from translating books.
- * the core Git project uses more stringent [procedures](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) to accept contributions, be sure to abide by them.
+ * specifikusabb eszközökre lesz szükség a lokalizációs po fájlok kezeléséhez (például a [poedit](https://poedit.net/)) és egyesítéséhez. Lehet, hogy le kell forditani a Git-et a munka ellenőrzéséhez.
+ * szükség lesz az alkalmazások fordításának alapvető ismeretére, ami jelentősen eltér a könyvek fordításától.
+ * a Git mag projekt szigorúbb [eljárásokat](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) követ a közreműködések elfogadásakor, mindenképpen tartsa be azokat.
