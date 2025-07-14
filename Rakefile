@@ -33,7 +33,7 @@ namespace :book do
     end
   end
 
-  desc 'build basic book formats'
+  desc 'alapvető könyvformátumok előállítása'
   task :build => [:build_html, :build_epub, :build_fb2, :build_mobi, :build_pdf] do
     begin
         # Run check
@@ -42,83 +42,83 @@ namespace :book do
         # Rescue to ignore checking errors
         rescue => e
         puts e.message
-        puts 'Error when checking books (ignored)'
+        puts 'Hiba a könyvek ellenőrzése közben (mellőzve)'
     end
   end
 
-  desc 'build basic book formats (for ci)'
+  desc 'alapvető könyvformátumok előállítása (folyamatos integrációhoz)'
   task :ci => [:build_html, :build_epub, :build_fb2, :build_mobi, :build_pdf] do
       # Run check, but don't ignore any errors
       Rake::Task['book:check'].invoke
   end
 
-  desc 'generate contributors list'
+  desc 'közreműködési lista előállítása'
   file 'book/contributors.txt' do
-      puts 'Generating contributors list'
+      puts 'Közreműködési lista előállítása'
       sh "echo 'Contributors as of #{header_hash}:\n' > book/contributors.txt"
       sh "git shortlog -s HEAD | grep -v -E '(Straub|Chacon|dependabot)' | cut -f 2- | sort | column -c 120 >> book/contributors.txt"
   end
 
-  desc 'build HTML format'
+  desc 'HTML formátum készítése'
   task :build_html => 'book/contributors.txt' do
       check_contrib()
 
-      puts 'Converting to HTML...'
+      puts 'Átalakítás HTML formátumra...'
       sh "bundle exec asciidoctor #{params} -a data-uri progit.asc"
-      puts ' -- HTML output at progit.html'
+      puts ' -- HTML kimenet: progit.html'
 
   end
 
-  desc 'build Epub format'
+  desc 'Epub formátum készítése'
   task :build_epub => 'book/contributors.txt' do
       check_contrib()
 
-      puts 'Converting to EPub...'
+      puts 'Átalakítás EPub formátumra...'
       sh "bundle exec asciidoctor-epub3 #{params} progit.asc"
-      puts ' -- Epub output at progit.epub'
+      puts ' -- Epub kimenet: progit.epub'
 
   end
 
-  desc 'build FB2 format'
+  desc 'FB2 formátum készítése'
   task :build_fb2 => 'book/contributors.txt' do
       check_contrib()
 
-      puts 'Converting to FB2...'
+      puts 'Átalakítás FB2 formátumra...'
       sh "bundle exec asciidoctor-fb2 #{params} progit.asc"
-      puts ' -- FB2 output at progit.fb2.zip'
+      puts ' -- FB2 kimenet: progit.fb2.zip'
 
   end
 
-  desc 'build Mobi format'
+  desc 'Mobi formátum készítése'
   task :build_mobi => 'book/contributors.txt' do
       check_contrib()
 
-      puts "Converting to Mobi (kf8)..."
+      puts "Átalakítás Mobi (kf8) formátumra..."
       sh "bundle exec asciidoctor-epub3 #{params} -a ebook-format=kf8 progit.asc"
-      puts " -- Mobi output at progit.mobi"
+      puts " -- Mobi kimenet: progit.mobi"
   end
 
-  desc 'build PDF format'
+  desc 'PDF formátum készítése'
   task :build_pdf => 'book/contributors.txt' do
       check_contrib()
 
-      puts 'Converting to PDF... (this one takes a while)'
+      puts 'Átalakítás PDF formátumra... (eltarthat egy ideig)'
       sh "bundle exec asciidoctor-pdf #{params} progit.asc 2>/dev/null"
-      puts ' -- PDF output at progit.pdf'
+      puts ' -- PDF kimenet: progit.pdf'
   end
 
-  desc 'Check generated books'
+  desc 'Előállított könyvek ellenőrzése'
   task :check => [:build_html, :build_epub] do
-      puts 'Checking generated books'
+      puts 'Előállított könyvek ellenőrzése'
 
       sh "htmlproofer progit.html"
       sh "epubcheck progit.epub"
   end
 
-  desc 'Clean all generated files'
+  desc 'Minden előállított fájl eltávolítása'
   task :clean do
     begin
-        puts 'Removing generated files'
+        puts 'Elkészített fájlok eltávolítása'
 
         FileList['book/contributors.txt', 'progit.html', 'progit-kf8.epub', 'progit.epub', 'progit.fb2.zip', 'progit.mobi', 'progit.pdf'].each do |file|
             rm file
@@ -127,7 +127,7 @@ namespace :book do
             rescue Errno::ENOENT => e
               begin
                   puts e.message
-                  puts 'Error removing files (ignored)'
+                  puts 'Hiba a fájlok eltávolításakor (mellőzve)'
               end
         end
     end
