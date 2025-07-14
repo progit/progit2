@@ -1,12 +1,13 @@
 # A Pro Git (2. kiadás) fordítása
 
-A fordításokat decentralizált módon kezeljük. Minden fordítócsapat saját projektet üzemeltet. Minden fordítás külön tárolóban található, a Pro Git csapat egyszerűen beolvassa a változtatásokat és beépíti azokat a https://git-scm.com weboldalba, amikor azok készen állnak.
+A fordításokat decentralizált módon kezeljük. Minden fordítócsapat saját projektet üzemeltet. Minden fordítás külön tárolóban található, a Pro Git csapat egyszerűen beolvassa a változtatásokat és beépíti azokat a [https://git-scm.com](https://git-scm.com) weboldalba, amikor azok készen állnak.
 
 ## Általános irányelvek a Pro Git fordításához
 
 A Pro Git egy technikai eszközről szóló könyv, ezért a fordítása nehezebb, mint egy nem technikai szövegé.
 
 Az alábbi irányelvek segíthetnek a munkában:
+
 * Mielőtt nekilátna, olvassa végig az angol nyelvű Pro Git könyvet, hogy tisztában legyen a tartalommal és a használt stílussal.
 * Biztosítsa, hogy jó gyakorlati ismerete van a Git-ről, hogy a technikai kifejezések lefordítása ne jelenthessen problémát.
 * Kövessen egy egységes stílust és formátumot a fordítás során.
@@ -58,14 +59,15 @@ Az alábbi irányelvek segíthetnek a munkában:
 Ha még nincs projekt az anyanyelvén, elindíthatja a saját fordítást.
 
 Munkáját a könyv második kiadására alapozza, amely [itt](https://github.com/progit/progit2) érhető el:
+
  1. Válassza ki a nyelvének megfelelő [ISO 639 kódot](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
- 1. Hozzon létre egy [GitHub szervezetet](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch), például: `progit2-[Ön kódja]` a GitHub felületén.
- 1. Hozzon létre egy `progit2` projektet.
- 1. Másolja át a progit/progit2 (ez a projekt) szerkezetét a saját projektjébe és kezdje el fordítani.
+ 2. Hozzon létre egy [GitHub szervezetet](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch), például: `progit2-[Ön kódja]` a GitHub felületén.
+ 3. Hozzon létre egy `progit2` projektet.
+ 4. Másolja át a progit/progit2 (ez a projekt) szerkezetét a saját projektjébe és kezdje el fordítani.
 
 ### A fordítás állapotának frissítése
 
-A https://git-scm.com oldalon a fordítások három kategóriába sorolhatók. Amint elért egy szintet, lépjen kapcsolatba a https://git-scm.com/ karbantartóival, hogy beolvashassák a változtatásokat.
+A [https://git-scm.com](https://git-scm.com) oldalon a fordítások három kategóriába sorolhatók. Amint elért egy szintet, lépjen kapcsolatba a [https://git-scm.com](https://git-scm.com) karbantartóival, hogy beolvashassák a változtatásokat.
 
 | Kategória | Készültségi szint     |
 | :------------- | :------------- |
@@ -93,6 +95,6 @@ Ez a feladat technikai szempontból összetettebb, mint a könyv fordítása. Re
 
 Azonban vegye figyelembe, hogy
 
- * specifikusabb eszközökre lesz szükség a lokalizációs po fájlok kezeléséhez (például a [poedit](https://poedit.net/)) és egyesítéséhez. Lehet, hogy le kell forditani a Git-et a munka ellenőrzéséhez.
- * szükség lesz az alkalmazások fordításának alapvető ismeretére, ami jelentősen eltér a könyvek fordításától.
- * a Git mag projekt szigorúbb [eljárásokat](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) követ a közreműködések elfogadásakor, mindenképpen tartsa be azokat.
+* specifikusabb eszközökre lesz szükség a lokalizációs po fájlok kezeléséhez (például a [poedit](https://poedit.net/)) és egyesítéséhez. Lehet, hogy le kell forditani a Git-et a munka ellenőrzéséhez.
+* szükség lesz az alkalmazások fordításának alapvető ismeretére, ami jelentősen eltér a könyvek fordításától.
+* a Git mag projekt szigorúbb [eljárásokat](https://github.com/git-l10n/git-po/blob/master/Documentation/SubmittingPatches) követ a közreműködések elfogadásakor, mindenképpen tartsa be azokat.
