@@ -1,5 +1,5 @@
-## Reporting a security issue
+## Biztonsági probléma jelentése
 
-If you find any security issue or vulnerability, please email [ben@straub.cc](mailto:ben@straub.cc) with your report.
+Amennyiben bármilyen biztonsági problémát vagy sebezhetőséget talál, kérjük, küldje el a jelentését e-mailben a következő címre: [ben@straub.cc](mailto:ben@straub.cc).
 
-Do not open a issue on the `progit/progit2` repository or discuss the vulnerability in public.
+Ne nyisson problémát a `progit/progit2` tárolóban, és ne vitassa meg nyilvánosan a sebezhetőséget.
