@@ -1,0 +1,76 @@
+name: Release Gem
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'     # publish only on version tags e.g. v1.2.3
+  workflow_dispatch:  # allow manual run (optional)
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          if [ -f "Gemfile" ]; then
+            bundle install --jobs 4 --retry 3
+          fi
+
+      - name: Ensure gemspec exists
+        run: |
+          GEMSPEC=$(ls *.gemspec | head -n1 || true)
+          if [ -z "$GEMSPEC" ]; then
+            echo "No .gemspec found in repo root."
+            exit 1
+          fi
+          echo "Using gemspec: $GEMSPEC"
+
+      - name: Verify tag matches gem version
+        id: version_check
+        run: |
+          GEMSPEC=$(ls *.gemspec | head -n1)
+          GEM_VERSION=$(ruby -e "spec = Gem::Specification.load('$GEMSPEC'); puts spec.version")
+          TAG_VERSION="${GITHUB_REF_NAME#v}"
+
+          echo "Gem version: $GEM_VERSION"
+          echo "Tag version: $TAG_VERSION"
+
+          if [ "$GEM_VERSION" != "$TAG_VERSION" ]; then
+            echo "Tag v$TAG_VERSION does not match gemspec version $GEM_VERSION"
+            exit 1
+          fi
+
+      - name: Build gem
+        run: |
+          GEMSPEC=$(ls *.gemspec | head -n1)
+          gem build "$GEMSPEC"
+          echo "Built gems:"
+          ls -la *.gem
+
+      - name: Publish to RubyGems
+        if: success()
+        env:
+          RUBYGEMS_API_KEY: ${{ secrets.RUBYGEMS_API_KEY }}
+        run: |
+          if [ -z "$RUBYGEMS_API_KEY" ]; then
+            echo "RUBYGEMS_API_KEY secret is not set."
+            exit 1
+          fi
+
+          mkdir -p ~/.gem
+          printf -- "---\n:rubygems_api_key: ${RUBYGEMS_API_KEY}\n" > ~/.gem/credentials
+          chmod 0600 ~/.gem/credentials
+
+          gem push *.gem --verbose
