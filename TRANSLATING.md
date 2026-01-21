@@ -51,6 +51,7 @@ The following are guidelines to help you on your way:
 | Ўзбекча  | [progit/progit2-uz](https://github.com/progit/progit2-uz) |
 | 简体中文  | [progit/progit2-zh](https://github.com/progit/progit2-zh) |
 | 正體中文  | [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) |
+| हिन्दी | [progit2-hi/progit2](https://github.com/progit2-hi/progit2) |
 
 ### Starting a new translation
 
