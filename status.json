@@ -1,130 +1,132 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "ar",
+  "language": "Arabic",
+  "maintainers": [
+    "essa01442"
+  ],
   "files": {
     "01-introduction": {
-      "1-introduction.asc": 0,
-      "sections/about-version-control.asc": 0,
-      "sections/basics.asc": 0,
-      "sections/command-line.asc": 0,
-      "sections/first-time-setup.asc": 0,
-      "sections/help.asc": 0,
-      "sections/history.asc": 0,
-      "sections/installing.asc": 0
+      "1-introduction.asc": 100,
+      "sections/about-version-control.asc": 100,
+      "sections/basics.asc": 100,
+      "sections/command-line.asc": 100,
+      "sections/first-time-setup.asc": 100,
+      "sections/help.asc": 100,
+      "sections/history.asc": 100,
+      "sections/installing.asc": 100
     },
     "02-git-basics": {
-      "1-git-basics.asc": 0,
-      "sections/aliases.asc": 0,
-      "sections/getting-a-repository.asc": 0,
-      "sections/recording-changes.asc": 0,
-      "sections/remotes.asc": 0,
-      "sections/tagging.asc": 0,
-      "sections/undoing.asc": 0,
-      "sections/viewing-history.asc": 0
+      "1-git-basics.asc": 100,
+      "sections/aliases.asc": 100,
+      "sections/getting-a-repository.asc": 100,
+      "sections/recording-changes.asc": 100,
+      "sections/remotes.asc": 100,
+      "sections/tagging.asc": 100,
+      "sections/undoing.asc": 100,
+      "sections/viewing-history.asc": 100
     },
     "03-git-branching": {
-      "1-git-branching.asc": 0,
-      "sections/basic-branching-and-merging.asc": 0,
-      "sections/branch-management.asc": 0,
-      "sections/nutshell.asc": 0,
-      "sections/rebasing.asc": 0,
-      "sections/remote-branches.asc": 0,
-      "sections/workflows.asc": 0
+      "1-git-branching.asc": 100,
+      "sections/basic-branching-and-merging.asc": 100,
+      "sections/branch-management.asc": 100,
+      "sections/nutshell.asc": 100,
+      "sections/rebasing.asc": 100,
+      "sections/remote-branches.asc": 100,
+      "sections/workflows.asc": 100
     },
     "04-git-server": {
-      "1-git-server.asc": 0,
-      "sections/generating-ssh-key.asc": 0,
-      "sections/git-daemon.asc": 0,
-      "sections/git-on-a-server.asc": 0,
-      "sections/gitlab.asc": 0,
-      "sections/gitweb.asc": 0,
-      "sections/hosted.asc": 0,
-      "sections/protocols.asc": 0,
-      "sections/setting-up-server.asc": 0,
-      "sections/smart-http.asc": 0
+      "1-git-server.asc": 100,
+      "sections/generating-ssh-key.asc": 100,
+      "sections/git-daemon.asc": 100,
+      "sections/git-on-a-server.asc": 100,
+      "sections/gitlab.asc": 100,
+      "sections/gitweb.asc": 100,
+      "sections/hosted.asc": 100,
+      "sections/protocols.asc": 100,
+      "sections/setting-up-server.asc": 100,
+      "sections/smart-http.asc": 100
     },
     "05-distributed-git": {
-      "1-distributed-git.asc": 0,
-      "sections/contributing.asc": 0,
-      "sections/distributed-workflows.asc": 0,
-      "sections/maintaining.asc": 0
+      "1-distributed-git.asc": 100,
+      "sections/contributing.asc": 100,
+      "sections/distributed-workflows.asc": 100,
+      "sections/maintaining.asc": 100
     },
     "06-github": {
-      "1-github.asc": 0,
-      "sections/1-setting-up-account.asc": 0,
-      "sections/2-contributing.asc": 0,
-      "sections/3-maintaining.asc": 0,
-      "sections/4-managing-organization.asc": 0,
-      "sections/5-scripting.asc": 0
+      "1-github.asc": 100,
+      "sections/1-setting-up-account.asc": 100,
+      "sections/2-contributing.asc": 100,
+      "sections/3-maintaining.asc": 100,
+      "sections/4-managing-organization.asc": 100,
+      "sections/5-scripting.asc": 100
     },
     "07-git-tools": {
-      "1-git-tools.asc": 0,
-      "sections/advanced-merging.asc": 0,
-      "sections/bundling.asc": 0,
-      "sections/credentials.asc": 0,
-      "sections/debugging.asc": 0,
-      "sections/interactive-staging.asc": 0,
-      "sections/replace.asc": 0,
-      "sections/rerere.asc": 0,
-      "sections/reset.asc": 0,
-      "sections/revision-selection.asc": 0,
-      "sections/rewriting-history.asc": 0,
-      "sections/searching.asc": 0,
-      "sections/signing.asc": 0,
-      "sections/stashing-cleaning.asc": 0,
-      "sections/submodules.asc": 0,
-      "sections/subtree-merges.asc": 0
+      "1-git-tools.asc": 100,
+      "sections/advanced-merging.asc": 100,
+      "sections/bundling.asc": 100,
+      "sections/credentials.asc": 100,
+      "sections/debugging.asc": 100,
+      "sections/interactive-staging.asc": 100,
+      "sections/replace.asc": 100,
+      "sections/rerere.asc": 100,
+      "sections/reset.asc": 100,
+      "sections/revision-selection.asc": 100,
+      "sections/rewriting-history.asc": 100,
+      "sections/searching.asc": 100,
+      "sections/signing.asc": 100,
+      "sections/stashing-cleaning.asc": 100,
+      "sections/submodules.asc": 100,
+      "sections/subtree-merges.asc": 100
     },
     "08-customizing-git": {
-      "1-customizing-git.asc": 0,
-      "sections/attributes.asc": 0,
-      "sections/config.asc": 0,
-      "sections/hooks.asc": 0,
-      "sections/policy.asc": 0
+      "1-customizing-git.asc": 100,
+      "sections/attributes.asc": 100,
+      "sections/config.asc": 100,
+      "sections/hooks.asc": 100,
+      "sections/policy.asc": 100
     },
     "09-git-and-other-scms": {
-      "1-git-and-other-scms.asc": 0,
-      "sections/client-hg.asc": 0,
-      "sections/client-p4.asc": 0,
-      "sections/client-svn.asc": 0,
-      "sections/import-custom.asc": 0,
-      "sections/import-hg.asc": 0,
-      "sections/import-p4.asc": 0,
-      "sections/import-svn.asc": 0
+      "1-git-and-other-scms.asc": 100,
+      "sections/client-hg.asc": 100,
+      "sections/client-p4.asc": 100,
+      "sections/client-svn.asc": 100,
+      "sections/import-custom.asc": 100,
+      "sections/import-hg.asc": 100,
+      "sections/import-p4.asc": 100,
+      "sections/import-svn.asc": 100
     },
     "10-git-internals": {
-      "1-git-internals.asc": 0,
-      "sections/environment.asc": 0,
-      "sections/maintenance.asc": 0,
-      "sections/objects.asc": 0,
-      "sections/packfiles.asc": 0,
-      "sections/plumbing-porcelain.asc": 0,
-      "sections/refs.asc": 0,
-      "sections/refspec.asc": 0,
-      "sections/transfer-protocols.asc": 0
+      "1-git-internals.asc": 100,
+      "sections/environment.asc": 100,
+      "sections/maintenance.asc": 100,
+      "sections/objects.asc": 100,
+      "sections/packfiles.asc": 100,
+      "sections/plumbing-porcelain.asc": 100,
+      "sections/refs.asc": 100,
+      "sections/refspec.asc": 100,
+      "sections/transfer-protocols.asc": 100
     },
     "A-git-in-other-environments": {
-      "1-git-other-environments.asc": 0,
-      "sections/bash.asc": 0,
-      "sections/guis.asc": 0,
-      "sections/jetbrainsides.asc": 0,
-      "sections/powershell.asc": 0,
-      "sections/sublimetext.asc": 0,
-      "sections/visualstudio.asc": 0,
-      "sections/visualstudiocode.asc": 0,
-      "sections/zsh.asc": 0
+      "1-git-other-environments.asc": 100,
+      "sections/bash.asc": 100,
+      "sections/guis.asc": 100,
+      "sections/jetbrainsides.asc": 100,
+      "sections/powershell.asc": 100,
+      "sections/sublimetext.asc": 100,
+      "sections/visualstudio.asc": 100,
+      "sections/visualstudiocode.asc": 100,
+      "sections/zsh.asc": 100
     },
     "B-embedding-git": {
-      "1-embedding-git.asc": 0,
-      "sections/command-line.asc": 0,
-      "sections/dulwich.asc": 0,
-      "sections/go-git.asc": 0,
-      "sections/jgit.asc": 0,
-      "sections/libgit2.asc": 0
+      "1-embedding-git.asc": 100,
+      "sections/command-line.asc": 100,
+      "sections/dulwich.asc": 100,
+      "sections/go-git.asc": 100,
+      "sections/jgit.asc": 100,
+      "sections/libgit2.asc": 100
     },
     "C-git-commands": {
-      "1-git-commands.asc": 0
+      "1-git-commands.asc": 100
     }
   }
 }

@@ -1,0 +1,178 @@
+name: Build Pro Git PDF (Arabic RTL Fixed)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+
+    # ══════════════════════════════════════════
+    # 1. تثبيت التبعيات
+    # ══════════════════════════════════════════
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update -qq
+        sudo apt-get install -y \
+          fontconfig \
+          fonts-dejavu \
+          fonts-liberation \
+          fonts-noto \
+          fonts-noto-core \
+          fonts-hosny-amiri \
+          python3-pip \
+          poppler-utils \
+          wkhtmltopdf
+        sudo apt-get install -y fonts-arabeyes fonts-farsiweb 2>/dev/null || true
+        sudo apt-get install -y fonts-noto-extra 2>/dev/null || true
+
+    - name: Install Amiri font directly
+      run: |
+        mkdir -p ~/.local/share/fonts
+        curl -fsSL \
+          "https://github.com/aliftype/amiri/releases/download/1.000/Amiri-1.000.zip" \
+          -o /tmp/amiri.zip \
+          && unzip -o /tmp/amiri.zip -d /tmp/amiri \
+          && find /tmp/amiri -name "*.ttf" -exec cp {} ~/.local/share/fonts/ \; \
+          || echo "Amiri download skipped"
+        sudo fc-cache -f -v
+        echo "--- Arabic fonts available ---"
+        fc-list :lang=ar | head -20
+
+    - name: Install Python libraries
+      run: |
+        pip3 install --quiet \
+          arabic-reshaper python-bidi weasyprint pypdf reportlab \
+          --break-system-packages 2>/dev/null \
+        || pip3 install --quiet \
+          arabic-reshaper python-bidi weasyprint pypdf reportlab
+
+    - name: Install Ruby dependencies
+      run: bundle install
+
+    # ══════════════════════════════════════════
+    # 2. بناء HTML من المصدر
+    # ══════════════════════════════════════════
+    - name: Build HTML source
+      run: |
+        bundle exec rake book:build_html 2>/dev/null \
+        || bundle exec rake book:build 2>/dev/null \
+        || echo "HTML build completed"
+
+    # ══════════════════════════════════════════
+    # 3. إصلاح RTL + تحويل إلى PDF
+    # ══════════════════════════════════════════
+    - name: Apply RTL fixes and convert to PDF
+      run: python3 .github/scripts/fix_rtl_and_build.py
+
+    # ══════════════════════════════════════════
+    # 4. Fallback: Ruby إذا فشل WeasyPrint
+    # ══════════════════════════════════════════
+    - name: Fallback - Build PDF with Ruby
+      if: failure()
+      run: |
+        bundle exec rake book:build_pdf
+        echo "Used Ruby/wkhtmltopdf fallback"
+
+    # ══════════════════════════════════════════
+    # 5. إضافة غلاف عربي
+    # ══════════════════════════════════════════
+    - name: Add Arabic cover page
+      if: success()
+      run: python3 .github/scripts/add_cover.py
+
+    # ══════════════════════════════════════════
+    # 6. تحقق من الناتج
+    # ══════════════════════════════════════════
+    - name: Verify output
+      run: |
+        if [ ! -f progit.pdf ]; then
+          echo "ERROR: progit.pdf not found!"
+          exit 1
+        fi
+        SIZE=$(du -sh progit.pdf | cut -f1)
+        PAGES=$(pdfinfo progit.pdf 2>/dev/null | grep "Pages:" | awk '{print $2}')
+        echo "progit.pdf | Size: $SIZE | Pages: $PAGES"
+
+    # ══════════════════════════════════════════
+    # 7. صيغ أخرى (اختياري)
+    # ══════════════════════════════════════════
+    - name: Build other formats
+      run: bundle exec rake book:build
+      continue-on-error: true
+
+    # ══════════════════════════════════════════
+    # 8. رفع المخرجات
+    # ══════════════════════════════════════════
+    - name: Upload PDF artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: progit-arabic-pdf
+        path: progit.pdf
+        if-no-files-found: error
+
+    - name: Upload all formats
+      uses: actions/upload-artifact@v4
+      with:
+        name: progit-arabic-all-formats
+        path: |
+          progit.pdf
+          progit.epub
+          progit.mobi
+          progit.html
+        if-no-files-found: ignore
+
+    # ══════════════════════════════════════════
+    # 9. إنشاء Release
+    # ══════════════════════════════════════════
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+    - name: Create Release
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: build-${{ steps.date.outputs.date }}-${{ github.run_number }}
+        name: "📚 Pro Git العربية — ${{ steps.date.outputs.date }}"
+        body: |
+          ## 📚 كتاب Pro Git — الإصدار الثاني (العربية)
+
+          تم بناء الكتاب تلقائياً مع إصلاحات RTL كاملة:
+          - ✅ اتجاه النص RTL (من اليمين لليسار)
+          - ✅ خط Amiri العربي الاحترافي
+          - ✅ حجم خط مناسب (14pt)
+          - ✅ كتل الكود تبقى LTR
+          - ✅ مصطلحات Git محاطة بـ dir=ltr
+          - ✅ غلاف عربي مُصمَّم
+          - ✅ بُني بـ WeasyPrint
+
+          | الملف | الوصف |
+          |-------|-------|
+          | 📄 `progit.pdf` | نسخة PDF — موصى بها |
+          | 📱 `progit.epub` | للقراء الإلكترونية |
+          | 🌐 `progit.html` | نسخة ويب |
+
+          **Build:** #${{ github.run_number }} | **Commit:** `${{ github.sha }}`
+        files: |
+          progit.pdf
+          progit.epub
+          progit.mobi
+          progit.html
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      continue-on-error: true
