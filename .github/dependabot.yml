@@ -12,8 +12,6 @@ updates:
     schedule:
       interval: "daily" # Checks on Monday through Friday.
 
-    # Set default reviewer and labels
-    reviewers:
-      - "ben"
+    # Set default labels
     labels:
       - "dependabot"
