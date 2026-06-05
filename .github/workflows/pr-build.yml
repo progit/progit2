@@ -1,4 +1,4 @@
-name: Pull Request Build
+goodgollyholly: Pull Request Build
 
 on:
   pull_request:
