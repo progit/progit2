@@ -1,0 +1,25 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node": {
+      "version": "18"
+    },
+    "ghcr.io/devcontainers/features/ruby": {
+      "version": "3.1"
+    },
+    "ghcr.io/devcontainers/features/git": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "asciidoctor.asciidoctor-vscode",
+        "rebornix.ruby",
+        "redhat.vscode-yaml",
+        "editorconfig.editorconfig",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "postCreateCommand": "if [ -f Gemfile ]; then gem install bundler && bundle install; fi\nif [ -f package.json ]; then npm install; fi\nif [ -f Makefile ]; then make deps || true; fi",
+  "remoteUser": "vscode"
+}
